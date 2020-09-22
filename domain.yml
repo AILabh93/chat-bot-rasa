@@ -271,7 +271,6 @@ actions:
  - action_luong
  - action_ngonngu
  - action_laptrinh
- #
  - action_vieclam
  - action_tilesvratruong
  - action_canhtranh
