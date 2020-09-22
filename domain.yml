@@ -208,8 +208,7 @@ Làm việc ở bộ phận công nghệ thông tin hoặc cần ứng dụng c�
  utter_link_fit:
   - text: "Link này bạn nhé: http://fit.iuh.edu.vn/"
  utter_link_fitgiangvien:
-  - text: "Bạn và link này rồi chọn vào giảng viên bạn muốn xem nhé: 
-    http://fit.iuh.edu.vn/giangvien.html@185@Doi-ngu-giang-vien"
+  - text: "Bạn và link này rồi chọn vào giảng viên bạn muốn xem nhé: http://fit.iuh.edu.vn/giangvien.html@185@Doi-ngu-giang-vien"
  utter_sdt_giangvien:
   - text: "Bạn gửi mail cho giảng viên để biết thêm thông tin nha."
  utter_link_fbdoankhoacntt:
@@ -272,6 +271,7 @@ actions:
  - action_luong
  - action_ngonngu
  - action_laptrinh
+ #
  - action_vieclam
  - action_tilesvratruong
  - action_canhtranh
