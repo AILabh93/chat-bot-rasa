@@ -427,7 +427,7 @@
 - [hệ thống thông tin](httt:httt) ?
 - tư vấn về [khdl](tuvankhdl) đi
 - tư vấn về [khoa học dữ liệu](tuvankhdl:khdl) đi
-- cho hỏi về ngành [khdl](tuvankhdl)
+- cho hỏi về ngành [khdl](tuvankhdl
 - cho hỏi về ngành [khoa học dữ liệu](tuvankhdl:khdl)
 - [khdl](tuvankhdl) là ngành như thế nào
 - [khoa học dữ liệu](tuvankhdl:khdl) là ngành như thế nào
