@@ -387,12 +387,12 @@
 - tư vấn về ngành [khoa học máy tính](tuvankhmt:khmt) ?
 - tư vấn về [ktpm](tuvanktpm) đi
 - tư vấn về [kỹ thuật phần mềm](tuvanktpm:ktpm) đi
-- cho hỏi về ngành[ktpm](tuvanktpm)
+- cho hỏi về ngành [ktpm](tuvanktpm)
 - cho hỏi về ngành [kỹ thuật phần mềm](tuvanktpm:ktpm)
 - [ktpm](tuvanktpm) là ngành như thế nào
 - [kỹ thuật phần mềm](tuvanktpm:ktpm) là ngành như thế nào
 - [ktpm](tuvanktpm) ?
-- [kỹ thuật phần mềm](tuvanktpm:ktpm)?
+- [kỹ thuật phần mềm](tuvanktpm:ktpm) ?
 - ngành [kỹ thuật phần mềm](tuvanktpm:ktpm) là gì
 - ngành [ktpm](tuvanktpm) là gì
 - tư vấn cho mình về ngành [ktpm](tuvanktpm)
@@ -421,8 +421,8 @@
 - [hệ thống thông tin](httt:httt) ?
 - ngành [httt](httt) là gì
 - ngành [hệ thống thông tin](httt:httt) là gì
-- tư vấn cho mình về ngành[httt](httt)
-- tư vấn cho mình về ngành[hệ thống thông tin](httt:httt)
+- tư vấn cho mình về ngành [httt](httt)
+- tư vấn cho mình về ngành [hệ thống thông tin](httt:httt)
 - [httt](httt) ?
 - [hệ thống thông tin](httt:httt) ?
 - tư vấn về [khdl](tuvankhdl) đi
@@ -431,7 +431,7 @@
 - cho hỏi về ngành [khoa học dữ liệu](tuvankhdl:khdl)
 - [khdl](tuvankhdl) là ngành như thế nào
 - [khoa học dữ liệu](tuvankhdl:khdl) là ngành như thế nào
-- [khdl](tuvankhdl)?
+- [khdl](tuvankhdl) ?
 - [khoa học dữ liệu](tuvankhdl:khdl) ?
 - ngành [khdl](tuvankhdl) là gì
 - ngành [khoa học dữ liệu](tuvankhdl:khdl) là gì
@@ -463,7 +463,7 @@
 - [ktpm](monhocktpm) dạy cái gì
 - [kỹ thuật phầm mềm](monhocktpm:ktpm) học như thế nào
 - [ktpm](monhocktpm) học như thế nào
-- học[kỹ thuật phầm mềm](monhocktpm:ktpm) cần chú trọng vào những môn nào
+- học [kỹ thuật phầm mềm](monhocktpm:ktpm) cần chú trọng vào những môn nào
 - học [ktpm](monhocktpm) cần chú trọng vào những môn nào
 - [công nghệ thông tin](monhoccntt:cntt) học cái gì
 - [cntt](monhoccntt) học cái gì
@@ -493,7 +493,7 @@
 - [khdl](monhockhdl) học cái gì
 - học cái gì trong ngành [khoa học dữ liệu](monhockhdl:khdl)
 - học cái gì trong ngành [khdl](monhockhdl)
-- môn học trọng tâm trong[khoa học dữ liệu](monhockhdl:khdl) là gì
+- môn học trọng tâm trong [khoa học dữ liệu](monhockhdl:khdl) là gì
 - môn học trọng tâm trong [khdl](monhockhdl) là gì
 - [khoa học dữ liệu](monhockhdl:khdl) dạy cái gì
 - [khdl](monhockhdl) dạy cái gì
@@ -679,7 +679,7 @@
 ## intent: laptrinh
 - học [khmt](laptrinhkhmt) làm thế nào nâng cao trình độ lập trình
 - học [khoa học máy tính](laptrinhkhmt:khmt) làm thế nào nâng cao trình độ lập trình
-- mới học lập trình thì học cái gì đầu tiên khi học[khoa học máy tính](laptrinhkhmt:khmt)
+- mới học lập trình thì học cái gì đầu tiên khi học [khoa học máy tính](laptrinhkhmt:khmt)
 - học lập trình có khó không khi học [khmt](laptrinhkhmt)
 - học lập trình có khó không khi học [khoa học máy tính](laptrinhkhmt:khmt)
 - yếu lập trình thì phải cải thiện như thế nào khi học [khoa học máy tính](laptrinhkhmt:khmt)
