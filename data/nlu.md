@@ -379,7 +379,7 @@
 - [khmt](tuvankhmt) là ngành như thế nào
 -  [khoa học máy tính](tuvankhmt:khmt) ?
 - [khmt](tuvankhmt) ?
-- ngành[khoa học máy tính](tuvankhmt:khmt) là gì
+- ngành [khoa học máy tính](tuvankhmt:khmt) là gì
 - ngành [khmt](tuvankhmt) là gì
 - tư vấn cho mình về ngành [khoa học máy tính](tuvankhmt:khmt)
 - tư vấn cho mình về ngành [khmt](tuvankhmt) 
