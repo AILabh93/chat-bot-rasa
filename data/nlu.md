@@ -427,7 +427,7 @@
 - [hệ thống thông tin](httt:httt) ?
 - tư vấn về [khdl](tuvankhdl) đi
 - tư vấn về [khoa học dữ liệu](tuvankhdl:khdl) đi
-- cho hỏi về ngành [khdl](tuvankhdl
+- cho hỏi về ngành [khdl](tuvankhdl)
 - cho hỏi về ngành [khoa học dữ liệu](tuvankhdl:khdl)
 - [khdl](tuvankhdl) là ngành như thế nào
 - [khoa học dữ liệu](tuvankhdl:khdl) là ngành như thế nào
@@ -445,8 +445,8 @@
 - [khmt](monhockhmt) học cái gì
 - học cái gì trong ngành [khoa học máy tính](monhockhmt:khmt)
 - học cái gì trong ngành [khmt](monhockhmt)
-- môn học trọng tâm trong [khoa học máy tính] [khmt](monhockhmt:khmt) là gì
-- môn học trọng tâm trong [khoa học máy tính] [khmt](monhockhmt:khmt) là gì
+- môn học trọng tâm trong [khoa học máy tính](monhockhmt:khmt) là gì
+- môn học trọng tâm trong [khoa học máy tính](monhockhmt:khmt) là gì
 - [khoa học máy tính](monhockhmt:khmt) dạy cái gì
 - [khmt](monhockhmt) dạy cái gì
 - [khoa học máy tính](monhockhmt:khmt) học như thế nào
