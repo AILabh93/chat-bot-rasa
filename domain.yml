@@ -248,6 +248,78 @@ Làm việc ở bộ phận công nghệ thông tin hoặc cần ứng dụng c�
  utter_respond_insult:
   - text: "Câu nói của bạn không hay chút nào"
 
+entities:
+  - dinhhuongsaikhmt
+  - dinhhuongsaiktpm
+  - dinhhuongsaicntt
+  - dinhhuongsaihttt
+  - dinhhuongsaikhdl
+  - ungdungkhmt
+  - ungdungktpm
+  - ungdunghttt
+  - ungdungcntt
+  - ungdungkhdl
+  - linhvuckhmt
+  - linhvucktpm
+  - linhvuchttt
+  - linhvuccntt
+  - linhvuckhdl
+  - tilesvratruongkhmt
+  - tilesvratruongktpm
+  - tilesvratruonghttt
+  - tilesvratruongcntt
+  - tilesvratruongkhdl
+  - giangvienkhmt
+  - giangvienktpm
+  - giangvienhttt
+  - giangviencntt
+  - giangvienkhdl
+  - canhtranhkhmt
+  - canhtranhktpm
+  - canhtranhhttt
+  - canhtranhcntt
+  - canhtranhkhdl
+  - tailieukhmt
+  - tailieuktpm
+  - tailieuhttt
+  - tailieucntt
+  - tailieukhdl
+  - tuvankhmt
+  - tuvanktpm
+  - tuvanhttt
+  - tuvancntt
+  - tuvankhdl
+  - monhockhmt
+  - monhocktpm
+  - monhochttt
+  - monhoccntt
+  - monhockhdl
+  - kienthuccancokhiratruongcntt
+  - kienthuccancokhiratruongkhmt
+  - kienthuccancokhiratruongktpm
+  - kienthuccancokhiratruonghttt
+  - kienthuccancokhiratruongkhdl
+  - luongkhmt
+  - luongktpm
+  - luonghttt
+  - luongcntt
+  - luongkhdl
+  - vieclamkhmt
+  - vieclamktpm
+  - vieclamhttt
+  - vieclamcntt
+  - vieclamkhdl
+  - ngonngukhmt
+  - ngonnguktpm
+  - ngonnguhttt
+  - ngonngucntt
+  - ngonngukhdl
+  - laptrinhkhmt
+  - laptrinhktpm
+  - laptrinhhttt
+  - laptrinhcntt
+  - laptrinhkhdl
+  
 actions:
  - utter_chaohoi
  - utter_bye

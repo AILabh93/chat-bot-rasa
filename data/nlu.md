@@ -412,19 +412,19 @@
 - [cntt](tuvancntt) ?
 - [công nghệ thông tin](tuvancntt:cntt) ?
 - tư vấn về [httt](httt) đi
-- tư vấn về [hệ thống thông tin](httt:httt) đi
+- tư vấn về [hệ thống thông tin](tuvanhttt:httt) đi
 - cho hỏi về ngành [httt](httt)
-- cho hỏi về ngành [hệ thống thông tin](httt:httt)
-- [httt](httt) là ngành như thế nào
-- [hệ thống thông tin](httt:httt) là ngành như thế nào
-- [httt](httt) ?
-- [hệ thống thông tin](httt:httt) ?
-- ngành [httt](httt) là gì
-- ngành [hệ thống thông tin](httt:httt) là gì
-- tư vấn cho mình về ngành [httt](httt)
-- tư vấn cho mình về ngành [hệ thống thông tin](httt:httt)
-- [httt](httt) ?
-- [hệ thống thông tin](httt:httt) ?
+- cho hỏi về ngành [hệ thống thông tin](tuvanhttt:httt)
+- [httt](tuvanhttt) là ngành như thế nào
+- [hệ thống thông tin](tuvanhttt:httt) là ngành như thế nào
+- [httt](tuvanhttt) ?
+- [hệ thống thông tin](tuvanhttt:httt) ?
+- ngành [httt](tuvanhttt) là gì
+- ngành [hệ thống thông tin](tuvanhttt:httt) là gì
+- tư vấn cho mình về ngành [httt](tuvanhttt)
+- tư vấn cho mình về ngành [hệ thống thông tin](tuvanhttt:httt)
+- [httt](tuvanhttt) ?
+- [hệ thống thông tin](tuvanhttt:httt) ?
 - tư vấn về [khdl](tuvankhdl) đi
 - tư vấn về [khoa học dữ liệu](tuvankhdl:khdl) đi
 - cho hỏi về ngành [khdl](tuvankhdl)

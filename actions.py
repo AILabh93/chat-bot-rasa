@@ -18,19 +18,26 @@ import lxml
 import bs4
 import gc
 
+listcn=['khmt']
 
-
-class action_get_luong(Action):
+class action_luong(Action):
     def name(self):
         return 'action_luong'
     def run(self,dispatcher, tracker, domain):
-        soup = BeautifulSoup (open("data.html", encoding="utf8"), features="lxml")
-        divs = soup.select("div.bk-lesson-content > p")
-        dispatcher.utter_message(divs[11].get_text())
-        dispatcher.utter_message(image=str('https://vncoder.vn//upload/img/post/images/post/2020_04/Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh%202.png'))
+        mon_hoc=listcn[-1]
+        if len(tracker.latest_message['entities'])>0:
+            mon_hoc=tracker.latest_message['entities'][0]['value']
+            listcn.append(mon_hoc)
+        dispatcher.utter_message(template='utter_'+mon_hoc+'_luong')
+        if mon_hoc=='khdl':
+            dispatcher.utter_message(image=str('https://nordiccoder.com/app/uploads/2020/01/Screenshot-at-Jan-10-14-56-18.png'))
+        elif mon_hoc=='cntt':
+            dispatcher.utter_message(image=str('https://btec.fpt.edu.vn/wp-content/uploads/2019/07/2-1.jpg'))
+        elif mon_hoc=='ktpm':
+            dispatcher.utter_message(image=str('https://easyuni.com/media/uploads/2019/06/21/software-engineer-salary-worldwide-201920190226.png'))
+        elif mon_hoc=='khmt':
+            dispatcher.utter_message(image=str('https://media.bitdegree.org/storage/media/images/2020/01/computer-science-salary-entry-300x259.png'))
         return []
-
-
 
 def createButton():
     temp_button_lst = []
@@ -107,19 +114,10 @@ class action_tuvan(Action):
         return "action_tuvan"
     
     def run(self, dispatcher, tracker, domain):
+        print(listcn[-1])
         mon_hoc=tracker.latest_message['entities'][0]['value']
-        print(mon_hoc)
-        if mon_hoc=='khmt':
-            dispatcher.utter_message(template='utter_tuvan_khmt')
-        if mon_hoc=='ktpm':
-            dispatcher.utter_message(template='utter_tuvan_ktpm')
-        if mon_hoc == 'httt':
-            dispatcher.utter_message(template='utter_tuvan_httt')
-        if mon_hoc == 'cntt':
-            dispatcher.utter_message(template='utter_tuvan_cntt')
-        if mon_hoc == 'khdl':
-            dispatcher.utter_message(template='utter_tuvan_khdl')
-        
+        listcn.append(mon_hoc)
+        dispatcher.utter_message(template='utter_tuvan_'+mon_hoc)
         return []
 
 class action_vieclam(Action):
@@ -127,19 +125,12 @@ class action_vieclam(Action):
         return "action_vieclam"
     
     def run(self, dispatcher, tracker, domain):
-        mon_hoc=tracker.latest_message['entities'][0]['value']
-        print(mon_hoc)
-        if mon_hoc=='khmt':
-            dispatcher.utter_message(template='utter_khmt_vieclam')
-        if mon_hoc=='ktpm':
-            dispatcher.utter_message(template='utter_ktpm_vieclam')
-        if mon_hoc == 'httt':
-            dispatcher.utter_message(template='utter_httt_vieclam')
-        if mon_hoc == 'cntt':
-            dispatcher.utter_message(template='utter_cntt_vieclam')
-        if mon_hoc == 'khdl':
-            dispatcher.utter_message(template='utter_khdl_vieclam')
-        
+        print(listcn[-1])
+        mon_hoc=listcn[-1]
+        if len(tracker.latest_message['entities'])>0:
+            mon_hoc=tracker.latest_message['entities'][0]['value']
+            listcn.append(mon_hoc)
+        dispatcher.utter_message(template='utter_'+mon_hoc+'_vieclam')
         return []
 
 class action_tilesvratruong(Action):
@@ -147,38 +138,22 @@ class action_tilesvratruong(Action):
         return "action_tilesvratruong"
     
     def run(self, dispatcher, tracker, domain):
-        mon_hoc=tracker.latest_message['entities'][0]['value']
-        print(mon_hoc)
-        if mon_hoc=='khmt':
-            dispatcher.utter_message(template='utter_khmt_tilesvratruong')
-        if mon_hoc=='ktpm':
-            dispatcher.utter_message(template='utter_ktpm_tilesvratruong')
-        if mon_hoc == 'httt':
-            dispatcher.utter_message(template='utter_httt_tilesvratruong')
-        if mon_hoc == 'cntt':
-            dispatcher.utter_message(template='utter_cntt_tilesvratruong')
-        if mon_hoc == 'khdl':
-            dispatcher.utter_message(template='utter_khdl_tilesvratruong')
-        
+        mon_hoc=listcn[-1]
+        if len(tracker.latest_message['entities'])>0:
+            mon_hoc=tracker.latest_message['entities'][0]['value']
+            listcn.append(mon_hoc)
+        dispatcher.utter_message(template='utter_'+mon_hoc+'_tilesvratruong')
         return []
 
 class action_canhtranh(Action):
     def name(self):
         return "action_canhtranh"
     def run(self, dispatcher, tracker, domain):
-        mon_hoc=tracker.latest_message['entities'][0]['value']
-        print(mon_hoc)
-        if mon_hoc=='khmt':
-            dispatcher.utter_message(template='utter_khmt_canhtranh')
-        if mon_hoc=='ktpm':
-            dispatcher.utter_message(template='utter_ktpm_canhtranh')
-        if mon_hoc == 'httt':
-            dispatcher.utter_message(template='utter_httt_canhtranh')
-        if mon_hoc == 'cntt':
-            dispatcher.utter_message(template='utter_cntt_canhtranh')
-        if mon_hoc == 'khdl':
-            dispatcher.utter_message(template='utter_khdl_canhtranh')
-        
+        mon_hoc=listcn[-1]
+        if len(tracker.latest_message['entities'])>0:
+            mon_hoc=tracker.latest_message['entities'][0]['value']
+            listcn.append(mon_hoc)
+        dispatcher.utter_message(template='utter_'+mon_hoc+'_canhtranh')
         return []
     
     
@@ -187,19 +162,11 @@ class action_tailieu(Action):
         return "action_tailieu"
     
     def run(self, dispatcher, tracker, domain):
-        mon_hoc=tracker.latest_message['entities'][0]['value']
-        print(mon_hoc)
-        if mon_hoc=='khmt':
-            dispatcher.utter_message(template='utter_khmt_tailieu')
-        if mon_hoc=='ktpm':
-            dispatcher.utter_message(template='utter_ktpm_tailieu')
-        if mon_hoc == 'httt':
-            dispatcher.utter_message(template='utter_httt_tailieu')
-        if mon_hoc == 'cntt':
-            dispatcher.utter_message(template='utter_cntt_tailieu')
-        if mon_hoc == 'khdl':
-            dispatcher.utter_message(template='utter_khdl_tailieu')
-        
+        mon_hoc=listcn[-1]
+        if len(tracker.latest_message['entities'])>0:
+            mon_hoc=tracker.latest_message['entities'][0]['value']
+            listcn.append(mon_hoc)
+        dispatcher.utter_message(template='utter_'+mon_hoc+'_tailieu')
         return []
 
     
@@ -208,19 +175,11 @@ class action_dinhhuongsai(Action):
         return "action_dinhhuongsai"
     
     def run(self, dispatcher, tracker, domain):
-        mon_hoc=tracker.latest_message['entities'][0]['value']
-        print(mon_hoc)
-        if mon_hoc=='khmt':
-            dispatcher.utter_message(template='utter_khmt_dinhhuongsai')
-        if mon_hoc=='ktpm':
-            dispatcher.utter_message(template='utter_ktpm_dinhhuongsai')
-        if mon_hoc == 'httt':
-            dispatcher.utter_message(template='utter_httt_dinhhuongsai')
-        if mon_hoc == 'cntt':
-            dispatcher.utter_message(template='utter_cntt_dinhhuongsai')
-        if mon_hoc == 'khdl':
-            dispatcher.utter_message(template='utter_khdl_dinhhuongsai')
-        
+        mon_hoc=listcn[-1]
+        if len(tracker.latest_message['entities'])>0:
+            mon_hoc=tracker.latest_message['entities'][0]['value']
+            listcn.append(mon_hoc)
+        dispatcher.utter_message(template='utter_'+mon_hoc+'_dinhhuongsai')
         return []
 
 class action_ungdung(Action):
@@ -228,19 +187,11 @@ class action_ungdung(Action):
         return "action_ungdung"
     
     def run(self, dispatcher, tracker, domain):
-        mon_hoc=tracker.latest_message['entities'][0]['value']
-        print(mon_hoc)
-        if mon_hoc=='khmt':
-            dispatcher.utter_message(template='utter_khmt_ungdung')
-        if mon_hoc=='ktpm':
-            dispatcher.utter_message(template='utter_ktpm_ungdung')
-        if mon_hoc == 'httt':
-            dispatcher.utter_message(template='utter_httt_ungdung')
-        if mon_hoc == 'cntt':
-            dispatcher.utter_message(template='utter_cntt_ungdung')
-        if mon_hoc == 'khdl':
-            dispatcher.utter_message(template='utter_khdl_ungdung')
-        
+        mon_hoc=listcn[-1]
+        if len(tracker.latest_message['entities'])>0:
+            mon_hoc=tracker.latest_message['entities'][0]['value']
+            listcn.append(mon_hoc)
+        dispatcher.utter_message(template='utter_'+mon_hoc+'_ungdung')
         return []
 
 
@@ -249,38 +200,22 @@ class action_linhvuc(Action):
         return "action_linhvuc"
     
     def run(self, dispatcher, tracker, domain):
-        mon_hoc=tracker.latest_message['entities'][0]['value']
-        print(mon_hoc)
-        if mon_hoc=='khmt':
-            dispatcher.utter_message(template='utter_khmt_linhvuc')
-        if mon_hoc=='ktpm':
-            dispatcher.utter_message(template='utter_ktpm_linhvuc')
-        if mon_hoc == 'httt':
-            dispatcher.utter_message(template='utter_httt_linhvuc')
-        if mon_hoc == 'cntt':
-            dispatcher.utter_message(template='utter_cntt_linhvuc')
-        if mon_hoc == 'khdl':
-            dispatcher.utter_message(template='utter_khdl_linhvuc')
-        
+        mon_hoc=listcn[-1]
+        if len(tracker.latest_message['entities'])>0:
+            mon_hoc=tracker.latest_message['entities'][0]['value']
+            listcn.append(mon_hoc)
+        dispatcher.utter_message(template='utter_'+mon_hoc+'_linhvuc')
         return []
 
 class action_monhoc(Action):
     def name(self):
         return "action_monhoc"
     def run(self, dispatcher, tracker, domain):
-        mon_hoc=tracker.latest_message['entities'][0]['value']
-        print(mon_hoc)
-        if mon_hoc=='khmt':
-            dispatcher.utter_message(template='utter_khmt_monhoc')
-        if mon_hoc=='ktpm':
-            dispatcher.utter_message(template='utter_ktpm_monhoc')
-        if mon_hoc == 'httt':
-            dispatcher.utter_message(template='utter_httt_monhoc')
-        if mon_hoc == 'cntt':
-            dispatcher.utter_message(template='utter_cntt_monhoc')
-        if mon_hoc == 'khdl':
-            dispatcher.utter_message(template='utter_khdl_monhoc')
-        
+        mon_hoc=listcn[-1]
+        if len(tracker.latest_message['entities'])>0:
+            mon_hoc=tracker.latest_message['entities'][0]['value']
+            listcn.append(mon_hoc)
+        dispatcher.utter_message(template='utter_khmt_'+mon_hoc)
         return []
 
 class action_kienthuccancokhiratruong(Action):
@@ -288,19 +223,11 @@ class action_kienthuccancokhiratruong(Action):
         return "action_kienthuccancokhiratruong"
     
     def run(self, dispatcher, tracker, domain):
-        mon_hoc=tracker.latest_message['entities'][0]['value']
-        print(mon_hoc)
-        if mon_hoc=='khmt':
-            dispatcher.utter_message(template='utter_khmt_kienthuccancokhiratruong')
-        if mon_hoc=='ktpm':
-            dispatcher.utter_message(template='utter_ktpm_kienthuccancokhiratruong')
-        if mon_hoc == 'httt':
-            dispatcher.utter_message(template='utter_httt_kienthuccancokhiratruong')
-        if mon_hoc == 'cntt':
-            dispatcher.utter_message(template='utter_cntt_kienthuccancokhiratruong')
-        if mon_hoc == 'khdl':
-            dispatcher.utter_message(template='utter_khdl_kienthuccancokhiratruong')
-        
+        mon_hoc=listcn[-1]
+        if len(tracker.latest_message['entities'])>0:
+            mon_hoc=tracker.latest_message['entities'][0]['value']
+            listcn.append(mon_hoc)
+        dispatcher.utter_message(template='utter_khmt_'+mon_hoc)        
         return []
 
 
@@ -309,19 +236,11 @@ class action_giangvien(Action):
         return "action_giangvien"
     
     def run(self, dispatcher, tracker, domain):
-        mon_hoc=tracker.latest_message['entities'][0]['value']
-        print(mon_hoc)
-        if mon_hoc=='khmt':
-            dispatcher.utter_message(template='utter_khmt_giangvien')
-        if mon_hoc=='ktpm':
-            dispatcher.utter_message(template='utter_ktpm_giangvien')
-        if mon_hoc == 'httt':
-            dispatcher.utter_message(template='utter_httt_giangvien')
-        if mon_hoc == 'cntt':
-            dispatcher.utter_message(template='utter_cntt_giangvien')
-        if mon_hoc == 'khdl':
-            dispatcher.utter_message(template='utter_khdl_giangvien')
-        
+        mon_hoc=listcn[-1]
+        if len(tracker.latest_message['entities'])>0:
+            mon_hoc=tracker.latest_message['entities'][0]['value']
+            listcn.append(mon_hoc)
+        dispatcher.utter_message(template='utter_'+mon_hoc+'_giangvien')
         return []
 
 
@@ -330,21 +249,12 @@ class action_ngonngu(Action):
         return "action_ngonngu"
     
     def run(self, dispatcher, tracker, domain):
-        mon_hoc=tracker.latest_message['entities'][0]['value']
-        print(mon_hoc)
-        if mon_hoc=='khmt':
-            dispatcher.utter_message(template='utter_khmt_ngonngu')
-        if mon_hoc=='ktpm':
-            dispatcher.utter_message(template='utter_ktpm_ngonngu')
-        if mon_hoc == 'httt':
-            dispatcher.utter_message(template='utter_httt_ngonngu')
-        if mon_hoc == 'cntt':
-            dispatcher.utter_message(template='utter_cntt_ngonngu')
-        if mon_hoc == 'khdl':
-            dispatcher.utter_message(template='utter_khdl_ngonngu')
-        
+        mon_hoc=listcn[-1]
+        if len(tracker.latest_message['entities'])>0:
+            mon_hoc=tracker.latest_message['entities'][0]['value']
+            listcn.append(mon_hoc)
+        dispatcher.utter_message(template='utter_'+mon_hoc+'_ngonngu')
         return []
-
 
 
 class action_laptrinh(Action):
@@ -352,17 +262,9 @@ class action_laptrinh(Action):
         return "action_laptrinh"
     
     def run(self, dispatcher, tracker, domain):
-        mon_hoc=tracker.latest_message['entities'][0]['value']
-        print(mon_hoc)
-        if mon_hoc=='khmt':
-            dispatcher.utter_message(template='utter_khmt_laptrinh')
-        if mon_hoc=='ktpm':
-            dispatcher.utter_message(template='utter_ktpm_laptrinh')
-        if mon_hoc == 'httt':
-            dispatcher.utter_message(template='utter_httt_laptrinh')
-        if mon_hoc == 'cntt':
-            dispatcher.utter_message(template='utter_cntt_laptrinh')
-        if mon_hoc == 'khdl':
-            dispatcher.utter_message(template='utter_khdl_laptrinh')
-        
+        mon_hoc=listcn[-1]
+        if len(tracker.latest_message['entities'])>0:
+            mon_hoc=tracker.latest_message['entities'][0]['value']
+            listcn.append(mon_hoc)
+        dispatcher.utter_message(template='utter_'+mon_hoc+'_laptrinh')
         return []
