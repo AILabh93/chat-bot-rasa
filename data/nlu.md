@@ -128,7 +128,7 @@
 - em chọn học [khdl](dinhhuongsaikhdl) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
 - nếu em chọn sai ngành [khoa học máy tính](dinhhuongsaikhmt:khmt) thì có nên tiếp tục hay không
 - em bị lạc lối không biết thích gì trong ngành [khoa học máy tính](dinhhuongsaikhmt:khmt)
-- em chọn học [khoa học máy tính](dinhhuongsaikhmt:khmt)() mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [khoa học máy tính](dinhhuongsaikhmt:khmt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
 - nếu em chọn sai ngành [kỹ thuật phần mềm](dinhhuongsaiktpm:ktpm) thì có nên tiếp tục hay không
 - em bị lạc lối không biết thích gì trong ngành [kỹ thuật phần mềm](dinhhuongsaiktpm:ktpm)
 - em chọn học [kỹ thuật phần mềm](dinhhuongsaiktpm:ktpm) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
