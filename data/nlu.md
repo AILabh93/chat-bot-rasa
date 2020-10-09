@@ -4,7 +4,7 @@
 - hello
 - mình có vài câu hỏi
 - có ai giúp mình không
-- b ạn ơi
+- bạn ơi
 - anh ơi
 - chị ơi
 - có ai ở đây không
@@ -15,22 +15,22 @@
 - em có vài câu hỏi
 
 ## intent: bye
-- t ạm biệt
-- chào t ạm biệt
-- t ạm biệt em nhé
-- t ạm biệt b ạn nhé
+- tạm biệt
+- chào tạm biệt
+- tạm biệt em nhé
+- tạm biệt bạn nhé
 
 ## intent: thank
 - cảm ơn
-- cảm ơn b ạn
+- cảm ơn bạn
 - cảm ơn em
 - thanks
 - thank you
 - tuyệt cú mèo
 - siêu hay
 - oke
-- d ạ em cảm ơn ạ
-- d ạ vâng
+- dạ em cảm ơn ạ
+- dạ vâng
 
 
 
@@ -40,10 +40,10 @@
 
 ## intent: link_fitgiangvien
 - cho em xin email của cô Đặng Thị Phúc ạ
-- cho em xin thông tin liên l ạc của cô Đặng Thị Phúc ạ
+- cho em xin thông tin liên lạc của cô Đặng Thị Phúc ạ
 
 ## intent: sdt_giangvien
-- cho em xin số điện tho ại của cô Đặng Thị Phúc ạ
+- cho em xin số điện thoại của cô Đặng Thị Phúc ạ
 - cho em xin sdt cô Đặng Thị Phúc 
 
 ## intent: link_fbdoankhoacntt
@@ -62,19 +62,19 @@
 - học bổng nhận được là bao nhiêu
 
 ## intent: caulacbo
-- khoa công nghệ thông tin có những câu l ạc bộ học thuật nào ạ
-- khoa có câu l ạc l ạc bộ học thuật hay chuyên môn gì đó không
-- tư vấn về câu l ạc bộ của khoa
-- câu l ạc bộ lập ra để làm gì 
+- khoa công nghệ thông tin có những câu lạc bộ học thuật nào ạ
+- khoa có câu lạc lạc bộ học thuật hay chuyên môn gì đó không
+- tư vấn về câu lạc bộ của khoa
+- câu lạc bộ lập ra để làm gì 
 
 ## intent: clb_laptrinh
-- giới thiệu về câu l ạc bộ lập trình đi
-- câu l ạc bộ lập trình ho ạt động như thế nào
+- giới thiệu về câu lạc bộ lập trình đi
+- câu lạc bộ lập trình hoạt động như thế nào
 - thành viên của clb lập trình đòi hỏi ra sao
 
 ## intent: clb_attt
-- giới thiệu về câu l ạc bộ an toàn thông tin đi
-- câu l ạc bộ an toàn thông tin ho ạt động như thế nào
+- giới thiệu về câu lạc bộ an toàn thông tin đi
+- câu lạc bộ an toàn thông tin hoạt động như thế nào
 - thành viên của clb an toàn thông tin đòi hỏi ra sao
 
 ## intent: tuvan_khoacntt
@@ -116,927 +116,5953 @@
 
 ## intent: dinhhuongsai
 - nếu em chọn sai ngành [khmt](dinhhuongsaikhmt) thì có nên tiếp tục hay không
-- em bị l ạc lối không biết thích gì trong ngành [khmt](dinhhuongsaikhmt)
+- nếu em chọn sai ngành [khtm](dinhhuongsaikhmt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [khoa học máy tính](dinhhuongsaikhmt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [khoa hoc may tinh](dinhhuongsaikhmt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [cong nghe may tinh](dinhhuongsaikhmt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [khao hoc may tinh](dinhhuongsaikhmt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [khao học may tinh](dinhhuongsaikhmt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [công nghệ máy tính](dinhhuongsaikhmt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [khao học máy tinh](dinhhuongsaikhmt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [khoa học may tinh](dinhhuongsaikhmt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [CS](dinhhuongsaikhmt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [kh máy tinh](dinhhuongsaikhmt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [kh may tính](dinhhuongsaikhmt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [kh máy tính](dinhhuongsaikhmt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [kh máy tình](dinhhuongsaikhmt) thì có nên tiếp tục hay không
+- em bị lạc lối không biết thích gì trong ngành [khmt](dinhhuongsaikhmt)
+- em bị lạc lối không biết thích gì trong ngành [khtm](dinhhuongsaikhmt)
+- em bị lạc lối không biết thích gì trong ngành [khoa học máy tính](dinhhuongsaikhmt)
+- em bị lạc lối không biết thích gì trong ngành [khoa hoc may tinh](dinhhuongsaikhmt)
+- em bị lạc lối không biết thích gì trong ngành [cong nghe may tinh](dinhhuongsaikhmt)
+- em bị lạc lối không biết thích gì trong ngành [khao hoc may tinh](dinhhuongsaikhmt)
+- em bị lạc lối không biết thích gì trong ngành [khao học may tinh](dinhhuongsaikhmt)
+- em bị lạc lối không biết thích gì trong ngành [công nghệ máy tính](dinhhuongsaikhmt)
+- em bị lạc lối không biết thích gì trong ngành [khao học máy tinh](dinhhuongsaikhmt)
+- em bị lạc lối không biết thích gì trong ngành [khoa học may tinh](dinhhuongsaikhmt)
+- em bị lạc lối không biết thích gì trong ngành [CS](dinhhuongsaikhmt)
+- em bị lạc lối không biết thích gì trong ngành [kh máy tinh](dinhhuongsaikhmt)
+- em bị lạc lối không biết thích gì trong ngành [kh may tính](dinhhuongsaikhmt)
+- em bị lạc lối không biết thích gì trong ngành [kh máy tính](dinhhuongsaikhmt)
+- em bị lạc lối không biết thích gì trong ngành [kh máy tình](dinhhuongsaikhmt)
 - em chọn học [khmt](dinhhuongsaikhmt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [khtm](dinhhuongsaikhmt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [khoa học máy tính](dinhhuongsaikhmt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [khoa hoc may tinh](dinhhuongsaikhmt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [cong nghe may tinh](dinhhuongsaikhmt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [khao hoc may tinh](dinhhuongsaikhmt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [khao học may tinh](dinhhuongsaikhmt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [công nghệ máy tính](dinhhuongsaikhmt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [khao học máy tinh](dinhhuongsaikhmt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [khoa học may tinh](dinhhuongsaikhmt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [CS](dinhhuongsaikhmt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [kh máy tinh](dinhhuongsaikhmt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [kh may tính](dinhhuongsaikhmt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [kh máy tính](dinhhuongsaikhmt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [kh máy tình](dinhhuongsaikhmt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
 - nếu em chọn sai ngành [ktpm](dinhhuongsaiktpm) thì có nên tiếp tục hay không
-- em bị l ạc lối không biết thích gì trong ngành [ktpm](dinhhuongsaiktpm)
+- nếu em chọn sai ngành [ktpmm](dinhhuongsaiktpm) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [kỹ thuật phần mềm](dinhhuongsaiktpm) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [ky thuat phan mem](dinhhuongsaiktpm) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [ki thuật phần mềm](dinhhuongsaiktpm) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [kỹ thuat phần mềm](dinhhuongsaiktpm) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [kỹ thuật phần mềm](dinhhuongsaiktpm) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [cong nghệ phần mềm](dinhhuongsaiktpm) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [công nghệ phần mềm](dinhhuongsaiktpm) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [cong nghe phan mem](dinhhuongsaiktpm) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [SE](dinhhuongsaiktpm) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [kt phần mềm](dinhhuongsaiktpm) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [kt phan mem](dinhhuongsaiktpm) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [kỹ thuật phân mem](dinhhuongsaiktpm) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [phan mem](dinhhuongsaiktpm) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [phần mềm](dinhhuongsaiktpm) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [kt pm](dinhhuongsaiktpm) thì có nên tiếp tục hay không
+- em bị lạc lối không biết thích gì trong ngành [ktpm](dinhhuongsaiktpm)
+- em bị lạc lối không biết thích gì trong ngành [ktpmm](dinhhuongsaiktpm)
+- em bị lạc lối không biết thích gì trong ngành [kỹ thuật phần mềm](dinhhuongsaiktpm)
+- em bị lạc lối không biết thích gì trong ngành [ky thuat phan mem](dinhhuongsaiktpm)
+- em bị lạc lối không biết thích gì trong ngành [ki thuật phần mềm](dinhhuongsaiktpm)
+- em bị lạc lối không biết thích gì trong ngành [kỹ thuat phần mềm](dinhhuongsaiktpm)
+- em bị lạc lối không biết thích gì trong ngành [kỹ thuật phần mềm](dinhhuongsaiktpm)
+- em bị lạc lối không biết thích gì trong ngành [cong nghệ phần mềm](dinhhuongsaiktpm)
+- em bị lạc lối không biết thích gì trong ngành [công nghệ phần mềm](dinhhuongsaiktpm)
+- em bị lạc lối không biết thích gì trong ngành [cong nghe phan mem](dinhhuongsaiktpm)
+- em bị lạc lối không biết thích gì trong ngành [SE](dinhhuongsaiktpm)
+- em bị lạc lối không biết thích gì trong ngành [kt phần mềm](dinhhuongsaiktpm)
+- em bị lạc lối không biết thích gì trong ngành [kt phan mem](dinhhuongsaiktpm)
+- em bị lạc lối không biết thích gì trong ngành [kỹ thuật phân mem](dinhhuongsaiktpm)
+- em bị lạc lối không biết thích gì trong ngành [phan mem](dinhhuongsaiktpm)
+- em bị lạc lối không biết thích gì trong ngành [phần mềm](dinhhuongsaiktpm)
+- em bị lạc lối không biết thích gì trong ngành [kt pm](dinhhuongsaiktpm)
 - em chọn học [ktpm](dinhhuongsaiktpm) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [ktpmm](dinhhuongsaiktpm) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [kỹ thuật phần mềm](dinhhuongsaiktpm) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [ky thuat phan mem](dinhhuongsaiktpm) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [ki thuật phần mềm](dinhhuongsaiktpm) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [kỹ thuat phần mềm](dinhhuongsaiktpm) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [kỹ thuật phần mềm](dinhhuongsaiktpm) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [cong nghệ phần mềm](dinhhuongsaiktpm) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [công nghệ phần mềm](dinhhuongsaiktpm) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [cong nghe phan mem](dinhhuongsaiktpm) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [SE](dinhhuongsaiktpm) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [kt phần mềm](dinhhuongsaiktpm) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [kt phan mem](dinhhuongsaiktpm) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [kỹ thuật phân mem](dinhhuongsaiktpm) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [phan mem](dinhhuongsaiktpm) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [phần mềm](dinhhuongsaiktpm) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [kt pm](dinhhuongsaiktpm) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
 - nếu em chọn sai ngành [cntt](dinhhuongsaicntt) thì có nên tiếp tục hay không
-- em bị l ạc lối không biết thích gì trong ngành [cntt](dinhhuongsaicntt)
+- nếu em chọn sai ngành [cnttt](dinhhuongsaicntt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [công nghệ thông tin](dinhhuongsaicntt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [cong nghe thong tin](dinhhuongsaicntt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [công nghệ thong tin](dinhhuongsaicntt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [cong nghe thông tin](dinhhuongsaicntt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [IT](dinhhuongsaicntt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [công nghệ thông tin](dinhhuongsaicntt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [cong nghệ thông tin](dinhhuongsaicntt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [công nghệ thông tinn](dinhhuongsaicntt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [cn thong tin](dinhhuongsaicntt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [cn tt](dinhhuongsaicntt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [cn thông tin](dinhhuongsaicntt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [cogn nghệ thông tin](dinhhuongsaicntt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [công nghệ tt](dinhhuongsaicntt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [cong6 nghệ thong tin](dinhhuongsaicntt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [công nghệ thong tin](dinhhuongsaicntt) thì có nên tiếp tục hay không
+- em bị lạc lối không biết thích gì trong ngành [cntt](dinhhuongsaicntt)
+- em bị lạc lối không biết thích gì trong ngành [cnttt](dinhhuongsaicntt)
+- em bị lạc lối không biết thích gì trong ngành [công nghệ thông tin](dinhhuongsaicntt)
+- em bị lạc lối không biết thích gì trong ngành [cong nghe thong tin](dinhhuongsaicntt)
+- em bị lạc lối không biết thích gì trong ngành [công nghệ thong tin](dinhhuongsaicntt)
+- em bị lạc lối không biết thích gì trong ngành [cong nghe thông tin](dinhhuongsaicntt)
+- em bị lạc lối không biết thích gì trong ngành [IT](dinhhuongsaicntt)
+- em bị lạc lối không biết thích gì trong ngành [công nghệ thông tin](dinhhuongsaicntt)
+- em bị lạc lối không biết thích gì trong ngành [cong nghệ thông tin](dinhhuongsaicntt)
+- em bị lạc lối không biết thích gì trong ngành [công nghệ thông tinn](dinhhuongsaicntt)
+- em bị lạc lối không biết thích gì trong ngành [cn thong tin](dinhhuongsaicntt)
+- em bị lạc lối không biết thích gì trong ngành [cn tt](dinhhuongsaicntt)
+- em bị lạc lối không biết thích gì trong ngành [cn thông tin](dinhhuongsaicntt)
+- em bị lạc lối không biết thích gì trong ngành [cogn nghệ thông tin](dinhhuongsaicntt)
+- em bị lạc lối không biết thích gì trong ngành [công nghệ tt](dinhhuongsaicntt)
+- em bị lạc lối không biết thích gì trong ngành [cong6 nghệ thong tin](dinhhuongsaicntt)
+- em bị lạc lối không biết thích gì trong ngành [công nghệ thong tin](dinhhuongsaicntt)
 - em chọn học [cntt](dinhhuongsaicntt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [cnttt](dinhhuongsaicntt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [công nghệ thông tin](dinhhuongsaicntt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [cong nghe thong tin](dinhhuongsaicntt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [công nghệ thong tin](dinhhuongsaicntt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [cong nghe thông tin](dinhhuongsaicntt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [IT](dinhhuongsaicntt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [công nghệ thông tin](dinhhuongsaicntt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [cong nghệ thông tin](dinhhuongsaicntt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [công nghệ thông tinn](dinhhuongsaicntt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [cn thong tin](dinhhuongsaicntt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [cn tt](dinhhuongsaicntt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [cn thông tin](dinhhuongsaicntt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [cogn nghệ thông tin](dinhhuongsaicntt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [công nghệ tt](dinhhuongsaicntt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [cong6 nghệ thong tin](dinhhuongsaicntt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [công nghệ thong tin](dinhhuongsaicntt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
 - nếu em chọn sai ngành [httt](dinhhuongsaihttt) thì có nên tiếp tục hay không
-- em bị l ạc lối không biết thích gì trong ngành [httt](dinhhuongsaihttt)
+- nếu em chọn sai ngành [hhttt](dinhhuongsaihttt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [IS](dinhhuongsaihttt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [hệ thống thông tin](dinhhuongsaihttt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [he thong thong tin](dinhhuongsaihttt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [hệ thông thông tin](dinhhuongsaihttt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [hê thong thông tin](dinhhuongsaihttt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [hệ thống thông tin](dinhhuongsaihttt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [hệ thống thông tín](dinhhuongsaihttt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [he thống thông tinn](dinhhuongsaihttt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [ht thông tin](dinhhuongsaihttt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [hệ thống tt](dinhhuongsaihttt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [he thống tt](dinhhuongsaihttt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [ht thông tin](dinhhuongsaihttt) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [ht thong6 tin](dinhhuongsaihttt) thì có nên tiếp tục hay không
+- em bị lạc lối không biết thích gì trong ngành [httt](dinhhuongsaihttt)
+- em bị lạc lối không biết thích gì trong ngành [hhttt](dinhhuongsaihttt)
+- em bị lạc lối không biết thích gì trong ngành [IS](dinhhuongsaihttt)
+- em bị lạc lối không biết thích gì trong ngành [hệ thống thông tin](dinhhuongsaihttt)
+- em bị lạc lối không biết thích gì trong ngành [he thong thong tin](dinhhuongsaihttt)
+- em bị lạc lối không biết thích gì trong ngành [hệ thông thông tin](dinhhuongsaihttt)
+- em bị lạc lối không biết thích gì trong ngành [hê thong thông tin](dinhhuongsaihttt)
+- em bị lạc lối không biết thích gì trong ngành [hệ thống thông tin](dinhhuongsaihttt)
+- em bị lạc lối không biết thích gì trong ngành [hệ thống thông tín](dinhhuongsaihttt)
+- em bị lạc lối không biết thích gì trong ngành [he thống thông tinn](dinhhuongsaihttt)
+- em bị lạc lối không biết thích gì trong ngành [ht thông tin](dinhhuongsaihttt)
+- em bị lạc lối không biết thích gì trong ngành [hệ thống tt](dinhhuongsaihttt)
+- em bị lạc lối không biết thích gì trong ngành [he thống tt](dinhhuongsaihttt)
+- em bị lạc lối không biết thích gì trong ngành [ht thông tin](dinhhuongsaihttt)
+- em bị lạc lối không biết thích gì trong ngành [ht thong6 tin](dinhhuongsaihttt)
 - em chọn học [httt](dinhhuongsaihttt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [hhttt](dinhhuongsaihttt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [IS](dinhhuongsaihttt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [hệ thống thông tin](dinhhuongsaihttt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [he thong thong tin](dinhhuongsaihttt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [hệ thông thông tin](dinhhuongsaihttt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [hê thong thông tin](dinhhuongsaihttt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [hệ thống thông tin](dinhhuongsaihttt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [hệ thống thông tín](dinhhuongsaihttt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [he thống thông tinn](dinhhuongsaihttt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [ht thông tin](dinhhuongsaihttt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [hệ thống tt](dinhhuongsaihttt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [he thống tt](dinhhuongsaihttt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [ht thông tin](dinhhuongsaihttt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [ht thong6 tin](dinhhuongsaihttt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
 - nếu em chọn sai ngành [khdl](dinhhuongsaikhdl) thì có nên tiếp tục hay không
-- em bị l ạc lối không biết thích gì trong ngành [khdl](dinhhuongsaikhdl)
+- nếu em chọn sai ngành [khdk](dinhhuongsaikhdl) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [khoa học dữ liệu](dinhhuongsaikhdl) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [khoa hoc du lieu](dinhhuongsaikhdl) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [khoa học du lieu](dinhhuongsaikhdl) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [khoa hoc du liệu](dinhhuongsaikhdl) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [khao học dữ leiu](dinhhuongsaikhdl) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [khao học du lieu](dinhhuongsaikhdl) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [khao học dữ leiu](dinhhuongsaikhdl) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [khoa học du lieuu](dinhhuongsaikhdl) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [kh dl](dinhhuongsaikhdl) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [kh dữ liệu](dinhhuongsaikhdl) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [khoa hoc dữ liệu](dinhhuongsaikhdl) thì có nên tiếp tục hay không
+- nếu em chọn sai ngành [khoa học dl](dinhhuongsaikhdl) thì có nên tiếp tục hay không
+- em bị lạc lối không biết thích gì trong ngành [khdl](dinhhuongsaikhdl)
+- em bị lạc lối không biết thích gì trong ngành [khdk](dinhhuongsaikhdl)
+- em bị lạc lối không biết thích gì trong ngành [khoa học dữ liệu](dinhhuongsaikhdl)
+- em bị lạc lối không biết thích gì trong ngành [khoa hoc du lieu](dinhhuongsaikhdl)
+- em bị lạc lối không biết thích gì trong ngành [khoa học du lieu](dinhhuongsaikhdl)
+- em bị lạc lối không biết thích gì trong ngành [khoa hoc du liệu](dinhhuongsaikhdl)
+- em bị lạc lối không biết thích gì trong ngành [khao học dữ leiu](dinhhuongsaikhdl)
+- em bị lạc lối không biết thích gì trong ngành [khao học du lieu](dinhhuongsaikhdl)
+- em bị lạc lối không biết thích gì trong ngành [khao học dữ leiu](dinhhuongsaikhdl)
+- em bị lạc lối không biết thích gì trong ngành [khoa học du lieuu](dinhhuongsaikhdl)
+- em bị lạc lối không biết thích gì trong ngành [kh dl](dinhhuongsaikhdl)
+- em bị lạc lối không biết thích gì trong ngành [kh dữ liệu](dinhhuongsaikhdl)
+- em bị lạc lối không biết thích gì trong ngành [khoa hoc dữ liệu](dinhhuongsaikhdl)
+- em bị lạc lối không biết thích gì trong ngành [khoa học dl](dinhhuongsaikhdl)
 - em chọn học [khdl](dinhhuongsaikhdl) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
-- nếu em chọn sai ngành [khoa học máy tính](dinhhuongsaikhmt:khmt) thì có nên tiếp tục hay không
-- em bị l ạc lối không biết thích gì trong ngành [khoa học máy tính](dinhhuongsaikhmt:khmt)
-- em chọn học [khoa học máy tính](dinhhuongsaikhmt:khmt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
-- nếu em chọn sai ngành [kỹ thuật phần mềm](dinhhuongsaiktpm:ktpm) thì có nên tiếp tục hay không
-- em bị l ạc lối không biết thích gì trong ngành [kỹ thuật phần mềm](dinhhuongsaiktpm:ktpm)
-- em chọn học [kỹ thuật phần mềm](dinhhuongsaiktpm:ktpm) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
-- nếu em chọn sai ngành [công nghệ thông tin](dinhhuongsaicntt:cntt) thì có nên tiếp tục hay không
-- em bị l ạc lối không biết thích gì trong ngành [công nghệ thông tin](dinhhuongsaicntt:cntt)
-- em chọn học [công nghệ thông tin](dinhhuongsaicntt:cntt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
-- nếu em chọn sai ngành [hệ thống thông tin](dinhhuongsaihttt:httt) thì có nên tiếp tục hay không
-- em bị l ạc lối không biết thích gì trong ngành [hệ thống thông tin](dinhhuongsaihttt:httt)
-- em chọn học [hệ thống thông tin](dinhhuongsaihttt:httt) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
-- nếu em chọn sai ngành [khoa học dữ liệu](dinhhuongsaikhdl:khdl) thì có nên tiếp tục hay không
-- em bị l ạc lối không biết thích gì trong ngành [khoa học dữ liệu](dinhhuongsaikhdl:khdl)
-- em chọn học [khoa học dữ liệu](dinhhuongsaikhdl:khdl) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [khdk](dinhhuongsaikhdl) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [khoa học dữ liệu](dinhhuongsaikhdl) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [khoa hoc du lieu](dinhhuongsaikhdl) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [khoa học du lieu](dinhhuongsaikhdl) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [khoa hoc du liệu](dinhhuongsaikhdl) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [khao học dữ leiu](dinhhuongsaikhdl) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [khao học du lieu](dinhhuongsaikhdl) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [khao học dữ leiu](dinhhuongsaikhdl) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [khoa học du lieuu](dinhhuongsaikhdl) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [kh dl](dinhhuongsaikhdl) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [kh dữ liệu](dinhhuongsaikhdl) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [khoa hoc dữ liệu](dinhhuongsaikhdl) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
+- em chọn học [khoa học dl](dinhhuongsaikhdl) mà giờ không theo nổi thì có nên đổi chuyên ngành hay không.
 - cho em hỏi làm thế nào để biết mình định hướng sai ngành [khmt](dinhhuongsaikhmt) ạ
+- cho em hỏi làm thế nào để biết mình định hướng sai ngành [khtm](dinhhuongsaikhmt) ạ
+- cho em hỏi làm thế nào để biết mình định hướng sai ngành [khoa học máy tính](dinhhuongsaikhmt) ạ
+- cho em hỏi làm thế nào để biết mình định hướng sai ngành [khoa hoc may tinh](dinhhuongsaikhmt) ạ
+- cho em hỏi làm thế nào để biết mình định hướng sai ngành [cong nghe may tinh](dinhhuongsaikhmt) ạ
+- cho em hỏi làm thế nào để biết mình định hướng sai ngành [khao hoc may tinh](dinhhuongsaikhmt) ạ
+- cho em hỏi làm thế nào để biết mình định hướng sai ngành [khao học may tinh](dinhhuongsaikhmt) ạ
+- cho em hỏi làm thế nào để biết mình định hướng sai ngành [công nghệ máy tính](dinhhuongsaikhmt) ạ
+- cho em hỏi làm thế nào để biết mình định hướng sai ngành [khao học máy tinh](dinhhuongsaikhmt) ạ
+- cho em hỏi làm thế nào để biết mình định hướng sai ngành [khoa học may tinh](dinhhuongsaikhmt) ạ
+- cho em hỏi làm thế nào để biết mình định hướng sai ngành [CS](dinhhuongsaikhmt) ạ
+- cho em hỏi làm thế nào để biết mình định hướng sai ngành [kh máy tinh](dinhhuongsaikhmt) ạ
+- cho em hỏi làm thế nào để biết mình định hướng sai ngành [kh may tính](dinhhuongsaikhmt) ạ
+- cho em hỏi làm thế nào để biết mình định hướng sai ngành [kh máy tính](dinhhuongsaikhmt) ạ
+- cho em hỏi làm thế nào để biết mình định hướng sai ngành [kh máy tình](dinhhuongsaikhmt) ạ
 - ngành [khmt](dinhhuongsaikhmt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
-- Định hướng sai thì làm như thế nào để định hướng l ại đối với ngành [khmt](dinhhuongsaikhmt) ạ
-- cho em hỏi làm thế nào để biết mình định hướng sai ngành [khoa học máy tính](dinhhuongsaikhmt:khmt) ạ
-- ngành [khoa học máy tính](dinhhuongsaikhmt:khmt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
-- Định hướng sai thì làm như thế nào để định hướng l ại đối với ngành  [khoa học máy tính](dinhhuongsaikhmt:khmt) ạ
-- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [khoa hoc may tinh](dinhhuongsaikhmt:khmt) ạ
-- ngành [khoa hoc may tinh](dinhhuongsaikhmt:khmt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
-- Định hướng sai thì làm như thế nào để định hướng l ại đối với ngành [khoa hoc may tinh](dinhhuongsaikhmt:khmt) ạ
+- ngành [khtm](dinhhuongsaikhmt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [khoa học máy tính](dinhhuongsaikhmt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [khoa hoc may tinh](dinhhuongsaikhmt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [cong nghe may tinh](dinhhuongsaikhmt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [khao hoc may tinh](dinhhuongsaikhmt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [khao học may tinh](dinhhuongsaikhmt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [công nghệ máy tính](dinhhuongsaikhmt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [khao học máy tinh](dinhhuongsaikhmt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [khoa học may tinh](dinhhuongsaikhmt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [CS](dinhhuongsaikhmt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [kh máy tinh](dinhhuongsaikhmt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [kh may tính](dinhhuongsaikhmt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [kh máy tính](dinhhuongsaikhmt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [kh máy tình](dinhhuongsaikhmt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khmt](dinhhuongsaikhmt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khtm](dinhhuongsaikhmt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khoa học máy tính](dinhhuongsaikhmt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khoa hoc may tinh](dinhhuongsaikhmt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [cong nghe may tinh](dinhhuongsaikhmt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khao hoc may tinh](dinhhuongsaikhmt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khao học may tinh](dinhhuongsaikhmt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [công nghệ máy tính](dinhhuongsaikhmt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khao học máy tinh](dinhhuongsaikhmt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khoa học may tinh](dinhhuongsaikhmt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [CS](dinhhuongsaikhmt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [kh máy tinh](dinhhuongsaikhmt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [kh may tính](dinhhuongsaikhmt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [kh máy tính](dinhhuongsaikhmt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [kh máy tình](dinhhuongsaikhmt) ạ
 - Cho em hỏi làm thế nào để biết mình định hướng sai ngành [ktpm](dinhhuongsaiktpm) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [ktpmm](dinhhuongsaiktpm) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [kỹ thuật phần mềm](dinhhuongsaiktpm) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [ky thuat phan mem](dinhhuongsaiktpm) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [ki thuật phần mềm](dinhhuongsaiktpm) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [kỹ thuat phần mềm](dinhhuongsaiktpm) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [kỹ thuật phần mềm](dinhhuongsaiktpm) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [cong nghệ phần mềm](dinhhuongsaiktpm) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [công nghệ phần mềm](dinhhuongsaiktpm) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [cong nghe phan mem](dinhhuongsaiktpm) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [SE](dinhhuongsaiktpm) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [kt phần mềm](dinhhuongsaiktpm) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [kt phan mem](dinhhuongsaiktpm) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [kỹ thuật phân mem](dinhhuongsaiktpm) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [phan mem](dinhhuongsaiktpm) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [phần mềm](dinhhuongsaiktpm) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [kt pm](dinhhuongsaiktpm) ạ
 - ngành [ktpm](dinhhuongsaiktpm) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
-- Định hướng sai thì làm như thế nào để định hướng l ại đối với ngành [ktpm](dinhhuongsaiktpm) ạ
-- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [kỹ thuật phần mềm](dinhhuongsaiktpm:ktpm) ạ
-- ngành [kỹ thuật phần mềm](dinhhuongsaiktpm:ktpm) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
-- Định hướng sai thì làm như thế nào để định hướng l ại đối với ngành [kỹ thuật phần mềm](dinhhuongsaiktpm:ktpm) ạ
-- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [ky thuat phan mem](dinhhuongsaiktpm:ktpm) ạ
-- ngành [ky thuat phan mem](dinhhuongsaiktpm:ktpm) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
-- Định hướng sai thì làm như thế nào để định hướng l ại đối với ngành [ky thuat phan mem](dinhhuongsaiktpm:ktpm) ạ
+- ngành [ktpmm](dinhhuongsaiktpm) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [kỹ thuật phần mềm](dinhhuongsaiktpm) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [ky thuat phan mem](dinhhuongsaiktpm) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [ki thuật phần mềm](dinhhuongsaiktpm) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [kỹ thuat phần mềm](dinhhuongsaiktpm) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [kỹ thuật phần mềm](dinhhuongsaiktpm) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [cong nghệ phần mềm](dinhhuongsaiktpm) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [công nghệ phần mềm](dinhhuongsaiktpm) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [cong nghe phan mem](dinhhuongsaiktpm) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [SE](dinhhuongsaiktpm) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [kt phần mềm](dinhhuongsaiktpm) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [kt phan mem](dinhhuongsaiktpm) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [kỹ thuật phân mem](dinhhuongsaiktpm) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [phan mem](dinhhuongsaiktpm) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [phần mềm](dinhhuongsaiktpm) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [kt pm](dinhhuongsaiktpm) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [ktpm](dinhhuongsaiktpm) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [ktpmm](dinhhuongsaiktpm) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [kỹ thuật phần mềm](dinhhuongsaiktpm) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [ky thuat phan mem](dinhhuongsaiktpm) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [ki thuật phần mềm](dinhhuongsaiktpm) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [kỹ thuat phần mềm](dinhhuongsaiktpm) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [kỹ thuật phần mềm](dinhhuongsaiktpm) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [cong nghệ phần mềm](dinhhuongsaiktpm) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [công nghệ phần mềm](dinhhuongsaiktpm) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [cong nghe phan mem](dinhhuongsaiktpm) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [SE](dinhhuongsaiktpm) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [kt phần mềm](dinhhuongsaiktpm) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [kt phan mem](dinhhuongsaiktpm) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [kỹ thuật phân mem](dinhhuongsaiktpm) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [phan mem](dinhhuongsaiktpm) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [phần mềm](dinhhuongsaiktpm) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [kt pm](dinhhuongsaiktpm) ạ
 - Cho em hỏi làm thế nào để biết mình định hướng sai ngành [cntt](dinhhuongsaicntt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [cnttt](dinhhuongsaicntt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [công nghệ thông tin](dinhhuongsaicntt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [cong nghe thong tin](dinhhuongsaicntt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [công nghệ thong tin](dinhhuongsaicntt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [cong nghe thông tin](dinhhuongsaicntt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [IT](dinhhuongsaicntt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [công nghệ thông tin](dinhhuongsaicntt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [cong nghệ thông tin](dinhhuongsaicntt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [công nghệ thông tinn](dinhhuongsaicntt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [cn thong tin](dinhhuongsaicntt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [cn tt](dinhhuongsaicntt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [cn thông tin](dinhhuongsaicntt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [cogn nghệ thông tin](dinhhuongsaicntt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [công nghệ tt](dinhhuongsaicntt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [cong6 nghệ thong tin](dinhhuongsaicntt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [công nghệ thong tin](dinhhuongsaicntt) ạ
 - ngành [cntt](dinhhuongsaicntt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
-- Định hướng sai thì làm như thế nào để định hướng l ại đối với ngành [cntt](dinhhuongsaicntt) ạ
-- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [công nghệ thông tin](dinhhuongsaicntt:cntt) ạ
-- ngành [công nghệ thông tin](dinhhuongsaicntt:cntt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
-- Định hướng sai thì làm như thế nào để định hướng l ại đối với ngành [công nghệ thông tin](dinhhuongsaicntt:cntt) ạ
-- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [cong nghe thong tin](dinhhuongsaicntt:cntt) ạ
-- ngành [cong nghe thong tin](dinhhuongsaicntt:cntt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
-- Định hướng sai thì làm như thế nào để định hướng l ại đối với ngành [cong nghe thong tin](dinhhuongsaicntt:cntt) ạ
+- ngành [cnttt](dinhhuongsaicntt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [công nghệ thông tin](dinhhuongsaicntt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [cong nghe thong tin](dinhhuongsaicntt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [công nghệ thong tin](dinhhuongsaicntt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [cong nghe thông tin](dinhhuongsaicntt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [IT](dinhhuongsaicntt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [công nghệ thông tin](dinhhuongsaicntt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [cong nghệ thông tin](dinhhuongsaicntt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [công nghệ thông tinn](dinhhuongsaicntt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [cn thong tin](dinhhuongsaicntt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [cn tt](dinhhuongsaicntt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [cn thông tin](dinhhuongsaicntt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [cogn nghệ thông tin](dinhhuongsaicntt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [công nghệ tt](dinhhuongsaicntt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [cong6 nghệ thong tin](dinhhuongsaicntt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [công nghệ thong tin](dinhhuongsaicntt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [cntt](dinhhuongsaicntt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [cnttt](dinhhuongsaicntt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [công nghệ thông tin](dinhhuongsaicntt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [cong nghe thong tin](dinhhuongsaicntt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [công nghệ thong tin](dinhhuongsaicntt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [cong nghe thông tin](dinhhuongsaicntt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [IT](dinhhuongsaicntt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [công nghệ thông tin](dinhhuongsaicntt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [cong nghệ thông tin](dinhhuongsaicntt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [công nghệ thông tinn](dinhhuongsaicntt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [cn thong tin](dinhhuongsaicntt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [cn tt](dinhhuongsaicntt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [cn thông tin](dinhhuongsaicntt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [cogn nghệ thông tin](dinhhuongsaicntt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [công nghệ tt](dinhhuongsaicntt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [cong6 nghệ thong tin](dinhhuongsaicntt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [công nghệ thong tin](dinhhuongsaicntt) ạ
 - Cho em hỏi làm thế nào để biết mình định hướng sai ngành [httt](dinhhuongsaihttt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [hhttt](dinhhuongsaihttt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [IS](dinhhuongsaihttt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [hệ thống thông tin](dinhhuongsaihttt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [he thong thong tin](dinhhuongsaihttt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [hệ thông thông tin](dinhhuongsaihttt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [hê thong thông tin](dinhhuongsaihttt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [hệ thống thông tin](dinhhuongsaihttt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [hệ thống thông tín](dinhhuongsaihttt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [he thống thông tinn](dinhhuongsaihttt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [ht thông tin](dinhhuongsaihttt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [hệ thống tt](dinhhuongsaihttt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [he thống tt](dinhhuongsaihttt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [ht thông tin](dinhhuongsaihttt) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [ht thong6 tin](dinhhuongsaihttt) ạ
 - ngành [httt](dinhhuongsaihttt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
-- Định hướng sai thì làm như thế nào để định hướng l ại đối với ngành [httt](dinhhuongsaihttt) ạ
-- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [hệ thống thông tin](dinhhuongsaihttt:httt) ạ
-- ngành [hệ thống thông tin](dinhhuongsaihttt:httt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
-- Định hướng sai thì làm như thế nào để định hướng l ại đối với ngành [hệ thống thông tin](dinhhuongsaihttt:httt) ạ
-- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [he thong thong tin](dinhhuongsaihttt:httt) ạ
-- ngành [he thong thong tin](dinhhuongsaihttt:httt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
-- Định hướng sai thì làm như thế nào để định hướng l ại đối với ngành [he thong thong tin](dinhhuongsaihttt:httt) ạ
+- ngành [hhttt](dinhhuongsaihttt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [IS](dinhhuongsaihttt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [hệ thống thông tin](dinhhuongsaihttt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [he thong thong tin](dinhhuongsaihttt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [hệ thông thông tin](dinhhuongsaihttt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [hê thong thông tin](dinhhuongsaihttt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [hệ thống thông tin](dinhhuongsaihttt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [hệ thống thông tín](dinhhuongsaihttt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [he thống thông tinn](dinhhuongsaihttt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [ht thông tin](dinhhuongsaihttt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [hệ thống tt](dinhhuongsaihttt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [he thống tt](dinhhuongsaihttt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [ht thông tin](dinhhuongsaihttt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [ht thong6 tin](dinhhuongsaihttt) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [httt](dinhhuongsaihttt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [hhttt](dinhhuongsaihttt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [IS](dinhhuongsaihttt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [hệ thống thông tin](dinhhuongsaihttt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [he thong thong tin](dinhhuongsaihttt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [hệ thông thông tin](dinhhuongsaihttt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [hê thong thông tin](dinhhuongsaihttt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [hệ thống thông tin](dinhhuongsaihttt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [hệ thống thông tín](dinhhuongsaihttt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [he thống thông tinn](dinhhuongsaihttt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [ht thông tin](dinhhuongsaihttt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [hệ thống tt](dinhhuongsaihttt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [he thống tt](dinhhuongsaihttt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [ht thông tin](dinhhuongsaihttt) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [ht thong6 tin](dinhhuongsaihttt) ạ
 - Cho em hỏi làm thế nào để biết mình định hướng sai ngành [khdl](dinhhuongsaikhdl) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [khdk](dinhhuongsaikhdl) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [khoa học dữ liệu](dinhhuongsaikhdl) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [khoa hoc du lieu](dinhhuongsaikhdl) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [khoa học du lieu](dinhhuongsaikhdl) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [khoa hoc du liệu](dinhhuongsaikhdl) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [khao học dữ leiu](dinhhuongsaikhdl) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [khao học du lieu](dinhhuongsaikhdl) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [khao học dữ leiu](dinhhuongsaikhdl) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [khoa học du lieuu](dinhhuongsaikhdl) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [kh dl](dinhhuongsaikhdl) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [kh dữ liệu](dinhhuongsaikhdl) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [khoa hoc dữ liệu](dinhhuongsaikhdl) ạ
+- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [khoa học dl](dinhhuongsaikhdl) ạ
 - ngành [khdl](dinhhuongsaikhdl) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
-- Định hướng sai thì làm như thế nào để định hướng l ại đối với ngành [khdl](dinhhuongsaikhdl) ạ
-- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [khoa học dữ liệu](dinhhuongsaikhdl:khdl) ạ
-- ngành [khoa học dữ liệu](dinhhuongsaikhdl:khdl) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
-- Định hướng sai thì làm như thế nào để định hướng l ại đối với ngành [khoa học dữ liệu](dinhhuongsaikhdl:khdl) ạ
-- Cho em hỏi làm thế nào để biết mình định hướng sai ngành [khoa hoc du lieu](dinhhuongsaikhdl:khdl) ạ
-- ngành [khoa hoc du lieu](dinhhuongsaikhdl:khdl) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
-- Định hướng sai thì làm như thế nào để định hướng l ại đối với ngành [khoa hoc du lieu](dinhhuongsaikhdl:khdl) ạ
-
+- ngành [khdk](dinhhuongsaikhdl) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [khoa học dữ liệu](dinhhuongsaikhdl) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [khoa hoc du lieu](dinhhuongsaikhdl) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [khoa học du lieu](dinhhuongsaikhdl) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [khoa hoc du liệu](dinhhuongsaikhdl) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [khao học dữ leiu](dinhhuongsaikhdl) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [khao học du lieu](dinhhuongsaikhdl) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [khao học dữ leiu](dinhhuongsaikhdl) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [khoa học du lieuu](dinhhuongsaikhdl) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [kh dl](dinhhuongsaikhdl) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [kh dữ liệu](dinhhuongsaikhdl) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [khoa hoc dữ liệu](dinhhuongsaikhdl) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- ngành [khoa học dl](dinhhuongsaikhdl) định hướng sai thì gây ra hậu quả như thế nào, và có quá nghiêm trọng không ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khdl](dinhhuongsaikhdl) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khdk](dinhhuongsaikhdl) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khoa học dữ liệu](dinhhuongsaikhdl) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khoa hoc du lieu](dinhhuongsaikhdl) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khoa học du lieu](dinhhuongsaikhdl) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khoa hoc du liệu](dinhhuongsaikhdl) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khao học dữ leiu](dinhhuongsaikhdl) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khao học du lieu](dinhhuongsaikhdl) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khao học dữ leiu](dinhhuongsaikhdl) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khoa học du lieuu](dinhhuongsaikhdl) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [kh dl](dinhhuongsaikhdl) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [kh dữ liệu](dinhhuongsaikhdl) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khoa hoc dữ liệu](dinhhuongsaikhdl) ạ
+- Định hướng sai thì làm như thế nào để định hướng lại đối với ngành [khoa học dl](dinhhuongsaikhdl) ạ
 ## intent: ungdung
 - học [khmt](ungdungkhmt) có thể lập trình app hay web hay không
+- học [khtm](ungdungkhmt) có thể lập trình app hay web hay không
+- học [khoa học máy tính](ungdungkhmt) có thể lập trình app hay web hay không
+- học [khoa hoc may tinh](ungdungkhmt) có thể lập trình app hay web hay không
+- học [cong nghe may tinh](ungdungkhmt) có thể lập trình app hay web hay không
+- học [khao hoc may tinh](ungdungkhmt) có thể lập trình app hay web hay không
+- học [khao học may tinh](ungdungkhmt) có thể lập trình app hay web hay không
+- học [công nghệ máy tính](ungdungkhmt) có thể lập trình app hay web hay không
+- học [khao học máy tinh](ungdungkhmt) có thể lập trình app hay web hay không
+- học [khoa học may tinh](ungdungkhmt) có thể lập trình app hay web hay không
+- học [CS](ungdungkhmt) có thể lập trình app hay web hay không
+- học [kh máy tinh](ungdungkhmt) có thể lập trình app hay web hay không
+- học [kh may tính](ungdungkhmt) có thể lập trình app hay web hay không
+- học [kh máy tính](ungdungkhmt) có thể lập trình app hay web hay không
+- học [kh máy tình](ungdungkhmt) có thể lập trình app hay web hay không
 - học [khmt](ungdungkhmt) lập trình game được không
+- học [khtm](ungdungkhmt) lập trình game được không
+- học [khoa học máy tính](ungdungkhmt) lập trình game được không
+- học [khoa hoc may tinh](ungdungkhmt) lập trình game được không
+- học [cong nghe may tinh](ungdungkhmt) lập trình game được không
+- học [khao hoc may tinh](ungdungkhmt) lập trình game được không
+- học [khao học may tinh](ungdungkhmt) lập trình game được không
+- học [công nghệ máy tính](ungdungkhmt) lập trình game được không
+- học [khao học máy tinh](ungdungkhmt) lập trình game được không
+- học [khoa học may tinh](ungdungkhmt) lập trình game được không
+- học [CS](ungdungkhmt) lập trình game được không
+- học [kh máy tinh](ungdungkhmt) lập trình game được không
+- học [kh may tính](ungdungkhmt) lập trình game được không
+- học [kh máy tính](ungdungkhmt) lập trình game được không
+- học [kh máy tình](ungdungkhmt) lập trình game được không
 - lập trình game,app thì học [khmt](ungdungkhmt) có làm được hay không
+- lập trình game,app thì học [khtm](ungdungkhmt) có làm được hay không
+- lập trình game,app thì học [khoa học máy tính](ungdungkhmt) có làm được hay không
+- lập trình game,app thì học [khoa hoc may tinh](ungdungkhmt) có làm được hay không
+- lập trình game,app thì học [cong nghe may tinh](ungdungkhmt) có làm được hay không
+- lập trình game,app thì học [khao hoc may tinh](ungdungkhmt) có làm được hay không
+- lập trình game,app thì học [khao học may tinh](ungdungkhmt) có làm được hay không
+- lập trình game,app thì học [công nghệ máy tính](ungdungkhmt) có làm được hay không
+- lập trình game,app thì học [khao học máy tinh](ungdungkhmt) có làm được hay không
+- lập trình game,app thì học [khoa học may tinh](ungdungkhmt) có làm được hay không
+- lập trình game,app thì học [CS](ungdungkhmt) có làm được hay không
+- lập trình game,app thì học [kh máy tinh](ungdungkhmt) có làm được hay không
+- lập trình game,app thì học [kh may tính](ungdungkhmt) có làm được hay không
+- lập trình game,app thì học [kh máy tính](ungdungkhmt) có làm được hay không
+- lập trình game,app thì học [kh máy tình](ungdungkhmt) có làm được hay không
 - học [ktpm](ungdungktpm) có thể lập trình app hay web hay không
+- học [ktpmm](ungdungktpm) có thể lập trình app hay web hay không
+- học [kỹ thuật phần mềm](ungdungktpm) có thể lập trình app hay web hay không
+- học [ky thuat phan mem](ungdungktpm) có thể lập trình app hay web hay không
+- học [ki thuật phần mềm](ungdungktpm) có thể lập trình app hay web hay không
+- học [kỹ thuat phần mềm](ungdungktpm) có thể lập trình app hay web hay không
+- học [kỹ thuật phần mềm](ungdungktpm) có thể lập trình app hay web hay không
+- học [cong nghệ phần mềm](ungdungktpm) có thể lập trình app hay web hay không
+- học [công nghệ phần mềm](ungdungktpm) có thể lập trình app hay web hay không
+- học [cong nghe phan mem](ungdungktpm) có thể lập trình app hay web hay không
+- học [SE](ungdungktpm) có thể lập trình app hay web hay không
+- học [kt phần mềm](ungdungktpm) có thể lập trình app hay web hay không
+- học [kt phan mem](ungdungktpm) có thể lập trình app hay web hay không
+- học [kỹ thuật phân mem](ungdungktpm) có thể lập trình app hay web hay không
+- học [phan mem](ungdungktpm) có thể lập trình app hay web hay không
+- học [phần mềm](ungdungktpm) có thể lập trình app hay web hay không
+- học [kt pm](ungdungktpm) có thể lập trình app hay web hay không
 - học [ktpm](ungdungktpm) lập trình game được không
+- học [ktpmm](ungdungktpm) lập trình game được không
+- học [kỹ thuật phần mềm](ungdungktpm) lập trình game được không
+- học [ky thuat phan mem](ungdungktpm) lập trình game được không
+- học [ki thuật phần mềm](ungdungktpm) lập trình game được không
+- học [kỹ thuat phần mềm](ungdungktpm) lập trình game được không
+- học [kỹ thuật phần mềm](ungdungktpm) lập trình game được không
+- học [cong nghệ phần mềm](ungdungktpm) lập trình game được không
+- học [công nghệ phần mềm](ungdungktpm) lập trình game được không
+- học [cong nghe phan mem](ungdungktpm) lập trình game được không
+- học [SE](ungdungktpm) lập trình game được không
+- học [kt phần mềm](ungdungktpm) lập trình game được không
+- học [kt phan mem](ungdungktpm) lập trình game được không
+- học [kỹ thuật phân mem](ungdungktpm) lập trình game được không
+- học [phan mem](ungdungktpm) lập trình game được không
+- học [phần mềm](ungdungktpm) lập trình game được không
+- học [kt pm](ungdungktpm) lập trình game được không
 - lập trình game,app thì học [ktpm](ungdungktpm) có làm được hay không
+- lập trình game,app thì học [ktpmm](ungdungktpm) có làm được hay không
+- lập trình game,app thì học [kỹ thuật phần mềm](ungdungktpm) có làm được hay không
+- lập trình game,app thì học [ky thuat phan mem](ungdungktpm) có làm được hay không
+- lập trình game,app thì học [ki thuật phần mềm](ungdungktpm) có làm được hay không
+- lập trình game,app thì học [kỹ thuat phần mềm](ungdungktpm) có làm được hay không
+- lập trình game,app thì học [kỹ thuật phần mềm](ungdungktpm) có làm được hay không
+- lập trình game,app thì học [cong nghệ phần mềm](ungdungktpm) có làm được hay không
+- lập trình game,app thì học [công nghệ phần mềm](ungdungktpm) có làm được hay không
+- lập trình game,app thì học [cong nghe phan mem](ungdungktpm) có làm được hay không
+- lập trình game,app thì học [SE](ungdungktpm) có làm được hay không
+- lập trình game,app thì học [kt phần mềm](ungdungktpm) có làm được hay không
+- lập trình game,app thì học [kt phan mem](ungdungktpm) có làm được hay không
+- lập trình game,app thì học [kỹ thuật phân mem](ungdungktpm) có làm được hay không
+- lập trình game,app thì học [phan mem](ungdungktpm) có làm được hay không
+- lập trình game,app thì học [phần mềm](ungdungktpm) có làm được hay không
+- lập trình game,app thì học [kt pm](ungdungktpm) có làm được hay không
 - học [cntt](ungdungcntt) có thể lập trình app hay web hay không
+- học [cnttt](ungdungcntt) có thể lập trình app hay web hay không
+- học [công nghệ thông tin](ungdungcntt) có thể lập trình app hay web hay không
+- học [cong nghe thong tin](ungdungcntt) có thể lập trình app hay web hay không
+- học [công nghệ thong tin](ungdungcntt) có thể lập trình app hay web hay không
+- học [cong nghe thông tin](ungdungcntt) có thể lập trình app hay web hay không
+- học [IT](ungdungcntt) có thể lập trình app hay web hay không
+- học [công nghệ thông tin](ungdungcntt) có thể lập trình app hay web hay không
+- học [cong nghệ thông tin](ungdungcntt) có thể lập trình app hay web hay không
+- học [công nghệ thông tinn](ungdungcntt) có thể lập trình app hay web hay không
+- học [cn thong tin](ungdungcntt) có thể lập trình app hay web hay không
+- học [cn tt](ungdungcntt) có thể lập trình app hay web hay không
+- học [cn thông tin](ungdungcntt) có thể lập trình app hay web hay không
+- học [cogn nghệ thông tin](ungdungcntt) có thể lập trình app hay web hay không
+- học [công nghệ tt](ungdungcntt) có thể lập trình app hay web hay không
+- học [cong6 nghệ thong tin](ungdungcntt) có thể lập trình app hay web hay không
+- học [công nghệ thong tin](ungdungcntt) có thể lập trình app hay web hay không
 - học [cntt](ungdungcntt) lập trình game được không
+- học [cnttt](ungdungcntt) lập trình game được không
+- học [công nghệ thông tin](ungdungcntt) lập trình game được không
+- học [cong nghe thong tin](ungdungcntt) lập trình game được không
+- học [công nghệ thong tin](ungdungcntt) lập trình game được không
+- học [cong nghe thông tin](ungdungcntt) lập trình game được không
+- học [IT](ungdungcntt) lập trình game được không
+- học [công nghệ thông tin](ungdungcntt) lập trình game được không
+- học [cong nghệ thông tin](ungdungcntt) lập trình game được không
+- học [công nghệ thông tinn](ungdungcntt) lập trình game được không
+- học [cn thong tin](ungdungcntt) lập trình game được không
+- học [cn tt](ungdungcntt) lập trình game được không
+- học [cn thông tin](ungdungcntt) lập trình game được không
+- học [cogn nghệ thông tin](ungdungcntt) lập trình game được không
+- học [công nghệ tt](ungdungcntt) lập trình game được không
+- học [cong6 nghệ thong tin](ungdungcntt) lập trình game được không
+- học [công nghệ thong tin](ungdungcntt) lập trình game được không
 - lập trình game,app thì học [cntt](ungdungcntt) có làm được hay không
+- lập trình game,app thì học [cnttt](ungdungcntt) có làm được hay không
+- lập trình game,app thì học [công nghệ thông tin](ungdungcntt) có làm được hay không
+- lập trình game,app thì học [cong nghe thong tin](ungdungcntt) có làm được hay không
+- lập trình game,app thì học [công nghệ thong tin](ungdungcntt) có làm được hay không
+- lập trình game,app thì học [cong nghe thông tin](ungdungcntt) có làm được hay không
+- lập trình game,app thì học [IT](ungdungcntt) có làm được hay không
+- lập trình game,app thì học [công nghệ thông tin](ungdungcntt) có làm được hay không
+- lập trình game,app thì học [cong nghệ thông tin](ungdungcntt) có làm được hay không
+- lập trình game,app thì học [công nghệ thông tinn](ungdungcntt) có làm được hay không
+- lập trình game,app thì học [cn thong tin](ungdungcntt) có làm được hay không
+- lập trình game,app thì học [cn tt](ungdungcntt) có làm được hay không
+- lập trình game,app thì học [cn thông tin](ungdungcntt) có làm được hay không
+- lập trình game,app thì học [cogn nghệ thông tin](ungdungcntt) có làm được hay không
+- lập trình game,app thì học [công nghệ tt](ungdungcntt) có làm được hay không
+- lập trình game,app thì học [cong6 nghệ thong tin](ungdungcntt) có làm được hay không
+- lập trình game,app thì học [công nghệ thong tin](ungdungcntt) có làm được hay không
 - học [httt](ungdunghttt) có thể lập trình app hay web hay không
+- học [hhttt](ungdunghttt) có thể lập trình app hay web hay không
+- học [IS](ungdunghttt) có thể lập trình app hay web hay không
+- học [hệ thống thông tin](ungdunghttt) có thể lập trình app hay web hay không
+- học [he thong thong tin](ungdunghttt) có thể lập trình app hay web hay không
+- học [hệ thông thông tin](ungdunghttt) có thể lập trình app hay web hay không
+- học [hê thong thông tin](ungdunghttt) có thể lập trình app hay web hay không
+- học [hệ thống thông tin](ungdunghttt) có thể lập trình app hay web hay không
+- học [hệ thống thông tín](ungdunghttt) có thể lập trình app hay web hay không
+- học [he thống thông tinn](ungdunghttt) có thể lập trình app hay web hay không
+- học [ht thông tin](ungdunghttt) có thể lập trình app hay web hay không
+- học [hệ thống tt](ungdunghttt) có thể lập trình app hay web hay không
+- học [he thống tt](ungdunghttt) có thể lập trình app hay web hay không
+- học [ht thông tin](ungdunghttt) có thể lập trình app hay web hay không
+- học [ht thong6 tin](ungdunghttt) có thể lập trình app hay web hay không
 - học [httt](ungdunghttt) lập trình game được không
+- học [hhttt](ungdunghttt) lập trình game được không
+- học [IS](ungdunghttt) lập trình game được không
+- học [hệ thống thông tin](ungdunghttt) lập trình game được không
+- học [he thong thong tin](ungdunghttt) lập trình game được không
+- học [hệ thông thông tin](ungdunghttt) lập trình game được không
+- học [hê thong thông tin](ungdunghttt) lập trình game được không
+- học [hệ thống thông tin](ungdunghttt) lập trình game được không
+- học [hệ thống thông tín](ungdunghttt) lập trình game được không
+- học [he thống thông tinn](ungdunghttt) lập trình game được không
+- học [ht thông tin](ungdunghttt) lập trình game được không
+- học [hệ thống tt](ungdunghttt) lập trình game được không
+- học [he thống tt](ungdunghttt) lập trình game được không
+- học [ht thông tin](ungdunghttt) lập trình game được không
+- học [ht thong6 tin](ungdunghttt) lập trình game được không
 - lập trình game,app thì học [httt](ungdunghttt) có làm được hay không
+- lập trình game,app thì học [hhttt](ungdunghttt) có làm được hay không
+- lập trình game,app thì học [IS](ungdunghttt) có làm được hay không
+- lập trình game,app thì học [hệ thống thông tin](ungdunghttt) có làm được hay không
+- lập trình game,app thì học [he thong thong tin](ungdunghttt) có làm được hay không
+- lập trình game,app thì học [hệ thông thông tin](ungdunghttt) có làm được hay không
+- lập trình game,app thì học [hê thong thông tin](ungdunghttt) có làm được hay không
+- lập trình game,app thì học [hệ thống thông tin](ungdunghttt) có làm được hay không
+- lập trình game,app thì học [hệ thống thông tín](ungdunghttt) có làm được hay không
+- lập trình game,app thì học [he thống thông tinn](ungdunghttt) có làm được hay không
+- lập trình game,app thì học [ht thông tin](ungdunghttt) có làm được hay không
+- lập trình game,app thì học [hệ thống tt](ungdunghttt) có làm được hay không
+- lập trình game,app thì học [he thống tt](ungdunghttt) có làm được hay không
+- lập trình game,app thì học [ht thông tin](ungdunghttt) có làm được hay không
+- lập trình game,app thì học [ht thong6 tin](ungdunghttt) có làm được hay không
 - học [khdl](ungdungkhdl) có thể lập trình app hay web hay không
+- học [khdk](ungdungkhdl) có thể lập trình app hay web hay không
+- học [khoa học dữ liệu](ungdungkhdl) có thể lập trình app hay web hay không
+- học [khoa hoc du lieu](ungdungkhdl) có thể lập trình app hay web hay không
+- học [khoa học du lieu](ungdungkhdl) có thể lập trình app hay web hay không
+- học [khoa hoc du liệu](ungdungkhdl) có thể lập trình app hay web hay không
+- học [khao học dữ leiu](ungdungkhdl) có thể lập trình app hay web hay không
+- học [khao học du lieu](ungdungkhdl) có thể lập trình app hay web hay không
+- học [khao học dữ leiu](ungdungkhdl) có thể lập trình app hay web hay không
+- học [khoa học du lieuu](ungdungkhdl) có thể lập trình app hay web hay không
+- học [kh dl](ungdungkhdl) có thể lập trình app hay web hay không
+- học [kh dữ liệu](ungdungkhdl) có thể lập trình app hay web hay không
+- học [khoa hoc dữ liệu](ungdungkhdl) có thể lập trình app hay web hay không
+- học [khoa học dl](ungdungkhdl) có thể lập trình app hay web hay không
 - học [khdl](ungdungkhdl) lập trình game được không
+- học [khdk](ungdungkhdl) lập trình game được không
+- học [khoa học dữ liệu](ungdungkhdl) lập trình game được không
+- học [khoa hoc du lieu](ungdungkhdl) lập trình game được không
+- học [khoa học du lieu](ungdungkhdl) lập trình game được không
+- học [khoa hoc du liệu](ungdungkhdl) lập trình game được không
+- học [khao học dữ leiu](ungdungkhdl) lập trình game được không
+- học [khao học du lieu](ungdungkhdl) lập trình game được không
+- học [khao học dữ leiu](ungdungkhdl) lập trình game được không
+- học [khoa học du lieuu](ungdungkhdl) lập trình game được không
+- học [kh dl](ungdungkhdl) lập trình game được không
+- học [kh dữ liệu](ungdungkhdl) lập trình game được không
+- học [khoa hoc dữ liệu](ungdungkhdl) lập trình game được không
+- học [khoa học dl](ungdungkhdl) lập trình game được không
 - lập trình game,app thì học [khdl](ungdungkhdl) có làm được hay không
-- học [khoa học máy tính](ungdungkhmt:khmt) có thể lập trình app hay web hay không
-- học [khoc học máy tính](ungdungkhmt:khmt) lập trình game được không
-- lập trình game,app thì học [khoa học máy tính](ungdungkhmt:khmt) có làm được hay không
-- học [kỹ thuật phần mềm](ungdungktpm:ktpm) có thể lập trình app hay web hay không
-- học [kỹ thuật phần mềm](ungdungktpm:ktpm) lập trình game được không
-- lập trình game,app thì học [kỹ thuật phần mềm](ungdungktpm:ktpm) có làm được hay không
-- học [công nghệ thông tin](ungdungcntt:cntt) có thể lập trình app hay web hay không
-- học [công nghệ thông tin](ungdungcntt:cntt) lập trình game được không
-- lập trình game,app thì học [công nghệ thông tin](ungdungcntt:cntt) có làm được hay không
-- học [hệ thống thông tin](ungdunghttt:httt) có thể lập trình app hay web hay không
-- học [hệ thống thông tin](ungdunghttt:httt) lập trình game được không
-- lập trình game,app thì học [hệ thống thông tin](ungdunghttt:httt) có làm được hay không
-- học [khoa học dữ liệu](ungdungkhdl:khdl) có thể lập trình app hay web hay không
-- học [khoa học dữ liệu](ungdungkhdl:khdl) lập trình game được không
-- lập trình game,app thì học [khoa học dữ liệu](ungdungkhdl:khdl) có làm được hay không
+- lập trình game,app thì học [khdk](ungdungkhdl) có làm được hay không
+- lập trình game,app thì học [khoa học dữ liệu](ungdungkhdl) có làm được hay không
+- lập trình game,app thì học [khoa hoc du lieu](ungdungkhdl) có làm được hay không
+- lập trình game,app thì học [khoa học du lieu](ungdungkhdl) có làm được hay không
+- lập trình game,app thì học [khoa hoc du liệu](ungdungkhdl) có làm được hay không
+- lập trình game,app thì học [khao học dữ leiu](ungdungkhdl) có làm được hay không
+- lập trình game,app thì học [khao học du lieu](ungdungkhdl) có làm được hay không
+- lập trình game,app thì học [khao học dữ leiu](ungdungkhdl) có làm được hay không
+- lập trình game,app thì học [khoa học du lieuu](ungdungkhdl) có làm được hay không
+- lập trình game,app thì học [kh dl](ungdungkhdl) có làm được hay không
+- lập trình game,app thì học [kh dữ liệu](ungdungkhdl) có làm được hay không
+- lập trình game,app thì học [khoa hoc dữ liệu](ungdungkhdl) có làm được hay không
+- lập trình game,app thì học [khoa học dl](ungdungkhdl) có làm được hay không
 - học [khmt](ungdungkhmt) ra làm được những gì
+- học [khtm](ungdungkhmt) ra làm được những gì
+- học [khoa học máy tính](ungdungkhmt) ra làm được những gì
+- học [khoa hoc may tinh](ungdungkhmt) ra làm được những gì
+- học [cong nghe may tinh](ungdungkhmt) ra làm được những gì
+- học [khao hoc may tinh](ungdungkhmt) ra làm được những gì
+- học [khao học may tinh](ungdungkhmt) ra làm được những gì
+- học [công nghệ máy tính](ungdungkhmt) ra làm được những gì
+- học [khao học máy tinh](ungdungkhmt) ra làm được những gì
+- học [khoa học may tinh](ungdungkhmt) ra làm được những gì
+- học [CS](ungdungkhmt) ra làm được những gì
+- học [kh máy tinh](ungdungkhmt) ra làm được những gì
+- học [kh may tính](ungdungkhmt) ra làm được những gì
+- học [kh máy tính](ungdungkhmt) ra làm được những gì
+- học [kh máy tình](ungdungkhmt) ra làm được những gì
 - ai có thể cho em biết [khmt](ungdungkhmt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [khtm](ungdungkhmt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [khoa học máy tính](ungdungkhmt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [khoa hoc may tinh](ungdungkhmt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [cong nghe may tinh](ungdungkhmt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [khao hoc may tinh](ungdungkhmt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [khao học may tinh](ungdungkhmt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [công nghệ máy tính](ungdungkhmt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [khao học máy tinh](ungdungkhmt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [khoa học may tinh](ungdungkhmt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [CS](ungdungkhmt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [kh máy tinh](ungdungkhmt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [kh may tính](ungdungkhmt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [kh máy tính](ungdungkhmt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [kh máy tình](ungdungkhmt) và ứng dụng của nó được không ạ
 - ứng dụng lớn nhất của [khmt](ungdungkhmt) là gì ạ
-- học [khoa học máy tính](ungdungkhmt:khmt) ra làm được những gì
-- ai có thể cho em biết [khoa học máy tính](ungdungkhmt:khmt) và ứng dụng của nó được không ạ
-- ứng dụng lớn nhất của [khoa học máy tính](ungdungkhmt:khmt) là gì ạ
-- học [khoa hoc may tinh](ungdungkhmt:khmt) ra làm được những gì
-- ai có thể cho em biết [khoa hoc may tinh](ungdungkhmt:khmt) và ứng dụng của nó được không ạ
-- ứng dụng lớn nhất của [khoa hoc may tinh](ungdungkhmt:khmt) là gì ạ
+- ứng dụng lớn nhất của [khtm](ungdungkhmt) là gì ạ
+- ứng dụng lớn nhất của [khoa học máy tính](ungdungkhmt) là gì ạ
+- ứng dụng lớn nhất của [khoa hoc may tinh](ungdungkhmt) là gì ạ
+- ứng dụng lớn nhất của [cong nghe may tinh](ungdungkhmt) là gì ạ
+- ứng dụng lớn nhất của [khao hoc may tinh](ungdungkhmt) là gì ạ
+- ứng dụng lớn nhất của [khao học may tinh](ungdungkhmt) là gì ạ
+- ứng dụng lớn nhất của [công nghệ máy tính](ungdungkhmt) là gì ạ
+- ứng dụng lớn nhất của [khao học máy tinh](ungdungkhmt) là gì ạ
+- ứng dụng lớn nhất của [khoa học may tinh](ungdungkhmt) là gì ạ
+- ứng dụng lớn nhất của [CS](ungdungkhmt) là gì ạ
+- ứng dụng lớn nhất của [kh máy tinh](ungdungkhmt) là gì ạ
+- ứng dụng lớn nhất của [kh may tính](ungdungkhmt) là gì ạ
+- ứng dụng lớn nhất của [kh máy tính](ungdungkhmt) là gì ạ
+- ứng dụng lớn nhất của [kh máy tình](ungdungkhmt) là gì ạ
 - học [ktpm](ungdungktpm) ra làm được những gì
+- học [ktpmm](ungdungktpm) ra làm được những gì
+- học [kỹ thuật phần mềm](ungdungktpm) ra làm được những gì
+- học [ky thuat phan mem](ungdungktpm) ra làm được những gì
+- học [ki thuật phần mềm](ungdungktpm) ra làm được những gì
+- học [kỹ thuat phần mềm](ungdungktpm) ra làm được những gì
+- học [kỹ thuật phần mềm](ungdungktpm) ra làm được những gì
+- học [cong nghệ phần mềm](ungdungktpm) ra làm được những gì
+- học [công nghệ phần mềm](ungdungktpm) ra làm được những gì
+- học [cong nghe phan mem](ungdungktpm) ra làm được những gì
+- học [SE](ungdungktpm) ra làm được những gì
+- học [kt phần mềm](ungdungktpm) ra làm được những gì
+- học [kt phan mem](ungdungktpm) ra làm được những gì
+- học [kỹ thuật phân mem](ungdungktpm) ra làm được những gì
+- học [phan mem](ungdungktpm) ra làm được những gì
+- học [phần mềm](ungdungktpm) ra làm được những gì
+- học [kt pm](ungdungktpm) ra làm được những gì
 - ai có thể cho em biết [ktpm](ungdungktpm) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [ktpmm](ungdungktpm) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [kỹ thuật phần mềm](ungdungktpm) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [ky thuat phan mem](ungdungktpm) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [ki thuật phần mềm](ungdungktpm) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [kỹ thuat phần mềm](ungdungktpm) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [kỹ thuật phần mềm](ungdungktpm) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [cong nghệ phần mềm](ungdungktpm) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [công nghệ phần mềm](ungdungktpm) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [cong nghe phan mem](ungdungktpm) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [SE](ungdungktpm) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [kt phần mềm](ungdungktpm) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [kt phan mem](ungdungktpm) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [kỹ thuật phân mem](ungdungktpm) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [phan mem](ungdungktpm) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [phần mềm](ungdungktpm) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [kt pm](ungdungktpm) và ứng dụng của nó được không ạ
 - ứng dụng lớn nhất của [ktpm](ungdungktpm) là gì ạ
-- học [kỹ thuật phần mềm](ungdungktpm:ktpm) ra làm được những gì
-- ai có thể cho em biết [kỹ thuật phần mềm](ungdungktpm:ktpm) và ứng dụng của nó được không ạ
-- ứng dụng lớn nhất của [kỹ thuật phần mềm](ungdungktpm:ktpm) là gì ạ
-- học [ky thuat phan mem](ungdungktpm:ktpm) ra làm được những gì
-- ai có thể cho em biết [ky thuat phan mem](ungdungktpm:ktpm) và ứng dụng của nó được không ạ
-- ứng dụng lớn nhất của [ky thuat pham mem](ungdungktpm:ktpm) là gì ạ
+- ứng dụng lớn nhất của [ktpmm](ungdungktpm) là gì ạ
+- ứng dụng lớn nhất của [kỹ thuật phần mềm](ungdungktpm) là gì ạ
+- ứng dụng lớn nhất của [ky thuat phan mem](ungdungktpm) là gì ạ
+- ứng dụng lớn nhất của [ki thuật phần mềm](ungdungktpm) là gì ạ
+- ứng dụng lớn nhất của [kỹ thuat phần mềm](ungdungktpm) là gì ạ
+- ứng dụng lớn nhất của [kỹ thuật phần mềm](ungdungktpm) là gì ạ
+- ứng dụng lớn nhất của [cong nghệ phần mềm](ungdungktpm) là gì ạ
+- ứng dụng lớn nhất của [công nghệ phần mềm](ungdungktpm) là gì ạ
+- ứng dụng lớn nhất của [cong nghe phan mem](ungdungktpm) là gì ạ
+- ứng dụng lớn nhất của [SE](ungdungktpm) là gì ạ
+- ứng dụng lớn nhất của [kt phần mềm](ungdungktpm) là gì ạ
+- ứng dụng lớn nhất của [kt phan mem](ungdungktpm) là gì ạ
+- ứng dụng lớn nhất của [kỹ thuật phân mem](ungdungktpm) là gì ạ
+- ứng dụng lớn nhất của [phan mem](ungdungktpm) là gì ạ
+- ứng dụng lớn nhất của [phần mềm](ungdungktpm) là gì ạ
+- ứng dụng lớn nhất của [kt pm](ungdungktpm) là gì ạ
 - học [cntt](ungdungcntt) ra làm được những gì
+- học [cnttt](ungdungcntt) ra làm được những gì
+- học [công nghệ thông tin](ungdungcntt) ra làm được những gì
+- học [cong nghe thong tin](ungdungcntt) ra làm được những gì
+- học [công nghệ thong tin](ungdungcntt) ra làm được những gì
+- học [cong nghe thông tin](ungdungcntt) ra làm được những gì
+- học [IT](ungdungcntt) ra làm được những gì
+- học [công nghệ thông tin](ungdungcntt) ra làm được những gì
+- học [cong nghệ thông tin](ungdungcntt) ra làm được những gì
+- học [công nghệ thông tinn](ungdungcntt) ra làm được những gì
+- học [cn thong tin](ungdungcntt) ra làm được những gì
+- học [cn tt](ungdungcntt) ra làm được những gì
+- học [cn thông tin](ungdungcntt) ra làm được những gì
+- học [cogn nghệ thông tin](ungdungcntt) ra làm được những gì
+- học [công nghệ tt](ungdungcntt) ra làm được những gì
+- học [cong6 nghệ thong tin](ungdungcntt) ra làm được những gì
+- học [công nghệ thong tin](ungdungcntt) ra làm được những gì
 - ai có thể cho em biết [cntt](ungdungcntt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [cnttt](ungdungcntt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [công nghệ thông tin](ungdungcntt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [cong nghe thong tin](ungdungcntt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [công nghệ thong tin](ungdungcntt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [cong nghe thông tin](ungdungcntt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [IT](ungdungcntt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [công nghệ thông tin](ungdungcntt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [cong nghệ thông tin](ungdungcntt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [công nghệ thông tinn](ungdungcntt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [cn thong tin](ungdungcntt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [cn tt](ungdungcntt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [cn thông tin](ungdungcntt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [cogn nghệ thông tin](ungdungcntt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [công nghệ tt](ungdungcntt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [cong6 nghệ thong tin](ungdungcntt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [công nghệ thong tin](ungdungcntt) và ứng dụng của nó được không ạ
 - ứng dụng lớn nhất của [cntt](ungdungcntt) là gì ạ
-- học [công nghệ thông tin](ungdungcntt:cntt) ra làm được những gì
-- ai có thể cho em biết [công nghệ thông tin](ungdungcntt:cntt) và ứng dụng của nó được không ạ
-- ứng dụng lớn nhất của [công nghệ thông tin](ungdungcntt:cntt) là gì ạ
-- học [cong nghe thong tin](ungdungcntt:cntt) ra làm được những gì
-- ai có thể cho em biết [cong nghe thong tin](ungdungcntt:cntt) và ứng dụng của nó được không ạ
-- ứng dụng lớn nhất của [cong nghe thong tin](ungdungcntt:cntt) là gì ạ
+- ứng dụng lớn nhất của [cnttt](ungdungcntt) là gì ạ
+- ứng dụng lớn nhất của [công nghệ thông tin](ungdungcntt) là gì ạ
+- ứng dụng lớn nhất của [cong nghe thong tin](ungdungcntt) là gì ạ
+- ứng dụng lớn nhất của [công nghệ thong tin](ungdungcntt) là gì ạ
+- ứng dụng lớn nhất của [cong nghe thông tin](ungdungcntt) là gì ạ
+- ứng dụng lớn nhất của [IT](ungdungcntt) là gì ạ
+- ứng dụng lớn nhất của [công nghệ thông tin](ungdungcntt) là gì ạ
+- ứng dụng lớn nhất của [cong nghệ thông tin](ungdungcntt) là gì ạ
+- ứng dụng lớn nhất của [công nghệ thông tinn](ungdungcntt) là gì ạ
+- ứng dụng lớn nhất của [cn thong tin](ungdungcntt) là gì ạ
+- ứng dụng lớn nhất của [cn tt](ungdungcntt) là gì ạ
+- ứng dụng lớn nhất của [cn thông tin](ungdungcntt) là gì ạ
+- ứng dụng lớn nhất của [cogn nghệ thông tin](ungdungcntt) là gì ạ
+- ứng dụng lớn nhất của [công nghệ tt](ungdungcntt) là gì ạ
+- ứng dụng lớn nhất của [cong6 nghệ thong tin](ungdungcntt) là gì ạ
+- ứng dụng lớn nhất của [công nghệ thong tin](ungdungcntt) là gì ạ
 - học [httt](ungdunghttt) ra làm được những gì
+- học [hhttt](ungdunghttt) ra làm được những gì
+- học [IS](ungdunghttt) ra làm được những gì
+- học [hệ thống thông tin](ungdunghttt) ra làm được những gì
+- học [he thong thong tin](ungdunghttt) ra làm được những gì
+- học [hệ thông thông tin](ungdunghttt) ra làm được những gì
+- học [hê thong thông tin](ungdunghttt) ra làm được những gì
+- học [hệ thống thông tin](ungdunghttt) ra làm được những gì
+- học [hệ thống thông tín](ungdunghttt) ra làm được những gì
+- học [he thống thông tinn](ungdunghttt) ra làm được những gì
+- học [ht thông tin](ungdunghttt) ra làm được những gì
+- học [hệ thống tt](ungdunghttt) ra làm được những gì
+- học [he thống tt](ungdunghttt) ra làm được những gì
+- học [ht thông tin](ungdunghttt) ra làm được những gì
+- học [ht thong6 tin](ungdunghttt) ra làm được những gì
 - ai có thể cho em biết [httt](ungdunghttt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [hhttt](ungdunghttt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [IS](ungdunghttt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [hệ thống thông tin](ungdunghttt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [he thong thong tin](ungdunghttt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [hệ thông thông tin](ungdunghttt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [hê thong thông tin](ungdunghttt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [hệ thống thông tin](ungdunghttt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [hệ thống thông tín](ungdunghttt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [he thống thông tinn](ungdunghttt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [ht thông tin](ungdunghttt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [hệ thống tt](ungdunghttt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [he thống tt](ungdunghttt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [ht thông tin](ungdunghttt) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [ht thong6 tin](ungdunghttt) và ứng dụng của nó được không ạ
 - ứng dụng lớn nhất của [httt](ungdunghttt) là gì ạ
-- học [hệ thống thông tin](ungdunghttt:httt) ra làm được những gì
-- ai có thể cho em biết [hệ thống thông tin](ungdunghttt:httt) và ứng dụng của nó được không ạ
-- ứng dụng lớn nhất của [hệ thống thông tin](ungdunghttt:httt) là gì ạ
-- học [he thong thong tin](ungdunghttt:httt) ra làm được những gì
-- ai có thể cho em biết [he thong thong tin](ungdunghttt:httt) và ứng dụng của nó được không ạ
-- ứng dụng lớn nhất của [he thong thong tin](ungdunghttt:httt) là gì ạ
+- ứng dụng lớn nhất của [hhttt](ungdunghttt) là gì ạ
+- ứng dụng lớn nhất của [IS](ungdunghttt) là gì ạ
+- ứng dụng lớn nhất của [hệ thống thông tin](ungdunghttt) là gì ạ
+- ứng dụng lớn nhất của [he thong thong tin](ungdunghttt) là gì ạ
+- ứng dụng lớn nhất của [hệ thông thông tin](ungdunghttt) là gì ạ
+- ứng dụng lớn nhất của [hê thong thông tin](ungdunghttt) là gì ạ
+- ứng dụng lớn nhất của [hệ thống thông tin](ungdunghttt) là gì ạ
+- ứng dụng lớn nhất của [hệ thống thông tín](ungdunghttt) là gì ạ
+- ứng dụng lớn nhất của [he thống thông tinn](ungdunghttt) là gì ạ
+- ứng dụng lớn nhất của [ht thông tin](ungdunghttt) là gì ạ
+- ứng dụng lớn nhất của [hệ thống tt](ungdunghttt) là gì ạ
+- ứng dụng lớn nhất của [he thống tt](ungdunghttt) là gì ạ
+- ứng dụng lớn nhất của [ht thông tin](ungdunghttt) là gì ạ
+- ứng dụng lớn nhất của [ht thong6 tin](ungdunghttt) là gì ạ
 - học [khdl](ungdungkhdl) ra làm được những gì
+- học [khdk](ungdungkhdl) ra làm được những gì
+- học [khoa học dữ liệu](ungdungkhdl) ra làm được những gì
+- học [khoa hoc du lieu](ungdungkhdl) ra làm được những gì
+- học [khoa học du lieu](ungdungkhdl) ra làm được những gì
+- học [khoa hoc du liệu](ungdungkhdl) ra làm được những gì
+- học [khao học dữ leiu](ungdungkhdl) ra làm được những gì
+- học [khao học du lieu](ungdungkhdl) ra làm được những gì
+- học [khao học dữ leiu](ungdungkhdl) ra làm được những gì
+- học [khoa học du lieuu](ungdungkhdl) ra làm được những gì
+- học [kh dl](ungdungkhdl) ra làm được những gì
+- học [kh dữ liệu](ungdungkhdl) ra làm được những gì
+- học [khoa hoc dữ liệu](ungdungkhdl) ra làm được những gì
+- học [khoa học dl](ungdungkhdl) ra làm được những gì
 - ai có thể cho em biết [khdl](ungdungkhdl) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [khdk](ungdungkhdl) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [khoa học dữ liệu](ungdungkhdl) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [khoa hoc du lieu](ungdungkhdl) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [khoa học du lieu](ungdungkhdl) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [khoa hoc du liệu](ungdungkhdl) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [khao học dữ leiu](ungdungkhdl) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [khao học du lieu](ungdungkhdl) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [khao học dữ leiu](ungdungkhdl) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [khoa học du lieuu](ungdungkhdl) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [kh dl](ungdungkhdl) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [kh dữ liệu](ungdungkhdl) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [khoa hoc dữ liệu](ungdungkhdl) và ứng dụng của nó được không ạ
+- ai có thể cho em biết [khoa học dl](ungdungkhdl) và ứng dụng của nó được không ạ
 - ứng dụng lớn nhất của [khdl](ungdungkhdl) là gì ạ
-- học [khoa học dữ liệu](ungdungkhdl:khdl) ra làm được những gì
-- ai có thể cho em biết [khoa học dữ liệu](ungdungkhdl:khdl) và ứng dụng của nó được không ạ
-- ứng dụng lớn nhất của [khoa học dữ liệu](ungdungkhdl:khdl) là gì ạ
-- học [khoa hoc du lieu](ungdungkhdl:khdl) ra làm được những gì
-- ai có thể cho em biết [khoa hoc du lieu](ungdungkhdl:khdl) và ứng dụng của nó được không ạ
-- ứng dụng lớn nhất của [khoa hoc du lieu](ungdungkhdl:khdl) là gì ạ
-
-
+- ứng dụng lớn nhất của [khdk](ungdungkhdl) là gì ạ
+- ứng dụng lớn nhất của [khoa học dữ liệu](ungdungkhdl) là gì ạ
+- ứng dụng lớn nhất của [khoa hoc du lieu](ungdungkhdl) là gì ạ
+- ứng dụng lớn nhất của [khoa học du lieu](ungdungkhdl) là gì ạ
+- ứng dụng lớn nhất của [khoa hoc du liệu](ungdungkhdl) là gì ạ
+- ứng dụng lớn nhất của [khao học dữ leiu](ungdungkhdl) là gì ạ
+- ứng dụng lớn nhất của [khao học du lieu](ungdungkhdl) là gì ạ
+- ứng dụng lớn nhất của [khao học dữ leiu](ungdungkhdl) là gì ạ
+- ứng dụng lớn nhất của [khoa học du lieuu](ungdungkhdl) là gì ạ
+- ứng dụng lớn nhất của [kh dl](ungdungkhdl) là gì ạ
+- ứng dụng lớn nhất của [kh dữ liệu](ungdungkhdl) là gì ạ
+- ứng dụng lớn nhất của [khoa hoc dữ liệu](ungdungkhdl) là gì ạ
+- ứng dụng lớn nhất của [khoa học dl](ungdungkhdl) là gì ạ
 ## intent: linhvuc
-- muốn làm về lĩnh vực m ạng máy tính (an ninh m ạng, quản trị m ạng,…), nên bắt đầu như thế nào khi học [khmt](linhvuckhmt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khmt](linhvuckhmt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khtm](linhvuckhmt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khoa học máy tính](linhvuckhmt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khoa hoc may tinh](linhvuckhmt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [cong nghe may tinh](linhvuckhmt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khao hoc may tinh](linhvuckhmt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khao học may tinh](linhvuckhmt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [công nghệ máy tính](linhvuckhmt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khao học máy tinh](linhvuckhmt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khoa học may tinh](linhvuckhmt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [CS](linhvuckhmt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [kh máy tinh](linhvuckhmt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [kh may tính](linhvuckhmt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [kh máy tính](linhvuckhmt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [kh máy tình](linhvuckhmt)
 - học [khmt](linhvuckhmt) thì có làm được hacker hay không
-- muốn làm về lĩnh vực trí tuệ nhân t ạo khi học [khmt](linhvuckhmt) có được không
-- muốn làm về lĩnh vực m ạng máy tính (an ninh m ạng, quản trị m ạng,…), nên bắt đầu như thế nào khi học [ktpm](linhvucktpm)
+- học [khtm](linhvuckhmt) thì có làm được hacker hay không
+- học [khoa học máy tính](linhvuckhmt) thì có làm được hacker hay không
+- học [khoa hoc may tinh](linhvuckhmt) thì có làm được hacker hay không
+- học [cong nghe may tinh](linhvuckhmt) thì có làm được hacker hay không
+- học [khao hoc may tinh](linhvuckhmt) thì có làm được hacker hay không
+- học [khao học may tinh](linhvuckhmt) thì có làm được hacker hay không
+- học [công nghệ máy tính](linhvuckhmt) thì có làm được hacker hay không
+- học [khao học máy tinh](linhvuckhmt) thì có làm được hacker hay không
+- học [khoa học may tinh](linhvuckhmt) thì có làm được hacker hay không
+- học [CS](linhvuckhmt) thì có làm được hacker hay không
+- học [kh máy tinh](linhvuckhmt) thì có làm được hacker hay không
+- học [kh may tính](linhvuckhmt) thì có làm được hacker hay không
+- học [kh máy tính](linhvuckhmt) thì có làm được hacker hay không
+- học [kh máy tình](linhvuckhmt) thì có làm được hacker hay không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khmt](linhvuckhmt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khtm](linhvuckhmt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khoa học máy tính](linhvuckhmt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khoa hoc may tinh](linhvuckhmt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [cong nghe may tinh](linhvuckhmt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khao hoc may tinh](linhvuckhmt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khao học may tinh](linhvuckhmt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [công nghệ máy tính](linhvuckhmt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khao học máy tinh](linhvuckhmt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khoa học may tinh](linhvuckhmt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [CS](linhvuckhmt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [kh máy tinh](linhvuckhmt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [kh may tính](linhvuckhmt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [kh máy tính](linhvuckhmt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [kh máy tình](linhvuckhmt) có được không
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [ktpm](linhvucktpm)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [ktpmm](linhvucktpm)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [kỹ thuật phần mềm](linhvucktpm)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [ky thuat phan mem](linhvucktpm)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [ki thuật phần mềm](linhvucktpm)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [kỹ thuat phần mềm](linhvucktpm)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [kỹ thuật phần mềm](linhvucktpm)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [cong nghệ phần mềm](linhvucktpm)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [công nghệ phần mềm](linhvucktpm)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [cong nghe phan mem](linhvucktpm)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [SE](linhvucktpm)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [kt phần mềm](linhvucktpm)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [kt phan mem](linhvucktpm)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [kỹ thuật phân mem](linhvucktpm)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [phan mem](linhvucktpm)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [phần mềm](linhvucktpm)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [kt pm](linhvucktpm)
 - học [ktpm](linhvucktpm) thì có làm được hacker hay không
-- muốn làm về lĩnh vực trí tuệ nhân t ạo khi học [ktpm](linhvucktpm) có được không
-- muốn làm về lĩnh vực m ạng máy tính (an ninh m ạng, quản trị m ạng,…), nên bắt đầu như thế nào khi học [cntt](linhvuccntt)
+- học [ktpmm](linhvucktpm) thì có làm được hacker hay không
+- học [kỹ thuật phần mềm](linhvucktpm) thì có làm được hacker hay không
+- học [ky thuat phan mem](linhvucktpm) thì có làm được hacker hay không
+- học [ki thuật phần mềm](linhvucktpm) thì có làm được hacker hay không
+- học [kỹ thuat phần mềm](linhvucktpm) thì có làm được hacker hay không
+- học [kỹ thuật phần mềm](linhvucktpm) thì có làm được hacker hay không
+- học [cong nghệ phần mềm](linhvucktpm) thì có làm được hacker hay không
+- học [công nghệ phần mềm](linhvucktpm) thì có làm được hacker hay không
+- học [cong nghe phan mem](linhvucktpm) thì có làm được hacker hay không
+- học [SE](linhvucktpm) thì có làm được hacker hay không
+- học [kt phần mềm](linhvucktpm) thì có làm được hacker hay không
+- học [kt phan mem](linhvucktpm) thì có làm được hacker hay không
+- học [kỹ thuật phân mem](linhvucktpm) thì có làm được hacker hay không
+- học [phan mem](linhvucktpm) thì có làm được hacker hay không
+- học [phần mềm](linhvucktpm) thì có làm được hacker hay không
+- học [kt pm](linhvucktpm) thì có làm được hacker hay không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [ktpm](linhvucktpm) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [ktpmm](linhvucktpm) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [kỹ thuật phần mềm](linhvucktpm) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [ky thuat phan mem](linhvucktpm) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [ki thuật phần mềm](linhvucktpm) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [kỹ thuat phần mềm](linhvucktpm) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [kỹ thuật phần mềm](linhvucktpm) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [cong nghệ phần mềm](linhvucktpm) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [công nghệ phần mềm](linhvucktpm) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [cong nghe phan mem](linhvucktpm) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [SE](linhvucktpm) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [kt phần mềm](linhvucktpm) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [kt phan mem](linhvucktpm) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [kỹ thuật phân mem](linhvucktpm) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [phan mem](linhvucktpm) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [phần mềm](linhvucktpm) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [kt pm](linhvucktpm) có được không
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [cntt](linhvuccntt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [cnttt](linhvuccntt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [công nghệ thông tin](linhvuccntt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [cong nghe thong tin](linhvuccntt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [công nghệ thong tin](linhvuccntt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [cong nghe thông tin](linhvuccntt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [IT](linhvuccntt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [công nghệ thông tin](linhvuccntt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [cong nghệ thông tin](linhvuccntt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [công nghệ thông tinn](linhvuccntt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [cn thong tin](linhvuccntt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [cn tt](linhvuccntt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [cn thông tin](linhvuccntt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [cogn nghệ thông tin](linhvuccntt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [công nghệ tt](linhvuccntt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [cong6 nghệ thong tin](linhvuccntt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [công nghệ thong tin](linhvuccntt)
 - học [cntt](linhvuccntt) thì có làm được hacker hay không
-- muốn làm về lĩnh vực trí tuệ nhân t ạo khi học [cntt](linhvuccntt) có được không
-- muốn làm về lĩnh vực m ạng máy tính (an ninh m ạng, quản trị m ạng,…), nên bắt đầu như thế nào khi học [httt](linhvuchttt)
+- học [cnttt](linhvuccntt) thì có làm được hacker hay không
+- học [công nghệ thông tin](linhvuccntt) thì có làm được hacker hay không
+- học [cong nghe thong tin](linhvuccntt) thì có làm được hacker hay không
+- học [công nghệ thong tin](linhvuccntt) thì có làm được hacker hay không
+- học [cong nghe thông tin](linhvuccntt) thì có làm được hacker hay không
+- học [IT](linhvuccntt) thì có làm được hacker hay không
+- học [công nghệ thông tin](linhvuccntt) thì có làm được hacker hay không
+- học [cong nghệ thông tin](linhvuccntt) thì có làm được hacker hay không
+- học [công nghệ thông tinn](linhvuccntt) thì có làm được hacker hay không
+- học [cn thong tin](linhvuccntt) thì có làm được hacker hay không
+- học [cn tt](linhvuccntt) thì có làm được hacker hay không
+- học [cn thông tin](linhvuccntt) thì có làm được hacker hay không
+- học [cogn nghệ thông tin](linhvuccntt) thì có làm được hacker hay không
+- học [công nghệ tt](linhvuccntt) thì có làm được hacker hay không
+- học [cong6 nghệ thong tin](linhvuccntt) thì có làm được hacker hay không
+- học [công nghệ thong tin](linhvuccntt) thì có làm được hacker hay không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [cntt](linhvuccntt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [cnttt](linhvuccntt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [công nghệ thông tin](linhvuccntt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [cong nghe thong tin](linhvuccntt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [công nghệ thong tin](linhvuccntt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [cong nghe thông tin](linhvuccntt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [IT](linhvuccntt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [công nghệ thông tin](linhvuccntt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [cong nghệ thông tin](linhvuccntt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [công nghệ thông tinn](linhvuccntt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [cn thong tin](linhvuccntt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [cn tt](linhvuccntt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [cn thông tin](linhvuccntt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [cogn nghệ thông tin](linhvuccntt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [công nghệ tt](linhvuccntt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [cong6 nghệ thong tin](linhvuccntt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [công nghệ thong tin](linhvuccntt) có được không
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [httt](linhvuchttt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [hhttt](linhvuchttt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [IS](linhvuchttt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [hệ thống thông tin](linhvuchttt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [he thong thong tin](linhvuchttt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [hệ thông thông tin](linhvuchttt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [hê thong thông tin](linhvuchttt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [hệ thống thông tin](linhvuchttt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [hệ thống thông tín](linhvuchttt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [he thống thông tinn](linhvuchttt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [ht thông tin](linhvuchttt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [hệ thống tt](linhvuchttt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [he thống tt](linhvuchttt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [ht thông tin](linhvuchttt)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [ht thong6 tin](linhvuchttt)
 - học [httt](linhvuchttt) thì có làm được hacker hay không
-- muốn làm về lĩnh vực trí tuệ nhân t ạo khi học [httt](linhvuchttt) có được không
-- muốn làm về lĩnh vực m ạng máy tính (an ninh m ạng, quản trị m ạng,…), nên bắt đầu như thế nào khi học [khdl](linhvuckhdl)
+- học [hhttt](linhvuchttt) thì có làm được hacker hay không
+- học [IS](linhvuchttt) thì có làm được hacker hay không
+- học [hệ thống thông tin](linhvuchttt) thì có làm được hacker hay không
+- học [he thong thong tin](linhvuchttt) thì có làm được hacker hay không
+- học [hệ thông thông tin](linhvuchttt) thì có làm được hacker hay không
+- học [hê thong thông tin](linhvuchttt) thì có làm được hacker hay không
+- học [hệ thống thông tin](linhvuchttt) thì có làm được hacker hay không
+- học [hệ thống thông tín](linhvuchttt) thì có làm được hacker hay không
+- học [he thống thông tinn](linhvuchttt) thì có làm được hacker hay không
+- học [ht thông tin](linhvuchttt) thì có làm được hacker hay không
+- học [hệ thống tt](linhvuchttt) thì có làm được hacker hay không
+- học [he thống tt](linhvuchttt) thì có làm được hacker hay không
+- học [ht thông tin](linhvuchttt) thì có làm được hacker hay không
+- học [ht thong6 tin](linhvuchttt) thì có làm được hacker hay không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [httt](linhvuchttt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [hhttt](linhvuchttt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [IS](linhvuchttt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [hệ thống thông tin](linhvuchttt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [he thong thong tin](linhvuchttt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [hệ thông thông tin](linhvuchttt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [hê thong thông tin](linhvuchttt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [hệ thống thông tin](linhvuchttt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [hệ thống thông tín](linhvuchttt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [he thống thông tinn](linhvuchttt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [ht thông tin](linhvuchttt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [hệ thống tt](linhvuchttt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [he thống tt](linhvuchttt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [ht thông tin](linhvuchttt) có được không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [ht thong6 tin](linhvuchttt) có được không
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khdl](linhvuckhdl)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khdk](linhvuckhdl)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khoa học dữ liệu](linhvuckhdl)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khoa hoc du lieu](linhvuckhdl)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khoa học du lieu](linhvuckhdl)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khoa hoc du liệu](linhvuckhdl)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khao học dữ leiu](linhvuckhdl)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khao học du lieu](linhvuckhdl)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khao học dữ leiu](linhvuckhdl)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khoa học du lieuu](linhvuckhdl)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [kh dl](linhvuckhdl)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [kh dữ liệu](linhvuckhdl)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khoa hoc dữ liệu](linhvuckhdl)
+- muốn làm về lĩnh vực mạng máy tính (an ninh mạng, quản trị mạng,…), nên bắt đầu như thế nào khi học [khoa học dl](linhvuckhdl)
 - học [khdl](linhvuckhdl) thì có làm được hacker hay không
-- muốn làm về lĩnh vực trí tuệ nhân t ạo khi học [khdl](linhvuckhdl) có được không.
-- muốn làm về lĩnh vực m ạng máy tính (an ninh m ạng, quản trị m ạng,…), nên bắt đầu như thế nào khi học [khoa học máy tính](linhvuckhmt:khmt)
-- học [khoa học máy tính](linhvuckhmt:khmt) thì có làm được hacker hay không
-- muốn làm về lĩnh vực trí tuệ nhân t ạo khi học [khoa học máy tính](linhvuckhmt:khmt) có được không
-- muốn làm về lĩnh vực m ạng máy tính (an ninh m ạng, quản trị m ạng,…), nên bắt đầu như thế nào khi học [kỹ thuật phần mềm](linhvucktpm:ktpm)
+- học [khdk](linhvuckhdl) thì có làm được hacker hay không
+- học [khoa học dữ liệu](linhvuckhdl) thì có làm được hacker hay không
+- học [khoa hoc du lieu](linhvuckhdl) thì có làm được hacker hay không
+- học [khoa học du lieu](linhvuckhdl) thì có làm được hacker hay không
+- học [khoa hoc du liệu](linhvuckhdl) thì có làm được hacker hay không
+- học [khao học dữ leiu](linhvuckhdl) thì có làm được hacker hay không
+- học [khao học du lieu](linhvuckhdl) thì có làm được hacker hay không
+- học [khao học dữ leiu](linhvuckhdl) thì có làm được hacker hay không
+- học [khoa học du lieuu](linhvuckhdl) thì có làm được hacker hay không
+- học [kh dl](linhvuckhdl) thì có làm được hacker hay không
+- học [kh dữ liệu](linhvuckhdl) thì có làm được hacker hay không
+- học [khoa hoc dữ liệu](linhvuckhdl) thì có làm được hacker hay không
+- học [khoa học dl](linhvuckhdl) thì có làm được hacker hay không
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khdl](linhvuckhdl) có được không.
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khdk](linhvuckhdl) có được không.
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khoa học dữ liệu](linhvuckhdl) có được không.
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khoa hoc du lieu](linhvuckhdl) có được không.
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khoa học du lieu](linhvuckhdl) có được không.
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khoa hoc du liệu](linhvuckhdl) có được không.
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khao học dữ leiu](linhvuckhdl) có được không.
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khao học du lieu](linhvuckhdl) có được không.
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khao học dữ leiu](linhvuckhdl) có được không.
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khoa học du lieuu](linhvuckhdl) có được không.
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [kh dl](linhvuckhdl) có được không.
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [kh dữ liệu](linhvuckhdl) có được không.
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khoa hoc dữ liệu](linhvuckhdl) có được không.
+- muốn làm về lĩnh vực trí tuệ nhân tạo khi học [khoa học dl](linhvuckhdl) có được không.
 - học [ktpm](linhvucktpm) thì có làm được hacker hay không
-- muốn làm về lĩnh vực trí tuệ nhân t ạo khi học [kỹ thuật phần mềm](linhvucktpm:ktpm) có được không
-- muốn làm về lĩnh vực m ạng máy tính (an ninh m ạng, quản trị m ạng,…), nên bắt đầu như thế nào khi học [công nghệ thông tin](linhvuccntt:cntt)
-- học [công nghệ thông tin](linhvuccntt:cntt) thì có làm được hacker hay không
-- muốn làm về lĩnh vực trí tuệ nhân t ạo khi học [công nghệ thông tin](linhvuccntt:cntt) có được không
-- muốn làm về lĩnh vực m ạng máy tính (an ninh m ạng, quản trị m ạng,…), nên bắt đầu như thế nào khi học [hệ thống thông tin](linhvuchttt:httt)
-- học [hệ thống thông tin](linhvuchttt:httt) thì có làm được hacker hay không
-- muốn làm về lĩnh vực trí tuệ nhân t ạo khi học [hệ thống thông tin](linhvuchttt:httt) có được không
-- muốn làm về lĩnh vực m ạng máy tính (an ninh m ạng, quản trị m ạng,…), nên bắt đầu như thế nào khi học [khoa học dữ liệu](linhvuckhdl:khdl)
-- học [khoa học dữ liệu](linhvuckhdl:khdl) thì có làm được hacker hay không
-- muốn làm về lĩnh vực trí tuệ nhân t ạo khi học [khoa học dữ liệu](linhvuckhdl:khdl) có được không.
-- [khmt](linhvuckhmt) thuộc lĩnh vực nào trong đời sống, vì sao l ại cần có ngành [khmt](linhvuckhmt)
+- học [ktpmm](linhvucktpm) thì có làm được hacker hay không
+- học [kỹ thuật phần mềm](linhvucktpm) thì có làm được hacker hay không
+- học [ky thuat phan mem](linhvucktpm) thì có làm được hacker hay không
+- học [ki thuật phần mềm](linhvucktpm) thì có làm được hacker hay không
+- học [kỹ thuat phần mềm](linhvucktpm) thì có làm được hacker hay không
+- học [kỹ thuật phần mềm](linhvucktpm) thì có làm được hacker hay không
+- học [cong nghệ phần mềm](linhvucktpm) thì có làm được hacker hay không
+- học [công nghệ phần mềm](linhvucktpm) thì có làm được hacker hay không
+- học [cong nghe phan mem](linhvucktpm) thì có làm được hacker hay không
+- học [SE](linhvucktpm) thì có làm được hacker hay không
+- học [kt phần mềm](linhvucktpm) thì có làm được hacker hay không
+- học [kt phan mem](linhvucktpm) thì có làm được hacker hay không
+- học [kỹ thuật phân mem](linhvucktpm) thì có làm được hacker hay không
+- học [phan mem](linhvucktpm) thì có làm được hacker hay không
+- học [phần mềm](linhvucktpm) thì có làm được hacker hay không
+- học [kt pm](linhvucktpm) thì có làm được hacker hay không
+- [khmt](linhvuckhmt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khmt](linhvuckhmt)
+- [khtm](linhvuckhmt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khmt](linhvuckhmt)
+- [khoa học máy tính](linhvuckhmt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khmt](linhvuckhmt)
+- [khoa hoc may tinh](linhvuckhmt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khmt](linhvuckhmt)
+- [cong nghe may tinh](linhvuckhmt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khmt](linhvuckhmt)
+- [khao hoc may tinh](linhvuckhmt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khmt](linhvuckhmt)
+- [khao học may tinh](linhvuckhmt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khmt](linhvuckhmt)
+- [công nghệ máy tính](linhvuckhmt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khmt](linhvuckhmt)
+- [khao học máy tinh](linhvuckhmt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khmt](linhvuckhmt)
+- [khoa học may tinh](linhvuckhmt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khmt](linhvuckhmt)
+- [CS](linhvuckhmt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khmt](linhvuckhmt)
+- [kh máy tinh](linhvuckhmt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khmt](linhvuckhmt)
+- [kh may tính](linhvuckhmt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khmt](linhvuckhmt)
+- [kh máy tính](linhvuckhmt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khmt](linhvuckhmt)
+- [kh máy tình](linhvuckhmt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khmt](linhvuckhmt)
 - lĩnh vực về [khmt](linhvuckhmt) có nhiều không
+- lĩnh vực về [khtm](linhvuckhmt) có nhiều không
+- lĩnh vực về [khoa học máy tính](linhvuckhmt) có nhiều không
+- lĩnh vực về [khoa hoc may tinh](linhvuckhmt) có nhiều không
+- lĩnh vực về [cong nghe may tinh](linhvuckhmt) có nhiều không
+- lĩnh vực về [khao hoc may tinh](linhvuckhmt) có nhiều không
+- lĩnh vực về [khao học may tinh](linhvuckhmt) có nhiều không
+- lĩnh vực về [công nghệ máy tính](linhvuckhmt) có nhiều không
+- lĩnh vực về [khao học máy tinh](linhvuckhmt) có nhiều không
+- lĩnh vực về [khoa học may tinh](linhvuckhmt) có nhiều không
+- lĩnh vực về [CS](linhvuckhmt) có nhiều không
+- lĩnh vực về [kh máy tinh](linhvuckhmt) có nhiều không
+- lĩnh vực về [kh may tính](linhvuckhmt) có nhiều không
+- lĩnh vực về [kh máy tính](linhvuckhmt) có nhiều không
+- lĩnh vực về [kh máy tình](linhvuckhmt) có nhiều không
 - [khmt](linhvuckhmt) nghiên cứu những lĩnh vự nào
-- [khoa học máy tính](linhvuckhmt:khmt) thuộc lĩnh vực nào trong đời sống, vì sao l ại cần có ngành [khoa học máy tính](linhvuckhmt:khmt)
-- lĩnh vực về [khoa học máy tính](linhvuckhmt:khmt) có nhiều không
-- [khoa học máy tính](linhvuckhmt:khmt) nghiên cứu những lĩnh vự nào
-- [khoa hoc may tinh](linhvuckhmt:khmt) thuộc lĩnh vực nào trong đời sống, vì sao l ại cần có ngành [khoa hoc may tinh](linhvuckhmt:khmt)
-- lĩnh vực về [khoa hoc may tinh](linhvuckhmt:khmt) có nhiều không
-- [khoa hoc may tinh](linhvuckhmt:khmt) nghiên cứu những lĩnh vự nào
-- [ktpm](linhvucktpm) thuộc lĩnh vực nào trong đời sống, vì sao l ại cần có ngành [ktpm](linhvucktpm)
+- [khtm](linhvuckhmt) nghiên cứu những lĩnh vự nào
+- [khoa học máy tính](linhvuckhmt) nghiên cứu những lĩnh vự nào
+- [khoa hoc may tinh](linhvuckhmt) nghiên cứu những lĩnh vự nào
+- [cong nghe may tinh](linhvuckhmt) nghiên cứu những lĩnh vự nào
+- [khao hoc may tinh](linhvuckhmt) nghiên cứu những lĩnh vự nào
+- [khao học may tinh](linhvuckhmt) nghiên cứu những lĩnh vự nào
+- [công nghệ máy tính](linhvuckhmt) nghiên cứu những lĩnh vự nào
+- [khao học máy tinh](linhvuckhmt) nghiên cứu những lĩnh vự nào
+- [khoa học may tinh](linhvuckhmt) nghiên cứu những lĩnh vự nào
+- [CS](linhvuckhmt) nghiên cứu những lĩnh vự nào
+- [kh máy tinh](linhvuckhmt) nghiên cứu những lĩnh vự nào
+- [kh may tính](linhvuckhmt) nghiên cứu những lĩnh vự nào
+- [kh máy tính](linhvuckhmt) nghiên cứu những lĩnh vự nào
+- [kh máy tình](linhvuckhmt) nghiên cứu những lĩnh vự nào
+- [ktpm](linhvucktpm) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [ktpm](linhvucktpm)
+- [ktpmm](linhvucktpm) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [ktpm](linhvucktpm)
+- [kỹ thuật phần mềm](linhvucktpm) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [ktpm](linhvucktpm)
+- [ky thuat phan mem](linhvucktpm) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [ktpm](linhvucktpm)
+- [ki thuật phần mềm](linhvucktpm) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [ktpm](linhvucktpm)
+- [kỹ thuat phần mềm](linhvucktpm) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [ktpm](linhvucktpm)
+- [kỹ thuật phần mềm](linhvucktpm) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [ktpm](linhvucktpm)
+- [cong nghệ phần mềm](linhvucktpm) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [ktpm](linhvucktpm)
+- [công nghệ phần mềm](linhvucktpm) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [ktpm](linhvucktpm)
+- [cong nghe phan mem](linhvucktpm) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [ktpm](linhvucktpm)
+- [SE](linhvucktpm) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [ktpm](linhvucktpm)
+- [kt phần mềm](linhvucktpm) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [ktpm](linhvucktpm)
+- [kt phan mem](linhvucktpm) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [ktpm](linhvucktpm)
+- [kỹ thuật phân mem](linhvucktpm) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [ktpm](linhvucktpm)
+- [phan mem](linhvucktpm) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [ktpm](linhvucktpm)
+- [phần mềm](linhvucktpm) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [ktpm](linhvucktpm)
+- [kt pm](linhvucktpm) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [ktpm](linhvucktpm)
 - lĩnh vực về [ktpm](linhvucktpm) có nhiều không
+- lĩnh vực về [ktpmm](linhvucktpm) có nhiều không
+- lĩnh vực về [kỹ thuật phần mềm](linhvucktpm) có nhiều không
+- lĩnh vực về [ky thuat phan mem](linhvucktpm) có nhiều không
+- lĩnh vực về [ki thuật phần mềm](linhvucktpm) có nhiều không
+- lĩnh vực về [kỹ thuat phần mềm](linhvucktpm) có nhiều không
+- lĩnh vực về [kỹ thuật phần mềm](linhvucktpm) có nhiều không
+- lĩnh vực về [cong nghệ phần mềm](linhvucktpm) có nhiều không
+- lĩnh vực về [công nghệ phần mềm](linhvucktpm) có nhiều không
+- lĩnh vực về [cong nghe phan mem](linhvucktpm) có nhiều không
+- lĩnh vực về [SE](linhvucktpm) có nhiều không
+- lĩnh vực về [kt phần mềm](linhvucktpm) có nhiều không
+- lĩnh vực về [kt phan mem](linhvucktpm) có nhiều không
+- lĩnh vực về [kỹ thuật phân mem](linhvucktpm) có nhiều không
+- lĩnh vực về [phan mem](linhvucktpm) có nhiều không
+- lĩnh vực về [phần mềm](linhvucktpm) có nhiều không
+- lĩnh vực về [kt pm](linhvucktpm) có nhiều không
 - [ktpm](linhvucktpm) nghiên cứu những lĩnh vự nào
-- [kỹ thuật phần mềm](linhvucktpm:ktpm) thuộc lĩnh vực nào trong đời sống, vì sao l ại cần có ngành [kỹ thuật phần mềm](linhvucktpm:ktpm)
-- lĩnh vực về [kỹ thuật phần mềm](linhvucktpm:ktpm) có nhiều không
-- [kỹ thuật phần mềm](linhvucktpm:ktpm) nghiên cứu những lĩnh vự nào
-- [ky thuat phan mem](linhvucktpm:ktpm) thuộc lĩnh vực nào trong đời sống, vì sao l ại cần có ngành [ky thuat phan mem](linhvucktpm:ktpm)
-- lĩnh vực về [ky thuat phan mem](linhvucktpm:ktpm) có nhiều không
-- [ky thuat phan mem](linhvucktpm:ktpm) nghiên cứu những lĩnh vự nào
-- [cntt](linhvuccntt) thuộc lĩnh vực nào trong đời sống, vì sao l ại cần có ngành [cntt](linhvuccntt)
+- [ktpmm](linhvucktpm) nghiên cứu những lĩnh vự nào
+- [kỹ thuật phần mềm](linhvucktpm) nghiên cứu những lĩnh vự nào
+- [ky thuat phan mem](linhvucktpm) nghiên cứu những lĩnh vự nào
+- [ki thuật phần mềm](linhvucktpm) nghiên cứu những lĩnh vự nào
+- [kỹ thuat phần mềm](linhvucktpm) nghiên cứu những lĩnh vự nào
+- [kỹ thuật phần mềm](linhvucktpm) nghiên cứu những lĩnh vự nào
+- [cong nghệ phần mềm](linhvucktpm) nghiên cứu những lĩnh vự nào
+- [công nghệ phần mềm](linhvucktpm) nghiên cứu những lĩnh vự nào
+- [cong nghe phan mem](linhvucktpm) nghiên cứu những lĩnh vự nào
+- [SE](linhvucktpm) nghiên cứu những lĩnh vự nào
+- [kt phần mềm](linhvucktpm) nghiên cứu những lĩnh vự nào
+- [kt phan mem](linhvucktpm) nghiên cứu những lĩnh vự nào
+- [kỹ thuật phân mem](linhvucktpm) nghiên cứu những lĩnh vự nào
+- [phan mem](linhvucktpm) nghiên cứu những lĩnh vự nào
+- [phần mềm](linhvucktpm) nghiên cứu những lĩnh vự nào
+- [kt pm](linhvucktpm) nghiên cứu những lĩnh vự nào
+- [cntt](linhvuccntt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [cntt](linhvuccntt)
+- [cnttt](linhvuccntt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [cntt](linhvuccntt)
+- [công nghệ thông tin](linhvuccntt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [cntt](linhvuccntt)
+- [cong nghe thong tin](linhvuccntt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [cntt](linhvuccntt)
+- [công nghệ thong tin](linhvuccntt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [cntt](linhvuccntt)
+- [cong nghe thông tin](linhvuccntt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [cntt](linhvuccntt)
+- [IT](linhvuccntt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [cntt](linhvuccntt)
+- [công nghệ thông tin](linhvuccntt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [cntt](linhvuccntt)
+- [cong nghệ thông tin](linhvuccntt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [cntt](linhvuccntt)
+- [công nghệ thông tinn](linhvuccntt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [cntt](linhvuccntt)
+- [cn thong tin](linhvuccntt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [cntt](linhvuccntt)
+- [cn tt](linhvuccntt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [cntt](linhvuccntt)
+- [cn thông tin](linhvuccntt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [cntt](linhvuccntt)
+- [cogn nghệ thông tin](linhvuccntt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [cntt](linhvuccntt)
+- [công nghệ tt](linhvuccntt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [cntt](linhvuccntt)
+- [cong6 nghệ thong tin](linhvuccntt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [cntt](linhvuccntt)
+- [công nghệ thong tin](linhvuccntt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [cntt](linhvuccntt)
 - lĩnh vực về [cntt](linhvuccntt) có nhiều không
+- lĩnh vực về [cnttt](linhvuccntt) có nhiều không
+- lĩnh vực về [công nghệ thông tin](linhvuccntt) có nhiều không
+- lĩnh vực về [cong nghe thong tin](linhvuccntt) có nhiều không
+- lĩnh vực về [công nghệ thong tin](linhvuccntt) có nhiều không
+- lĩnh vực về [cong nghe thông tin](linhvuccntt) có nhiều không
+- lĩnh vực về [IT](linhvuccntt) có nhiều không
+- lĩnh vực về [công nghệ thông tin](linhvuccntt) có nhiều không
+- lĩnh vực về [cong nghệ thông tin](linhvuccntt) có nhiều không
+- lĩnh vực về [công nghệ thông tinn](linhvuccntt) có nhiều không
+- lĩnh vực về [cn thong tin](linhvuccntt) có nhiều không
+- lĩnh vực về [cn tt](linhvuccntt) có nhiều không
+- lĩnh vực về [cn thông tin](linhvuccntt) có nhiều không
+- lĩnh vực về [cogn nghệ thông tin](linhvuccntt) có nhiều không
+- lĩnh vực về [công nghệ tt](linhvuccntt) có nhiều không
+- lĩnh vực về [cong6 nghệ thong tin](linhvuccntt) có nhiều không
+- lĩnh vực về [công nghệ thong tin](linhvuccntt) có nhiều không
 - [cntt](linhvuccntt) nghiên cứu những lĩnh vự nào
-- [công nghệ thông tin](linhvuccntt:cntt) thuộc lĩnh vực nào trong đời sống, vì sao l ại cần có ngành [công nghệ thông tin](linhvuccntt:cntt)
-- lĩnh vực về [công nghệ thông tin](linhvuccntt:cntt) có nhiều không
-- [công nghệ thông tin](linhvuccntt:cntt) nghiên cứu những lĩnh vự nào
-- [cong nghe thong tin](linhvuccntt:cntt) thuộc lĩnh vực nào trong đời sống, vì sao l ại cần có ngành [cong nghe thong tin](linhvuccntt:cntt)
-- lĩnh vực về [cong nghe thong tin](linhvuccntt:cntt) có nhiều không
-- [cong nghe thong tin](linhvuccntt:cntt) nghiên cứu những lĩnh vự nào
-- [httt](linhvuchttt) thuộc lĩnh vực nào trong đời sống, vì sao l ại cần có ngành [httt](linhvuchttt)
+- [cnttt](linhvuccntt) nghiên cứu những lĩnh vự nào
+- [công nghệ thông tin](linhvuccntt) nghiên cứu những lĩnh vự nào
+- [cong nghe thong tin](linhvuccntt) nghiên cứu những lĩnh vự nào
+- [công nghệ thong tin](linhvuccntt) nghiên cứu những lĩnh vự nào
+- [cong nghe thông tin](linhvuccntt) nghiên cứu những lĩnh vự nào
+- [IT](linhvuccntt) nghiên cứu những lĩnh vự nào
+- [công nghệ thông tin](linhvuccntt) nghiên cứu những lĩnh vự nào
+- [cong nghệ thông tin](linhvuccntt) nghiên cứu những lĩnh vự nào
+- [công nghệ thông tinn](linhvuccntt) nghiên cứu những lĩnh vự nào
+- [cn thong tin](linhvuccntt) nghiên cứu những lĩnh vự nào
+- [cn tt](linhvuccntt) nghiên cứu những lĩnh vự nào
+- [cn thông tin](linhvuccntt) nghiên cứu những lĩnh vự nào
+- [cogn nghệ thông tin](linhvuccntt) nghiên cứu những lĩnh vự nào
+- [công nghệ tt](linhvuccntt) nghiên cứu những lĩnh vự nào
+- [cong6 nghệ thong tin](linhvuccntt) nghiên cứu những lĩnh vự nào
+- [công nghệ thong tin](linhvuccntt) nghiên cứu những lĩnh vự nào
+- [httt](linhvuchttt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [httt](linhvuchttt)
+- [hhttt](linhvuchttt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [httt](linhvuchttt)
+- [IS](linhvuchttt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [httt](linhvuchttt)
+- [hệ thống thông tin](linhvuchttt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [httt](linhvuchttt)
+- [he thong thong tin](linhvuchttt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [httt](linhvuchttt)
+- [hệ thông thông tin](linhvuchttt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [httt](linhvuchttt)
+- [hê thong thông tin](linhvuchttt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [httt](linhvuchttt)
+- [hệ thống thông tin](linhvuchttt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [httt](linhvuchttt)
+- [hệ thống thông tín](linhvuchttt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [httt](linhvuchttt)
+- [he thống thông tinn](linhvuchttt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [httt](linhvuchttt)
+- [ht thông tin](linhvuchttt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [httt](linhvuchttt)
+- [hệ thống tt](linhvuchttt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [httt](linhvuchttt)
+- [he thống tt](linhvuchttt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [httt](linhvuchttt)
+- [ht thông tin](linhvuchttt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [httt](linhvuchttt)
+- [ht thong6 tin](linhvuchttt) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [httt](linhvuchttt)
 - lĩnh vực về [httt](linhvuchttt) có nhiều không
+- lĩnh vực về [hhttt](linhvuchttt) có nhiều không
+- lĩnh vực về [IS](linhvuchttt) có nhiều không
+- lĩnh vực về [hệ thống thông tin](linhvuchttt) có nhiều không
+- lĩnh vực về [he thong thong tin](linhvuchttt) có nhiều không
+- lĩnh vực về [hệ thông thông tin](linhvuchttt) có nhiều không
+- lĩnh vực về [hê thong thông tin](linhvuchttt) có nhiều không
+- lĩnh vực về [hệ thống thông tin](linhvuchttt) có nhiều không
+- lĩnh vực về [hệ thống thông tín](linhvuchttt) có nhiều không
+- lĩnh vực về [he thống thông tinn](linhvuchttt) có nhiều không
+- lĩnh vực về [ht thông tin](linhvuchttt) có nhiều không
+- lĩnh vực về [hệ thống tt](linhvuchttt) có nhiều không
+- lĩnh vực về [he thống tt](linhvuchttt) có nhiều không
+- lĩnh vực về [ht thông tin](linhvuchttt) có nhiều không
+- lĩnh vực về [ht thong6 tin](linhvuchttt) có nhiều không
 - [httt](linhvuchttt) nghiên cứu những lĩnh vự nào
-- [hệ thống thông tin](linhvuchttt:httt) thuộc lĩnh vực nào trong đời sống, vì sao l ại cần có ngành [hệ thống thông tin](linhvuchttt:httt)
-- lĩnh vực về [hệ thống thông tin](linhvuchttt:httt) có nhiều không
-- [hệ thống thông tin](linhvuchttt:httt) nghiên cứu những lĩnh vự nào
-- [he thong thong tin](linhvuchttt:httt) thuộc lĩnh vực nào trong đời sống, vì sao l ại cần có ngành [he thong thong tin](linhvuchttt:httt)
-- lĩnh vực về [he thong thong tin](linhvuchttt:httt) có nhiều không
-- [he thong thong tin](linhvuchttt:httt) nghiên cứu những lĩnh vự nào
-- [khdl](linhvuckhdl) thuộc lĩnh vực nào trong đời sống, vì sao l ại cần có ngành [khdl](linhvuckhdl)
+- [hhttt](linhvuchttt) nghiên cứu những lĩnh vự nào
+- [IS](linhvuchttt) nghiên cứu những lĩnh vự nào
+- [hệ thống thông tin](linhvuchttt) nghiên cứu những lĩnh vự nào
+- [he thong thong tin](linhvuchttt) nghiên cứu những lĩnh vự nào
+- [hệ thông thông tin](linhvuchttt) nghiên cứu những lĩnh vự nào
+- [hê thong thông tin](linhvuchttt) nghiên cứu những lĩnh vự nào
+- [hệ thống thông tin](linhvuchttt) nghiên cứu những lĩnh vự nào
+- [hệ thống thông tín](linhvuchttt) nghiên cứu những lĩnh vự nào
+- [he thống thông tinn](linhvuchttt) nghiên cứu những lĩnh vự nào
+- [ht thông tin](linhvuchttt) nghiên cứu những lĩnh vự nào
+- [hệ thống tt](linhvuchttt) nghiên cứu những lĩnh vự nào
+- [he thống tt](linhvuchttt) nghiên cứu những lĩnh vự nào
+- [ht thông tin](linhvuchttt) nghiên cứu những lĩnh vự nào
+- [ht thong6 tin](linhvuchttt) nghiên cứu những lĩnh vự nào
+- [khdl](linhvuckhdl) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khdl](linhvuckhdl)
+- [khdk](linhvuckhdl) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khdl](linhvuckhdl)
+- [khoa học dữ liệu](linhvuckhdl) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khdl](linhvuckhdl)
+- [khoa hoc du lieu](linhvuckhdl) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khdl](linhvuckhdl)
+- [khoa học du lieu](linhvuckhdl) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khdl](linhvuckhdl)
+- [khoa hoc du liệu](linhvuckhdl) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khdl](linhvuckhdl)
+- [khao học dữ leiu](linhvuckhdl) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khdl](linhvuckhdl)
+- [khao học du lieu](linhvuckhdl) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khdl](linhvuckhdl)
+- [khao học dữ leiu](linhvuckhdl) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khdl](linhvuckhdl)
+- [khoa học du lieuu](linhvuckhdl) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khdl](linhvuckhdl)
+- [kh dl](linhvuckhdl) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khdl](linhvuckhdl)
+- [kh dữ liệu](linhvuckhdl) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khdl](linhvuckhdl)
+- [khoa hoc dữ liệu](linhvuckhdl) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khdl](linhvuckhdl)
+- [khoa học dl](linhvuckhdl) thuộc lĩnh vực nào trong đời sống, vì sao lại cần có ngành [khdl](linhvuckhdl)
 - lĩnh vực về [khdl](linhvuckhdl) có nhiều không
+- lĩnh vực về [khdk](linhvuckhdl) có nhiều không
+- lĩnh vực về [khoa học dữ liệu](linhvuckhdl) có nhiều không
+- lĩnh vực về [khoa hoc du lieu](linhvuckhdl) có nhiều không
+- lĩnh vực về [khoa học du lieu](linhvuckhdl) có nhiều không
+- lĩnh vực về [khoa hoc du liệu](linhvuckhdl) có nhiều không
+- lĩnh vực về [khao học dữ leiu](linhvuckhdl) có nhiều không
+- lĩnh vực về [khao học du lieu](linhvuckhdl) có nhiều không
+- lĩnh vực về [khao học dữ leiu](linhvuckhdl) có nhiều không
+- lĩnh vực về [khoa học du lieuu](linhvuckhdl) có nhiều không
+- lĩnh vực về [kh dl](linhvuckhdl) có nhiều không
+- lĩnh vực về [kh dữ liệu](linhvuckhdl) có nhiều không
+- lĩnh vực về [khoa hoc dữ liệu](linhvuckhdl) có nhiều không
+- lĩnh vực về [khoa học dl](linhvuckhdl) có nhiều không
 - [khdl](linhvuckhdl) nghiên cứu những lĩnh vự nào
-- [khoa học dữ liệu](linhvuckhdl:khdl) thuộc lĩnh vực nào trong đời sống, vì sao l ại cần có ngành [khoa học dữ liệu](linhvuckhdl:khdl)
-- lĩnh vực về [khoa học dữ liệu](linhvuckhdl:khdl) có nhiều không
-- [khoa học dữ liệu](linhvuckhdl:khdl) nghiên cứu những lĩnh vự nào
-- [khoa hoc du lieu](linhvuckhdl:khdl) thuộc lĩnh vực nào trong đời sống, vì sao l ại cần có ngành [khoa hoc du lieu](linhvuckhdl:khdl)
-- lĩnh vực về [khoa hoc du lieu](linhvuckhdl:khdl) có nhiều không
-- [khoa hoc du lieu](linhvuckhdl:khdl) nghiên cứu những lĩnh vự nào
-
-
+- [khdk](linhvuckhdl) nghiên cứu những lĩnh vự nào
+- [khoa học dữ liệu](linhvuckhdl) nghiên cứu những lĩnh vự nào
+- [khoa hoc du lieu](linhvuckhdl) nghiên cứu những lĩnh vự nào
+- [khoa học du lieu](linhvuckhdl) nghiên cứu những lĩnh vự nào
+- [khoa hoc du liệu](linhvuckhdl) nghiên cứu những lĩnh vự nào
+- [khao học dữ leiu](linhvuckhdl) nghiên cứu những lĩnh vự nào
+- [khao học du lieu](linhvuckhdl) nghiên cứu những lĩnh vự nào
+- [khao học dữ leiu](linhvuckhdl) nghiên cứu những lĩnh vự nào
+- [khoa học du lieuu](linhvuckhdl) nghiên cứu những lĩnh vự nào
+- [kh dl](linhvuckhdl) nghiên cứu những lĩnh vự nào
+- [kh dữ liệu](linhvuckhdl) nghiên cứu những lĩnh vự nào
+- [khoa hoc dữ liệu](linhvuckhdl) nghiên cứu những lĩnh vự nào
+- [khoa học dl](linhvuckhdl) nghiên cứu những lĩnh vự nào
 ## intent: tilesvratruong
 - tỉ lệ sinh viên [khmt](tilesvratruongkhmt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [khtm](tilesvratruongkhmt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [khoa học máy tính](tilesvratruongkhmt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [khoa hoc may tinh](tilesvratruongkhmt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [cong nghe may tinh](tilesvratruongkhmt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [khao hoc may tinh](tilesvratruongkhmt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [khao học may tinh](tilesvratruongkhmt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [công nghệ máy tính](tilesvratruongkhmt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [khao học máy tinh](tilesvratruongkhmt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [khoa học may tinh](tilesvratruongkhmt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [CS](tilesvratruongkhmt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [kh máy tinh](tilesvratruongkhmt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [kh may tính](tilesvratruongkhmt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [kh máy tính](tilesvratruongkhmt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [kh máy tình](tilesvratruongkhmt) ra trường có việc làm hay không
 - sinh viên [khmt](tilesvratruongkhmt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [khtm](tilesvratruongkhmt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [khoa học máy tính](tilesvratruongkhmt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [khoa hoc may tinh](tilesvratruongkhmt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [cong nghe may tinh](tilesvratruongkhmt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [khao hoc may tinh](tilesvratruongkhmt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [khao học may tinh](tilesvratruongkhmt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [công nghệ máy tính](tilesvratruongkhmt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [khao học máy tinh](tilesvratruongkhmt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [khoa học may tinh](tilesvratruongkhmt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [CS](tilesvratruongkhmt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [kh máy tinh](tilesvratruongkhmt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [kh may tính](tilesvratruongkhmt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [kh máy tính](tilesvratruongkhmt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [kh máy tình](tilesvratruongkhmt) có tỉ lệ ra trường bao nhiêu
 - 1 năm tỉ lệ sinh viên ngành [khmt](tilesvratruongkhmt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [khtm](tilesvratruongkhmt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [khoa học máy tính](tilesvratruongkhmt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [khoa hoc may tinh](tilesvratruongkhmt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [cong nghe may tinh](tilesvratruongkhmt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [khao hoc may tinh](tilesvratruongkhmt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [khao học may tinh](tilesvratruongkhmt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [công nghệ máy tính](tilesvratruongkhmt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [khao học máy tinh](tilesvratruongkhmt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [khoa học may tinh](tilesvratruongkhmt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [CS](tilesvratruongkhmt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [kh máy tinh](tilesvratruongkhmt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [kh may tính](tilesvratruongkhmt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [kh máy tính](tilesvratruongkhmt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [kh máy tình](tilesvratruongkhmt) ra trường là bao nhiêu
 - tỉ lệ sinh viên [ktpm](tilesvratruongktpm) ra trường có việc làm hay không
+- tỉ lệ sinh viên [ktpmm](tilesvratruongktpm) ra trường có việc làm hay không
+- tỉ lệ sinh viên [kỹ thuật phần mềm](tilesvratruongktpm) ra trường có việc làm hay không
+- tỉ lệ sinh viên [ky thuat phan mem](tilesvratruongktpm) ra trường có việc làm hay không
+- tỉ lệ sinh viên [ki thuật phần mềm](tilesvratruongktpm) ra trường có việc làm hay không
+- tỉ lệ sinh viên [kỹ thuat phần mềm](tilesvratruongktpm) ra trường có việc làm hay không
+- tỉ lệ sinh viên [kỹ thuật phần mềm](tilesvratruongktpm) ra trường có việc làm hay không
+- tỉ lệ sinh viên [cong nghệ phần mềm](tilesvratruongktpm) ra trường có việc làm hay không
+- tỉ lệ sinh viên [công nghệ phần mềm](tilesvratruongktpm) ra trường có việc làm hay không
+- tỉ lệ sinh viên [cong nghe phan mem](tilesvratruongktpm) ra trường có việc làm hay không
+- tỉ lệ sinh viên [SE](tilesvratruongktpm) ra trường có việc làm hay không
+- tỉ lệ sinh viên [kt phần mềm](tilesvratruongktpm) ra trường có việc làm hay không
+- tỉ lệ sinh viên [kt phan mem](tilesvratruongktpm) ra trường có việc làm hay không
+- tỉ lệ sinh viên [kỹ thuật phân mem](tilesvratruongktpm) ra trường có việc làm hay không
+- tỉ lệ sinh viên [phan mem](tilesvratruongktpm) ra trường có việc làm hay không
+- tỉ lệ sinh viên [phần mềm](tilesvratruongktpm) ra trường có việc làm hay không
+- tỉ lệ sinh viên [kt pm](tilesvratruongktpm) ra trường có việc làm hay không
 - sinh viên [ktpm](tilesvratruongktpm) có tỉ lệ ra trường bao nhiêu
+- sinh viên [ktpmm](tilesvratruongktpm) có tỉ lệ ra trường bao nhiêu
+- sinh viên [kỹ thuật phần mềm](tilesvratruongktpm) có tỉ lệ ra trường bao nhiêu
+- sinh viên [ky thuat phan mem](tilesvratruongktpm) có tỉ lệ ra trường bao nhiêu
+- sinh viên [ki thuật phần mềm](tilesvratruongktpm) có tỉ lệ ra trường bao nhiêu
+- sinh viên [kỹ thuat phần mềm](tilesvratruongktpm) có tỉ lệ ra trường bao nhiêu
+- sinh viên [kỹ thuật phần mềm](tilesvratruongktpm) có tỉ lệ ra trường bao nhiêu
+- sinh viên [cong nghệ phần mềm](tilesvratruongktpm) có tỉ lệ ra trường bao nhiêu
+- sinh viên [công nghệ phần mềm](tilesvratruongktpm) có tỉ lệ ra trường bao nhiêu
+- sinh viên [cong nghe phan mem](tilesvratruongktpm) có tỉ lệ ra trường bao nhiêu
+- sinh viên [SE](tilesvratruongktpm) có tỉ lệ ra trường bao nhiêu
+- sinh viên [kt phần mềm](tilesvratruongktpm) có tỉ lệ ra trường bao nhiêu
+- sinh viên [kt phan mem](tilesvratruongktpm) có tỉ lệ ra trường bao nhiêu
+- sinh viên [kỹ thuật phân mem](tilesvratruongktpm) có tỉ lệ ra trường bao nhiêu
+- sinh viên [phan mem](tilesvratruongktpm) có tỉ lệ ra trường bao nhiêu
+- sinh viên [phần mềm](tilesvratruongktpm) có tỉ lệ ra trường bao nhiêu
+- sinh viên [kt pm](tilesvratruongktpm) có tỉ lệ ra trường bao nhiêu
 - 1 năm tỉ lệ sinh viên ngành [ktpm](tilesvratruongktpm) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [ktpmm](tilesvratruongktpm) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [kỹ thuật phần mềm](tilesvratruongktpm) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [ky thuat phan mem](tilesvratruongktpm) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [ki thuật phần mềm](tilesvratruongktpm) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [kỹ thuat phần mềm](tilesvratruongktpm) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [kỹ thuật phần mềm](tilesvratruongktpm) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [cong nghệ phần mềm](tilesvratruongktpm) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [công nghệ phần mềm](tilesvratruongktpm) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [cong nghe phan mem](tilesvratruongktpm) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [SE](tilesvratruongktpm) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [kt phần mềm](tilesvratruongktpm) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [kt phan mem](tilesvratruongktpm) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [kỹ thuật phân mem](tilesvratruongktpm) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [phan mem](tilesvratruongktpm) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [phần mềm](tilesvratruongktpm) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [kt pm](tilesvratruongktpm) ra trường là bao nhiêu
 - tỉ lệ sinh viên [cntt](tilesvratruongcntt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [cnttt](tilesvratruongcntt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [công nghệ thông tin](tilesvratruongcntt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [cong nghe thong tin](tilesvratruongcntt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [công nghệ thong tin](tilesvratruongcntt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [cong nghe thông tin](tilesvratruongcntt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [IT](tilesvratruongcntt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [công nghệ thông tin](tilesvratruongcntt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [cong nghệ thông tin](tilesvratruongcntt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [công nghệ thông tinn](tilesvratruongcntt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [cn thong tin](tilesvratruongcntt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [cn tt](tilesvratruongcntt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [cn thông tin](tilesvratruongcntt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [cogn nghệ thông tin](tilesvratruongcntt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [công nghệ tt](tilesvratruongcntt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [cong6 nghệ thong tin](tilesvratruongcntt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [công nghệ thong tin](tilesvratruongcntt) ra trường có việc làm hay không
 - sinh viên [cntt](tilesvratruongcntt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [cnttt](tilesvratruongcntt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [công nghệ thông tin](tilesvratruongcntt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [cong nghe thong tin](tilesvratruongcntt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [công nghệ thong tin](tilesvratruongcntt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [cong nghe thông tin](tilesvratruongcntt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [IT](tilesvratruongcntt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [công nghệ thông tin](tilesvratruongcntt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [cong nghệ thông tin](tilesvratruongcntt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [công nghệ thông tinn](tilesvratruongcntt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [cn thong tin](tilesvratruongcntt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [cn tt](tilesvratruongcntt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [cn thông tin](tilesvratruongcntt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [cogn nghệ thông tin](tilesvratruongcntt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [công nghệ tt](tilesvratruongcntt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [cong6 nghệ thong tin](tilesvratruongcntt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [công nghệ thong tin](tilesvratruongcntt) có tỉ lệ ra trường bao nhiêu
 - 1 năm tỉ lệ sinh viên ngành [cntt](tilesvratruongcntt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [cnttt](tilesvratruongcntt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [công nghệ thông tin](tilesvratruongcntt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [cong nghe thong tin](tilesvratruongcntt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [công nghệ thong tin](tilesvratruongcntt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [cong nghe thông tin](tilesvratruongcntt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [IT](tilesvratruongcntt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [công nghệ thông tin](tilesvratruongcntt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [cong nghệ thông tin](tilesvratruongcntt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [công nghệ thông tinn](tilesvratruongcntt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [cn thong tin](tilesvratruongcntt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [cn tt](tilesvratruongcntt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [cn thông tin](tilesvratruongcntt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [cogn nghệ thông tin](tilesvratruongcntt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [công nghệ tt](tilesvratruongcntt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [cong6 nghệ thong tin](tilesvratruongcntt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [công nghệ thong tin](tilesvratruongcntt) ra trường là bao nhiêu
 - tỉ lệ sinh viên [httt](tilesvratruonghttt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [hhttt](tilesvratruonghttt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [IS](tilesvratruonghttt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [hệ thống thông tin](tilesvratruonghttt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [he thong thong tin](tilesvratruonghttt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [hệ thông thông tin](tilesvratruonghttt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [hê thong thông tin](tilesvratruonghttt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [hệ thống thông tin](tilesvratruonghttt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [hệ thống thông tín](tilesvratruonghttt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [he thống thông tinn](tilesvratruonghttt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [ht thông tin](tilesvratruonghttt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [hệ thống tt](tilesvratruonghttt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [he thống tt](tilesvratruonghttt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [ht thông tin](tilesvratruonghttt) ra trường có việc làm hay không
+- tỉ lệ sinh viên [ht thong6 tin](tilesvratruonghttt) ra trường có việc làm hay không
 - sinh viên [httt](tilesvratruonghttt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [hhttt](tilesvratruonghttt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [IS](tilesvratruonghttt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [hệ thống thông tin](tilesvratruonghttt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [he thong thong tin](tilesvratruonghttt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [hệ thông thông tin](tilesvratruonghttt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [hê thong thông tin](tilesvratruonghttt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [hệ thống thông tin](tilesvratruonghttt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [hệ thống thông tín](tilesvratruonghttt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [he thống thông tinn](tilesvratruonghttt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [ht thông tin](tilesvratruonghttt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [hệ thống tt](tilesvratruonghttt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [he thống tt](tilesvratruonghttt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [ht thông tin](tilesvratruonghttt) có tỉ lệ ra trường bao nhiêu
+- sinh viên [ht thong6 tin](tilesvratruonghttt) có tỉ lệ ra trường bao nhiêu
 - 1 năm tỉ lệ sinh viên ngành [httt](tilesvratruonghttt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [hhttt](tilesvratruonghttt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [IS](tilesvratruonghttt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [hệ thống thông tin](tilesvratruonghttt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [he thong thong tin](tilesvratruonghttt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [hệ thông thông tin](tilesvratruonghttt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [hê thong thông tin](tilesvratruonghttt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [hệ thống thông tin](tilesvratruonghttt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [hệ thống thông tín](tilesvratruonghttt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [he thống thông tinn](tilesvratruonghttt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [ht thông tin](tilesvratruonghttt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [hệ thống tt](tilesvratruonghttt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [he thống tt](tilesvratruonghttt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [ht thông tin](tilesvratruonghttt) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [ht thong6 tin](tilesvratruonghttt) ra trường là bao nhiêu
 - tỉ lệ sinh viên [khdl](tilesvratruongkhdl) ra trường có việc làm hay không
+- tỉ lệ sinh viên [khdk](tilesvratruongkhdl) ra trường có việc làm hay không
+- tỉ lệ sinh viên [khoa học dữ liệu](tilesvratruongkhdl) ra trường có việc làm hay không
+- tỉ lệ sinh viên [khoa hoc du lieu](tilesvratruongkhdl) ra trường có việc làm hay không
+- tỉ lệ sinh viên [khoa học du lieu](tilesvratruongkhdl) ra trường có việc làm hay không
+- tỉ lệ sinh viên [khoa hoc du liệu](tilesvratruongkhdl) ra trường có việc làm hay không
+- tỉ lệ sinh viên [khao học dữ leiu](tilesvratruongkhdl) ra trường có việc làm hay không
+- tỉ lệ sinh viên [khao học du lieu](tilesvratruongkhdl) ra trường có việc làm hay không
+- tỉ lệ sinh viên [khao học dữ leiu](tilesvratruongkhdl) ra trường có việc làm hay không
+- tỉ lệ sinh viên [khoa học du lieuu](tilesvratruongkhdl) ra trường có việc làm hay không
+- tỉ lệ sinh viên [kh dl](tilesvratruongkhdl) ra trường có việc làm hay không
+- tỉ lệ sinh viên [kh dữ liệu](tilesvratruongkhdl) ra trường có việc làm hay không
+- tỉ lệ sinh viên [khoa hoc dữ liệu](tilesvratruongkhdl) ra trường có việc làm hay không
+- tỉ lệ sinh viên [khoa học dl](tilesvratruongkhdl) ra trường có việc làm hay không
 - sinh viên [khdl](tilesvratruongkhdl) có tỉ lệ ra trường bao nhiêu
+- sinh viên [khdk](tilesvratruongkhdl) có tỉ lệ ra trường bao nhiêu
+- sinh viên [khoa học dữ liệu](tilesvratruongkhdl) có tỉ lệ ra trường bao nhiêu
+- sinh viên [khoa hoc du lieu](tilesvratruongkhdl) có tỉ lệ ra trường bao nhiêu
+- sinh viên [khoa học du lieu](tilesvratruongkhdl) có tỉ lệ ra trường bao nhiêu
+- sinh viên [khoa hoc du liệu](tilesvratruongkhdl) có tỉ lệ ra trường bao nhiêu
+- sinh viên [khao học dữ leiu](tilesvratruongkhdl) có tỉ lệ ra trường bao nhiêu
+- sinh viên [khao học du lieu](tilesvratruongkhdl) có tỉ lệ ra trường bao nhiêu
+- sinh viên [khao học dữ leiu](tilesvratruongkhdl) có tỉ lệ ra trường bao nhiêu
+- sinh viên [khoa học du lieuu](tilesvratruongkhdl) có tỉ lệ ra trường bao nhiêu
+- sinh viên [kh dl](tilesvratruongkhdl) có tỉ lệ ra trường bao nhiêu
+- sinh viên [kh dữ liệu](tilesvratruongkhdl) có tỉ lệ ra trường bao nhiêu
+- sinh viên [khoa hoc dữ liệu](tilesvratruongkhdl) có tỉ lệ ra trường bao nhiêu
+- sinh viên [khoa học dl](tilesvratruongkhdl) có tỉ lệ ra trường bao nhiêu
 - 1 năm tỉ lệ sinh viên ngành [khdl](tilesvratruongkhdl) ra trường là bao nhiêu
-- tỉ lệ sinh viên [khoa học máy tính](tilesvratruongkhmt:khmt) ra trường có việc làm hay không
-- sinh viên [khoa học máy tính](tilesvratruongkhmt:khmt) có tỉ lệ ra trường bao nhiêu
-- 1 năm tỉ lệ sinh viên ngành [khoa học máy tính](tilesvratruongkhmt:khmt) ra trường là bao nhiêu
-- tỉ lệ sinh viên [kỹ thuật phần mềm](tilesvratruongktpm:ktpm) ra trường có việc làm hay không
-- sinh viên [kỹ thuật phần mềm](tilesvratruongktpm:ktpm) có tỉ lệ ra trường bao nhiêu
-- 1 năm tỉ lệ sinh viên ngành [kỹ thuật phần mềm](tilesvratruongktpm:ktpm) ra trường là bao nhiêu
-- tỉ lệ sinh viên [công nghệ thông tin](tilesvratruongcntt:cntt) ra trường có việc làm hay không
-- sinh viên [công nghệ thông tin](tilesvratruongcntt:cntt) có tỉ lệ ra trường bao nhiêu
-- 1 năm tỉ lệ sinh viên ngành [công nghệ thông tin](tilesvratruongcntt:cntt) ra trường là bao nhiêu
-- tỉ lệ sinh viên [hệ thống thông tin](tilesvratruonghttt:httt) ra trường có việc làm hay không
-- sinh viên [hệ thống thông tin](tilesvratruonghttt:httt) có tỉ lệ ra trường bao nhiêu
-- 1 năm tỉ lệ sinh viên ngành [hệ thống thông tin](tilesvratruonghttt:httt) ra trường là bao nhiêu
-- tỉ lệ sinh viên [khoa học dữ liệu](tilesvratruongkhdl:khdl) ra trường có việc làm hay không
-- sinh viên [khoa học dữ liệu](tilesvratruongkhdl:khdl) có tỉ lệ ra trường bao nhiêu
-- 1 năm tỉ lệ sinh viên ngành [khoa học dữ liệu](tilesvratruongkhdl:khdl) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [khdk](tilesvratruongkhdl) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [khoa học dữ liệu](tilesvratruongkhdl) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [khoa hoc du lieu](tilesvratruongkhdl) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [khoa học du lieu](tilesvratruongkhdl) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [khoa hoc du liệu](tilesvratruongkhdl) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [khao học dữ leiu](tilesvratruongkhdl) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [khao học du lieu](tilesvratruongkhdl) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [khao học dữ leiu](tilesvratruongkhdl) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [khoa học du lieuu](tilesvratruongkhdl) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [kh dl](tilesvratruongkhdl) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [kh dữ liệu](tilesvratruongkhdl) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [khoa hoc dữ liệu](tilesvratruongkhdl) ra trường là bao nhiêu
+- 1 năm tỉ lệ sinh viên ngành [khoa học dl](tilesvratruongkhdl) ra trường là bao nhiêu
 - tỉ lệ sinh viên [khmt](tilesvratruongkhmt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [khtm](tilesvratruongkhmt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [khoa học máy tính](tilesvratruongkhmt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [khoa hoc may tinh](tilesvratruongkhmt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [cong nghe may tinh](tilesvratruongkhmt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [khao hoc may tinh](tilesvratruongkhmt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [khao học may tinh](tilesvratruongkhmt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [công nghệ máy tính](tilesvratruongkhmt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [khao học máy tinh](tilesvratruongkhmt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [khoa học may tinh](tilesvratruongkhmt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [CS](tilesvratruongkhmt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [kh máy tinh](tilesvratruongkhmt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [kh may tính](tilesvratruongkhmt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [kh máy tính](tilesvratruongkhmt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [kh máy tình](tilesvratruongkhmt) tốt nghiệp có cao không
 - tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khmt](tilesvratruongkhmt) như thế nào.
-- tỉ lệ sinh viên ngành [khmt](tilesvratruongkhmt) ra trường làm trái ngành 
-- tỉ lệ sinh viên [khoa học máy tính](tilesvratru
-ngkhmt:khmt) tốt nghiệp có cao không
-- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khoa học máy tính](tilesvratruongkhmt:khmt) như thế nào.
-- tỉ lệ sinh viên ngành [khoa học máy tính](tilesvratruongkhmt:khmt) ra trường làm trái ngành 
-- tỉ lệ sinh viên [khoa hoc may tinh](tilesvratruongkhmt:khmt) tốt nghiệp có cao không
-- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khoa hoc may tinh](tilesvratruongkhmt:khmt) như thế nào.
-- tỉ lệ sinh viên ngành [khoa hoc may tinh](tilesvratruongkhmt:khmt) ra trường làm trái ngành 
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khtm](tilesvratruongkhmt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khoa học máy tính](tilesvratruongkhmt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khoa hoc may tinh](tilesvratruongkhmt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [cong nghe may tinh](tilesvratruongkhmt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khao hoc may tinh](tilesvratruongkhmt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khao học may tinh](tilesvratruongkhmt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [công nghệ máy tính](tilesvratruongkhmt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khao học máy tinh](tilesvratruongkhmt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khoa học may tinh](tilesvratruongkhmt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [CS](tilesvratruongkhmt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [kh máy tinh](tilesvratruongkhmt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [kh may tính](tilesvratruongkhmt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [kh máy tính](tilesvratruongkhmt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [kh máy tình](tilesvratruongkhmt) như thế nào.
+- tỉ lệ sinh viên ngành [khmt](tilesvratruongkhmt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [khtm](tilesvratruongkhmt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [khoa học máy tính](tilesvratruongkhmt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [khoa hoc may tinh](tilesvratruongkhmt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [cong nghe may tinh](tilesvratruongkhmt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [khao hoc may tinh](tilesvratruongkhmt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [khao học may tinh](tilesvratruongkhmt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [công nghệ máy tính](tilesvratruongkhmt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [khao học máy tinh](tilesvratruongkhmt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [khoa học may tinh](tilesvratruongkhmt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [CS](tilesvratruongkhmt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [kh máy tinh](tilesvratruongkhmt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [kh may tính](tilesvratruongkhmt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [kh máy tính](tilesvratruongkhmt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [kh máy tình](tilesvratruongkhmt) ra trường làm trái ngành
 - tỉ lệ sinh viên [ktpm](tilesvratruongktpm) tốt nghiệp có cao không
+- tỉ lệ sinh viên [ktpmm](tilesvratruongktpm) tốt nghiệp có cao không
+- tỉ lệ sinh viên [kỹ thuật phần mềm](tilesvratruongktpm) tốt nghiệp có cao không
+- tỉ lệ sinh viên [ky thuat phan mem](tilesvratruongktpm) tốt nghiệp có cao không
+- tỉ lệ sinh viên [ki thuật phần mềm](tilesvratruongktpm) tốt nghiệp có cao không
+- tỉ lệ sinh viên [kỹ thuat phần mềm](tilesvratruongktpm) tốt nghiệp có cao không
+- tỉ lệ sinh viên [kỹ thuật phần mềm](tilesvratruongktpm) tốt nghiệp có cao không
+- tỉ lệ sinh viên [cong nghệ phần mềm](tilesvratruongktpm) tốt nghiệp có cao không
+- tỉ lệ sinh viên [công nghệ phần mềm](tilesvratruongktpm) tốt nghiệp có cao không
+- tỉ lệ sinh viên [cong nghe phan mem](tilesvratruongktpm) tốt nghiệp có cao không
+- tỉ lệ sinh viên [SE](tilesvratruongktpm) tốt nghiệp có cao không
+- tỉ lệ sinh viên [kt phần mềm](tilesvratruongktpm) tốt nghiệp có cao không
+- tỉ lệ sinh viên [kt phan mem](tilesvratruongktpm) tốt nghiệp có cao không
+- tỉ lệ sinh viên [kỹ thuật phân mem](tilesvratruongktpm) tốt nghiệp có cao không
+- tỉ lệ sinh viên [phan mem](tilesvratruongktpm) tốt nghiệp có cao không
+- tỉ lệ sinh viên [phần mềm](tilesvratruongktpm) tốt nghiệp có cao không
+- tỉ lệ sinh viên [kt pm](tilesvratruongktpm) tốt nghiệp có cao không
 - tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [ktpm](tilesvratruongktpm) như thế nào.
-- tỉ lệ sinh viên ngành [ktpm](tilesvratruongktpm) ra trường làm trái ngành 
-- tỉ lệ sinh viên [kỹ thuật phần mềm](tilesvratruongktpm:ktpm) tốt nghiệp có cao không
-- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [kỹ thuật phần mềm](tilesvratruongktpm:ktpm) như thế nào.
-- tỉ lệ sinh viên ngành [kỹ thuật phần mềm](tilesvratruongktpm:ktpm) ra trường làm trái ngành 
-- tỉ lệ sinh viên [ky thuat phan mem](tilesvratruongktpm:ktpm) tốt nghiệp có cao không
-- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [ky thuat phan mem](tilesvratruongktpm:ktpm) như thế nào.
-- tỉ lệ sinh viên ngành [ky thuat phan mem](tilesvratruongktpm:ktpm) ra trường làm trái ngành 
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [ktpmm](tilesvratruongktpm) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [kỹ thuật phần mềm](tilesvratruongktpm) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [ky thuat phan mem](tilesvratruongktpm) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [ki thuật phần mềm](tilesvratruongktpm) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [kỹ thuat phần mềm](tilesvratruongktpm) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [kỹ thuật phần mềm](tilesvratruongktpm) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [cong nghệ phần mềm](tilesvratruongktpm) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [công nghệ phần mềm](tilesvratruongktpm) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [cong nghe phan mem](tilesvratruongktpm) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [SE](tilesvratruongktpm) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [kt phần mềm](tilesvratruongktpm) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [kt phan mem](tilesvratruongktpm) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [kỹ thuật phân mem](tilesvratruongktpm) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [phan mem](tilesvratruongktpm) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [phần mềm](tilesvratruongktpm) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [kt pm](tilesvratruongktpm) như thế nào.
+- tỉ lệ sinh viên ngành [ktpm](tilesvratruongktpm) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [ktpmm](tilesvratruongktpm) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [kỹ thuật phần mềm](tilesvratruongktpm) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [ky thuat phan mem](tilesvratruongktpm) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [ki thuật phần mềm](tilesvratruongktpm) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [kỹ thuat phần mềm](tilesvratruongktpm) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [kỹ thuật phần mềm](tilesvratruongktpm) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [cong nghệ phần mềm](tilesvratruongktpm) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [công nghệ phần mềm](tilesvratruongktpm) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [cong nghe phan mem](tilesvratruongktpm) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [SE](tilesvratruongktpm) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [kt phần mềm](tilesvratruongktpm) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [kt phan mem](tilesvratruongktpm) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [kỹ thuật phân mem](tilesvratruongktpm) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [phan mem](tilesvratruongktpm) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [phần mềm](tilesvratruongktpm) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [kt pm](tilesvratruongktpm) ra trường làm trái ngành
 - tỉ lệ sinh viên [cntt](tilesvratruongcntt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [cnttt](tilesvratruongcntt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [công nghệ thông tin](tilesvratruongcntt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [cong nghe thong tin](tilesvratruongcntt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [công nghệ thong tin](tilesvratruongcntt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [cong nghe thông tin](tilesvratruongcntt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [IT](tilesvratruongcntt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [công nghệ thông tin](tilesvratruongcntt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [cong nghệ thông tin](tilesvratruongcntt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [công nghệ thông tinn](tilesvratruongcntt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [cn thong tin](tilesvratruongcntt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [cn tt](tilesvratruongcntt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [cn thông tin](tilesvratruongcntt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [cogn nghệ thông tin](tilesvratruongcntt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [công nghệ tt](tilesvratruongcntt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [cong6 nghệ thong tin](tilesvratruongcntt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [công nghệ thong tin](tilesvratruongcntt) tốt nghiệp có cao không
 - tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [cntt](tilesvratruongcntt) như thế nào.
-- tỉ lệ sinh viên ngành [cntt](tilesvratruongcntt) ra trường làm trái ngành 
-- tỉ lệ sinh viên [công nghệ thông tin](tilesvratruongcntt:cntt) tốt nghiệp có cao không
-- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [công nghệ thông tin](tilesvratruongcntt:cntt) như thế nào.
-- tỉ lệ sinh viên ngành [công nghệ thông tin](tilesvratruongcntt:cntt) ra trường làm trái ngành 
-- tỉ lệ sinh viên [cong nghe thong tin](tilesvratruongcntt:cntt) tốt nghiệp có cao không
-- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [cong nghe thong tin](tilesvratruongcntt:cntt) như thế nào.
-- tỉ lệ sinh viên ngành [cong nghe thong tin](tilesvratruongcntt:cntt) ra trường làm trái ngành 
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [cnttt](tilesvratruongcntt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [công nghệ thông tin](tilesvratruongcntt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [cong nghe thong tin](tilesvratruongcntt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [công nghệ thong tin](tilesvratruongcntt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [cong nghe thông tin](tilesvratruongcntt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [IT](tilesvratruongcntt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [công nghệ thông tin](tilesvratruongcntt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [cong nghệ thông tin](tilesvratruongcntt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [công nghệ thông tinn](tilesvratruongcntt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [cn thong tin](tilesvratruongcntt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [cn tt](tilesvratruongcntt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [cn thông tin](tilesvratruongcntt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [cogn nghệ thông tin](tilesvratruongcntt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [công nghệ tt](tilesvratruongcntt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [cong6 nghệ thong tin](tilesvratruongcntt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [công nghệ thong tin](tilesvratruongcntt) như thế nào.
+- tỉ lệ sinh viên ngành [cntt](tilesvratruongcntt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [cnttt](tilesvratruongcntt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [công nghệ thông tin](tilesvratruongcntt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [cong nghe thong tin](tilesvratruongcntt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [công nghệ thong tin](tilesvratruongcntt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [cong nghe thông tin](tilesvratruongcntt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [IT](tilesvratruongcntt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [công nghệ thông tin](tilesvratruongcntt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [cong nghệ thông tin](tilesvratruongcntt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [công nghệ thông tinn](tilesvratruongcntt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [cn thong tin](tilesvratruongcntt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [cn tt](tilesvratruongcntt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [cn thông tin](tilesvratruongcntt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [cogn nghệ thông tin](tilesvratruongcntt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [công nghệ tt](tilesvratruongcntt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [cong6 nghệ thong tin](tilesvratruongcntt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [công nghệ thong tin](tilesvratruongcntt) ra trường làm trái ngành
 - tỉ lệ sinh viên [httt](tilesvratruonghttt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [hhttt](tilesvratruonghttt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [IS](tilesvratruonghttt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [hệ thống thông tin](tilesvratruonghttt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [he thong thong tin](tilesvratruonghttt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [hệ thông thông tin](tilesvratruonghttt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [hê thong thông tin](tilesvratruonghttt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [hệ thống thông tin](tilesvratruonghttt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [hệ thống thông tín](tilesvratruonghttt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [he thống thông tinn](tilesvratruonghttt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [ht thông tin](tilesvratruonghttt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [hệ thống tt](tilesvratruonghttt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [he thống tt](tilesvratruonghttt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [ht thông tin](tilesvratruonghttt) tốt nghiệp có cao không
+- tỉ lệ sinh viên [ht thong6 tin](tilesvratruonghttt) tốt nghiệp có cao không
 - tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [httt](tilesvratruonghttt) như thế nào.
-- tỉ lệ sinh viên ngành [httt](tilesvratruonghttt) ra trường làm trái ngành 
-- tỉ lệ sinh viên [hệ thống thông tin](tilesvratruonghttt:httt) tốt nghiệp có cao không
-- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [hệ thống thông tin](tilesvratruonghttt:httt) như thế nào.
-- tỉ lệ sinh viên ngành [hệ thống thông tin](tilesvratruonghttt:httt) ra trường làm trái ngành 
-- tỉ lệ sinh viên [he thong thong tin](tilesvratruonghttt:httt) tốt nghiệp có cao không
-- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [he thong thong tin](tilesvratruonghttt:httt) như thế nào.
-- tỉ lệ sinh viên ngành [he thong thong tin](tilesvratruonghttt:httt) ra trường làm trái ngành 
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [hhttt](tilesvratruonghttt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [IS](tilesvratruonghttt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [hệ thống thông tin](tilesvratruonghttt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [he thong thong tin](tilesvratruonghttt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [hệ thông thông tin](tilesvratruonghttt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [hê thong thông tin](tilesvratruonghttt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [hệ thống thông tin](tilesvratruonghttt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [hệ thống thông tín](tilesvratruonghttt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [he thống thông tinn](tilesvratruonghttt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [ht thông tin](tilesvratruonghttt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [hệ thống tt](tilesvratruonghttt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [he thống tt](tilesvratruonghttt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [ht thông tin](tilesvratruonghttt) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [ht thong6 tin](tilesvratruonghttt) như thế nào.
+- tỉ lệ sinh viên ngành [httt](tilesvratruonghttt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [hhttt](tilesvratruonghttt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [IS](tilesvratruonghttt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [hệ thống thông tin](tilesvratruonghttt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [he thong thong tin](tilesvratruonghttt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [hệ thông thông tin](tilesvratruonghttt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [hê thong thông tin](tilesvratruonghttt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [hệ thống thông tin](tilesvratruonghttt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [hệ thống thông tín](tilesvratruonghttt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [he thống thông tinn](tilesvratruonghttt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [ht thông tin](tilesvratruonghttt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [hệ thống tt](tilesvratruonghttt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [he thống tt](tilesvratruonghttt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [ht thông tin](tilesvratruonghttt) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [ht thong6 tin](tilesvratruonghttt) ra trường làm trái ngành
 - tỉ lệ sinh viên [khdl](tilesvratruongkhdl) tốt nghiệp có cao không
+- tỉ lệ sinh viên [khdk](tilesvratruongkhdl) tốt nghiệp có cao không
+- tỉ lệ sinh viên [khoa học dữ liệu](tilesvratruongkhdl) tốt nghiệp có cao không
+- tỉ lệ sinh viên [khoa hoc du lieu](tilesvratruongkhdl) tốt nghiệp có cao không
+- tỉ lệ sinh viên [khoa học du lieu](tilesvratruongkhdl) tốt nghiệp có cao không
+- tỉ lệ sinh viên [khoa hoc du liệu](tilesvratruongkhdl) tốt nghiệp có cao không
+- tỉ lệ sinh viên [khao học dữ leiu](tilesvratruongkhdl) tốt nghiệp có cao không
+- tỉ lệ sinh viên [khao học du lieu](tilesvratruongkhdl) tốt nghiệp có cao không
+- tỉ lệ sinh viên [khao học dữ leiu](tilesvratruongkhdl) tốt nghiệp có cao không
+- tỉ lệ sinh viên [khoa học du lieuu](tilesvratruongkhdl) tốt nghiệp có cao không
+- tỉ lệ sinh viên [kh dl](tilesvratruongkhdl) tốt nghiệp có cao không
+- tỉ lệ sinh viên [kh dữ liệu](tilesvratruongkhdl) tốt nghiệp có cao không
+- tỉ lệ sinh viên [khoa hoc dữ liệu](tilesvratruongkhdl) tốt nghiệp có cao không
+- tỉ lệ sinh viên [khoa học dl](tilesvratruongkhdl) tốt nghiệp có cao không
 - tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khdl](tilesvratruongkhdl) như thế nào.
-- tỉ lệ sinh viên ngành [khdl](tilesvratruongkhdl) ra trường làm trái ngành 
-- tỉ lệ sinh viên [khoa học dữ liêu](tilesvratruongkhdl:khdl) tốt nghiệp có cao không
-- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khoa học dữ liêu](tilesvratruongkhdl:khdl) như thế nào.
-- tỉ lệ sinh viên ngành [khoa học dữ liêu](tilesvratruongkhdl:khdl) ra trường làm trái ngành 
-- tỉ lệ sinh viên [khoa hoc du lieu](tilesvratruongkhdl:khdl) tốt nghiệp có cao không
-- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khoa hoc du lieu](tilesvratruongkhdl:khdl) như thế nào.
-- tỉ lệ sinh viên ngành [khoa hoc du lieu](tilesvratruongkhdl:khdl) ra trường làm trái ngành 
-
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khdk](tilesvratruongkhdl) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khoa học dữ liệu](tilesvratruongkhdl) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khoa hoc du lieu](tilesvratruongkhdl) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khoa học du lieu](tilesvratruongkhdl) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khoa hoc du liệu](tilesvratruongkhdl) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khao học dữ leiu](tilesvratruongkhdl) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khao học du lieu](tilesvratruongkhdl) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khao học dữ leiu](tilesvratruongkhdl) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khoa học du lieuu](tilesvratruongkhdl) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [kh dl](tilesvratruongkhdl) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [kh dữ liệu](tilesvratruongkhdl) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khoa hoc dữ liệu](tilesvratruongkhdl) như thế nào.
+- tỉ lệ sinh viên ra trường thất nghiệp hoặc có việc làm ngành [khoa học dl](tilesvratruongkhdl) như thế nào.
+- tỉ lệ sinh viên ngành [khdl](tilesvratruongkhdl) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [khdk](tilesvratruongkhdl) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [khoa học dữ liệu](tilesvratruongkhdl) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [khoa hoc du lieu](tilesvratruongkhdl) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [khoa học du lieu](tilesvratruongkhdl) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [khoa hoc du liệu](tilesvratruongkhdl) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [khao học dữ leiu](tilesvratruongkhdl) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [khao học du lieu](tilesvratruongkhdl) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [khao học dữ leiu](tilesvratruongkhdl) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [khoa học du lieuu](tilesvratruongkhdl) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [kh dl](tilesvratruongkhdl) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [kh dữ liệu](tilesvratruongkhdl) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [khoa hoc dữ liệu](tilesvratruongkhdl) ra trường làm trái ngành
+- tỉ lệ sinh viên ngành [khoa học dl](tilesvratruongkhdl) ra trường làm trái ngành
 ## intent: giangvien
 - giảng viên của [khmt](giangvienkhmt) gồm bao nhiêu người
-- giảng viên của [khoa học máy tính](giangvienkhmt:khmt) gồm bao nhiêu người
+- giảng viên của [khtm](giangvienkhmt) gồm bao nhiêu người
+- giảng viên của [khoa học máy tính](giangvienkhmt) gồm bao nhiêu người
+- giảng viên của [khoa hoc may tinh](giangvienkhmt) gồm bao nhiêu người
+- giảng viên của [cong nghe may tinh](giangvienkhmt) gồm bao nhiêu người
+- giảng viên của [khao hoc may tinh](giangvienkhmt) gồm bao nhiêu người
+- giảng viên của [khao học may tinh](giangvienkhmt) gồm bao nhiêu người
+- giảng viên của [công nghệ máy tính](giangvienkhmt) gồm bao nhiêu người
+- giảng viên của [khao học máy tinh](giangvienkhmt) gồm bao nhiêu người
+- giảng viên của [khoa học may tinh](giangvienkhmt) gồm bao nhiêu người
+- giảng viên của [CS](giangvienkhmt) gồm bao nhiêu người
+- giảng viên của [kh máy tinh](giangvienkhmt) gồm bao nhiêu người
+- giảng viên của [kh may tính](giangvienkhmt) gồm bao nhiêu người
+- giảng viên của [kh máy tính](giangvienkhmt) gồm bao nhiêu người
+- giảng viên của [kh máy tình](giangvienkhmt) gồm bao nhiêu người
 - trưởng bộ môn [khmt](giangvienkhmt) là ai
-- trưởng bộ môn [khoa học máy tính](giangvienkhmt:khmt) là ai
+- trưởng bộ môn [khtm](giangvienkhmt) là ai
+- trưởng bộ môn [khoa học máy tính](giangvienkhmt) là ai
+- trưởng bộ môn [khoa hoc may tinh](giangvienkhmt) là ai
+- trưởng bộ môn [cong nghe may tinh](giangvienkhmt) là ai
+- trưởng bộ môn [khao hoc may tinh](giangvienkhmt) là ai
+- trưởng bộ môn [khao học may tinh](giangvienkhmt) là ai
+- trưởng bộ môn [công nghệ máy tính](giangvienkhmt) là ai
+- trưởng bộ môn [khao học máy tinh](giangvienkhmt) là ai
+- trưởng bộ môn [khoa học may tinh](giangvienkhmt) là ai
+- trưởng bộ môn [CS](giangvienkhmt) là ai
+- trưởng bộ môn [kh máy tinh](giangvienkhmt) là ai
+- trưởng bộ môn [kh may tính](giangvienkhmt) là ai
+- trưởng bộ môn [kh máy tính](giangvienkhmt) là ai
+- trưởng bộ môn [kh máy tình](giangvienkhmt) là ai
 - [khmt](giangvienkhmt) gồm có những giảng viên nào
-- [khoa học máy tính](giangvienkhmt:khmt) gồm có những giảng viên nào
+- [khtm](giangvienkhmt) gồm có những giảng viên nào
+- [khoa học máy tính](giangvienkhmt) gồm có những giảng viên nào
+- [khoa hoc may tinh](giangvienkhmt) gồm có những giảng viên nào
+- [cong nghe may tinh](giangvienkhmt) gồm có những giảng viên nào
+- [khao hoc may tinh](giangvienkhmt) gồm có những giảng viên nào
+- [khao học may tinh](giangvienkhmt) gồm có những giảng viên nào
+- [công nghệ máy tính](giangvienkhmt) gồm có những giảng viên nào
+- [khao học máy tinh](giangvienkhmt) gồm có những giảng viên nào
+- [khoa học may tinh](giangvienkhmt) gồm có những giảng viên nào
+- [CS](giangvienkhmt) gồm có những giảng viên nào
+- [kh máy tinh](giangvienkhmt) gồm có những giảng viên nào
+- [kh may tính](giangvienkhmt) gồm có những giảng viên nào
+- [kh máy tính](giangvienkhmt) gồm có những giảng viên nào
+- [kh máy tình](giangvienkhmt) gồm có những giảng viên nào
 - giảng viên của [ktpm](giangvienktpm) gồm bao nhiêu người
-- giảng viên của [kỹ thuật phần mềm](giangvienktpm:ktpm) gồm bao nhiêu người
+- giảng viên của [ktpmm](giangvienktpm) gồm bao nhiêu người
+- giảng viên của [kỹ thuật phần mềm](giangvienktpm) gồm bao nhiêu người
+- giảng viên của [ky thuat phan mem](giangvienktpm) gồm bao nhiêu người
+- giảng viên của [ki thuật phần mềm](giangvienktpm) gồm bao nhiêu người
+- giảng viên của [kỹ thuat phần mềm](giangvienktpm) gồm bao nhiêu người
+- giảng viên của [kỹ thuật phần mềm](giangvienktpm) gồm bao nhiêu người
+- giảng viên của [cong nghệ phần mềm](giangvienktpm) gồm bao nhiêu người
+- giảng viên của [công nghệ phần mềm](giangvienktpm) gồm bao nhiêu người
+- giảng viên của [cong nghe phan mem](giangvienktpm) gồm bao nhiêu người
+- giảng viên của [SE](giangvienktpm) gồm bao nhiêu người
+- giảng viên của [kt phần mềm](giangvienktpm) gồm bao nhiêu người
+- giảng viên của [kt phan mem](giangvienktpm) gồm bao nhiêu người
+- giảng viên của [kỹ thuật phân mem](giangvienktpm) gồm bao nhiêu người
+- giảng viên của [phan mem](giangvienktpm) gồm bao nhiêu người
+- giảng viên của [phần mềm](giangvienktpm) gồm bao nhiêu người
+- giảng viên của [kt pm](giangvienktpm) gồm bao nhiêu người
 - trưởng bộ môn [ktpm](giangvienktpm) là ai
-- trưởng bộ môn [kỹ thuật phần mềm](giangvienktpm:ktpm) là ai
+- trưởng bộ môn [ktpmm](giangvienktpm) là ai
+- trưởng bộ môn [kỹ thuật phần mềm](giangvienktpm) là ai
+- trưởng bộ môn [ky thuat phan mem](giangvienktpm) là ai
+- trưởng bộ môn [ki thuật phần mềm](giangvienktpm) là ai
+- trưởng bộ môn [kỹ thuat phần mềm](giangvienktpm) là ai
+- trưởng bộ môn [kỹ thuật phần mềm](giangvienktpm) là ai
+- trưởng bộ môn [cong nghệ phần mềm](giangvienktpm) là ai
+- trưởng bộ môn [công nghệ phần mềm](giangvienktpm) là ai
+- trưởng bộ môn [cong nghe phan mem](giangvienktpm) là ai
+- trưởng bộ môn [SE](giangvienktpm) là ai
+- trưởng bộ môn [kt phần mềm](giangvienktpm) là ai
+- trưởng bộ môn [kt phan mem](giangvienktpm) là ai
+- trưởng bộ môn [kỹ thuật phân mem](giangvienktpm) là ai
+- trưởng bộ môn [phan mem](giangvienktpm) là ai
+- trưởng bộ môn [phần mềm](giangvienktpm) là ai
+- trưởng bộ môn [kt pm](giangvienktpm) là ai
 - [ktpm](giangvienktpm) gồm có những giảng viên nào
-- [kỹ thuật phần mềm](giangvienktpm:ktpm) gồm có những giảng viên nào
+- [ktpmm](giangvienktpm) gồm có những giảng viên nào
+- [kỹ thuật phần mềm](giangvienktpm) gồm có những giảng viên nào
+- [ky thuat phan mem](giangvienktpm) gồm có những giảng viên nào
+- [ki thuật phần mềm](giangvienktpm) gồm có những giảng viên nào
+- [kỹ thuat phần mềm](giangvienktpm) gồm có những giảng viên nào
+- [kỹ thuật phần mềm](giangvienktpm) gồm có những giảng viên nào
+- [cong nghệ phần mềm](giangvienktpm) gồm có những giảng viên nào
+- [công nghệ phần mềm](giangvienktpm) gồm có những giảng viên nào
+- [cong nghe phan mem](giangvienktpm) gồm có những giảng viên nào
+- [SE](giangvienktpm) gồm có những giảng viên nào
+- [kt phần mềm](giangvienktpm) gồm có những giảng viên nào
+- [kt phan mem](giangvienktpm) gồm có những giảng viên nào
+- [kỹ thuật phân mem](giangvienktpm) gồm có những giảng viên nào
+- [phan mem](giangvienktpm) gồm có những giảng viên nào
+- [phần mềm](giangvienktpm) gồm có những giảng viên nào
+- [kt pm](giangvienktpm) gồm có những giảng viên nào
 - giảng viên của [cntt](giangviencntt) gồm bao nhiêu người
-- giảng viên của [công nghệ thông tin](giangviencntt:cntt) gồm bao nhiêu người
+- giảng viên của [cnttt](giangviencntt) gồm bao nhiêu người
+- giảng viên của [công nghệ thông tin](giangviencntt) gồm bao nhiêu người
+- giảng viên của [cong nghe thong tin](giangviencntt) gồm bao nhiêu người
+- giảng viên của [công nghệ thong tin](giangviencntt) gồm bao nhiêu người
+- giảng viên của [cong nghe thông tin](giangviencntt) gồm bao nhiêu người
+- giảng viên của [IT](giangviencntt) gồm bao nhiêu người
+- giảng viên của [công nghệ thông tin](giangviencntt) gồm bao nhiêu người
+- giảng viên của [cong nghệ thông tin](giangviencntt) gồm bao nhiêu người
+- giảng viên của [công nghệ thông tinn](giangviencntt) gồm bao nhiêu người
+- giảng viên của [cn thong tin](giangviencntt) gồm bao nhiêu người
+- giảng viên của [cn tt](giangviencntt) gồm bao nhiêu người
+- giảng viên của [cn thông tin](giangviencntt) gồm bao nhiêu người
+- giảng viên của [cogn nghệ thông tin](giangviencntt) gồm bao nhiêu người
+- giảng viên của [công nghệ tt](giangviencntt) gồm bao nhiêu người
+- giảng viên của [cong6 nghệ thong tin](giangviencntt) gồm bao nhiêu người
+- giảng viên của [công nghệ thong tin](giangviencntt) gồm bao nhiêu người
 - trưởng bộ môn [cntt](giangviencntt) là ai
-- trưởng bộ môn [công nghệ thông tin](giangviencntt:cntt) là ai
+- trưởng bộ môn [cnttt](giangviencntt) là ai
+- trưởng bộ môn [công nghệ thông tin](giangviencntt) là ai
+- trưởng bộ môn [cong nghe thong tin](giangviencntt) là ai
+- trưởng bộ môn [công nghệ thong tin](giangviencntt) là ai
+- trưởng bộ môn [cong nghe thông tin](giangviencntt) là ai
+- trưởng bộ môn [IT](giangviencntt) là ai
+- trưởng bộ môn [công nghệ thông tin](giangviencntt) là ai
+- trưởng bộ môn [cong nghệ thông tin](giangviencntt) là ai
+- trưởng bộ môn [công nghệ thông tinn](giangviencntt) là ai
+- trưởng bộ môn [cn thong tin](giangviencntt) là ai
+- trưởng bộ môn [cn tt](giangviencntt) là ai
+- trưởng bộ môn [cn thông tin](giangviencntt) là ai
+- trưởng bộ môn [cogn nghệ thông tin](giangviencntt) là ai
+- trưởng bộ môn [công nghệ tt](giangviencntt) là ai
+- trưởng bộ môn [cong6 nghệ thong tin](giangviencntt) là ai
+- trưởng bộ môn [công nghệ thong tin](giangviencntt) là ai
 - [cntt](giangviencntt) gồm có những giảng viên nào
-- [công nghệ thông tin](giangviencntt:cntt) gồm có những giảng viên nào
+- [cnttt](giangviencntt) gồm có những giảng viên nào
+- [công nghệ thông tin](giangviencntt) gồm có những giảng viên nào
+- [cong nghe thong tin](giangviencntt) gồm có những giảng viên nào
+- [công nghệ thong tin](giangviencntt) gồm có những giảng viên nào
+- [cong nghe thông tin](giangviencntt) gồm có những giảng viên nào
+- [IT](giangviencntt) gồm có những giảng viên nào
+- [công nghệ thông tin](giangviencntt) gồm có những giảng viên nào
+- [cong nghệ thông tin](giangviencntt) gồm có những giảng viên nào
+- [công nghệ thông tinn](giangviencntt) gồm có những giảng viên nào
+- [cn thong tin](giangviencntt) gồm có những giảng viên nào
+- [cn tt](giangviencntt) gồm có những giảng viên nào
+- [cn thông tin](giangviencntt) gồm có những giảng viên nào
+- [cogn nghệ thông tin](giangviencntt) gồm có những giảng viên nào
+- [công nghệ tt](giangviencntt) gồm có những giảng viên nào
+- [cong6 nghệ thong tin](giangviencntt) gồm có những giảng viên nào
+- [công nghệ thong tin](giangviencntt) gồm có những giảng viên nào
 - giảng viên của [httt](giangvienhttt) gồm bao nhiêu người
-- giảng viên của [hệ thông thông tin](giangvienhttt:httt) gồm bao nhiêu người
+- giảng viên của [hhttt](giangvienhttt) gồm bao nhiêu người
+- giảng viên của [IS](giangvienhttt) gồm bao nhiêu người
+- giảng viên của [hệ thống thông tin](giangvienhttt) gồm bao nhiêu người
+- giảng viên của [he thong thong tin](giangvienhttt) gồm bao nhiêu người
+- giảng viên của [hệ thông thông tin](giangvienhttt) gồm bao nhiêu người
+- giảng viên của [hê thong thông tin](giangvienhttt) gồm bao nhiêu người
+- giảng viên của [hệ thống thông tin](giangvienhttt) gồm bao nhiêu người
+- giảng viên của [hệ thống thông tín](giangvienhttt) gồm bao nhiêu người
+- giảng viên của [he thống thông tinn](giangvienhttt) gồm bao nhiêu người
+- giảng viên của [ht thông tin](giangvienhttt) gồm bao nhiêu người
+- giảng viên của [hệ thống tt](giangvienhttt) gồm bao nhiêu người
+- giảng viên của [he thống tt](giangvienhttt) gồm bao nhiêu người
+- giảng viên của [ht thông tin](giangvienhttt) gồm bao nhiêu người
+- giảng viên của [ht thong6 tin](giangvienhttt) gồm bao nhiêu người
 - trưởng bộ môn [httt](giangvienhttt) là ai
-- trưởng bộ môn [hệ thông thông tin](giangvienhttt:httt) là ai
+- trưởng bộ môn [hhttt](giangvienhttt) là ai
+- trưởng bộ môn [IS](giangvienhttt) là ai
+- trưởng bộ môn [hệ thống thông tin](giangvienhttt) là ai
+- trưởng bộ môn [he thong thong tin](giangvienhttt) là ai
+- trưởng bộ môn [hệ thông thông tin](giangvienhttt) là ai
+- trưởng bộ môn [hê thong thông tin](giangvienhttt) là ai
+- trưởng bộ môn [hệ thống thông tin](giangvienhttt) là ai
+- trưởng bộ môn [hệ thống thông tín](giangvienhttt) là ai
+- trưởng bộ môn [he thống thông tinn](giangvienhttt) là ai
+- trưởng bộ môn [ht thông tin](giangvienhttt) là ai
+- trưởng bộ môn [hệ thống tt](giangvienhttt) là ai
+- trưởng bộ môn [he thống tt](giangvienhttt) là ai
+- trưởng bộ môn [ht thông tin](giangvienhttt) là ai
+- trưởng bộ môn [ht thong6 tin](giangvienhttt) là ai
 - [httt](giangvienhttt) gồm có những giảng viên nào
-- [hệ thông thông tin](giangvienhttt:httt) gồm có những giảng viên nào
+- [hhttt](giangvienhttt) gồm có những giảng viên nào
+- [IS](giangvienhttt) gồm có những giảng viên nào
+- [hệ thống thông tin](giangvienhttt) gồm có những giảng viên nào
+- [he thong thong tin](giangvienhttt) gồm có những giảng viên nào
+- [hệ thông thông tin](giangvienhttt) gồm có những giảng viên nào
+- [hê thong thông tin](giangvienhttt) gồm có những giảng viên nào
+- [hệ thống thông tin](giangvienhttt) gồm có những giảng viên nào
+- [hệ thống thông tín](giangvienhttt) gồm có những giảng viên nào
+- [he thống thông tinn](giangvienhttt) gồm có những giảng viên nào
+- [ht thông tin](giangvienhttt) gồm có những giảng viên nào
+- [hệ thống tt](giangvienhttt) gồm có những giảng viên nào
+- [he thống tt](giangvienhttt) gồm có những giảng viên nào
+- [ht thông tin](giangvienhttt) gồm có những giảng viên nào
+- [ht thong6 tin](giangvienhttt) gồm có những giảng viên nào
 - giảng viên của [khdl](giangvienkhdl) gồm bao nhiêu người
-- giảng viên của [khoa học dữ liệu](giangvienkhdl:khdl) gồm bao nhiêu người
+- giảng viên của [khdk](giangvienkhdl) gồm bao nhiêu người
+- giảng viên của [khoa học dữ liệu](giangvienkhdl) gồm bao nhiêu người
+- giảng viên của [khoa hoc du lieu](giangvienkhdl) gồm bao nhiêu người
+- giảng viên của [khoa học du lieu](giangvienkhdl) gồm bao nhiêu người
+- giảng viên của [khoa hoc du liệu](giangvienkhdl) gồm bao nhiêu người
+- giảng viên của [khao học dữ leiu](giangvienkhdl) gồm bao nhiêu người
+- giảng viên của [khao học du lieu](giangvienkhdl) gồm bao nhiêu người
+- giảng viên của [khao học dữ leiu](giangvienkhdl) gồm bao nhiêu người
+- giảng viên của [khoa học du lieuu](giangvienkhdl) gồm bao nhiêu người
+- giảng viên của [kh dl](giangvienkhdl) gồm bao nhiêu người
+- giảng viên của [kh dữ liệu](giangvienkhdl) gồm bao nhiêu người
+- giảng viên của [khoa hoc dữ liệu](giangvienkhdl) gồm bao nhiêu người
+- giảng viên của [khoa học dl](giangvienkhdl) gồm bao nhiêu người
 - trưởng bộ môn [khdl](giangvienkhdl) là ai
-- trưởng bộ môn [khoa học dữ liệu](giangvienkhdl:khdl) là ai
+- trưởng bộ môn [khdk](giangvienkhdl) là ai
+- trưởng bộ môn [khoa học dữ liệu](giangvienkhdl) là ai
+- trưởng bộ môn [khoa hoc du lieu](giangvienkhdl) là ai
+- trưởng bộ môn [khoa học du lieu](giangvienkhdl) là ai
+- trưởng bộ môn [khoa hoc du liệu](giangvienkhdl) là ai
+- trưởng bộ môn [khao học dữ leiu](giangvienkhdl) là ai
+- trưởng bộ môn [khao học du lieu](giangvienkhdl) là ai
+- trưởng bộ môn [khao học dữ leiu](giangvienkhdl) là ai
+- trưởng bộ môn [khoa học du lieuu](giangvienkhdl) là ai
+- trưởng bộ môn [kh dl](giangvienkhdl) là ai
+- trưởng bộ môn [kh dữ liệu](giangvienkhdl) là ai
+- trưởng bộ môn [khoa hoc dữ liệu](giangvienkhdl) là ai
+- trưởng bộ môn [khoa học dl](giangvienkhdl) là ai
 - [khdl](giangvienkhdl) gồm có những giảng viên nào
-- [khoa học dữ liệu](giangvienkhdl:khdl) gồm có những giảng viên nào
+- [khdk](giangvienkhdl) gồm có những giảng viên nào
+- [khoa học dữ liệu](giangvienkhdl) gồm có những giảng viên nào
+- [khoa hoc du lieu](giangvienkhdl) gồm có những giảng viên nào
+- [khoa học du lieu](giangvienkhdl) gồm có những giảng viên nào
+- [khoa hoc du liệu](giangvienkhdl) gồm có những giảng viên nào
+- [khao học dữ leiu](giangvienkhdl) gồm có những giảng viên nào
+- [khao học du lieu](giangvienkhdl) gồm có những giảng viên nào
+- [khao học dữ leiu](giangvienkhdl) gồm có những giảng viên nào
+- [khoa học du lieuu](giangvienkhdl) gồm có những giảng viên nào
+- [kh dl](giangvienkhdl) gồm có những giảng viên nào
+- [kh dữ liệu](giangvienkhdl) gồm có những giảng viên nào
+- [khoa hoc dữ liệu](giangvienkhdl) gồm có những giảng viên nào
+- [khoa học dl](giangvienkhdl) gồm có những giảng viên nào
 - học vị cao nhất của giảng viên [khmt](giangvienkhmt)
-- một giảng viên [khmt](giangvienkhmt) thường d ạy bao nhiêu môn
+- học vị cao nhất của giảng viên [khtm](giangvienkhmt)
+- học vị cao nhất của giảng viên [khoa học máy tính](giangvienkhmt)
+- học vị cao nhất của giảng viên [khoa hoc may tinh](giangvienkhmt)
+- học vị cao nhất của giảng viên [cong nghe may tinh](giangvienkhmt)
+- học vị cao nhất của giảng viên [khao hoc may tinh](giangvienkhmt)
+- học vị cao nhất của giảng viên [khao học may tinh](giangvienkhmt)
+- học vị cao nhất của giảng viên [công nghệ máy tính](giangvienkhmt)
+- học vị cao nhất của giảng viên [khao học máy tinh](giangvienkhmt)
+- học vị cao nhất của giảng viên [khoa học may tinh](giangvienkhmt)
+- học vị cao nhất của giảng viên [CS](giangvienkhmt)
+- học vị cao nhất của giảng viên [kh máy tinh](giangvienkhmt)
+- học vị cao nhất của giảng viên [kh may tính](giangvienkhmt)
+- học vị cao nhất của giảng viên [kh máy tính](giangvienkhmt)
+- học vị cao nhất của giảng viên [kh máy tình](giangvienkhmt)
+- một giảng viên [khmt](giangvienkhmt) thường dạy bao nhiêu môn
+- một giảng viên [khtm](giangvienkhmt) thường dạy bao nhiêu môn
+- một giảng viên [khoa học máy tính](giangvienkhmt) thường dạy bao nhiêu môn
+- một giảng viên [khoa hoc may tinh](giangvienkhmt) thường dạy bao nhiêu môn
+- một giảng viên [cong nghe may tinh](giangvienkhmt) thường dạy bao nhiêu môn
+- một giảng viên [khao hoc may tinh](giangvienkhmt) thường dạy bao nhiêu môn
+- một giảng viên [khao học may tinh](giangvienkhmt) thường dạy bao nhiêu môn
+- một giảng viên [công nghệ máy tính](giangvienkhmt) thường dạy bao nhiêu môn
+- một giảng viên [khao học máy tinh](giangvienkhmt) thường dạy bao nhiêu môn
+- một giảng viên [khoa học may tinh](giangvienkhmt) thường dạy bao nhiêu môn
+- một giảng viên [CS](giangvienkhmt) thường dạy bao nhiêu môn
+- một giảng viên [kh máy tinh](giangvienkhmt) thường dạy bao nhiêu môn
+- một giảng viên [kh may tính](giangvienkhmt) thường dạy bao nhiêu môn
+- một giảng viên [kh máy tính](giangvienkhmt) thường dạy bao nhiêu môn
+- một giảng viên [kh máy tình](giangvienkhmt) thường dạy bao nhiêu môn
 - giảng viên [khmt](giangvienkhmt) thường làm nghiệp vụ gì những gì
-- học vị cao nhất của giảng viên [khoa học máy tính](giangvienkhmt:khmt)
-- một giảng viên [khoa học máy tính](giangvienkhmt:khmt) thường d ạy bao nhiêu môn
-- giảng viên [khoa học máy tính](giangvienkhmt:khmt) thường làm nghiệp vụ gì những gì
-- học vị cao nhất của giảng viên [khoa hoc may tinh](giangvienkhmt:khmt)
-- một giảng viên [khoa hoc may tinh](giangvienkhmt:khmt) thường d ạy bao nhiêu môn
-- giảng viên [khoa hoc may tinh](giangvienkhmt:khmt) thường làm nghiệp vụ gì những gì
-
+- giảng viên [khtm](giangvienkhmt) thường làm nghiệp vụ gì những gì
+- giảng viên [khoa học máy tính](giangvienkhmt) thường làm nghiệp vụ gì những gì
+- giảng viên [khoa hoc may tinh](giangvienkhmt) thường làm nghiệp vụ gì những gì
+- giảng viên [cong nghe may tinh](giangvienkhmt) thường làm nghiệp vụ gì những gì
+- giảng viên [khao hoc may tinh](giangvienkhmt) thường làm nghiệp vụ gì những gì
+- giảng viên [khao học may tinh](giangvienkhmt) thường làm nghiệp vụ gì những gì
+- giảng viên [công nghệ máy tính](giangvienkhmt) thường làm nghiệp vụ gì những gì
+- giảng viên [khao học máy tinh](giangvienkhmt) thường làm nghiệp vụ gì những gì
+- giảng viên [khoa học may tinh](giangvienkhmt) thường làm nghiệp vụ gì những gì
+- giảng viên [CS](giangvienkhmt) thường làm nghiệp vụ gì những gì
+- giảng viên [kh máy tinh](giangvienkhmt) thường làm nghiệp vụ gì những gì
+- giảng viên [kh may tính](giangvienkhmt) thường làm nghiệp vụ gì những gì
+- giảng viên [kh máy tính](giangvienkhmt) thường làm nghiệp vụ gì những gì
+- giảng viên [kh máy tình](giangvienkhmt) thường làm nghiệp vụ gì những gì
 - học vị cao nhất của giảng viên [ktpm](giangvienktpm)
-- một giảng viên [ktpm](giangvienktpm) thường d ạy bao nhiêu môn
+- học vị cao nhất của giảng viên [ktpmm](giangvienktpm)
+- học vị cao nhất của giảng viên [kỹ thuật phần mềm](giangvienktpm)
+- học vị cao nhất của giảng viên [ky thuat phan mem](giangvienktpm)
+- học vị cao nhất của giảng viên [ki thuật phần mềm](giangvienktpm)
+- học vị cao nhất của giảng viên [kỹ thuat phần mềm](giangvienktpm)
+- học vị cao nhất của giảng viên [kỹ thuật phần mềm](giangvienktpm)
+- học vị cao nhất của giảng viên [cong nghệ phần mềm](giangvienktpm)
+- học vị cao nhất của giảng viên [công nghệ phần mềm](giangvienktpm)
+- học vị cao nhất của giảng viên [cong nghe phan mem](giangvienktpm)
+- học vị cao nhất của giảng viên [SE](giangvienktpm)
+- học vị cao nhất của giảng viên [kt phần mềm](giangvienktpm)
+- học vị cao nhất của giảng viên [kt phan mem](giangvienktpm)
+- học vị cao nhất của giảng viên [kỹ thuật phân mem](giangvienktpm)
+- học vị cao nhất của giảng viên [phan mem](giangvienktpm)
+- học vị cao nhất của giảng viên [phần mềm](giangvienktpm)
+- học vị cao nhất của giảng viên [kt pm](giangvienktpm)
+- một giảng viên [ktpm](giangvienktpm) thường dạy bao nhiêu môn
+- một giảng viên [ktpmm](giangvienktpm) thường dạy bao nhiêu môn
+- một giảng viên [kỹ thuật phần mềm](giangvienktpm) thường dạy bao nhiêu môn
+- một giảng viên [ky thuat phan mem](giangvienktpm) thường dạy bao nhiêu môn
+- một giảng viên [ki thuật phần mềm](giangvienktpm) thường dạy bao nhiêu môn
+- một giảng viên [kỹ thuat phần mềm](giangvienktpm) thường dạy bao nhiêu môn
+- một giảng viên [kỹ thuật phần mềm](giangvienktpm) thường dạy bao nhiêu môn
+- một giảng viên [cong nghệ phần mềm](giangvienktpm) thường dạy bao nhiêu môn
+- một giảng viên [công nghệ phần mềm](giangvienktpm) thường dạy bao nhiêu môn
+- một giảng viên [cong nghe phan mem](giangvienktpm) thường dạy bao nhiêu môn
+- một giảng viên [SE](giangvienktpm) thường dạy bao nhiêu môn
+- một giảng viên [kt phần mềm](giangvienktpm) thường dạy bao nhiêu môn
+- một giảng viên [kt phan mem](giangvienktpm) thường dạy bao nhiêu môn
+- một giảng viên [kỹ thuật phân mem](giangvienktpm) thường dạy bao nhiêu môn
+- một giảng viên [phan mem](giangvienktpm) thường dạy bao nhiêu môn
+- một giảng viên [phần mềm](giangvienktpm) thường dạy bao nhiêu môn
+- một giảng viên [kt pm](giangvienktpm) thường dạy bao nhiêu môn
 - giảng viên [ktpm](giangvienktpm) thường làm nghiệp vụ gì những gì
-- học vị cao nhất của giảng viên [kỹ thuật phần mềm](giangvienktpm:ktpm)
-- một giảng viên [kỹ thuật phần mềm](giangvienktpm:ktpm) thường d ạy bao nhiêu môn
-- giảng viên [kỹ thuật phần mềm](giangvienktpm:ktpm) thường làm nghiệp vụ gì những gì
-- học vị cao nhất của giảng viên [ky thuat phan mem](giangvienktpm:ktpm)
-- một giảng viên [ky thuat phan mem](giangvienktpm:ktpm) thường d ạy bao nhiêu môn
-- giảng viên [ky thuat phan mem](giangvienktpm:ktpm) thường làm nghiệp vụ gì những gì
-
+- giảng viên [ktpmm](giangvienktpm) thường làm nghiệp vụ gì những gì
+- giảng viên [kỹ thuật phần mềm](giangvienktpm) thường làm nghiệp vụ gì những gì
+- giảng viên [ky thuat phan mem](giangvienktpm) thường làm nghiệp vụ gì những gì
+- giảng viên [ki thuật phần mềm](giangvienktpm) thường làm nghiệp vụ gì những gì
+- giảng viên [kỹ thuat phần mềm](giangvienktpm) thường làm nghiệp vụ gì những gì
+- giảng viên [kỹ thuật phần mềm](giangvienktpm) thường làm nghiệp vụ gì những gì
+- giảng viên [cong nghệ phần mềm](giangvienktpm) thường làm nghiệp vụ gì những gì
+- giảng viên [công nghệ phần mềm](giangvienktpm) thường làm nghiệp vụ gì những gì
+- giảng viên [cong nghe phan mem](giangvienktpm) thường làm nghiệp vụ gì những gì
+- giảng viên [SE](giangvienktpm) thường làm nghiệp vụ gì những gì
+- giảng viên [kt phần mềm](giangvienktpm) thường làm nghiệp vụ gì những gì
+- giảng viên [kt phan mem](giangvienktpm) thường làm nghiệp vụ gì những gì
+- giảng viên [kỹ thuật phân mem](giangvienktpm) thường làm nghiệp vụ gì những gì
+- giảng viên [phan mem](giangvienktpm) thường làm nghiệp vụ gì những gì
+- giảng viên [phần mềm](giangvienktpm) thường làm nghiệp vụ gì những gì
+- giảng viên [kt pm](giangvienktpm) thường làm nghiệp vụ gì những gì
 - học vị cao nhất của giảng viên [cntt](giangviencntt)
-- một giảng viên [cntt](giangviencntt) thường d ạy bao nhiêu môn
+- học vị cao nhất của giảng viên [cnttt](giangviencntt)
+- học vị cao nhất của giảng viên [công nghệ thông tin](giangviencntt)
+- học vị cao nhất của giảng viên [cong nghe thong tin](giangviencntt)
+- học vị cao nhất của giảng viên [công nghệ thong tin](giangviencntt)
+- học vị cao nhất của giảng viên [cong nghe thông tin](giangviencntt)
+- học vị cao nhất của giảng viên [IT](giangviencntt)
+- học vị cao nhất của giảng viên [công nghệ thông tin](giangviencntt)
+- học vị cao nhất của giảng viên [cong nghệ thông tin](giangviencntt)
+- học vị cao nhất của giảng viên [công nghệ thông tinn](giangviencntt)
+- học vị cao nhất của giảng viên [cn thong tin](giangviencntt)
+- học vị cao nhất của giảng viên [cn tt](giangviencntt)
+- học vị cao nhất của giảng viên [cn thông tin](giangviencntt)
+- học vị cao nhất của giảng viên [cogn nghệ thông tin](giangviencntt)
+- học vị cao nhất của giảng viên [công nghệ tt](giangviencntt)
+- học vị cao nhất của giảng viên [cong6 nghệ thong tin](giangviencntt)
+- học vị cao nhất của giảng viên [công nghệ thong tin](giangviencntt)
+- một giảng viên [cntt](giangviencntt) thường dạy bao nhiêu môn
+- một giảng viên [cnttt](giangviencntt) thường dạy bao nhiêu môn
+- một giảng viên [công nghệ thông tin](giangviencntt) thường dạy bao nhiêu môn
+- một giảng viên [cong nghe thong tin](giangviencntt) thường dạy bao nhiêu môn
+- một giảng viên [công nghệ thong tin](giangviencntt) thường dạy bao nhiêu môn
+- một giảng viên [cong nghe thông tin](giangviencntt) thường dạy bao nhiêu môn
+- một giảng viên [IT](giangviencntt) thường dạy bao nhiêu môn
+- một giảng viên [công nghệ thông tin](giangviencntt) thường dạy bao nhiêu môn
+- một giảng viên [cong nghệ thông tin](giangviencntt) thường dạy bao nhiêu môn
+- một giảng viên [công nghệ thông tinn](giangviencntt) thường dạy bao nhiêu môn
+- một giảng viên [cn thong tin](giangviencntt) thường dạy bao nhiêu môn
+- một giảng viên [cn tt](giangviencntt) thường dạy bao nhiêu môn
+- một giảng viên [cn thông tin](giangviencntt) thường dạy bao nhiêu môn
+- một giảng viên [cogn nghệ thông tin](giangviencntt) thường dạy bao nhiêu môn
+- một giảng viên [công nghệ tt](giangviencntt) thường dạy bao nhiêu môn
+- một giảng viên [cong6 nghệ thong tin](giangviencntt) thường dạy bao nhiêu môn
+- một giảng viên [công nghệ thong tin](giangviencntt) thường dạy bao nhiêu môn
 - giảng viên [cntt](giangviencntt) thường làm nghiệp vụ gì những gì
-- học vị cao nhất của giảng viên [công nghệ thông tin](giangviencntt:cntt)
-- một giảng viên [công nghệ thông tin](giangviencntt:cntt) thường d ạy bao nhiêu môn
-- giảng viên [công nghệ thông tin](giangviencntt:cntt) thường làm nghiệp vụ gì những gì
-- học vị cao nhất của giảng viên [cong nghe thong tin](giangviencntt:cntt)
-- một giảng viên [cong nghe thong tin](giangviencntt:cntt) thường d ạy bao nhiêu môn
-- giảng viên [cong nghe thong tin](giangviencntt:cntt) thường làm nghiệp vụ gì những gì
-
+- giảng viên [cnttt](giangviencntt) thường làm nghiệp vụ gì những gì
+- giảng viên [công nghệ thông tin](giangviencntt) thường làm nghiệp vụ gì những gì
+- giảng viên [cong nghe thong tin](giangviencntt) thường làm nghiệp vụ gì những gì
+- giảng viên [công nghệ thong tin](giangviencntt) thường làm nghiệp vụ gì những gì
+- giảng viên [cong nghe thông tin](giangviencntt) thường làm nghiệp vụ gì những gì
+- giảng viên [IT](giangviencntt) thường làm nghiệp vụ gì những gì
+- giảng viên [công nghệ thông tin](giangviencntt) thường làm nghiệp vụ gì những gì
+- giảng viên [cong nghệ thông tin](giangviencntt) thường làm nghiệp vụ gì những gì
+- giảng viên [công nghệ thông tinn](giangviencntt) thường làm nghiệp vụ gì những gì
+- giảng viên [cn thong tin](giangviencntt) thường làm nghiệp vụ gì những gì
+- giảng viên [cn tt](giangviencntt) thường làm nghiệp vụ gì những gì
+- giảng viên [cn thông tin](giangviencntt) thường làm nghiệp vụ gì những gì
+- giảng viên [cogn nghệ thông tin](giangviencntt) thường làm nghiệp vụ gì những gì
+- giảng viên [công nghệ tt](giangviencntt) thường làm nghiệp vụ gì những gì
+- giảng viên [cong6 nghệ thong tin](giangviencntt) thường làm nghiệp vụ gì những gì
+- giảng viên [công nghệ thong tin](giangviencntt) thường làm nghiệp vụ gì những gì
 - học vị cao nhất của giảng viên [httt](giangvienhttt)
-- một giảng viên [httt](giangvienhttt) thường d ạy bao nhiêu môn
+- học vị cao nhất của giảng viên [hhttt](giangvienhttt)
+- học vị cao nhất của giảng viên [IS](giangvienhttt)
+- học vị cao nhất của giảng viên [hệ thống thông tin](giangvienhttt)
+- học vị cao nhất của giảng viên [he thong thong tin](giangvienhttt)
+- học vị cao nhất của giảng viên [hệ thông thông tin](giangvienhttt)
+- học vị cao nhất của giảng viên [hê thong thông tin](giangvienhttt)
+- học vị cao nhất của giảng viên [hệ thống thông tin](giangvienhttt)
+- học vị cao nhất của giảng viên [hệ thống thông tín](giangvienhttt)
+- học vị cao nhất của giảng viên [he thống thông tinn](giangvienhttt)
+- học vị cao nhất của giảng viên [ht thông tin](giangvienhttt)
+- học vị cao nhất của giảng viên [hệ thống tt](giangvienhttt)
+- học vị cao nhất của giảng viên [he thống tt](giangvienhttt)
+- học vị cao nhất của giảng viên [ht thông tin](giangvienhttt)
+- học vị cao nhất của giảng viên [ht thong6 tin](giangvienhttt)
+- một giảng viên [httt](giangvienhttt) thường dạy bao nhiêu môn
+- một giảng viên [hhttt](giangvienhttt) thường dạy bao nhiêu môn
+- một giảng viên [IS](giangvienhttt) thường dạy bao nhiêu môn
+- một giảng viên [hệ thống thông tin](giangvienhttt) thường dạy bao nhiêu môn
+- một giảng viên [he thong thong tin](giangvienhttt) thường dạy bao nhiêu môn
+- một giảng viên [hệ thông thông tin](giangvienhttt) thường dạy bao nhiêu môn
+- một giảng viên [hê thong thông tin](giangvienhttt) thường dạy bao nhiêu môn
+- một giảng viên [hệ thống thông tin](giangvienhttt) thường dạy bao nhiêu môn
+- một giảng viên [hệ thống thông tín](giangvienhttt) thường dạy bao nhiêu môn
+- một giảng viên [he thống thông tinn](giangvienhttt) thường dạy bao nhiêu môn
+- một giảng viên [ht thông tin](giangvienhttt) thường dạy bao nhiêu môn
+- một giảng viên [hệ thống tt](giangvienhttt) thường dạy bao nhiêu môn
+- một giảng viên [he thống tt](giangvienhttt) thường dạy bao nhiêu môn
+- một giảng viên [ht thông tin](giangvienhttt) thường dạy bao nhiêu môn
+- một giảng viên [ht thong6 tin](giangvienhttt) thường dạy bao nhiêu môn
 - giảng viên [httt](giangvienhttt) thường làm nghiệp vụ gì những gì
-- học vị cao nhất của giảng viên [hệ thống thông tin](giangvienhttt:httt)
-- một giảng viên [hệ thống thông tin](giangvienhttt:httt) thường d ạy bao nhiêu môn
-- giảng viên [hệ thống thông tin](giangvienhttt:httt) thường làm nghiệp vụ gì những gì
-- học vị cao nhất của giảng viên [he thong thong tin](giangvienhttt:httt)
-- một giảng viên [he thong thong tin](giangvienhttt:httt) thường d ạy bao nhiêu môn
-- giảng viên [he thong thong tin](giangvienhttt:httt) thường làm nghiệp vụ gì những gì
-
+- giảng viên [hhttt](giangvienhttt) thường làm nghiệp vụ gì những gì
+- giảng viên [IS](giangvienhttt) thường làm nghiệp vụ gì những gì
+- giảng viên [hệ thống thông tin](giangvienhttt) thường làm nghiệp vụ gì những gì
+- giảng viên [he thong thong tin](giangvienhttt) thường làm nghiệp vụ gì những gì
+- giảng viên [hệ thông thông tin](giangvienhttt) thường làm nghiệp vụ gì những gì
+- giảng viên [hê thong thông tin](giangvienhttt) thường làm nghiệp vụ gì những gì
+- giảng viên [hệ thống thông tin](giangvienhttt) thường làm nghiệp vụ gì những gì
+- giảng viên [hệ thống thông tín](giangvienhttt) thường làm nghiệp vụ gì những gì
+- giảng viên [he thống thông tinn](giangvienhttt) thường làm nghiệp vụ gì những gì
+- giảng viên [ht thông tin](giangvienhttt) thường làm nghiệp vụ gì những gì
+- giảng viên [hệ thống tt](giangvienhttt) thường làm nghiệp vụ gì những gì
+- giảng viên [he thống tt](giangvienhttt) thường làm nghiệp vụ gì những gì
+- giảng viên [ht thông tin](giangvienhttt) thường làm nghiệp vụ gì những gì
+- giảng viên [ht thong6 tin](giangvienhttt) thường làm nghiệp vụ gì những gì
 - học vị cao nhất của giảng viên [khdl](giangvienkhdl)
-- một giảng viên [khdl](giangvienkhdl) thường d ạy bao nhiêu môn
+- học vị cao nhất của giảng viên [khdk](giangvienkhdl)
+- học vị cao nhất của giảng viên [khoa học dữ liệu](giangvienkhdl)
+- học vị cao nhất của giảng viên [khoa hoc du lieu](giangvienkhdl)
+- học vị cao nhất của giảng viên [khoa học du lieu](giangvienkhdl)
+- học vị cao nhất của giảng viên [khoa hoc du liệu](giangvienkhdl)
+- học vị cao nhất của giảng viên [khao học dữ leiu](giangvienkhdl)
+- học vị cao nhất của giảng viên [khao học du lieu](giangvienkhdl)
+- học vị cao nhất của giảng viên [khao học dữ leiu](giangvienkhdl)
+- học vị cao nhất của giảng viên [khoa học du lieuu](giangvienkhdl)
+- học vị cao nhất của giảng viên [kh dl](giangvienkhdl)
+- học vị cao nhất của giảng viên [kh dữ liệu](giangvienkhdl)
+- học vị cao nhất của giảng viên [khoa hoc dữ liệu](giangvienkhdl)
+- học vị cao nhất của giảng viên [khoa học dl](giangvienkhdl)
+- một giảng viên [khdl](giangvienkhdl) thường dạy bao nhiêu môn
+- một giảng viên [khdk](giangvienkhdl) thường dạy bao nhiêu môn
+- một giảng viên [khoa học dữ liệu](giangvienkhdl) thường dạy bao nhiêu môn
+- một giảng viên [khoa hoc du lieu](giangvienkhdl) thường dạy bao nhiêu môn
+- một giảng viên [khoa học du lieu](giangvienkhdl) thường dạy bao nhiêu môn
+- một giảng viên [khoa hoc du liệu](giangvienkhdl) thường dạy bao nhiêu môn
+- một giảng viên [khao học dữ leiu](giangvienkhdl) thường dạy bao nhiêu môn
+- một giảng viên [khao học du lieu](giangvienkhdl) thường dạy bao nhiêu môn
+- một giảng viên [khao học dữ leiu](giangvienkhdl) thường dạy bao nhiêu môn
+- một giảng viên [khoa học du lieuu](giangvienkhdl) thường dạy bao nhiêu môn
+- một giảng viên [kh dl](giangvienkhdl) thường dạy bao nhiêu môn
+- một giảng viên [kh dữ liệu](giangvienkhdl) thường dạy bao nhiêu môn
+- một giảng viên [khoa hoc dữ liệu](giangvienkhdl) thường dạy bao nhiêu môn
+- một giảng viên [khoa học dl](giangvienkhdl) thường dạy bao nhiêu môn
 - giảng viên [khdl](giangvienkhdl) thường làm nghiệp vụ gì những gì
-- học vị cao nhất của giảng viên [khoa học dữ liệu](giangvienkhdl:khdl)
-- một giảng viên [khoa học dữ liệu](giangvienkhdl:khdl) thường d ạy bao nhiêu môn
-- giảng viên [khoa học dữ liệu](giangvienkhdl:khdl) thường làm nghiệp vụ gì những gì
-- học vị cao nhất của giảng viên [khoa hoc du lieu](giangvienkhdl:khdl)
-- một giảng viên [khoa hoc du lieu](giangvienkhdl:khdl) thường d ạy bao nhiêu môn
-- giảng viên [khoa hoc du lieu](giangvienkhdl:khdl) thường làm nghiệp vụ gì những gì
-
+- giảng viên [khdk](giangvienkhdl) thường làm nghiệp vụ gì những gì
+- giảng viên [khoa học dữ liệu](giangvienkhdl) thường làm nghiệp vụ gì những gì
+- giảng viên [khoa hoc du lieu](giangvienkhdl) thường làm nghiệp vụ gì những gì
+- giảng viên [khoa học du lieu](giangvienkhdl) thường làm nghiệp vụ gì những gì
+- giảng viên [khoa hoc du liệu](giangvienkhdl) thường làm nghiệp vụ gì những gì
+- giảng viên [khao học dữ leiu](giangvienkhdl) thường làm nghiệp vụ gì những gì
+- giảng viên [khao học du lieu](giangvienkhdl) thường làm nghiệp vụ gì những gì
+- giảng viên [khao học dữ leiu](giangvienkhdl) thường làm nghiệp vụ gì những gì
+- giảng viên [khoa học du lieuu](giangvienkhdl) thường làm nghiệp vụ gì những gì
+- giảng viên [kh dl](giangvienkhdl) thường làm nghiệp vụ gì những gì
+- giảng viên [kh dữ liệu](giangvienkhdl) thường làm nghiệp vụ gì những gì
+- giảng viên [khoa hoc dữ liệu](giangvienkhdl) thường làm nghiệp vụ gì những gì
+- giảng viên [khoa học dl](giangvienkhdl) thường làm nghiệp vụ gì những gì
 ## intent: canhtranh
-- ngành [khmt](canhtranhkhmt) có sự c ạnh tranh cao không
-- sự c ạnh tranh trong ngành [khoa học máy tính](canhtranhkhmt:khmt)
-- [khoa học máy tính](canhtranhkhmt:khmt) có c ạnh tranh cao không
-- ngành [khmt](canhtranhkhmt) có sự c ạnh tranh cao không
-- sự c ạnh tranh trong ngành [kỹ thuật phần mềm](canhtranhktpm:ktpm)
-- [kỹ thuật phần mềm](canhtranhktpm:ktpm) có c ạnh tranh cao không
-- ngành [khmt](canhtranhkhmt) có sự c ạnh tranh cao không
-- sự c ạnh tranh trong ngành [công nghệ thông tin](canhtranhcntt:cntt)
-- [công nghệ thông tin](canhtranhcntt:cntt) có c ạnh tranh cao không
-- ngành [httt](canhtranhhttt) có sự c ạnh tranh cao không
-- sự c ạnh tranh trong ngành [hệ thống thông tin](canhtranhhttt:httt) 
-- [hệ thống thông tin](canhtranhhttt:httt) có c ạnh tranh cao không
-- ngành [khdl](canhtranhkhdl) có sự c ạnh tranh cao không
-- sự c ạnh tranh trong ngành [khoa học dữ liệu](canhtranhkhdl:khdl)
-- [khoa học dữ liệu](canhtranhkhdl:khdl) có c ạnh tranh cao không
-- ngành [khoa hoc may tinh](canhtranhkhmt:khmt) có sự c ạnh tranh cao không
-- sự c ạnh tranh trong ngành [khmt](canhtranhkhmt)
-- [khmt](canhtranhkhmt) có c ạnh tranh cao không
-- ngành [khoa hoc may tinh](canhtranhkhmt:khmt) có sự c ạnh tranh cao không
-- sự c ạnh tranh trong ngành [ktpm](canhtranhktpm)
-- [ktpm](canhtranhktpm) có c ạnh tranh cao không
-- ngành [khoa hoc may tinh](canhtranhkhmt:khmt) có sự c ạnh tranh cao không
-- sự c ạnh tranh trong ngành [cntt](canhtranhcntt)
-- [cntt](canhtranhcntt) có c ạnh tranh cao không
-- ngành [he thong thong tin](canhtranhhttt:httt) có sự c ạnh tranh cao không
-- sự c ạnh tranh trong ngành [he thong thong tin](canhtranhhttt) 
-- [httt](canhtranhhttt) có c ạnh tranh cao không
-- ngành [khoa hoc du lieu](canhtranhkhdl:khdl) có sự c ạnh tranh cao không
-- sự c ạnh tranh trong ngành [khdl](canhtranhkhdl)
-- [khdl](canhtranhkhdl) có c ạnh tranh cao không
-- dân [khmt](canhtranhkhmt) làm thế nào để c ạnh tranh được với những ngành khác
+- ngành [khmt](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khtm](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khoa học máy tính](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khoa hoc may tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [cong nghe may tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khao hoc may tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khao học may tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [công nghệ máy tính](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khao học máy tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khoa học may tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [CS](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [kh máy tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [kh may tính](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [kh máy tính](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [kh máy tình](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khmt](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khtm](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khoa học máy tính](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khoa hoc may tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [cong nghe may tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khao hoc may tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khao học may tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [công nghệ máy tính](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khao học máy tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khoa học may tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [CS](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [kh máy tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [kh may tính](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [kh máy tính](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [kh máy tình](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khmt](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khtm](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khoa học máy tính](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khoa hoc may tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [cong nghe may tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khao hoc may tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khao học may tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [công nghệ máy tính](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khao học máy tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [khoa học may tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [CS](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [kh máy tinh](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [kh may tính](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [kh máy tính](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [kh máy tình](canhtranhkhmt) có sự cạnh tranh cao không
+- ngành [httt](canhtranhhttt) có sự cạnh tranh cao không
+- ngành [hhttt](canhtranhhttt) có sự cạnh tranh cao không
+- ngành [IS](canhtranhhttt) có sự cạnh tranh cao không
+- ngành [hệ thống thông tin](canhtranhhttt) có sự cạnh tranh cao không
+- ngành [he thong thong tin](canhtranhhttt) có sự cạnh tranh cao không
+- ngành [hệ thông thông tin](canhtranhhttt) có sự cạnh tranh cao không
+- ngành [hê thong thông tin](canhtranhhttt) có sự cạnh tranh cao không
+- ngành [hệ thống thông tin](canhtranhhttt) có sự cạnh tranh cao không
+- ngành [hệ thống thông tín](canhtranhhttt) có sự cạnh tranh cao không
+- ngành [he thống thông tinn](canhtranhhttt) có sự cạnh tranh cao không
+- ngành [ht thông tin](canhtranhhttt) có sự cạnh tranh cao không
+- ngành [hệ thống tt](canhtranhhttt) có sự cạnh tranh cao không
+- ngành [he thống tt](canhtranhhttt) có sự cạnh tranh cao không
+- ngành [ht thông tin](canhtranhhttt) có sự cạnh tranh cao không
+- ngành [ht thong6 tin](canhtranhhttt) có sự cạnh tranh cao không
+- ngành [khdl](canhtranhkhdl) có sự cạnh tranh cao không
+- ngành [khdk](canhtranhkhdl) có sự cạnh tranh cao không
+- ngành [khoa học dữ liệu](canhtranhkhdl) có sự cạnh tranh cao không
+- ngành [khoa hoc du lieu](canhtranhkhdl) có sự cạnh tranh cao không
+- ngành [khoa học du lieu](canhtranhkhdl) có sự cạnh tranh cao không
+- ngành [khoa hoc du liệu](canhtranhkhdl) có sự cạnh tranh cao không
+- ngành [khao học dữ leiu](canhtranhkhdl) có sự cạnh tranh cao không
+- ngành [khao học du lieu](canhtranhkhdl) có sự cạnh tranh cao không
+- ngành [khao học dữ leiu](canhtranhkhdl) có sự cạnh tranh cao không
+- ngành [khoa học du lieuu](canhtranhkhdl) có sự cạnh tranh cao không
+- ngành [kh dl](canhtranhkhdl) có sự cạnh tranh cao không
+- ngành [kh dữ liệu](canhtranhkhdl) có sự cạnh tranh cao không
+- ngành [khoa hoc dữ liệu](canhtranhkhdl) có sự cạnh tranh cao không
+- ngành [khoa học dl](canhtranhkhdl) có sự cạnh tranh cao không
+- sự cạnh tranh trong ngành [khmt](canhtranhkhmt)
+- sự cạnh tranh trong ngành [khtm](canhtranhkhmt)
+- sự cạnh tranh trong ngành [khoa học máy tính](canhtranhkhmt)
+- sự cạnh tranh trong ngành [khoa hoc may tinh](canhtranhkhmt)
+- sự cạnh tranh trong ngành [cong nghe may tinh](canhtranhkhmt)
+- sự cạnh tranh trong ngành [khao hoc may tinh](canhtranhkhmt)
+- sự cạnh tranh trong ngành [khao học may tinh](canhtranhkhmt)
+- sự cạnh tranh trong ngành [công nghệ máy tính](canhtranhkhmt)
+- sự cạnh tranh trong ngành [khao học máy tinh](canhtranhkhmt)
+- sự cạnh tranh trong ngành [khoa học may tinh](canhtranhkhmt)
+- sự cạnh tranh trong ngành [CS](canhtranhkhmt)
+- sự cạnh tranh trong ngành [kh máy tinh](canhtranhkhmt)
+- sự cạnh tranh trong ngành [kh may tính](canhtranhkhmt)
+- sự cạnh tranh trong ngành [kh máy tính](canhtranhkhmt)
+- sự cạnh tranh trong ngành [kh máy tình](canhtranhkhmt)
+- [khmt](canhtranhkhmt) có cạnh tranh cao không
+- [khtm](canhtranhkhmt) có cạnh tranh cao không
+- [khoa học máy tính](canhtranhkhmt) có cạnh tranh cao không
+- [khoa hoc may tinh](canhtranhkhmt) có cạnh tranh cao không
+- [cong nghe may tinh](canhtranhkhmt) có cạnh tranh cao không
+- [khao hoc may tinh](canhtranhkhmt) có cạnh tranh cao không
+- [khao học may tinh](canhtranhkhmt) có cạnh tranh cao không
+- [công nghệ máy tính](canhtranhkhmt) có cạnh tranh cao không
+- [khao học máy tinh](canhtranhkhmt) có cạnh tranh cao không
+- [khoa học may tinh](canhtranhkhmt) có cạnh tranh cao không
+- [CS](canhtranhkhmt) có cạnh tranh cao không
+- [kh máy tinh](canhtranhkhmt) có cạnh tranh cao không
+- [kh may tính](canhtranhkhmt) có cạnh tranh cao không
+- [kh máy tính](canhtranhkhmt) có cạnh tranh cao không
+- [kh máy tình](canhtranhkhmt) có cạnh tranh cao không
+- sự cạnh tranh trong ngành [ktpm](canhtranhktpm)
+- sự cạnh tranh trong ngành [ktpmm](canhtranhktpm)
+- sự cạnh tranh trong ngành [kỹ thuật phần mềm](canhtranhktpm)
+- sự cạnh tranh trong ngành [ky thuat phan mem](canhtranhktpm)
+- sự cạnh tranh trong ngành [ki thuật phần mềm](canhtranhktpm)
+- sự cạnh tranh trong ngành [kỹ thuat phần mềm](canhtranhktpm)
+- sự cạnh tranh trong ngành [kỹ thuật phần mềm](canhtranhktpm)
+- sự cạnh tranh trong ngành [cong nghệ phần mềm](canhtranhktpm)
+- sự cạnh tranh trong ngành [công nghệ phần mềm](canhtranhktpm)
+- sự cạnh tranh trong ngành [cong nghe phan mem](canhtranhktpm)
+- sự cạnh tranh trong ngành [SE](canhtranhktpm)
+- sự cạnh tranh trong ngành [kt phần mềm](canhtranhktpm)
+- sự cạnh tranh trong ngành [kt phan mem](canhtranhktpm)
+- sự cạnh tranh trong ngành [kỹ thuật phân mem](canhtranhktpm)
+- sự cạnh tranh trong ngành [phan mem](canhtranhktpm)
+- sự cạnh tranh trong ngành [phần mềm](canhtranhktpm)
+- sự cạnh tranh trong ngành [kt pm](canhtranhktpm)
+- [ktpm](canhtranhktpm) có cạnh tranh cao không
+- [ktpmm](canhtranhktpm) có cạnh tranh cao không
+- [kỹ thuật phần mềm](canhtranhktpm) có cạnh tranh cao không
+- [ky thuat phan mem](canhtranhktpm) có cạnh tranh cao không
+- [ki thuật phần mềm](canhtranhktpm) có cạnh tranh cao không
+- [kỹ thuat phần mềm](canhtranhktpm) có cạnh tranh cao không
+- [kỹ thuật phần mềm](canhtranhktpm) có cạnh tranh cao không
+- [cong nghệ phần mềm](canhtranhktpm) có cạnh tranh cao không
+- [công nghệ phần mềm](canhtranhktpm) có cạnh tranh cao không
+- [cong nghe phan mem](canhtranhktpm) có cạnh tranh cao không
+- [SE](canhtranhktpm) có cạnh tranh cao không
+- [kt phần mềm](canhtranhktpm) có cạnh tranh cao không
+- [kt phan mem](canhtranhktpm) có cạnh tranh cao không
+- [kỹ thuật phân mem](canhtranhktpm) có cạnh tranh cao không
+- [phan mem](canhtranhktpm) có cạnh tranh cao không
+- [phần mềm](canhtranhktpm) có cạnh tranh cao không
+- [kt pm](canhtranhktpm) có cạnh tranh cao không
+- sự cạnh tranh trong ngành [cntt](canhtranhcntt)
+- sự cạnh tranh trong ngành [cnttt](canhtranhcntt)
+- sự cạnh tranh trong ngành [công nghệ thông tin](canhtranhcntt)
+- sự cạnh tranh trong ngành [cong nghe thong tin](canhtranhcntt)
+- sự cạnh tranh trong ngành [công nghệ thong tin](canhtranhcntt)
+- sự cạnh tranh trong ngành [cong nghe thông tin](canhtranhcntt)
+- sự cạnh tranh trong ngành [IT](canhtranhcntt)
+- sự cạnh tranh trong ngành [công nghệ thông tin](canhtranhcntt)
+- sự cạnh tranh trong ngành [cong nghệ thông tin](canhtranhcntt)
+- sự cạnh tranh trong ngành [công nghệ thông tinn](canhtranhcntt)
+- sự cạnh tranh trong ngành [cn thong tin](canhtranhcntt)
+- sự cạnh tranh trong ngành [cn tt](canhtranhcntt)
+- sự cạnh tranh trong ngành [cn thông tin](canhtranhcntt)
+- sự cạnh tranh trong ngành [cogn nghệ thông tin](canhtranhcntt)
+- sự cạnh tranh trong ngành [công nghệ tt](canhtranhcntt)
+- sự cạnh tranh trong ngành [cong6 nghệ thong tin](canhtranhcntt)
+- sự cạnh tranh trong ngành [công nghệ thong tin](canhtranhcntt)
+- [cntt](canhtranhcntt) có cạnh tranh cao không
+- [cnttt](canhtranhcntt) có cạnh tranh cao không
+- [công nghệ thông tin](canhtranhcntt) có cạnh tranh cao không
+- [cong nghe thong tin](canhtranhcntt) có cạnh tranh cao không
+- [công nghệ thong tin](canhtranhcntt) có cạnh tranh cao không
+- [cong nghe thông tin](canhtranhcntt) có cạnh tranh cao không
+- [IT](canhtranhcntt) có cạnh tranh cao không
+- [công nghệ thông tin](canhtranhcntt) có cạnh tranh cao không
+- [cong nghệ thông tin](canhtranhcntt) có cạnh tranh cao không
+- [công nghệ thông tinn](canhtranhcntt) có cạnh tranh cao không
+- [cn thong tin](canhtranhcntt) có cạnh tranh cao không
+- [cn tt](canhtranhcntt) có cạnh tranh cao không
+- [cn thông tin](canhtranhcntt) có cạnh tranh cao không
+- [cogn nghệ thông tin](canhtranhcntt) có cạnh tranh cao không
+- [công nghệ tt](canhtranhcntt) có cạnh tranh cao không
+- [cong6 nghệ thong tin](canhtranhcntt) có cạnh tranh cao không
+- [công nghệ thong tin](canhtranhcntt) có cạnh tranh cao không
+- [httt](canhtranhhttt) có cạnh tranh cao không
+- [hhttt](canhtranhhttt) có cạnh tranh cao không
+- [IS](canhtranhhttt) có cạnh tranh cao không
+- [hệ thống thông tin](canhtranhhttt) có cạnh tranh cao không
+- [he thong thong tin](canhtranhhttt) có cạnh tranh cao không
+- [hệ thông thông tin](canhtranhhttt) có cạnh tranh cao không
+- [hê thong thông tin](canhtranhhttt) có cạnh tranh cao không
+- [hệ thống thông tin](canhtranhhttt) có cạnh tranh cao không
+- [hệ thống thông tín](canhtranhhttt) có cạnh tranh cao không
+- [he thống thông tinn](canhtranhhttt) có cạnh tranh cao không
+- [ht thông tin](canhtranhhttt) có cạnh tranh cao không
+- [hệ thống tt](canhtranhhttt) có cạnh tranh cao không
+- [he thống tt](canhtranhhttt) có cạnh tranh cao không
+- [ht thông tin](canhtranhhttt) có cạnh tranh cao không
+- [ht thong6 tin](canhtranhhttt) có cạnh tranh cao không
+- sự cạnh tranh trong ngành [khdl](canhtranhkhdl)
+- sự cạnh tranh trong ngành [khdk](canhtranhkhdl)
+- sự cạnh tranh trong ngành [khoa học dữ liệu](canhtranhkhdl)
+- sự cạnh tranh trong ngành [khoa hoc du lieu](canhtranhkhdl)
+- sự cạnh tranh trong ngành [khoa học du lieu](canhtranhkhdl)
+- sự cạnh tranh trong ngành [khoa hoc du liệu](canhtranhkhdl)
+- sự cạnh tranh trong ngành [khao học dữ leiu](canhtranhkhdl)
+- sự cạnh tranh trong ngành [khao học du lieu](canhtranhkhdl)
+- sự cạnh tranh trong ngành [khao học dữ leiu](canhtranhkhdl)
+- sự cạnh tranh trong ngành [khoa học du lieuu](canhtranhkhdl)
+- sự cạnh tranh trong ngành [kh dl](canhtranhkhdl)
+- sự cạnh tranh trong ngành [kh dữ liệu](canhtranhkhdl)
+- sự cạnh tranh trong ngành [khoa hoc dữ liệu](canhtranhkhdl)
+- sự cạnh tranh trong ngành [khoa học dl](canhtranhkhdl)
+- [khdl](canhtranhkhdl) có cạnh tranh cao không
+- [khdk](canhtranhkhdl) có cạnh tranh cao không
+- [khoa học dữ liệu](canhtranhkhdl) có cạnh tranh cao không
+- [khoa hoc du lieu](canhtranhkhdl) có cạnh tranh cao không
+- [khoa học du lieu](canhtranhkhdl) có cạnh tranh cao không
+- [khoa hoc du liệu](canhtranhkhdl) có cạnh tranh cao không
+- [khao học dữ leiu](canhtranhkhdl) có cạnh tranh cao không
+- [khao học du lieu](canhtranhkhdl) có cạnh tranh cao không
+- [khao học dữ leiu](canhtranhkhdl) có cạnh tranh cao không
+- [khoa học du lieuu](canhtranhkhdl) có cạnh tranh cao không
+- [kh dl](canhtranhkhdl) có cạnh tranh cao không
+- [kh dữ liệu](canhtranhkhdl) có cạnh tranh cao không
+- [khoa hoc dữ liệu](canhtranhkhdl) có cạnh tranh cao không
+- [khoa học dl](canhtranhkhdl) có cạnh tranh cao không
+- dân [khmt](canhtranhkhmt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [khtm](canhtranhkhmt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [khoa học máy tính](canhtranhkhmt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [khoa hoc may tinh](canhtranhkhmt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [cong nghe may tinh](canhtranhkhmt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [khao hoc may tinh](canhtranhkhmt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [khao học may tinh](canhtranhkhmt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [công nghệ máy tính](canhtranhkhmt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [khao học máy tinh](canhtranhkhmt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [khoa học may tinh](canhtranhkhmt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [CS](canhtranhkhmt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [kh máy tinh](canhtranhkhmt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [kh may tính](canhtranhkhmt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [kh máy tính](canhtranhkhmt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [kh máy tình](canhtranhkhmt) làm thế nào để cạnh tranh được với những ngành khác
 - cạnh tranh là gì, ngành [khmt](canhtranhkhmt) có cần sự cạnh tranh với những ngành khác
-- dân [khoa học máy tính](canhtranhkhmt:khmt) làm thế nào để c ạnh tranh được với những ngành khác
-- cạnh tranh là gì, ngành [khoa học máy tính](canhtranhkhmt:khmt) có cần sự cạnh tranh với những ngành khác
-- dân [khoa hoc may tinh](canhtranhkhmt:khmt) làm thế nào để c ạnh tranh được với những ngành khác
-- cạnh tranh là gì, ngành [khoa hoc may tinh](canhtranhkhmt:khmt) có cần sự cạnh tranh với những ngành khác
-- dân [ktpm](canhtranhktpm) làm thế nào để c ạnh tranh được với những ngành khác
+- cạnh tranh là gì, ngành [khtm](canhtranhkhmt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [khoa học máy tính](canhtranhkhmt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [khoa hoc may tinh](canhtranhkhmt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [cong nghe may tinh](canhtranhkhmt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [khao hoc may tinh](canhtranhkhmt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [khao học may tinh](canhtranhkhmt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [công nghệ máy tính](canhtranhkhmt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [khao học máy tinh](canhtranhkhmt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [khoa học may tinh](canhtranhkhmt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [CS](canhtranhkhmt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [kh máy tinh](canhtranhkhmt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [kh may tính](canhtranhkhmt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [kh máy tính](canhtranhkhmt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [kh máy tình](canhtranhkhmt) có cần sự cạnh tranh với những ngành khác
+- dân [ktpm](canhtranhktpm) làm thế nào để cạnh tranh được với những ngành khác
+- dân [ktpmm](canhtranhktpm) làm thế nào để cạnh tranh được với những ngành khác
+- dân [kỹ thuật phần mềm](canhtranhktpm) làm thế nào để cạnh tranh được với những ngành khác
+- dân [ky thuat phan mem](canhtranhktpm) làm thế nào để cạnh tranh được với những ngành khác
+- dân [ki thuật phần mềm](canhtranhktpm) làm thế nào để cạnh tranh được với những ngành khác
+- dân [kỹ thuat phần mềm](canhtranhktpm) làm thế nào để cạnh tranh được với những ngành khác
+- dân [kỹ thuật phần mềm](canhtranhktpm) làm thế nào để cạnh tranh được với những ngành khác
+- dân [cong nghệ phần mềm](canhtranhktpm) làm thế nào để cạnh tranh được với những ngành khác
+- dân [công nghệ phần mềm](canhtranhktpm) làm thế nào để cạnh tranh được với những ngành khác
+- dân [cong nghe phan mem](canhtranhktpm) làm thế nào để cạnh tranh được với những ngành khác
+- dân [SE](canhtranhktpm) làm thế nào để cạnh tranh được với những ngành khác
+- dân [kt phần mềm](canhtranhktpm) làm thế nào để cạnh tranh được với những ngành khác
+- dân [kt phan mem](canhtranhktpm) làm thế nào để cạnh tranh được với những ngành khác
+- dân [kỹ thuật phân mem](canhtranhktpm) làm thế nào để cạnh tranh được với những ngành khác
+- dân [phan mem](canhtranhktpm) làm thế nào để cạnh tranh được với những ngành khác
+- dân [phần mềm](canhtranhktpm) làm thế nào để cạnh tranh được với những ngành khác
+- dân [kt pm](canhtranhktpm) làm thế nào để cạnh tranh được với những ngành khác
 - cạnh tranh là gì, ngành [ktpm](canhtranhktpm) có cần sự cạnh tranh với những ngành khác
-- dân [kỹ thuật phần mềm](canhtranhktpm:ktpm) làm thế nào để c ạnh tranh được với những ngành khác
-- cạnh tranh là gì, ngành [kỹ thuật phần mềm](canhtranhktpm:ktpm) có cần sự cạnh tranh với những ngành khác
-- dân [ky thuat phan mem](canhtranhktpm:ktpm) làm thế nào để c ạnh tranh được với những ngành khác
-- cạnh tranh là gì, ngành [ky thuat phan mem](canhtranhktpm:ktpm) có cần sự cạnh tranh với những ngành khác
-- dân [cntt](canhtranhcntt) làm thế nào để c ạnh tranh được với những ngành khác
+- cạnh tranh là gì, ngành [ktpmm](canhtranhktpm) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [kỹ thuật phần mềm](canhtranhktpm) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [ky thuat phan mem](canhtranhktpm) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [ki thuật phần mềm](canhtranhktpm) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [kỹ thuat phần mềm](canhtranhktpm) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [kỹ thuật phần mềm](canhtranhktpm) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [cong nghệ phần mềm](canhtranhktpm) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [công nghệ phần mềm](canhtranhktpm) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [cong nghe phan mem](canhtranhktpm) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [SE](canhtranhktpm) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [kt phần mềm](canhtranhktpm) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [kt phan mem](canhtranhktpm) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [kỹ thuật phân mem](canhtranhktpm) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [phan mem](canhtranhktpm) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [phần mềm](canhtranhktpm) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [kt pm](canhtranhktpm) có cần sự cạnh tranh với những ngành khác
+- dân [cntt](canhtranhcntt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [cnttt](canhtranhcntt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [công nghệ thông tin](canhtranhcntt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [cong nghe thong tin](canhtranhcntt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [công nghệ thong tin](canhtranhcntt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [cong nghe thông tin](canhtranhcntt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [IT](canhtranhcntt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [công nghệ thông tin](canhtranhcntt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [cong nghệ thông tin](canhtranhcntt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [công nghệ thông tinn](canhtranhcntt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [cn thong tin](canhtranhcntt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [cn tt](canhtranhcntt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [cn thông tin](canhtranhcntt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [cogn nghệ thông tin](canhtranhcntt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [công nghệ tt](canhtranhcntt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [cong6 nghệ thong tin](canhtranhcntt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [công nghệ thong tin](canhtranhcntt) làm thế nào để cạnh tranh được với những ngành khác
 - cạnh tranh là gì, ngành [cntt](canhtranhcntt) có cần sự cạnh tranh với những ngành khác
-- dân [công nghệ thông tin](canhtranhcntt:cntt) làm thế nào để c ạnh tranh được với những ngành khác
-- cạnh tranh là gì, ngành [công nghệ thông tin](canhtranhcntt:cntt) có cần sự cạnh tranh với những ngành khác
-- dân [cong nghe thong tin](canhtranhcntt:cntt) làm thế nào để c ạnh tranh được với những ngành khác
-- cạnh tranh là gì, ngành [cong nghe thong tin](canhtranhcntt:cntt) có cần sự cạnh tranh với những ngành khác
-- dân [httt](canhtranhhttt) làm thế nào để c ạnh tranh được với những ngành khác
+- cạnh tranh là gì, ngành [cnttt](canhtranhcntt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [công nghệ thông tin](canhtranhcntt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [cong nghe thong tin](canhtranhcntt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [công nghệ thong tin](canhtranhcntt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [cong nghe thông tin](canhtranhcntt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [IT](canhtranhcntt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [công nghệ thông tin](canhtranhcntt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [cong nghệ thông tin](canhtranhcntt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [công nghệ thông tinn](canhtranhcntt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [cn thong tin](canhtranhcntt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [cn tt](canhtranhcntt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [cn thông tin](canhtranhcntt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [cogn nghệ thông tin](canhtranhcntt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [công nghệ tt](canhtranhcntt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [cong6 nghệ thong tin](canhtranhcntt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [công nghệ thong tin](canhtranhcntt) có cần sự cạnh tranh với những ngành khác
+- dân [httt](canhtranhhttt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [hhttt](canhtranhhttt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [IS](canhtranhhttt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [hệ thống thông tin](canhtranhhttt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [he thong thong tin](canhtranhhttt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [hệ thông thông tin](canhtranhhttt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [hê thong thông tin](canhtranhhttt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [hệ thống thông tin](canhtranhhttt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [hệ thống thông tín](canhtranhhttt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [he thống thông tinn](canhtranhhttt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [ht thông tin](canhtranhhttt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [hệ thống tt](canhtranhhttt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [he thống tt](canhtranhhttt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [ht thông tin](canhtranhhttt) làm thế nào để cạnh tranh được với những ngành khác
+- dân [ht thong6 tin](canhtranhhttt) làm thế nào để cạnh tranh được với những ngành khác
 - cạnh tranh là gì, ngành [httt](canhtranhhttt) có cần sự cạnh tranh với những ngành khác
-- dân [hệ thống thông tin](canhtranhhttt:httt) làm thế nào để c ạnh tranh được với những ngành khác
-- cạnh tranh là gì, ngành [hệ thống thông tin](canhtranhhttt:httt) có cần sự cạnh tranh với những ngành khác
-- dân [he thong thong tin](canhtranhhttt:httt) làm thế nào để c ạnh tranh được với những ngành khác
-- cạnh tranh là gì, ngành [he thong thong tin](canhtranhhttt:httt) có cần sự cạnh tranh với những ngành khác
-- dân [khdl](canhtranhkhdl) làm thế nào để c ạnh tranh được với những ngành khác
+- cạnh tranh là gì, ngành [hhttt](canhtranhhttt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [IS](canhtranhhttt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [hệ thống thông tin](canhtranhhttt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [he thong thong tin](canhtranhhttt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [hệ thông thông tin](canhtranhhttt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [hê thong thông tin](canhtranhhttt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [hệ thống thông tin](canhtranhhttt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [hệ thống thông tín](canhtranhhttt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [he thống thông tinn](canhtranhhttt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [ht thông tin](canhtranhhttt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [hệ thống tt](canhtranhhttt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [he thống tt](canhtranhhttt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [ht thông tin](canhtranhhttt) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [ht thong6 tin](canhtranhhttt) có cần sự cạnh tranh với những ngành khác
+- dân [khdl](canhtranhkhdl) làm thế nào để cạnh tranh được với những ngành khác
+- dân [khdk](canhtranhkhdl) làm thế nào để cạnh tranh được với những ngành khác
+- dân [khoa học dữ liệu](canhtranhkhdl) làm thế nào để cạnh tranh được với những ngành khác
+- dân [khoa hoc du lieu](canhtranhkhdl) làm thế nào để cạnh tranh được với những ngành khác
+- dân [khoa học du lieu](canhtranhkhdl) làm thế nào để cạnh tranh được với những ngành khác
+- dân [khoa hoc du liệu](canhtranhkhdl) làm thế nào để cạnh tranh được với những ngành khác
+- dân [khao học dữ leiu](canhtranhkhdl) làm thế nào để cạnh tranh được với những ngành khác
+- dân [khao học du lieu](canhtranhkhdl) làm thế nào để cạnh tranh được với những ngành khác
+- dân [khao học dữ leiu](canhtranhkhdl) làm thế nào để cạnh tranh được với những ngành khác
+- dân [khoa học du lieuu](canhtranhkhdl) làm thế nào để cạnh tranh được với những ngành khác
+- dân [kh dl](canhtranhkhdl) làm thế nào để cạnh tranh được với những ngành khác
+- dân [kh dữ liệu](canhtranhkhdl) làm thế nào để cạnh tranh được với những ngành khác
+- dân [khoa hoc dữ liệu](canhtranhkhdl) làm thế nào để cạnh tranh được với những ngành khác
+- dân [khoa học dl](canhtranhkhdl) làm thế nào để cạnh tranh được với những ngành khác
 - cạnh tranh là gì, ngành [khdl](canhtranhkhdl) có cần sự cạnh tranh với những ngành khác
-- dân [khoa học dữ liệu](canhtranhkhdl) làm thế nào để c ạnh tranh được với những ngành khác
+- cạnh tranh là gì, ngành [khdk](canhtranhkhdl) có cần sự cạnh tranh với những ngành khác
 - cạnh tranh là gì, ngành [khoa học dữ liệu](canhtranhkhdl) có cần sự cạnh tranh với những ngành khác
-- dân [khoa hoc du lieu](canhtranhkhdl:khdl) làm thế nào để c ạnh tranh được với những ngành khác
-- cạnh tranh là gì, ngành [khoa hoc du lieu](canhtranhkhdl:khdl) có cần sự cạnh tranh với những ngành khác
-
+- cạnh tranh là gì, ngành [khoa hoc du lieu](canhtranhkhdl) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [khoa học du lieu](canhtranhkhdl) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [khoa hoc du liệu](canhtranhkhdl) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [khao học dữ leiu](canhtranhkhdl) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [khao học du lieu](canhtranhkhdl) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [khao học dữ leiu](canhtranhkhdl) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [khoa học du lieuu](canhtranhkhdl) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [kh dl](canhtranhkhdl) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [kh dữ liệu](canhtranhkhdl) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [khoa hoc dữ liệu](canhtranhkhdl) có cần sự cạnh tranh với những ngành khác
+- cạnh tranh là gì, ngành [khoa học dl](canhtranhkhdl) có cần sự cạnh tranh với những ngành khác
 ## intent: tailieu
 - học [khmt](tailieukhmt) thì cần tìm tài liệu nào
+- học [khtm](tailieukhmt) thì cần tìm tài liệu nào
+- học [khoa học máy tính](tailieukhmt) thì cần tìm tài liệu nào
+- học [khoa hoc may tinh](tailieukhmt) thì cần tìm tài liệu nào
+- học [cong nghe may tinh](tailieukhmt) thì cần tìm tài liệu nào
+- học [khao hoc may tinh](tailieukhmt) thì cần tìm tài liệu nào
+- học [khao học may tinh](tailieukhmt) thì cần tìm tài liệu nào
+- học [công nghệ máy tính](tailieukhmt) thì cần tìm tài liệu nào
+- học [khao học máy tinh](tailieukhmt) thì cần tìm tài liệu nào
+- học [khoa học may tinh](tailieukhmt) thì cần tìm tài liệu nào
+- học [CS](tailieukhmt) thì cần tìm tài liệu nào
+- học [kh máy tinh](tailieukhmt) thì cần tìm tài liệu nào
+- học [kh may tính](tailieukhmt) thì cần tìm tài liệu nào
+- học [kh máy tính](tailieukhmt) thì cần tìm tài liệu nào
+- học [kh máy tình](tailieukhmt) thì cần tìm tài liệu nào
 - học [khmt](tailieukhmt) thì cần đọc sách gì
+- học [khtm](tailieukhmt) thì cần đọc sách gì
+- học [khoa học máy tính](tailieukhmt) thì cần đọc sách gì
+- học [khoa hoc may tinh](tailieukhmt) thì cần đọc sách gì
+- học [cong nghe may tinh](tailieukhmt) thì cần đọc sách gì
+- học [khao hoc may tinh](tailieukhmt) thì cần đọc sách gì
+- học [khao học may tinh](tailieukhmt) thì cần đọc sách gì
+- học [công nghệ máy tính](tailieukhmt) thì cần đọc sách gì
+- học [khao học máy tinh](tailieukhmt) thì cần đọc sách gì
+- học [khoa học may tinh](tailieukhmt) thì cần đọc sách gì
+- học [CS](tailieukhmt) thì cần đọc sách gì
+- học [kh máy tinh](tailieukhmt) thì cần đọc sách gì
+- học [kh may tính](tailieukhmt) thì cần đọc sách gì
+- học [kh máy tính](tailieukhmt) thì cần đọc sách gì
+- học [kh máy tình](tailieukhmt) thì cần đọc sách gì
 - học [khmt](tailieukhmt) nên kiếm tài liệu ở đâu
+- học [khtm](tailieukhmt) nên kiếm tài liệu ở đâu
+- học [khoa học máy tính](tailieukhmt) nên kiếm tài liệu ở đâu
+- học [khoa hoc may tinh](tailieukhmt) nên kiếm tài liệu ở đâu
+- học [cong nghe may tinh](tailieukhmt) nên kiếm tài liệu ở đâu
+- học [khao hoc may tinh](tailieukhmt) nên kiếm tài liệu ở đâu
+- học [khao học may tinh](tailieukhmt) nên kiếm tài liệu ở đâu
+- học [công nghệ máy tính](tailieukhmt) nên kiếm tài liệu ở đâu
+- học [khao học máy tinh](tailieukhmt) nên kiếm tài liệu ở đâu
+- học [khoa học may tinh](tailieukhmt) nên kiếm tài liệu ở đâu
+- học [CS](tailieukhmt) nên kiếm tài liệu ở đâu
+- học [kh máy tinh](tailieukhmt) nên kiếm tài liệu ở đâu
+- học [kh may tính](tailieukhmt) nên kiếm tài liệu ở đâu
+- học [kh máy tính](tailieukhmt) nên kiếm tài liệu ở đâu
+- học [kh máy tình](tailieukhmt) nên kiếm tài liệu ở đâu
 - muốn học tốt [khmt](tailieukhmt) thì nên đọc sách gì
-- học [ktpm](tailieuktpm) thì cần tìm tài liệu nào 
+- muốn học tốt [khtm](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [khoa học máy tính](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [khoa hoc may tinh](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [cong nghe may tinh](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [khao hoc may tinh](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [khao học may tinh](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [công nghệ máy tính](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [khao học máy tinh](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [khoa học may tinh](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [CS](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [kh máy tinh](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [kh may tính](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [kh máy tính](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [kh máy tình](tailieukhmt) thì nên đọc sách gì
+- học [ktpm](tailieuktpm) thì cần tìm tài liệu nào
+- học [ktpmm](tailieuktpm) thì cần tìm tài liệu nào
+- học [kỹ thuật phần mềm](tailieuktpm) thì cần tìm tài liệu nào
+- học [ky thuat phan mem](tailieuktpm) thì cần tìm tài liệu nào
+- học [ki thuật phần mềm](tailieuktpm) thì cần tìm tài liệu nào
+- học [kỹ thuat phần mềm](tailieuktpm) thì cần tìm tài liệu nào
+- học [kỹ thuật phần mềm](tailieuktpm) thì cần tìm tài liệu nào
+- học [cong nghệ phần mềm](tailieuktpm) thì cần tìm tài liệu nào
+- học [công nghệ phần mềm](tailieuktpm) thì cần tìm tài liệu nào
+- học [cong nghe phan mem](tailieuktpm) thì cần tìm tài liệu nào
+- học [SE](tailieuktpm) thì cần tìm tài liệu nào
+- học [kt phần mềm](tailieuktpm) thì cần tìm tài liệu nào
+- học [kt phan mem](tailieuktpm) thì cần tìm tài liệu nào
+- học [kỹ thuật phân mem](tailieuktpm) thì cần tìm tài liệu nào
+- học [phan mem](tailieuktpm) thì cần tìm tài liệu nào
+- học [phần mềm](tailieuktpm) thì cần tìm tài liệu nào
+- học [kt pm](tailieuktpm) thì cần tìm tài liệu nào
 - học [ktpm](tailieuktpm) thì cần đọc sách gì
+- học [ktpmm](tailieuktpm) thì cần đọc sách gì
+- học [kỹ thuật phần mềm](tailieuktpm) thì cần đọc sách gì
+- học [ky thuat phan mem](tailieuktpm) thì cần đọc sách gì
+- học [ki thuật phần mềm](tailieuktpm) thì cần đọc sách gì
+- học [kỹ thuat phần mềm](tailieuktpm) thì cần đọc sách gì
+- học [kỹ thuật phần mềm](tailieuktpm) thì cần đọc sách gì
+- học [cong nghệ phần mềm](tailieuktpm) thì cần đọc sách gì
+- học [công nghệ phần mềm](tailieuktpm) thì cần đọc sách gì
+- học [cong nghe phan mem](tailieuktpm) thì cần đọc sách gì
+- học [SE](tailieuktpm) thì cần đọc sách gì
+- học [kt phần mềm](tailieuktpm) thì cần đọc sách gì
+- học [kt phan mem](tailieuktpm) thì cần đọc sách gì
+- học [kỹ thuật phân mem](tailieuktpm) thì cần đọc sách gì
+- học [phan mem](tailieuktpm) thì cần đọc sách gì
+- học [phần mềm](tailieuktpm) thì cần đọc sách gì
+- học [kt pm](tailieuktpm) thì cần đọc sách gì
 - học [ktpm](tailieuktpm) nên kiếm tài liệu ở đâu
+- học [ktpmm](tailieuktpm) nên kiếm tài liệu ở đâu
+- học [kỹ thuật phần mềm](tailieuktpm) nên kiếm tài liệu ở đâu
+- học [ky thuat phan mem](tailieuktpm) nên kiếm tài liệu ở đâu
+- học [ki thuật phần mềm](tailieuktpm) nên kiếm tài liệu ở đâu
+- học [kỹ thuat phần mềm](tailieuktpm) nên kiếm tài liệu ở đâu
+- học [kỹ thuật phần mềm](tailieuktpm) nên kiếm tài liệu ở đâu
+- học [cong nghệ phần mềm](tailieuktpm) nên kiếm tài liệu ở đâu
+- học [công nghệ phần mềm](tailieuktpm) nên kiếm tài liệu ở đâu
+- học [cong nghe phan mem](tailieuktpm) nên kiếm tài liệu ở đâu
+- học [SE](tailieuktpm) nên kiếm tài liệu ở đâu
+- học [kt phần mềm](tailieuktpm) nên kiếm tài liệu ở đâu
+- học [kt phan mem](tailieuktpm) nên kiếm tài liệu ở đâu
+- học [kỹ thuật phân mem](tailieuktpm) nên kiếm tài liệu ở đâu
+- học [phan mem](tailieuktpm) nên kiếm tài liệu ở đâu
+- học [phần mềm](tailieuktpm) nên kiếm tài liệu ở đâu
+- học [kt pm](tailieuktpm) nên kiếm tài liệu ở đâu
 - muốn học tốt [ktpm](tailieuktpm) thì nên đọc sách gì
+- muốn học tốt [ktpmm](tailieuktpm) thì nên đọc sách gì
+- muốn học tốt [kỹ thuật phần mềm](tailieuktpm) thì nên đọc sách gì
+- muốn học tốt [ky thuat phan mem](tailieuktpm) thì nên đọc sách gì
+- muốn học tốt [ki thuật phần mềm](tailieuktpm) thì nên đọc sách gì
+- muốn học tốt [kỹ thuat phần mềm](tailieuktpm) thì nên đọc sách gì
+- muốn học tốt [kỹ thuật phần mềm](tailieuktpm) thì nên đọc sách gì
+- muốn học tốt [cong nghệ phần mềm](tailieuktpm) thì nên đọc sách gì
+- muốn học tốt [công nghệ phần mềm](tailieuktpm) thì nên đọc sách gì
+- muốn học tốt [cong nghe phan mem](tailieuktpm) thì nên đọc sách gì
+- muốn học tốt [SE](tailieuktpm) thì nên đọc sách gì
+- muốn học tốt [kt phần mềm](tailieuktpm) thì nên đọc sách gì
+- muốn học tốt [kt phan mem](tailieuktpm) thì nên đọc sách gì
+- muốn học tốt [kỹ thuật phân mem](tailieuktpm) thì nên đọc sách gì
+- muốn học tốt [phan mem](tailieuktpm) thì nên đọc sách gì
+- muốn học tốt [phần mềm](tailieuktpm) thì nên đọc sách gì
+- muốn học tốt [kt pm](tailieuktpm) thì nên đọc sách gì
 - học [cntt](tailieucntt) thì cần đọc sách gì
+- học [cnttt](tailieucntt) thì cần đọc sách gì
+- học [công nghệ thông tin](tailieucntt) thì cần đọc sách gì
+- học [cong nghe thong tin](tailieucntt) thì cần đọc sách gì
+- học [công nghệ thong tin](tailieucntt) thì cần đọc sách gì
+- học [cong nghe thông tin](tailieucntt) thì cần đọc sách gì
+- học [IT](tailieucntt) thì cần đọc sách gì
+- học [công nghệ thông tin](tailieucntt) thì cần đọc sách gì
+- học [cong nghệ thông tin](tailieucntt) thì cần đọc sách gì
+- học [công nghệ thông tinn](tailieucntt) thì cần đọc sách gì
+- học [cn thong tin](tailieucntt) thì cần đọc sách gì
+- học [cn tt](tailieucntt) thì cần đọc sách gì
+- học [cn thông tin](tailieucntt) thì cần đọc sách gì
+- học [cogn nghệ thông tin](tailieucntt) thì cần đọc sách gì
+- học [công nghệ tt](tailieucntt) thì cần đọc sách gì
+- học [cong6 nghệ thong tin](tailieucntt) thì cần đọc sách gì
+- học [công nghệ thong tin](tailieucntt) thì cần đọc sách gì
 - học [cntt](tailieucntt) nên kiếm tài liệu ở đâu
+- học [cnttt](tailieucntt) nên kiếm tài liệu ở đâu
+- học [công nghệ thông tin](tailieucntt) nên kiếm tài liệu ở đâu
+- học [cong nghe thong tin](tailieucntt) nên kiếm tài liệu ở đâu
+- học [công nghệ thong tin](tailieucntt) nên kiếm tài liệu ở đâu
+- học [cong nghe thông tin](tailieucntt) nên kiếm tài liệu ở đâu
+- học [IT](tailieucntt) nên kiếm tài liệu ở đâu
+- học [công nghệ thông tin](tailieucntt) nên kiếm tài liệu ở đâu
+- học [cong nghệ thông tin](tailieucntt) nên kiếm tài liệu ở đâu
+- học [công nghệ thông tinn](tailieucntt) nên kiếm tài liệu ở đâu
+- học [cn thong tin](tailieucntt) nên kiếm tài liệu ở đâu
+- học [cn tt](tailieucntt) nên kiếm tài liệu ở đâu
+- học [cn thông tin](tailieucntt) nên kiếm tài liệu ở đâu
+- học [cogn nghệ thông tin](tailieucntt) nên kiếm tài liệu ở đâu
+- học [công nghệ tt](tailieucntt) nên kiếm tài liệu ở đâu
+- học [cong6 nghệ thong tin](tailieucntt) nên kiếm tài liệu ở đâu
+- học [công nghệ thong tin](tailieucntt) nên kiếm tài liệu ở đâu
 - muốn học tốt [cntt](tailieucntt) thì nên đọc sách gì
-- học [httt](tailieuhttt) thì cần tìm tài liệu nào 
+- muốn học tốt [cnttt](tailieucntt) thì nên đọc sách gì
+- muốn học tốt [công nghệ thông tin](tailieucntt) thì nên đọc sách gì
+- muốn học tốt [cong nghe thong tin](tailieucntt) thì nên đọc sách gì
+- muốn học tốt [công nghệ thong tin](tailieucntt) thì nên đọc sách gì
+- muốn học tốt [cong nghe thông tin](tailieucntt) thì nên đọc sách gì
+- muốn học tốt [IT](tailieucntt) thì nên đọc sách gì
+- muốn học tốt [công nghệ thông tin](tailieucntt) thì nên đọc sách gì
+- muốn học tốt [cong nghệ thông tin](tailieucntt) thì nên đọc sách gì
+- muốn học tốt [công nghệ thông tinn](tailieucntt) thì nên đọc sách gì
+- muốn học tốt [cn thong tin](tailieucntt) thì nên đọc sách gì
+- muốn học tốt [cn tt](tailieucntt) thì nên đọc sách gì
+- muốn học tốt [cn thông tin](tailieucntt) thì nên đọc sách gì
+- muốn học tốt [cogn nghệ thông tin](tailieucntt) thì nên đọc sách gì
+- muốn học tốt [công nghệ tt](tailieucntt) thì nên đọc sách gì
+- muốn học tốt [cong6 nghệ thong tin](tailieucntt) thì nên đọc sách gì
+- muốn học tốt [công nghệ thong tin](tailieucntt) thì nên đọc sách gì
+- học [httt](tailieuhttt) thì cần tìm tài liệu nào
+- học [hhttt](tailieuhttt) thì cần tìm tài liệu nào
+- học [IS](tailieuhttt) thì cần tìm tài liệu nào
+- học [hệ thống thông tin](tailieuhttt) thì cần tìm tài liệu nào
+- học [he thong thong tin](tailieuhttt) thì cần tìm tài liệu nào
+- học [hệ thông thông tin](tailieuhttt) thì cần tìm tài liệu nào
+- học [hê thong thông tin](tailieuhttt) thì cần tìm tài liệu nào
+- học [hệ thống thông tin](tailieuhttt) thì cần tìm tài liệu nào
+- học [hệ thống thông tín](tailieuhttt) thì cần tìm tài liệu nào
+- học [he thống thông tinn](tailieuhttt) thì cần tìm tài liệu nào
+- học [ht thông tin](tailieuhttt) thì cần tìm tài liệu nào
+- học [hệ thống tt](tailieuhttt) thì cần tìm tài liệu nào
+- học [he thống tt](tailieuhttt) thì cần tìm tài liệu nào
+- học [ht thông tin](tailieuhttt) thì cần tìm tài liệu nào
+- học [ht thong6 tin](tailieuhttt) thì cần tìm tài liệu nào
 - học [httt](tailieuhttt) thì cần đọc sách gì
+- học [hhttt](tailieuhttt) thì cần đọc sách gì
+- học [IS](tailieuhttt) thì cần đọc sách gì
+- học [hệ thống thông tin](tailieuhttt) thì cần đọc sách gì
+- học [he thong thong tin](tailieuhttt) thì cần đọc sách gì
+- học [hệ thông thông tin](tailieuhttt) thì cần đọc sách gì
+- học [hê thong thông tin](tailieuhttt) thì cần đọc sách gì
+- học [hệ thống thông tin](tailieuhttt) thì cần đọc sách gì
+- học [hệ thống thông tín](tailieuhttt) thì cần đọc sách gì
+- học [he thống thông tinn](tailieuhttt) thì cần đọc sách gì
+- học [ht thông tin](tailieuhttt) thì cần đọc sách gì
+- học [hệ thống tt](tailieuhttt) thì cần đọc sách gì
+- học [he thống tt](tailieuhttt) thì cần đọc sách gì
+- học [ht thông tin](tailieuhttt) thì cần đọc sách gì
+- học [ht thong6 tin](tailieuhttt) thì cần đọc sách gì
 - học [httt](tailieuhttt) nên kiếm tài liệu ở đâu
+- học [hhttt](tailieuhttt) nên kiếm tài liệu ở đâu
+- học [IS](tailieuhttt) nên kiếm tài liệu ở đâu
+- học [hệ thống thông tin](tailieuhttt) nên kiếm tài liệu ở đâu
+- học [he thong thong tin](tailieuhttt) nên kiếm tài liệu ở đâu
+- học [hệ thông thông tin](tailieuhttt) nên kiếm tài liệu ở đâu
+- học [hê thong thông tin](tailieuhttt) nên kiếm tài liệu ở đâu
+- học [hệ thống thông tin](tailieuhttt) nên kiếm tài liệu ở đâu
+- học [hệ thống thông tín](tailieuhttt) nên kiếm tài liệu ở đâu
+- học [he thống thông tinn](tailieuhttt) nên kiếm tài liệu ở đâu
+- học [ht thông tin](tailieuhttt) nên kiếm tài liệu ở đâu
+- học [hệ thống tt](tailieuhttt) nên kiếm tài liệu ở đâu
+- học [he thống tt](tailieuhttt) nên kiếm tài liệu ở đâu
+- học [ht thông tin](tailieuhttt) nên kiếm tài liệu ở đâu
+- học [ht thong6 tin](tailieuhttt) nên kiếm tài liệu ở đâu
 - muốn học tốt [httt](tailieuhttt) thì nên đọc sách gì
-- học [khdl](tailieukhdl) thì cần tìm tài liệu nào 
+- muốn học tốt [hhttt](tailieuhttt) thì nên đọc sách gì
+- muốn học tốt [IS](tailieuhttt) thì nên đọc sách gì
+- muốn học tốt [hệ thống thông tin](tailieuhttt) thì nên đọc sách gì
+- muốn học tốt [he thong thong tin](tailieuhttt) thì nên đọc sách gì
+- muốn học tốt [hệ thông thông tin](tailieuhttt) thì nên đọc sách gì
+- muốn học tốt [hê thong thông tin](tailieuhttt) thì nên đọc sách gì
+- muốn học tốt [hệ thống thông tin](tailieuhttt) thì nên đọc sách gì
+- muốn học tốt [hệ thống thông tín](tailieuhttt) thì nên đọc sách gì
+- muốn học tốt [he thống thông tinn](tailieuhttt) thì nên đọc sách gì
+- muốn học tốt [ht thông tin](tailieuhttt) thì nên đọc sách gì
+- muốn học tốt [hệ thống tt](tailieuhttt) thì nên đọc sách gì
+- muốn học tốt [he thống tt](tailieuhttt) thì nên đọc sách gì
+- muốn học tốt [ht thông tin](tailieuhttt) thì nên đọc sách gì
+- muốn học tốt [ht thong6 tin](tailieuhttt) thì nên đọc sách gì
+- học [khdl](tailieukhdl) thì cần tìm tài liệu nào
+- học [khdk](tailieukhdl) thì cần tìm tài liệu nào
+- học [khoa học dữ liệu](tailieukhdl) thì cần tìm tài liệu nào
+- học [khoa hoc du lieu](tailieukhdl) thì cần tìm tài liệu nào
+- học [khoa học du lieu](tailieukhdl) thì cần tìm tài liệu nào
+- học [khoa hoc du liệu](tailieukhdl) thì cần tìm tài liệu nào
+- học [khao học dữ leiu](tailieukhdl) thì cần tìm tài liệu nào
+- học [khao học du lieu](tailieukhdl) thì cần tìm tài liệu nào
+- học [khao học dữ leiu](tailieukhdl) thì cần tìm tài liệu nào
+- học [khoa học du lieuu](tailieukhdl) thì cần tìm tài liệu nào
+- học [kh dl](tailieukhdl) thì cần tìm tài liệu nào
+- học [kh dữ liệu](tailieukhdl) thì cần tìm tài liệu nào
+- học [khoa hoc dữ liệu](tailieukhdl) thì cần tìm tài liệu nào
+- học [khoa học dl](tailieukhdl) thì cần tìm tài liệu nào
 - học [khdl](tailieukhdl) thì cần đọc sách gì
+- học [khdk](tailieukhdl) thì cần đọc sách gì
+- học [khoa học dữ liệu](tailieukhdl) thì cần đọc sách gì
+- học [khoa hoc du lieu](tailieukhdl) thì cần đọc sách gì
+- học [khoa học du lieu](tailieukhdl) thì cần đọc sách gì
+- học [khoa hoc du liệu](tailieukhdl) thì cần đọc sách gì
+- học [khao học dữ leiu](tailieukhdl) thì cần đọc sách gì
+- học [khao học du lieu](tailieukhdl) thì cần đọc sách gì
+- học [khao học dữ leiu](tailieukhdl) thì cần đọc sách gì
+- học [khoa học du lieuu](tailieukhdl) thì cần đọc sách gì
+- học [kh dl](tailieukhdl) thì cần đọc sách gì
+- học [kh dữ liệu](tailieukhdl) thì cần đọc sách gì
+- học [khoa hoc dữ liệu](tailieukhdl) thì cần đọc sách gì
+- học [khoa học dl](tailieukhdl) thì cần đọc sách gì
 - học [khdl](tailieukhdl) nên kiếm tài liệu ở đâu
+- học [khdk](tailieukhdl) nên kiếm tài liệu ở đâu
+- học [khoa học dữ liệu](tailieukhdl) nên kiếm tài liệu ở đâu
+- học [khoa hoc du lieu](tailieukhdl) nên kiếm tài liệu ở đâu
+- học [khoa học du lieu](tailieukhdl) nên kiếm tài liệu ở đâu
+- học [khoa hoc du liệu](tailieukhdl) nên kiếm tài liệu ở đâu
+- học [khao học dữ leiu](tailieukhdl) nên kiếm tài liệu ở đâu
+- học [khao học du lieu](tailieukhdl) nên kiếm tài liệu ở đâu
+- học [khao học dữ leiu](tailieukhdl) nên kiếm tài liệu ở đâu
+- học [khoa học du lieuu](tailieukhdl) nên kiếm tài liệu ở đâu
+- học [kh dl](tailieukhdl) nên kiếm tài liệu ở đâu
+- học [kh dữ liệu](tailieukhdl) nên kiếm tài liệu ở đâu
+- học [khoa hoc dữ liệu](tailieukhdl) nên kiếm tài liệu ở đâu
+- học [khoa học dl](tailieukhdl) nên kiếm tài liệu ở đâu
 - muốn học tốt [khdl](tailieukhdl) thì nên đọc sách gì
-- học [khoa hoc may tinh](tailieukhmt:khmt) thì cần tìm tài liệu nào
-- học [khoa hoc may tinh](tailieukhmt:khmt) thì cần đọc sách gì
-- học [khoa hoc may tinh](tailieukhmt:khmt) nên kiếm tài liệu ở đâu
+- muốn học tốt [khdk](tailieukhdl) thì nên đọc sách gì
+- muốn học tốt [khoa học dữ liệu](tailieukhdl) thì nên đọc sách gì
+- muốn học tốt [khoa hoc du lieu](tailieukhdl) thì nên đọc sách gì
+- muốn học tốt [khoa học du lieu](tailieukhdl) thì nên đọc sách gì
+- muốn học tốt [khoa hoc du liệu](tailieukhdl) thì nên đọc sách gì
+- muốn học tốt [khao học dữ leiu](tailieukhdl) thì nên đọc sách gì
+- muốn học tốt [khao học du lieu](tailieukhdl) thì nên đọc sách gì
+- muốn học tốt [khao học dữ leiu](tailieukhdl) thì nên đọc sách gì
+- muốn học tốt [khoa học du lieuu](tailieukhdl) thì nên đọc sách gì
+- muốn học tốt [kh dl](tailieukhdl) thì nên đọc sách gì
+- muốn học tốt [kh dữ liệu](tailieukhdl) thì nên đọc sách gì
+- muốn học tốt [khoa hoc dữ liệu](tailieukhdl) thì nên đọc sách gì
+- muốn học tốt [khoa học dl](tailieukhdl) thì nên đọc sách gì
 - muốn học tốt [khmt](tailieukhmt) thì nên đọc sách gì
-- học [ky thuat phan mem](tailieuktpm:ktpm) thì cần tìm tài liệu nào 
-- học [ky thuat phan mem](tailieuktpm:ktpm) thì cần đọc sách gì
-- học [ky thuat phan mem](tailieuktpm:ktpm) nên kiếm tài liệu ở đâu
-- muốn học tốt [ky thuat phan mem](tailieuktpm:ktpm) thì nên đọc sách gì
-- học [cong nghe thong tin](tailieucntt:cntt) thì cần tìm tài liệu nào 
-- học [cong nghe thong tin](tailieucntt:cntt) thì cần đọc sách gì
-- học [cong nghe thong tin](tailieucntt:cntt) nên kiếm tài liệu ở đâu
-- muốn học tốt [cong nghe thong tin](tailieucntt:cntt) thì nên đọc sách gì
-- học [he thong thong tin](tailieuhttt:httt) thì cần tìm tài liệu nào 
-- học [he thong thong tin](tailieuhttt:httt) thì cần đọc sách gì
-- học [he thong thong tin](tailieuhttt:httt) nên kiếm tài liệu ở đâu
-- muốn học tốt [he thong thong tin](tailieuhttt:httt) thì nên đọc sách gì
-- học [khoa hoc du lieu](tailieukhdl:khdl) thì cần tìm tài liệu nào 
-- học [khoa hoc du lieu](tailieukhdl:khdl) thì cần đọc sách gì
-- học [khoa hoc du lieu](tailieukhdl:khdl) nên kiếm tài liệu ở đâu
-- muốn học tốt [khoa hoc du lieu](tailieukhdl:khdl) thì nên đọc sách gì
-- học [khoa học máy tính](tailieukhmt:khmt) thì cần tìm tài liệu nào
-- học [khoa học máy tính](tailieukhmt:khmt) thì cần đọc sách gì
-- học [khoa học máy tính](tailieukhmt:khmt) nên kiếm tài liệu ở đâu
-- muốn học tốt [khoa học máy tính](tailieukhmt:khmt) thì nên đọc sách gì
-- học [kỹ thuật phần mềm](tailieuktpm:ktpm) thì cần tìm tài liệu nào 
-- học [kỹ thuật phần mềm](tailieuktpm:ktpm) thì cần đọc sách gì
-- học [kỹ thuật phần mềm](tailieuktpm:ktpm) nên kiếm tài liệu ở đâu
-- muốn học tốt [kỹ thuật phần mềm](tailieuktpm:ktpm) thì nên đọc sách gì
-- học [công nghệ thông tin](tailieucntt:cntt) thì cần tìm tài liệu nào 
-- học [công nghệ thông tin](tailieucntt:cntt) thì cần đọc sách gì
-- học [công nghệ thông tin](tailieucntt:cntt) nên kiếm tài liệu ở đâu
-- muốn học tốt [công nghệ thông tin](tailieucntt:cntt) thì nên đọc sách gì
-- học [hệ thống thông tin](tailieuhttt:httt) thì cần tìm tài liệu nào 
-- học [hệ thống thông tin](tailieuhttt:httt) thì cần đọc sách gì
-- học [hệ thống thông tin](tailieuhttt:httt) nên kiếm tài liệu ở đâu
-- muốn học tốt [hệ thống thông tin](tailieuhttt:httt) thì nên đọc sách gì
-- học [khoa học dữ liệu](tailieukhdl:khdl) thì cần tìm tài liệu nào 
-- học [khoa học dữ liệu](tailieukhdl:khdl) thì cần đọc sách gì
-- học [khoa học dữ liệu](tailieukhdl:khdl) nên kiếm tài liệu ở đâu
-- muốn học tốt [khoa học dữ liệu](tailieukhdl:khdl) thì nên đọc sách gì
-
+- muốn học tốt [khtm](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [khoa học máy tính](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [khoa hoc may tinh](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [cong nghe may tinh](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [khao hoc may tinh](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [khao học may tinh](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [công nghệ máy tính](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [khao học máy tinh](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [khoa học may tinh](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [CS](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [kh máy tinh](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [kh may tính](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [kh máy tính](tailieukhmt) thì nên đọc sách gì
+- muốn học tốt [kh máy tình](tailieukhmt) thì nên đọc sách gì
 - các trang web phục vụ việc tra cứu tài liệu [khmt](tailieukhmt)
+- các trang web phục vụ việc tra cứu tài liệu [khtm](tailieukhmt)
+- các trang web phục vụ việc tra cứu tài liệu [khoa học máy tính](tailieukhmt)
+- các trang web phục vụ việc tra cứu tài liệu [khoa hoc may tinh](tailieukhmt)
+- các trang web phục vụ việc tra cứu tài liệu [cong nghe may tinh](tailieukhmt)
+- các trang web phục vụ việc tra cứu tài liệu [khao hoc may tinh](tailieukhmt)
+- các trang web phục vụ việc tra cứu tài liệu [khao học may tinh](tailieukhmt)
+- các trang web phục vụ việc tra cứu tài liệu [công nghệ máy tính](tailieukhmt)
+- các trang web phục vụ việc tra cứu tài liệu [khao học máy tinh](tailieukhmt)
+- các trang web phục vụ việc tra cứu tài liệu [khoa học may tinh](tailieukhmt)
+- các trang web phục vụ việc tra cứu tài liệu [CS](tailieukhmt)
+- các trang web phục vụ việc tra cứu tài liệu [kh máy tinh](tailieukhmt)
+- các trang web phục vụ việc tra cứu tài liệu [kh may tính](tailieukhmt)
+- các trang web phục vụ việc tra cứu tài liệu [kh máy tính](tailieukhmt)
+- các trang web phục vụ việc tra cứu tài liệu [kh máy tình](tailieukhmt)
 - cho em hỏi tài liệu [khmt](tailieukhmt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [khtm](tailieukhmt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [khoa học máy tính](tailieukhmt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [khoa hoc may tinh](tailieukhmt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [cong nghe may tinh](tailieukhmt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [khao hoc may tinh](tailieukhmt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [khao học may tinh](tailieukhmt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [công nghệ máy tính](tailieukhmt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [khao học máy tinh](tailieukhmt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [khoa học may tinh](tailieukhmt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [CS](tailieukhmt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [kh máy tinh](tailieukhmt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [kh may tính](tailieukhmt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [kh máy tính](tailieukhmt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [kh máy tình](tailieukhmt) có hệ thống tìm ở đâu
 - [khmt](tailieukhmt) có cần nhiều tài liệu không
-- các trang web phục vụ việc tra cứu tài liệu [khoa học máy tính](tailieukhmt:khmt)
-- cho em hỏi tài liệu [khoa học máy tính](tailieukhmt:khmt) có hệ thống tìm ở đâu
-- [khoa học máy tính](tailieukhmt:khmt) có cần nhiều tài liệu không
-- các trang web phục vụ việc tra cứu tài liệu [khoa hoc may tinh](tailieukhmt:khmt)
-- cho em hỏi tài liệu [khoa hoc may tinh](tailieukhmt:khmt) có hệ thống tìm ở đâu
-- [khoa hoc may tinh](tailieukhmt:khmt) có cần nhiều tài liệu không
+- [khtm](tailieukhmt) có cần nhiều tài liệu không
+- [khoa học máy tính](tailieukhmt) có cần nhiều tài liệu không
+- [khoa hoc may tinh](tailieukhmt) có cần nhiều tài liệu không
+- [cong nghe may tinh](tailieukhmt) có cần nhiều tài liệu không
+- [khao hoc may tinh](tailieukhmt) có cần nhiều tài liệu không
+- [khao học may tinh](tailieukhmt) có cần nhiều tài liệu không
+- [công nghệ máy tính](tailieukhmt) có cần nhiều tài liệu không
+- [khao học máy tinh](tailieukhmt) có cần nhiều tài liệu không
+- [khoa học may tinh](tailieukhmt) có cần nhiều tài liệu không
+- [CS](tailieukhmt) có cần nhiều tài liệu không
+- [kh máy tinh](tailieukhmt) có cần nhiều tài liệu không
+- [kh may tính](tailieukhmt) có cần nhiều tài liệu không
+- [kh máy tính](tailieukhmt) có cần nhiều tài liệu không
+- [kh máy tình](tailieukhmt) có cần nhiều tài liệu không
 - các trang web phục vụ việc tra cứu tài liệu [ktpm](tailieuktpm)
+- các trang web phục vụ việc tra cứu tài liệu [ktpmm](tailieuktpm)
+- các trang web phục vụ việc tra cứu tài liệu [kỹ thuật phần mềm](tailieuktpm)
+- các trang web phục vụ việc tra cứu tài liệu [ky thuat phan mem](tailieuktpm)
+- các trang web phục vụ việc tra cứu tài liệu [ki thuật phần mềm](tailieuktpm)
+- các trang web phục vụ việc tra cứu tài liệu [kỹ thuat phần mềm](tailieuktpm)
+- các trang web phục vụ việc tra cứu tài liệu [kỹ thuật phần mềm](tailieuktpm)
+- các trang web phục vụ việc tra cứu tài liệu [cong nghệ phần mềm](tailieuktpm)
+- các trang web phục vụ việc tra cứu tài liệu [công nghệ phần mềm](tailieuktpm)
+- các trang web phục vụ việc tra cứu tài liệu [cong nghe phan mem](tailieuktpm)
+- các trang web phục vụ việc tra cứu tài liệu [SE](tailieuktpm)
+- các trang web phục vụ việc tra cứu tài liệu [kt phần mềm](tailieuktpm)
+- các trang web phục vụ việc tra cứu tài liệu [kt phan mem](tailieuktpm)
+- các trang web phục vụ việc tra cứu tài liệu [kỹ thuật phân mem](tailieuktpm)
+- các trang web phục vụ việc tra cứu tài liệu [phan mem](tailieuktpm)
+- các trang web phục vụ việc tra cứu tài liệu [phần mềm](tailieuktpm)
+- các trang web phục vụ việc tra cứu tài liệu [kt pm](tailieuktpm)
 - cho em hỏi tài liệu [ktpm](tailieuktpm) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [ktpmm](tailieuktpm) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [kỹ thuật phần mềm](tailieuktpm) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [ky thuat phan mem](tailieuktpm) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [ki thuật phần mềm](tailieuktpm) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [kỹ thuat phần mềm](tailieuktpm) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [kỹ thuật phần mềm](tailieuktpm) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [cong nghệ phần mềm](tailieuktpm) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [công nghệ phần mềm](tailieuktpm) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [cong nghe phan mem](tailieuktpm) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [SE](tailieuktpm) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [kt phần mềm](tailieuktpm) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [kt phan mem](tailieuktpm) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [kỹ thuật phân mem](tailieuktpm) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [phan mem](tailieuktpm) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [phần mềm](tailieuktpm) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [kt pm](tailieuktpm) có hệ thống tìm ở đâu
 - [ktpm](tailieuktpm) có cần nhiều tài liệu không
-- các trang web phục vụ việc tra cứu tài liệu [kỹ thuật phần mềm](tailieuktpm:ktpm)
-- cho em hỏi tài liệu [kỹ thuật phần mềm](tailieuktpm:ktpm) có hệ thống tìm ở đâu
-- [kỹ thuật phần mềm](tailieuktpm:ktpm) có cần nhiều tài liệu không
-- các trang web phục vụ việc tra cứu tài liệu [ky thuat phan mem](tailieuktpm:ktpm)
-- cho em hỏi tài liệu [ky thuat phan mem](tailieuktpm:ktpm) có hệ thống tìm ở đâu
-- [ky thuat phan mem](tailieuktpm:ktpm) có cần nhiều tài liệu không
+- [ktpmm](tailieuktpm) có cần nhiều tài liệu không
+- [kỹ thuật phần mềm](tailieuktpm) có cần nhiều tài liệu không
+- [ky thuat phan mem](tailieuktpm) có cần nhiều tài liệu không
+- [ki thuật phần mềm](tailieuktpm) có cần nhiều tài liệu không
+- [kỹ thuat phần mềm](tailieuktpm) có cần nhiều tài liệu không
+- [kỹ thuật phần mềm](tailieuktpm) có cần nhiều tài liệu không
+- [cong nghệ phần mềm](tailieuktpm) có cần nhiều tài liệu không
+- [công nghệ phần mềm](tailieuktpm) có cần nhiều tài liệu không
+- [cong nghe phan mem](tailieuktpm) có cần nhiều tài liệu không
+- [SE](tailieuktpm) có cần nhiều tài liệu không
+- [kt phần mềm](tailieuktpm) có cần nhiều tài liệu không
+- [kt phan mem](tailieuktpm) có cần nhiều tài liệu không
+- [kỹ thuật phân mem](tailieuktpm) có cần nhiều tài liệu không
+- [phan mem](tailieuktpm) có cần nhiều tài liệu không
+- [phần mềm](tailieuktpm) có cần nhiều tài liệu không
+- [kt pm](tailieuktpm) có cần nhiều tài liệu không
 - các trang web phục vụ việc tra cứu tài liệu [cntt](tailieucntt)
+- các trang web phục vụ việc tra cứu tài liệu [cnttt](tailieucntt)
+- các trang web phục vụ việc tra cứu tài liệu [công nghệ thông tin](tailieucntt)
+- các trang web phục vụ việc tra cứu tài liệu [cong nghe thong tin](tailieucntt)
+- các trang web phục vụ việc tra cứu tài liệu [công nghệ thong tin](tailieucntt)
+- các trang web phục vụ việc tra cứu tài liệu [cong nghe thông tin](tailieucntt)
+- các trang web phục vụ việc tra cứu tài liệu [IT](tailieucntt)
+- các trang web phục vụ việc tra cứu tài liệu [công nghệ thông tin](tailieucntt)
+- các trang web phục vụ việc tra cứu tài liệu [cong nghệ thông tin](tailieucntt)
+- các trang web phục vụ việc tra cứu tài liệu [công nghệ thông tinn](tailieucntt)
+- các trang web phục vụ việc tra cứu tài liệu [cn thong tin](tailieucntt)
+- các trang web phục vụ việc tra cứu tài liệu [cn tt](tailieucntt)
+- các trang web phục vụ việc tra cứu tài liệu [cn thông tin](tailieucntt)
+- các trang web phục vụ việc tra cứu tài liệu [cogn nghệ thông tin](tailieucntt)
+- các trang web phục vụ việc tra cứu tài liệu [công nghệ tt](tailieucntt)
+- các trang web phục vụ việc tra cứu tài liệu [cong6 nghệ thong tin](tailieucntt)
+- các trang web phục vụ việc tra cứu tài liệu [công nghệ thong tin](tailieucntt)
 - cho em hỏi tài liệu [cntt](tailieucntt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [cnttt](tailieucntt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [công nghệ thông tin](tailieucntt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [cong nghe thong tin](tailieucntt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [công nghệ thong tin](tailieucntt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [cong nghe thông tin](tailieucntt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [IT](tailieucntt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [công nghệ thông tin](tailieucntt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [cong nghệ thông tin](tailieucntt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [công nghệ thông tinn](tailieucntt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [cn thong tin](tailieucntt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [cn tt](tailieucntt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [cn thông tin](tailieucntt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [cogn nghệ thông tin](tailieucntt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [công nghệ tt](tailieucntt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [cong6 nghệ thong tin](tailieucntt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [công nghệ thong tin](tailieucntt) có hệ thống tìm ở đâu
 - [cntt](tailieucntt) có cần nhiều tài liệu không
-- các trang web phục vụ việc tra cứu tài liệu [công nghệ thông tin](tailieucntt:cntt)
-- cho em hỏi tài liệu [công nghệ thông tin](tailieucntt:cntt) có hệ thống tìm ở đâu
-- [công nghệ thông tin](tailieucntt:cntt) có cần nhiều tài liệu không
-- các trang web phục vụ việc tra cứu tài liệu [cong nghe thong tin](tailieucntt:cntt)
-- cho em hỏi tài liệu [cong nghe thong tin](tailieucntt:cntt) có hệ thống tìm ở đâu
-- [cong nghe thong tin](tailieucntt:cntt) có cần nhiều tài liệu không
+- [cnttt](tailieucntt) có cần nhiều tài liệu không
+- [công nghệ thông tin](tailieucntt) có cần nhiều tài liệu không
+- [cong nghe thong tin](tailieucntt) có cần nhiều tài liệu không
+- [công nghệ thong tin](tailieucntt) có cần nhiều tài liệu không
+- [cong nghe thông tin](tailieucntt) có cần nhiều tài liệu không
+- [IT](tailieucntt) có cần nhiều tài liệu không
+- [công nghệ thông tin](tailieucntt) có cần nhiều tài liệu không
+- [cong nghệ thông tin](tailieucntt) có cần nhiều tài liệu không
+- [công nghệ thông tinn](tailieucntt) có cần nhiều tài liệu không
+- [cn thong tin](tailieucntt) có cần nhiều tài liệu không
+- [cn tt](tailieucntt) có cần nhiều tài liệu không
+- [cn thông tin](tailieucntt) có cần nhiều tài liệu không
+- [cogn nghệ thông tin](tailieucntt) có cần nhiều tài liệu không
+- [công nghệ tt](tailieucntt) có cần nhiều tài liệu không
+- [cong6 nghệ thong tin](tailieucntt) có cần nhiều tài liệu không
+- [công nghệ thong tin](tailieucntt) có cần nhiều tài liệu không
 - các trang web phục vụ việc tra cứu tài liệu [httt](tailieuhttt)
+- các trang web phục vụ việc tra cứu tài liệu [hhttt](tailieuhttt)
+- các trang web phục vụ việc tra cứu tài liệu [IS](tailieuhttt)
+- các trang web phục vụ việc tra cứu tài liệu [hệ thống thông tin](tailieuhttt)
+- các trang web phục vụ việc tra cứu tài liệu [he thong thong tin](tailieuhttt)
+- các trang web phục vụ việc tra cứu tài liệu [hệ thông thông tin](tailieuhttt)
+- các trang web phục vụ việc tra cứu tài liệu [hê thong thông tin](tailieuhttt)
+- các trang web phục vụ việc tra cứu tài liệu [hệ thống thông tin](tailieuhttt)
+- các trang web phục vụ việc tra cứu tài liệu [hệ thống thông tín](tailieuhttt)
+- các trang web phục vụ việc tra cứu tài liệu [he thống thông tinn](tailieuhttt)
+- các trang web phục vụ việc tra cứu tài liệu [ht thông tin](tailieuhttt)
+- các trang web phục vụ việc tra cứu tài liệu [hệ thống tt](tailieuhttt)
+- các trang web phục vụ việc tra cứu tài liệu [he thống tt](tailieuhttt)
+- các trang web phục vụ việc tra cứu tài liệu [ht thông tin](tailieuhttt)
+- các trang web phục vụ việc tra cứu tài liệu [ht thong6 tin](tailieuhttt)
 - cho em hỏi tài liệu [httt](tailieuhttt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [hhttt](tailieuhttt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [IS](tailieuhttt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [hệ thống thông tin](tailieuhttt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [he thong thong tin](tailieuhttt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [hệ thông thông tin](tailieuhttt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [hê thong thông tin](tailieuhttt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [hệ thống thông tin](tailieuhttt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [hệ thống thông tín](tailieuhttt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [he thống thông tinn](tailieuhttt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [ht thông tin](tailieuhttt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [hệ thống tt](tailieuhttt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [he thống tt](tailieuhttt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [ht thông tin](tailieuhttt) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [ht thong6 tin](tailieuhttt) có hệ thống tìm ở đâu
 - [httt](tailieuhttt) có cần nhiều tài liệu không
-- các trang web phục vụ việc tra cứu tài liệu [hệ thống thông tin](tailieuhttt:httt)
-- cho em hỏi tài liệu [hệ thống thông tin](tailieuhttt:httt) có hệ thống tìm ở đâu
-- [hệ thống thông tin](tailieuhttt:httt) có cần nhiều tài liệu không
-- các trang web phục vụ việc tra cứu tài liệu [he thong thong tin](tailieuhttt:httt)
-- cho em hỏi tài liệu [he thong thong tin](tailieuhttt:httt) có hệ thống tìm ở đâu
-- [he thong thong tin](tailieuhttt:httt) có cần nhiều tài liệu không
+- [hhttt](tailieuhttt) có cần nhiều tài liệu không
+- [IS](tailieuhttt) có cần nhiều tài liệu không
+- [hệ thống thông tin](tailieuhttt) có cần nhiều tài liệu không
+- [he thong thong tin](tailieuhttt) có cần nhiều tài liệu không
+- [hệ thông thông tin](tailieuhttt) có cần nhiều tài liệu không
+- [hê thong thông tin](tailieuhttt) có cần nhiều tài liệu không
+- [hệ thống thông tin](tailieuhttt) có cần nhiều tài liệu không
+- [hệ thống thông tín](tailieuhttt) có cần nhiều tài liệu không
+- [he thống thông tinn](tailieuhttt) có cần nhiều tài liệu không
+- [ht thông tin](tailieuhttt) có cần nhiều tài liệu không
+- [hệ thống tt](tailieuhttt) có cần nhiều tài liệu không
+- [he thống tt](tailieuhttt) có cần nhiều tài liệu không
+- [ht thông tin](tailieuhttt) có cần nhiều tài liệu không
+- [ht thong6 tin](tailieuhttt) có cần nhiều tài liệu không
 - các trang web phục vụ việc tra cứu tài liệu [khdl](tailieukhdl)
+- các trang web phục vụ việc tra cứu tài liệu [khdk](tailieukhdl)
+- các trang web phục vụ việc tra cứu tài liệu [khoa học dữ liệu](tailieukhdl)
+- các trang web phục vụ việc tra cứu tài liệu [khoa hoc du lieu](tailieukhdl)
+- các trang web phục vụ việc tra cứu tài liệu [khoa học du lieu](tailieukhdl)
+- các trang web phục vụ việc tra cứu tài liệu [khoa hoc du liệu](tailieukhdl)
+- các trang web phục vụ việc tra cứu tài liệu [khao học dữ leiu](tailieukhdl)
+- các trang web phục vụ việc tra cứu tài liệu [khao học du lieu](tailieukhdl)
+- các trang web phục vụ việc tra cứu tài liệu [khao học dữ leiu](tailieukhdl)
+- các trang web phục vụ việc tra cứu tài liệu [khoa học du lieuu](tailieukhdl)
+- các trang web phục vụ việc tra cứu tài liệu [kh dl](tailieukhdl)
+- các trang web phục vụ việc tra cứu tài liệu [kh dữ liệu](tailieukhdl)
+- các trang web phục vụ việc tra cứu tài liệu [khoa hoc dữ liệu](tailieukhdl)
+- các trang web phục vụ việc tra cứu tài liệu [khoa học dl](tailieukhdl)
 - cho em hỏi tài liệu [khdl](tailieukhdl) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [khdk](tailieukhdl) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [khoa học dữ liệu](tailieukhdl) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [khoa hoc du lieu](tailieukhdl) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [khoa học du lieu](tailieukhdl) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [khoa hoc du liệu](tailieukhdl) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [khao học dữ leiu](tailieukhdl) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [khao học du lieu](tailieukhdl) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [khao học dữ leiu](tailieukhdl) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [khoa học du lieuu](tailieukhdl) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [kh dl](tailieukhdl) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [kh dữ liệu](tailieukhdl) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [khoa hoc dữ liệu](tailieukhdl) có hệ thống tìm ở đâu
+- cho em hỏi tài liệu [khoa học dl](tailieukhdl) có hệ thống tìm ở đâu
 - [khdl](tailieukhdl) có cần nhiều tài liệu không
-- các trang web phục vụ việc tra cứu tài liệu [khoa học dữ liệu](tailieukhdl:khdl)
-- cho em hỏi tài liệu [khoa học dữ liệu](tailieukhdl:khdl) có hệ thống tìm ở đâu
-- [khoa học dữ liệu](tailieukhdl:khdl) có cần nhiều tài liệu không
-- các trang web phục vụ việc tra cứu tài liệu [khoa hoc du lieu](tailieukhdl:khdl)
-- cho em hỏi tài liệu [khoa hoc du lieu](tailieukhdl:khdl) có hệ thống tìm ở đâu
-- [khoa hoc du lieu](tailieukhdl:khdl) có cần nhiều tài liệu không
-
+- [khdk](tailieukhdl) có cần nhiều tài liệu không
+- [khoa học dữ liệu](tailieukhdl) có cần nhiều tài liệu không
+- [khoa hoc du lieu](tailieukhdl) có cần nhiều tài liệu không
+- [khoa học du lieu](tailieukhdl) có cần nhiều tài liệu không
+- [khoa hoc du liệu](tailieukhdl) có cần nhiều tài liệu không
+- [khao học dữ leiu](tailieukhdl) có cần nhiều tài liệu không
+- [khao học du lieu](tailieukhdl) có cần nhiều tài liệu không
+- [khao học dữ leiu](tailieukhdl) có cần nhiều tài liệu không
+- [khoa học du lieuu](tailieukhdl) có cần nhiều tài liệu không
+- [kh dl](tailieukhdl) có cần nhiều tài liệu không
+- [kh dữ liệu](tailieukhdl) có cần nhiều tài liệu không
+- [khoa hoc dữ liệu](tailieukhdl) có cần nhiều tài liệu không
+- [khoa học dl](tailieukhdl) có cần nhiều tài liệu không
 ## intent: tuvan
-- tư vấn về [khoa học máy tính](tuvankhmt:khmt) đi
 - tư vấn về [khmt](tuvankhmt) đi
-- tư vấn về [khoa hoc may tinh](tuvankhmt:khmt) đi
+- tư vấn về [khtm](tuvankhmt) đi
+- tư vấn về [khoa học máy tính](tuvankhmt) đi
+- tư vấn về [khoa hoc may tinh](tuvankhmt) đi
+- tư vấn về [cong nghe may tinh](tuvankhmt) đi
+- tư vấn về [khao hoc may tinh](tuvankhmt) đi
+- tư vấn về [khao học may tinh](tuvankhmt) đi
+- tư vấn về [công nghệ máy tính](tuvankhmt) đi
+- tư vấn về [khao học máy tinh](tuvankhmt) đi
+- tư vấn về [khoa học may tinh](tuvankhmt) đi
+- tư vấn về [CS](tuvankhmt) đi
+- tư vấn về [kh máy tinh](tuvankhmt) đi
+- tư vấn về [kh may tính](tuvankhmt) đi
+- tư vấn về [kh máy tính](tuvankhmt) đi
+- tư vấn về [kh máy tình](tuvankhmt) đi
 - cho hỏi về ngành [khmt](tuvankhmt)
-- cho hỏi về ngành [khoa học máy tính](tuvankhmt:khmt)
-- [khoa học máy tính](tuvankhmt:khmt) là ngành như thế nào
+- cho hỏi về ngành [khtm](tuvankhmt)
+- cho hỏi về ngành [khoa học máy tính](tuvankhmt)
+- cho hỏi về ngành [khoa hoc may tinh](tuvankhmt)
+- cho hỏi về ngành [cong nghe may tinh](tuvankhmt)
+- cho hỏi về ngành [khao hoc may tinh](tuvankhmt)
+- cho hỏi về ngành [khao học may tinh](tuvankhmt)
+- cho hỏi về ngành [công nghệ máy tính](tuvankhmt)
+- cho hỏi về ngành [khao học máy tinh](tuvankhmt)
+- cho hỏi về ngành [khoa học may tinh](tuvankhmt)
+- cho hỏi về ngành [CS](tuvankhmt)
+- cho hỏi về ngành [kh máy tinh](tuvankhmt)
+- cho hỏi về ngành [kh may tính](tuvankhmt)
+- cho hỏi về ngành [kh máy tính](tuvankhmt)
+- cho hỏi về ngành [kh máy tình](tuvankhmt)
 - [khmt](tuvankhmt) là ngành như thế nào
--  [khoa học máy tính](tuvankhmt:khmt) ?
+- [khtm](tuvankhmt) là ngành như thế nào
+- [khoa học máy tính](tuvankhmt) là ngành như thế nào
+- [khoa hoc may tinh](tuvankhmt) là ngành như thế nào
+- [cong nghe may tinh](tuvankhmt) là ngành như thế nào
+- [khao hoc may tinh](tuvankhmt) là ngành như thế nào
+- [khao học may tinh](tuvankhmt) là ngành như thế nào
+- [công nghệ máy tính](tuvankhmt) là ngành như thế nào
+- [khao học máy tinh](tuvankhmt) là ngành như thế nào
+- [khoa học may tinh](tuvankhmt) là ngành như thế nào
+- [CS](tuvankhmt) là ngành như thế nào
+- [kh máy tinh](tuvankhmt) là ngành như thế nào
+- [kh may tính](tuvankhmt) là ngành như thế nào
+- [kh máy tính](tuvankhmt) là ngành như thế nào
+- [kh máy tình](tuvankhmt) là ngành như thế nào
 - [khmt](tuvankhmt) ?
-- ngành [khoa học máy tính](tuvankhmt:khmt) là gì
+- [khtm](tuvankhmt) ?
+- [khoa học máy tính](tuvankhmt) ?
+- [khoa hoc may tinh](tuvankhmt) ?
+- [cong nghe may tinh](tuvankhmt) ?
+- [khao hoc may tinh](tuvankhmt) ?
+- [khao học may tinh](tuvankhmt) ?
+- [công nghệ máy tính](tuvankhmt) ?
+- [khao học máy tinh](tuvankhmt) ?
+- [khoa học may tinh](tuvankhmt) ?
+- [CS](tuvankhmt) ?
+- [kh máy tinh](tuvankhmt) ?
+- [kh may tính](tuvankhmt) ?
+- [kh máy tính](tuvankhmt) ?
+- [kh máy tình](tuvankhmt) ?
 - ngành [khmt](tuvankhmt) là gì
-- ngành [khoa hoc may tinh](tuvankhmt:khmt) là gì
-- tư vấn cho mình về ngành [khoa học máy tính](tuvankhmt:khmt)
-- tư vấn cho mình về ngành [khmt](tuvankhmt) 
+- ngành [khtm](tuvankhmt) là gì
+- ngành [khoa học máy tính](tuvankhmt) là gì
+- ngành [khoa hoc may tinh](tuvankhmt) là gì
+- ngành [cong nghe may tinh](tuvankhmt) là gì
+- ngành [khao hoc may tinh](tuvankhmt) là gì
+- ngành [khao học may tinh](tuvankhmt) là gì
+- ngành [công nghệ máy tính](tuvankhmt) là gì
+- ngành [khao học máy tinh](tuvankhmt) là gì
+- ngành [khoa học may tinh](tuvankhmt) là gì
+- ngành [CS](tuvankhmt) là gì
+- ngành [kh máy tinh](tuvankhmt) là gì
+- ngành [kh may tính](tuvankhmt) là gì
+- ngành [kh máy tính](tuvankhmt) là gì
+- ngành [kh máy tình](tuvankhmt) là gì
+- tư vấn cho mình về ngành [khmt](tuvankhmt)
+- tư vấn cho mình về ngành [khtm](tuvankhmt)
+- tư vấn cho mình về ngành [khoa học máy tính](tuvankhmt)
+- tư vấn cho mình về ngành [khoa hoc may tinh](tuvankhmt)
+- tư vấn cho mình về ngành [cong nghe may tinh](tuvankhmt)
+- tư vấn cho mình về ngành [khao hoc may tinh](tuvankhmt)
+- tư vấn cho mình về ngành [khao học may tinh](tuvankhmt)
+- tư vấn cho mình về ngành [công nghệ máy tính](tuvankhmt)
+- tư vấn cho mình về ngành [khao học máy tinh](tuvankhmt)
+- tư vấn cho mình về ngành [khoa học may tinh](tuvankhmt)
+- tư vấn cho mình về ngành [CS](tuvankhmt)
+- tư vấn cho mình về ngành [kh máy tinh](tuvankhmt)
+- tư vấn cho mình về ngành [kh may tính](tuvankhmt)
+- tư vấn cho mình về ngành [kh máy tính](tuvankhmt)
+- tư vấn cho mình về ngành [kh máy tình](tuvankhmt)
 - tư vấn về ngành [khmt](tuvankhmt) ?
-- tư vấn về ngành [khoa hoc may tinh](tuvankhmt:khmt) ?
-- tư vấn về ngành [khoa học máy tính](tuvankhmt:khmt) ?
+- tư vấn về ngành [khtm](tuvankhmt) ?
+- tư vấn về ngành [khoa học máy tính](tuvankhmt) ?
+- tư vấn về ngành [khoa hoc may tinh](tuvankhmt) ?
+- tư vấn về ngành [cong nghe may tinh](tuvankhmt) ?
+- tư vấn về ngành [khao hoc may tinh](tuvankhmt) ?
+- tư vấn về ngành [khao học may tinh](tuvankhmt) ?
+- tư vấn về ngành [công nghệ máy tính](tuvankhmt) ?
+- tư vấn về ngành [khao học máy tinh](tuvankhmt) ?
+- tư vấn về ngành [khoa học may tinh](tuvankhmt) ?
+- tư vấn về ngành [CS](tuvankhmt) ?
+- tư vấn về ngành [kh máy tinh](tuvankhmt) ?
+- tư vấn về ngành [kh may tính](tuvankhmt) ?
+- tư vấn về ngành [kh máy tính](tuvankhmt) ?
+- tư vấn về ngành [kh máy tình](tuvankhmt) ?
 - tư vấn về [ktpm](tuvanktpm) đi
-- tư vấn về [kỹ thuật phần mềm](tuvanktpm:ktpm) đi
+- tư vấn về [ktpmm](tuvanktpm) đi
+- tư vấn về [kỹ thuật phần mềm](tuvanktpm) đi
+- tư vấn về [ky thuat phan mem](tuvanktpm) đi
+- tư vấn về [ki thuật phần mềm](tuvanktpm) đi
+- tư vấn về [kỹ thuat phần mềm](tuvanktpm) đi
+- tư vấn về [kỹ thuật phần mềm](tuvanktpm) đi
+- tư vấn về [cong nghệ phần mềm](tuvanktpm) đi
+- tư vấn về [công nghệ phần mềm](tuvanktpm) đi
+- tư vấn về [cong nghe phan mem](tuvanktpm) đi
+- tư vấn về [SE](tuvanktpm) đi
+- tư vấn về [kt phần mềm](tuvanktpm) đi
+- tư vấn về [kt phan mem](tuvanktpm) đi
+- tư vấn về [kỹ thuật phân mem](tuvanktpm) đi
+- tư vấn về [phan mem](tuvanktpm) đi
+- tư vấn về [phần mềm](tuvanktpm) đi
+- tư vấn về [kt pm](tuvanktpm) đi
 - cho hỏi về ngành [ktpm](tuvanktpm)
-- cho hỏi về ngành [ky thuat phan mem](tuvanktpm:ktpm) 
-- cho e hỏi về ngành [kỹ thuật phần mềm](tuvanktpm:ktpm)
+- cho hỏi về ngành [ktpmm](tuvanktpm)
+- cho hỏi về ngành [kỹ thuật phần mềm](tuvanktpm)
+- cho hỏi về ngành [ky thuat phan mem](tuvanktpm)
+- cho hỏi về ngành [ki thuật phần mềm](tuvanktpm)
+- cho hỏi về ngành [kỹ thuat phần mềm](tuvanktpm)
+- cho hỏi về ngành [kỹ thuật phần mềm](tuvanktpm)
+- cho hỏi về ngành [cong nghệ phần mềm](tuvanktpm)
+- cho hỏi về ngành [công nghệ phần mềm](tuvanktpm)
+- cho hỏi về ngành [cong nghe phan mem](tuvanktpm)
+- cho hỏi về ngành [SE](tuvanktpm)
+- cho hỏi về ngành [kt phần mềm](tuvanktpm)
+- cho hỏi về ngành [kt phan mem](tuvanktpm)
+- cho hỏi về ngành [kỹ thuật phân mem](tuvanktpm)
+- cho hỏi về ngành [phan mem](tuvanktpm)
+- cho hỏi về ngành [phần mềm](tuvanktpm)
+- cho hỏi về ngành [kt pm](tuvanktpm)
 - [ktpm](tuvanktpm) là ngành như thế nào
-- [kỹ thuật phần mềm](tuvanktpm:ktpm) là ngành như thế nào
+- [ktpmm](tuvanktpm) là ngành như thế nào
+- [kỹ thuật phần mềm](tuvanktpm) là ngành như thế nào
+- [ky thuat phan mem](tuvanktpm) là ngành như thế nào
+- [ki thuật phần mềm](tuvanktpm) là ngành như thế nào
+- [kỹ thuat phần mềm](tuvanktpm) là ngành như thế nào
+- [kỹ thuật phần mềm](tuvanktpm) là ngành như thế nào
+- [cong nghệ phần mềm](tuvanktpm) là ngành như thế nào
+- [công nghệ phần mềm](tuvanktpm) là ngành như thế nào
+- [cong nghe phan mem](tuvanktpm) là ngành như thế nào
+- [SE](tuvanktpm) là ngành như thế nào
+- [kt phần mềm](tuvanktpm) là ngành như thế nào
+- [kt phan mem](tuvanktpm) là ngành như thế nào
+- [kỹ thuật phân mem](tuvanktpm) là ngành như thế nào
+- [phan mem](tuvanktpm) là ngành như thế nào
+- [phần mềm](tuvanktpm) là ngành như thế nào
+- [kt pm](tuvanktpm) là ngành như thế nào
 - [ktpm](tuvanktpm) ?
-- [kỹ thuật phần mềm](tuvanktpm:ktpm) ?
-- ngành [kỹ thuật phần mềm](tuvanktpm:ktpm) là gì
+- [ktpmm](tuvanktpm) ?
+- [kỹ thuật phần mềm](tuvanktpm) ?
+- [ky thuat phan mem](tuvanktpm) ?
+- [ki thuật phần mềm](tuvanktpm) ?
+- [kỹ thuat phần mềm](tuvanktpm) ?
+- [kỹ thuật phần mềm](tuvanktpm) ?
+- [cong nghệ phần mềm](tuvanktpm) ?
+- [công nghệ phần mềm](tuvanktpm) ?
+- [cong nghe phan mem](tuvanktpm) ?
+- [SE](tuvanktpm) ?
+- [kt phần mềm](tuvanktpm) ?
+- [kt phan mem](tuvanktpm) ?
+- [kỹ thuật phân mem](tuvanktpm) ?
+- [phan mem](tuvanktpm) ?
+- [phần mềm](tuvanktpm) ?
+- [kt pm](tuvanktpm) ?
 - ngành [ktpm](tuvanktpm) là gì
-- ngành [ky thuat phan mem](tuvanktpm:ktpm) là gì
+- ngành [ktpmm](tuvanktpm) là gì
+- ngành [kỹ thuật phần mềm](tuvanktpm) là gì
+- ngành [ky thuat phan mem](tuvanktpm) là gì
+- ngành [ki thuật phần mềm](tuvanktpm) là gì
+- ngành [kỹ thuat phần mềm](tuvanktpm) là gì
+- ngành [kỹ thuật phần mềm](tuvanktpm) là gì
+- ngành [cong nghệ phần mềm](tuvanktpm) là gì
+- ngành [công nghệ phần mềm](tuvanktpm) là gì
+- ngành [cong nghe phan mem](tuvanktpm) là gì
+- ngành [SE](tuvanktpm) là gì
+- ngành [kt phần mềm](tuvanktpm) là gì
+- ngành [kt phan mem](tuvanktpm) là gì
+- ngành [kỹ thuật phân mem](tuvanktpm) là gì
+- ngành [phan mem](tuvanktpm) là gì
+- ngành [phần mềm](tuvanktpm) là gì
+- ngành [kt pm](tuvanktpm) là gì
 - tư vấn cho mình về ngành [ktpm](tuvanktpm)
-- tư vấn cho mình về ngành [kỹ thuật phần mềm](tuvanktpm:ktpm)
-- [Kỹ thuật phần mềm](tuvanktpm:ktpm)
+- tư vấn cho mình về ngành [ktpmm](tuvanktpm)
+- tư vấn cho mình về ngành [kỹ thuật phần mềm](tuvanktpm)
+- tư vấn cho mình về ngành [ky thuat phan mem](tuvanktpm)
+- tư vấn cho mình về ngành [ki thuật phần mềm](tuvanktpm)
+- tư vấn cho mình về ngành [kỹ thuat phần mềm](tuvanktpm)
+- tư vấn cho mình về ngành [kỹ thuật phần mềm](tuvanktpm)
+- tư vấn cho mình về ngành [cong nghệ phần mềm](tuvanktpm)
+- tư vấn cho mình về ngành [công nghệ phần mềm](tuvanktpm)
+- tư vấn cho mình về ngành [cong nghe phan mem](tuvanktpm)
+- tư vấn cho mình về ngành [SE](tuvanktpm)
+- tư vấn cho mình về ngành [kt phần mềm](tuvanktpm)
+- tư vấn cho mình về ngành [kt phan mem](tuvanktpm)
+- tư vấn cho mình về ngành [kỹ thuật phân mem](tuvanktpm)
+- tư vấn cho mình về ngành [phan mem](tuvanktpm)
+- tư vấn cho mình về ngành [phần mềm](tuvanktpm)
+- tư vấn cho mình về ngành [kt pm](tuvanktpm)
 - tư vấn về [cntt](tuvancntt) đi
-- tư vấn về [công nghệ thông tin](tuvancntt:cntt) đi
+- tư vấn về [cnttt](tuvancntt) đi
+- tư vấn về [công nghệ thông tin](tuvancntt) đi
+- tư vấn về [cong nghe thong tin](tuvancntt) đi
+- tư vấn về [công nghệ thong tin](tuvancntt) đi
+- tư vấn về [cong nghe thông tin](tuvancntt) đi
+- tư vấn về [IT](tuvancntt) đi
+- tư vấn về [công nghệ thông tin](tuvancntt) đi
+- tư vấn về [cong nghệ thông tin](tuvancntt) đi
+- tư vấn về [công nghệ thông tinn](tuvancntt) đi
+- tư vấn về [cn thong tin](tuvancntt) đi
+- tư vấn về [cn tt](tuvancntt) đi
+- tư vấn về [cn thông tin](tuvancntt) đi
+- tư vấn về [cogn nghệ thông tin](tuvancntt) đi
+- tư vấn về [công nghệ tt](tuvancntt) đi
+- tư vấn về [cong6 nghệ thong tin](tuvancntt) đi
+- tư vấn về [công nghệ thong tin](tuvancntt) đi
 - cho hỏi về ngành [cntt](tuvancntt)
-- cho hỏi về ngành [công nghệ thông tin](tuvancntt:cntt)
+- cho hỏi về ngành [cnttt](tuvancntt)
+- cho hỏi về ngành [công nghệ thông tin](tuvancntt)
+- cho hỏi về ngành [cong nghe thong tin](tuvancntt)
+- cho hỏi về ngành [công nghệ thong tin](tuvancntt)
+- cho hỏi về ngành [cong nghe thông tin](tuvancntt)
+- cho hỏi về ngành [IT](tuvancntt)
+- cho hỏi về ngành [công nghệ thông tin](tuvancntt)
+- cho hỏi về ngành [cong nghệ thông tin](tuvancntt)
+- cho hỏi về ngành [công nghệ thông tinn](tuvancntt)
+- cho hỏi về ngành [cn thong tin](tuvancntt)
+- cho hỏi về ngành [cn tt](tuvancntt)
+- cho hỏi về ngành [cn thông tin](tuvancntt)
+- cho hỏi về ngành [cogn nghệ thông tin](tuvancntt)
+- cho hỏi về ngành [công nghệ tt](tuvancntt)
+- cho hỏi về ngành [cong6 nghệ thong tin](tuvancntt)
+- cho hỏi về ngành [công nghệ thong tin](tuvancntt)
 - [cntt](tuvancntt) là ngành như thế nào
-- [công nghệ thông tin](tuvancntt:cntt) ?
+- [cnttt](tuvancntt) là ngành như thế nào
+- [công nghệ thông tin](tuvancntt) là ngành như thế nào
+- [cong nghe thong tin](tuvancntt) là ngành như thế nào
+- [công nghệ thong tin](tuvancntt) là ngành như thế nào
+- [cong nghe thông tin](tuvancntt) là ngành như thế nào
+- [IT](tuvancntt) là ngành như thế nào
+- [công nghệ thông tin](tuvancntt) là ngành như thế nào
+- [cong nghệ thông tin](tuvancntt) là ngành như thế nào
+- [công nghệ thông tinn](tuvancntt) là ngành như thế nào
+- [cn thong tin](tuvancntt) là ngành như thế nào
+- [cn tt](tuvancntt) là ngành như thế nào
+- [cn thông tin](tuvancntt) là ngành như thế nào
+- [cogn nghệ thông tin](tuvancntt) là ngành như thế nào
+- [công nghệ tt](tuvancntt) là ngành như thế nào
+- [cong6 nghệ thong tin](tuvancntt) là ngành như thế nào
+- [công nghệ thong tin](tuvancntt) là ngành như thế nào
 - ngành  [cntt](tuvancntt) là gì
-- ngành  [công nghệ thông tin](tuvancntt:cntt) là gì
+- ngành  [cnttt](tuvancntt) là gì
+- ngành  [công nghệ thông tin](tuvancntt) là gì
+- ngành  [cong nghe thong tin](tuvancntt) là gì
+- ngành  [công nghệ thong tin](tuvancntt) là gì
+- ngành  [cong nghe thông tin](tuvancntt) là gì
+- ngành  [IT](tuvancntt) là gì
+- ngành  [công nghệ thông tin](tuvancntt) là gì
+- ngành  [cong nghệ thông tin](tuvancntt) là gì
+- ngành  [công nghệ thông tinn](tuvancntt) là gì
+- ngành  [cn thong tin](tuvancntt) là gì
+- ngành  [cn tt](tuvancntt) là gì
+- ngành  [cn thông tin](tuvancntt) là gì
+- ngành  [cogn nghệ thông tin](tuvancntt) là gì
+- ngành  [công nghệ tt](tuvancntt) là gì
+- ngành  [cong6 nghệ thong tin](tuvancntt) là gì
+- ngành  [công nghệ thong tin](tuvancntt) là gì
 - tư vấn cho mình về ngành [cntt](tuvancntt)
-- tư vấn cho mình về ngành [công nghệ thông tin](tuvancntt:cntt)
+- tư vấn cho mình về ngành [cnttt](tuvancntt)
+- tư vấn cho mình về ngành [công nghệ thông tin](tuvancntt)
+- tư vấn cho mình về ngành [cong nghe thong tin](tuvancntt)
+- tư vấn cho mình về ngành [công nghệ thong tin](tuvancntt)
+- tư vấn cho mình về ngành [cong nghe thông tin](tuvancntt)
+- tư vấn cho mình về ngành [IT](tuvancntt)
+- tư vấn cho mình về ngành [công nghệ thông tin](tuvancntt)
+- tư vấn cho mình về ngành [cong nghệ thông tin](tuvancntt)
+- tư vấn cho mình về ngành [công nghệ thông tinn](tuvancntt)
+- tư vấn cho mình về ngành [cn thong tin](tuvancntt)
+- tư vấn cho mình về ngành [cn tt](tuvancntt)
+- tư vấn cho mình về ngành [cn thông tin](tuvancntt)
+- tư vấn cho mình về ngành [cogn nghệ thông tin](tuvancntt)
+- tư vấn cho mình về ngành [công nghệ tt](tuvancntt)
+- tư vấn cho mình về ngành [cong6 nghệ thong tin](tuvancntt)
+- tư vấn cho mình về ngành [công nghệ thong tin](tuvancntt)
 - [cntt](tuvancntt) ?
-- [công nghệ thông tin](tuvancntt:cntt) ?
+- [cnttt](tuvancntt) ?
+- [công nghệ thông tin](tuvancntt) ?
+- [cong nghe thong tin](tuvancntt) ?
+- [công nghệ thong tin](tuvancntt) ?
+- [cong nghe thông tin](tuvancntt) ?
+- [IT](tuvancntt) ?
+- [công nghệ thông tin](tuvancntt) ?
+- [cong nghệ thông tin](tuvancntt) ?
+- [công nghệ thông tinn](tuvancntt) ?
+- [cn thong tin](tuvancntt) ?
+- [cn tt](tuvancntt) ?
+- [cn thông tin](tuvancntt) ?
+- [cogn nghệ thông tin](tuvancntt) ?
+- [công nghệ tt](tuvancntt) ?
+- [cong6 nghệ thong tin](tuvancntt) ?
+- [công nghệ thong tin](tuvancntt) ?
 - tư vấn về [httt](httt) đi
-- tư vấn về [hệ thống thông tin](httt:httt) đi
+- tư vấn về [hhttt](httt) đi
+- tư vấn về [IS](httt) đi
+- tư vấn về [hệ thống thông tin](httt) đi
+- tư vấn về [he thong thong tin](httt) đi
+- tư vấn về [hệ thông thông tin](httt) đi
+- tư vấn về [hê thong thông tin](httt) đi
+- tư vấn về [hệ thống thông tin](httt) đi
+- tư vấn về [hệ thống thông tín](httt) đi
+- tư vấn về [he thống thông tinn](httt) đi
+- tư vấn về [ht thông tin](httt) đi
+- tư vấn về [hệ thống tt](httt) đi
+- tư vấn về [he thống tt](httt) đi
+- tư vấn về [ht thông tin](httt) đi
+- tư vấn về [ht thong6 tin](httt) đi
 - cho hỏi về ngành [httt](httt)
-- cho hỏi về ngành [hệ thống thông tin](httt:httt)
+- cho hỏi về ngành [hhttt](httt)
+- cho hỏi về ngành [IS](httt)
+- cho hỏi về ngành [hệ thống thông tin](httt)
+- cho hỏi về ngành [he thong thong tin](httt)
+- cho hỏi về ngành [hệ thông thông tin](httt)
+- cho hỏi về ngành [hê thong thông tin](httt)
+- cho hỏi về ngành [hệ thống thông tin](httt)
+- cho hỏi về ngành [hệ thống thông tín](httt)
+- cho hỏi về ngành [he thống thông tinn](httt)
+- cho hỏi về ngành [ht thông tin](httt)
+- cho hỏi về ngành [hệ thống tt](httt)
+- cho hỏi về ngành [he thống tt](httt)
+- cho hỏi về ngành [ht thông tin](httt)
+- cho hỏi về ngành [ht thong6 tin](httt)
 - [httt](httt) là ngành như thế nào
-- [hệ thống thông tin](httt:httt) là ngành như thế nào
+- [hhttt](httt) là ngành như thế nào
+- [IS](httt) là ngành như thế nào
+- [hệ thống thông tin](httt) là ngành như thế nào
+- [he thong thong tin](httt) là ngành như thế nào
+- [hệ thông thông tin](httt) là ngành như thế nào
+- [hê thong thông tin](httt) là ngành như thế nào
+- [hệ thống thông tin](httt) là ngành như thế nào
+- [hệ thống thông tín](httt) là ngành như thế nào
+- [he thống thông tinn](httt) là ngành như thế nào
+- [ht thông tin](httt) là ngành như thế nào
+- [hệ thống tt](httt) là ngành như thế nào
+- [he thống tt](httt) là ngành như thế nào
+- [ht thông tin](httt) là ngành như thế nào
+- [ht thong6 tin](httt) là ngành như thế nào
 - [httt](httt) ?
-- [hệ thống thông tin](httt:httt) ?
+- [hhttt](httt) ?
+- [IS](httt) ?
+- [hệ thống thông tin](httt) ?
+- [he thong thong tin](httt) ?
+- [hệ thông thông tin](httt) ?
+- [hê thong thông tin](httt) ?
+- [hệ thống thông tin](httt) ?
+- [hệ thống thông tín](httt) ?
+- [he thống thông tinn](httt) ?
+- [ht thông tin](httt) ?
+- [hệ thống tt](httt) ?
+- [he thống tt](httt) ?
+- [ht thông tin](httt) ?
+- [ht thong6 tin](httt) ?
 - ngành [httt](httt) là gì
-- ngành [hệ thống thông tin](httt:httt) là gì
+- ngành [hhttt](httt) là gì
+- ngành [IS](httt) là gì
+- ngành [hệ thống thông tin](httt) là gì
+- ngành [he thong thong tin](httt) là gì
+- ngành [hệ thông thông tin](httt) là gì
+- ngành [hê thong thông tin](httt) là gì
+- ngành [hệ thống thông tin](httt) là gì
+- ngành [hệ thống thông tín](httt) là gì
+- ngành [he thống thông tinn](httt) là gì
+- ngành [ht thông tin](httt) là gì
+- ngành [hệ thống tt](httt) là gì
+- ngành [he thống tt](httt) là gì
+- ngành [ht thông tin](httt) là gì
+- ngành [ht thong6 tin](httt) là gì
 - tư vấn cho mình về ngành [httt](httt)
-- tư vấn cho mình về ngành [hệ thống thông tin](httt:httt)
+- tư vấn cho mình về ngành [hhttt](httt)
+- tư vấn cho mình về ngành [IS](httt)
+- tư vấn cho mình về ngành [hệ thống thông tin](httt)
+- tư vấn cho mình về ngành [he thong thong tin](httt)
+- tư vấn cho mình về ngành [hệ thông thông tin](httt)
+- tư vấn cho mình về ngành [hê thong thông tin](httt)
+- tư vấn cho mình về ngành [hệ thống thông tin](httt)
+- tư vấn cho mình về ngành [hệ thống thông tín](httt)
+- tư vấn cho mình về ngành [he thống thông tinn](httt)
+- tư vấn cho mình về ngành [ht thông tin](httt)
+- tư vấn cho mình về ngành [hệ thống tt](httt)
+- tư vấn cho mình về ngành [he thống tt](httt)
+- tư vấn cho mình về ngành [ht thông tin](httt)
+- tư vấn cho mình về ngành [ht thong6 tin](httt)
 - [httt](httt) ?
-- [hệ thống thông tin](httt:httt) ?
+- [hhttt](httt) ?
+- [IS](httt) ?
+- [hệ thống thông tin](httt) ?
+- [he thong thong tin](httt) ?
+- [hệ thông thông tin](httt) ?
+- [hê thong thông tin](httt) ?
+- [hệ thống thông tin](httt) ?
+- [hệ thống thông tín](httt) ?
+- [he thống thông tinn](httt) ?
+- [ht thông tin](httt) ?
+- [hệ thống tt](httt) ?
+- [he thống tt](httt) ?
+- [ht thông tin](httt) ?
+- [ht thong6 tin](httt) ?
 - tư vấn về [khdl](tuvankhdl) đi
-- tư vấn về [khoa học dữ liệu](tuvankhdl:khdl) đi
+- tư vấn về [khdk](tuvankhdl) đi
+- tư vấn về [khoa học dữ liệu](tuvankhdl) đi
+- tư vấn về [khoa hoc du lieu](tuvankhdl) đi
+- tư vấn về [khoa học du lieu](tuvankhdl) đi
+- tư vấn về [khoa hoc du liệu](tuvankhdl) đi
+- tư vấn về [khao học dữ leiu](tuvankhdl) đi
+- tư vấn về [khao học du lieu](tuvankhdl) đi
+- tư vấn về [khao học dữ leiu](tuvankhdl) đi
+- tư vấn về [khoa học du lieuu](tuvankhdl) đi
+- tư vấn về [kh dl](tuvankhdl) đi
+- tư vấn về [kh dữ liệu](tuvankhdl) đi
+- tư vấn về [khoa hoc dữ liệu](tuvankhdl) đi
+- tư vấn về [khoa học dl](tuvankhdl) đi
 - cho hỏi về ngành [khdl](tuvankhdl)
-- cho hỏi về ngành [khoa học dữ liệu](tuvankhdl:khdl)
+- cho hỏi về ngành [khdk](tuvankhdl)
+- cho hỏi về ngành [khoa học dữ liệu](tuvankhdl)
+- cho hỏi về ngành [khoa hoc du lieu](tuvankhdl)
+- cho hỏi về ngành [khoa học du lieu](tuvankhdl)
+- cho hỏi về ngành [khoa hoc du liệu](tuvankhdl)
+- cho hỏi về ngành [khao học dữ leiu](tuvankhdl)
+- cho hỏi về ngành [khao học du lieu](tuvankhdl)
+- cho hỏi về ngành [khao học dữ leiu](tuvankhdl)
+- cho hỏi về ngành [khoa học du lieuu](tuvankhdl)
+- cho hỏi về ngành [kh dl](tuvankhdl)
+- cho hỏi về ngành [kh dữ liệu](tuvankhdl)
+- cho hỏi về ngành [khoa hoc dữ liệu](tuvankhdl)
+- cho hỏi về ngành [khoa học dl](tuvankhdl)
 - [khdl](tuvankhdl) là ngành như thế nào
-- [khoa học dữ liệu](tuvankhdl:khdl) là ngành như thế nào
+- [khdk](tuvankhdl) là ngành như thế nào
+- [khoa học dữ liệu](tuvankhdl) là ngành như thế nào
+- [khoa hoc du lieu](tuvankhdl) là ngành như thế nào
+- [khoa học du lieu](tuvankhdl) là ngành như thế nào
+- [khoa hoc du liệu](tuvankhdl) là ngành như thế nào
+- [khao học dữ leiu](tuvankhdl) là ngành như thế nào
+- [khao học du lieu](tuvankhdl) là ngành như thế nào
+- [khao học dữ leiu](tuvankhdl) là ngành như thế nào
+- [khoa học du lieuu](tuvankhdl) là ngành như thế nào
+- [kh dl](tuvankhdl) là ngành như thế nào
+- [kh dữ liệu](tuvankhdl) là ngành như thế nào
+- [khoa hoc dữ liệu](tuvankhdl) là ngành như thế nào
+- [khoa học dl](tuvankhdl) là ngành như thế nào
 - [khdl](tuvankhdl) ?
-- [khoa học dữ liệu](tuvankhdl:khdl) ?
+- [khdk](tuvankhdl) ?
+- [khoa học dữ liệu](tuvankhdl) ?
+- [khoa hoc du lieu](tuvankhdl) ?
+- [khoa học du lieu](tuvankhdl) ?
+- [khoa hoc du liệu](tuvankhdl) ?
+- [khao học dữ leiu](tuvankhdl) ?
+- [khao học du lieu](tuvankhdl) ?
+- [khao học dữ leiu](tuvankhdl) ?
+- [khoa học du lieuu](tuvankhdl) ?
+- [kh dl](tuvankhdl) ?
+- [kh dữ liệu](tuvankhdl) ?
+- [khoa hoc dữ liệu](tuvankhdl) ?
+- [khoa học dl](tuvankhdl) ?
 - ngành [khdl](tuvankhdl) là gì
-- ngành [khoa học dữ liệu](tuvankhdl:khdl) là gì
+- ngành [khdk](tuvankhdl) là gì
+- ngành [khoa học dữ liệu](tuvankhdl) là gì
+- ngành [khoa hoc du lieu](tuvankhdl) là gì
+- ngành [khoa học du lieu](tuvankhdl) là gì
+- ngành [khoa hoc du liệu](tuvankhdl) là gì
+- ngành [khao học dữ leiu](tuvankhdl) là gì
+- ngành [khao học du lieu](tuvankhdl) là gì
+- ngành [khao học dữ leiu](tuvankhdl) là gì
+- ngành [khoa học du lieuu](tuvankhdl) là gì
+- ngành [kh dl](tuvankhdl) là gì
+- ngành [kh dữ liệu](tuvankhdl) là gì
+- ngành [khoa hoc dữ liệu](tuvankhdl) là gì
+- ngành [khoa học dl](tuvankhdl) là gì
 - tư vấn cho mình về ngành [khdl](tuvankhdl)
-- tư vấn cho mình về ngành [khoa học dữ liệu](tuvankhdl:khdl)
+- tư vấn cho mình về ngành [khdk](tuvankhdl)
+- tư vấn cho mình về ngành [khoa học dữ liệu](tuvankhdl)
+- tư vấn cho mình về ngành [khoa hoc du lieu](tuvankhdl)
+- tư vấn cho mình về ngành [khoa học du lieu](tuvankhdl)
+- tư vấn cho mình về ngành [khoa hoc du liệu](tuvankhdl)
+- tư vấn cho mình về ngành [khao học dữ leiu](tuvankhdl)
+- tư vấn cho mình về ngành [khao học du lieu](tuvankhdl)
+- tư vấn cho mình về ngành [khao học dữ leiu](tuvankhdl)
+- tư vấn cho mình về ngành [khoa học du lieuu](tuvankhdl)
+- tư vấn cho mình về ngành [kh dl](tuvankhdl)
+- tư vấn cho mình về ngành [kh dữ liệu](tuvankhdl)
+- tư vấn cho mình về ngành [khoa hoc dữ liệu](tuvankhdl)
+- tư vấn cho mình về ngành [khoa học dl](tuvankhdl)
 - [khdl](tuvankhdl) ?
-- [khoa học dữ liệu](tuvankhdl:khdl) ?
-
+- [khdk](tuvankhdl) ?
+- [khoa học dữ liệu](tuvankhdl) ?
+- [khoa hoc du lieu](tuvankhdl) ?
+- [khoa học du lieu](tuvankhdl) ?
+- [khoa hoc du liệu](tuvankhdl) ?
+- [khao học dữ leiu](tuvankhdl) ?
+- [khao học du lieu](tuvankhdl) ?
+- [khao học dữ leiu](tuvankhdl) ?
+- [khoa học du lieuu](tuvankhdl) ?
+- [kh dl](tuvankhdl) ?
+- [kh dữ liệu](tuvankhdl) ?
+- [khoa hoc dữ liệu](tuvankhdl) ?
+- [khoa học dl](tuvankhdl) ?
 ## intent: monhoc
-- [khoa học máy tính](monhockhmt:khmt) học cái gì
 - [khmt](monhockhmt) học cái gì
-- học cái gì trong ngành [khoa học máy tính](monhockhmt:khmt)
+- [khtm](monhockhmt) học cái gì
+- [khoa học máy tính](monhockhmt) học cái gì
+- [khoa hoc may tinh](monhockhmt) học cái gì
+- [cong nghe may tinh](monhockhmt) học cái gì
+- [khao hoc may tinh](monhockhmt) học cái gì
+- [khao học may tinh](monhockhmt) học cái gì
+- [công nghệ máy tính](monhockhmt) học cái gì
+- [khao học máy tinh](monhockhmt) học cái gì
+- [khoa học may tinh](monhockhmt) học cái gì
+- [CS](monhockhmt) học cái gì
+- [kh máy tinh](monhockhmt) học cái gì
+- [kh may tính](monhockhmt) học cái gì
+- [kh máy tính](monhockhmt) học cái gì
+- [kh máy tình](monhockhmt) học cái gì
 - học cái gì trong ngành [khmt](monhockhmt)
-- môn học trọng tâm trong [khoa học máy tính](monhockhmt:khmt) là gì
-- môn học trọng tâm trong [khoa học máy tính](monhockhmt:khmt) là gì
-- [khoa học máy tính](monhockhmt:khmt) d ạy cái gì
-- [khmt](monhockhmt) d ạy cái gì
-- [khoa học máy tính](monhockhmt:khmt) học như thế nào
+- học cái gì trong ngành [khtm](monhockhmt)
+- học cái gì trong ngành [khoa học máy tính](monhockhmt)
+- học cái gì trong ngành [khoa hoc may tinh](monhockhmt)
+- học cái gì trong ngành [cong nghe may tinh](monhockhmt)
+- học cái gì trong ngành [khao hoc may tinh](monhockhmt)
+- học cái gì trong ngành [khao học may tinh](monhockhmt)
+- học cái gì trong ngành [công nghệ máy tính](monhockhmt)
+- học cái gì trong ngành [khao học máy tinh](monhockhmt)
+- học cái gì trong ngành [khoa học may tinh](monhockhmt)
+- học cái gì trong ngành [CS](monhockhmt)
+- học cái gì trong ngành [kh máy tinh](monhockhmt)
+- học cái gì trong ngành [kh may tính](monhockhmt)
+- học cái gì trong ngành [kh máy tính](monhockhmt)
+- học cái gì trong ngành [kh máy tình](monhockhmt)
+- [khmt](monhockhmt) dạy cái gì
+- [khtm](monhockhmt) dạy cái gì
+- [khoa học máy tính](monhockhmt) dạy cái gì
+- [khoa hoc may tinh](monhockhmt) dạy cái gì
+- [cong nghe may tinh](monhockhmt) dạy cái gì
+- [khao hoc may tinh](monhockhmt) dạy cái gì
+- [khao học may tinh](monhockhmt) dạy cái gì
+- [công nghệ máy tính](monhockhmt) dạy cái gì
+- [khao học máy tinh](monhockhmt) dạy cái gì
+- [khoa học may tinh](monhockhmt) dạy cái gì
+- [CS](monhockhmt) dạy cái gì
+- [kh máy tinh](monhockhmt) dạy cái gì
+- [kh may tính](monhockhmt) dạy cái gì
+- [kh máy tính](monhockhmt) dạy cái gì
+- [kh máy tình](monhockhmt) dạy cái gì
 - [khmt](monhockhmt) học như thế nào
-- học [khoa học máy tính](monhockhmt:khmt) cần chú trọng vào những môn nào
+- [khtm](monhockhmt) học như thế nào
+- [khoa học máy tính](monhockhmt) học như thế nào
+- [khoa hoc may tinh](monhockhmt) học như thế nào
+- [cong nghe may tinh](monhockhmt) học như thế nào
+- [khao hoc may tinh](monhockhmt) học như thế nào
+- [khao học may tinh](monhockhmt) học như thế nào
+- [công nghệ máy tính](monhockhmt) học như thế nào
+- [khao học máy tinh](monhockhmt) học như thế nào
+- [khoa học may tinh](monhockhmt) học như thế nào
+- [CS](monhockhmt) học như thế nào
+- [kh máy tinh](monhockhmt) học như thế nào
+- [kh may tính](monhockhmt) học như thế nào
+- [kh máy tính](monhockhmt) học như thế nào
+- [kh máy tình](monhockhmt) học như thế nào
 - học [khmt](monhockhmt) cần chú trọng vào những môn nào
-- học [khoa học máy tính](monhockhmt:khmt) có nhiều môn  khó không
+- học [khtm](monhockhmt) cần chú trọng vào những môn nào
+- học [khoa học máy tính](monhockhmt) cần chú trọng vào những môn nào
+- học [khoa hoc may tinh](monhockhmt) cần chú trọng vào những môn nào
+- học [cong nghe may tinh](monhockhmt) cần chú trọng vào những môn nào
+- học [khao hoc may tinh](monhockhmt) cần chú trọng vào những môn nào
+- học [khao học may tinh](monhockhmt) cần chú trọng vào những môn nào
+- học [công nghệ máy tính](monhockhmt) cần chú trọng vào những môn nào
+- học [khao học máy tinh](monhockhmt) cần chú trọng vào những môn nào
+- học [khoa học may tinh](monhockhmt) cần chú trọng vào những môn nào
+- học [CS](monhockhmt) cần chú trọng vào những môn nào
+- học [kh máy tinh](monhockhmt) cần chú trọng vào những môn nào
+- học [kh may tính](monhockhmt) cần chú trọng vào những môn nào
+- học [kh máy tính](monhockhmt) cần chú trọng vào những môn nào
+- học [kh máy tình](monhockhmt) cần chú trọng vào những môn nào
 - học [khmt](monhockhmt) có nhiều môn khó không
-- [kỹ thuật phầm mềm](monhocktpm:ktpm) học cái gì
+- học [khtm](monhockhmt) có nhiều môn khó không
+- học [khoa học máy tính](monhockhmt) có nhiều môn khó không
+- học [khoa hoc may tinh](monhockhmt) có nhiều môn khó không
+- học [cong nghe may tinh](monhockhmt) có nhiều môn khó không
+- học [khao hoc may tinh](monhockhmt) có nhiều môn khó không
+- học [khao học may tinh](monhockhmt) có nhiều môn khó không
+- học [công nghệ máy tính](monhockhmt) có nhiều môn khó không
+- học [khao học máy tinh](monhockhmt) có nhiều môn khó không
+- học [khoa học may tinh](monhockhmt) có nhiều môn khó không
+- học [CS](monhockhmt) có nhiều môn khó không
+- học [kh máy tinh](monhockhmt) có nhiều môn khó không
+- học [kh may tính](monhockhmt) có nhiều môn khó không
+- học [kh máy tính](monhockhmt) có nhiều môn khó không
+- học [kh máy tình](monhockhmt) có nhiều môn khó không
 - [ktpm](monhocktpm) học cái gì
-- học cái gì trong ngành [kỹ thuật phầm mềm](monhocktpm:ktpm)
+- [ktpmm](monhocktpm) học cái gì
+- [kỹ thuật phần mềm](monhocktpm) học cái gì
+- [ky thuat phan mem](monhocktpm) học cái gì
+- [ki thuật phần mềm](monhocktpm) học cái gì
+- [kỹ thuat phần mềm](monhocktpm) học cái gì
+- [kỹ thuật phần mềm](monhocktpm) học cái gì
+- [cong nghệ phần mềm](monhocktpm) học cái gì
+- [công nghệ phần mềm](monhocktpm) học cái gì
+- [cong nghe phan mem](monhocktpm) học cái gì
+- [SE](monhocktpm) học cái gì
+- [kt phần mềm](monhocktpm) học cái gì
+- [kt phan mem](monhocktpm) học cái gì
+- [kỹ thuật phân mem](monhocktpm) học cái gì
+- [phan mem](monhocktpm) học cái gì
+- [phần mềm](monhocktpm) học cái gì
+- [kt pm](monhocktpm) học cái gì
 - học cái gì trong ngành [ktpm](monhocktpm)
-- môn học trọng tâm trong [kỹ thuật phầm mềm](monhocktpm:ktpm) là gì
+- học cái gì trong ngành [ktpmm](monhocktpm)
+- học cái gì trong ngành [kỹ thuật phần mềm](monhocktpm)
+- học cái gì trong ngành [ky thuat phan mem](monhocktpm)
+- học cái gì trong ngành [ki thuật phần mềm](monhocktpm)
+- học cái gì trong ngành [kỹ thuat phần mềm](monhocktpm)
+- học cái gì trong ngành [kỹ thuật phần mềm](monhocktpm)
+- học cái gì trong ngành [cong nghệ phần mềm](monhocktpm)
+- học cái gì trong ngành [công nghệ phần mềm](monhocktpm)
+- học cái gì trong ngành [cong nghe phan mem](monhocktpm)
+- học cái gì trong ngành [SE](monhocktpm)
+- học cái gì trong ngành [kt phần mềm](monhocktpm)
+- học cái gì trong ngành [kt phan mem](monhocktpm)
+- học cái gì trong ngành [kỹ thuật phân mem](monhocktpm)
+- học cái gì trong ngành [phan mem](monhocktpm)
+- học cái gì trong ngành [phần mềm](monhocktpm)
+- học cái gì trong ngành [kt pm](monhocktpm)
 - môn học trọng tâm trong [ktpm](monhocktpm) là gì
-- [kỹ thuật phầm mềm](monhocktpm:ktpm) d ạy cái gì
-- [ktpm](monhocktpm) d ạy cái gì
-- [kỹ thuật phầm mềm](monhocktpm:ktpm) học như thế nào
+- môn học trọng tâm trong [ktpmm](monhocktpm) là gì
+- môn học trọng tâm trong [kỹ thuật phần mềm](monhocktpm) là gì
+- môn học trọng tâm trong [ky thuat phan mem](monhocktpm) là gì
+- môn học trọng tâm trong [ki thuật phần mềm](monhocktpm) là gì
+- môn học trọng tâm trong [kỹ thuat phần mềm](monhocktpm) là gì
+- môn học trọng tâm trong [kỹ thuật phần mềm](monhocktpm) là gì
+- môn học trọng tâm trong [cong nghệ phần mềm](monhocktpm) là gì
+- môn học trọng tâm trong [công nghệ phần mềm](monhocktpm) là gì
+- môn học trọng tâm trong [cong nghe phan mem](monhocktpm) là gì
+- môn học trọng tâm trong [SE](monhocktpm) là gì
+- môn học trọng tâm trong [kt phần mềm](monhocktpm) là gì
+- môn học trọng tâm trong [kt phan mem](monhocktpm) là gì
+- môn học trọng tâm trong [kỹ thuật phân mem](monhocktpm) là gì
+- môn học trọng tâm trong [phan mem](monhocktpm) là gì
+- môn học trọng tâm trong [phần mềm](monhocktpm) là gì
+- môn học trọng tâm trong [kt pm](monhocktpm) là gì
+- [ktpm](monhocktpm) dạy cái gì
+- [ktpmm](monhocktpm) dạy cái gì
+- [kỹ thuật phần mềm](monhocktpm) dạy cái gì
+- [ky thuat phan mem](monhocktpm) dạy cái gì
+- [ki thuật phần mềm](monhocktpm) dạy cái gì
+- [kỹ thuat phần mềm](monhocktpm) dạy cái gì
+- [kỹ thuật phần mềm](monhocktpm) dạy cái gì
+- [cong nghệ phần mềm](monhocktpm) dạy cái gì
+- [công nghệ phần mềm](monhocktpm) dạy cái gì
+- [cong nghe phan mem](monhocktpm) dạy cái gì
+- [SE](monhocktpm) dạy cái gì
+- [kt phần mềm](monhocktpm) dạy cái gì
+- [kt phan mem](monhocktpm) dạy cái gì
+- [kỹ thuật phân mem](monhocktpm) dạy cái gì
+- [phan mem](monhocktpm) dạy cái gì
+- [phần mềm](monhocktpm) dạy cái gì
+- [kt pm](monhocktpm) dạy cái gì
 - [ktpm](monhocktpm) học như thế nào
-- học [kỹ thuật phầm mềm](monhocktpm:ktpm) cần chú trọng vào những môn nào
+- [ktpmm](monhocktpm) học như thế nào
+- [kỹ thuật phần mềm](monhocktpm) học như thế nào
+- [ky thuat phan mem](monhocktpm) học như thế nào
+- [ki thuật phần mềm](monhocktpm) học như thế nào
+- [kỹ thuat phần mềm](monhocktpm) học như thế nào
+- [kỹ thuật phần mềm](monhocktpm) học như thế nào
+- [cong nghệ phần mềm](monhocktpm) học như thế nào
+- [công nghệ phần mềm](monhocktpm) học như thế nào
+- [cong nghe phan mem](monhocktpm) học như thế nào
+- [SE](monhocktpm) học như thế nào
+- [kt phần mềm](monhocktpm) học như thế nào
+- [kt phan mem](monhocktpm) học như thế nào
+- [kỹ thuật phân mem](monhocktpm) học như thế nào
+- [phan mem](monhocktpm) học như thế nào
+- [phần mềm](monhocktpm) học như thế nào
+- [kt pm](monhocktpm) học như thế nào
 - học [ktpm](monhocktpm) cần chú trọng vào những môn nào
-- học [kỹ thuật phần mềm](monhocktpm:ktpm) có nhiều môn khó không
+- học [ktpmm](monhocktpm) cần chú trọng vào những môn nào
+- học [kỹ thuật phần mềm](monhocktpm) cần chú trọng vào những môn nào
+- học [ky thuat phan mem](monhocktpm) cần chú trọng vào những môn nào
+- học [ki thuật phần mềm](monhocktpm) cần chú trọng vào những môn nào
+- học [kỹ thuat phần mềm](monhocktpm) cần chú trọng vào những môn nào
+- học [kỹ thuật phần mềm](monhocktpm) cần chú trọng vào những môn nào
+- học [cong nghệ phần mềm](monhocktpm) cần chú trọng vào những môn nào
+- học [công nghệ phần mềm](monhocktpm) cần chú trọng vào những môn nào
+- học [cong nghe phan mem](monhocktpm) cần chú trọng vào những môn nào
+- học [SE](monhocktpm) cần chú trọng vào những môn nào
+- học [kt phần mềm](monhocktpm) cần chú trọng vào những môn nào
+- học [kt phan mem](monhocktpm) cần chú trọng vào những môn nào
+- học [kỹ thuật phân mem](monhocktpm) cần chú trọng vào những môn nào
+- học [phan mem](monhocktpm) cần chú trọng vào những môn nào
+- học [phần mềm](monhocktpm) cần chú trọng vào những môn nào
+- học [kt pm](monhocktpm) cần chú trọng vào những môn nào
 - học [ktpm](monhocktpm) có nhiều môn khó không
-- [công nghệ thông tin](monhoccntt:cntt) học cái gì
+- học [ktpmm](monhocktpm) có nhiều môn khó không
+- học [kỹ thuật phần mềm](monhocktpm) có nhiều môn khó không
+- học [ky thuat phan mem](monhocktpm) có nhiều môn khó không
+- học [ki thuật phần mềm](monhocktpm) có nhiều môn khó không
+- học [kỹ thuat phần mềm](monhocktpm) có nhiều môn khó không
+- học [kỹ thuật phần mềm](monhocktpm) có nhiều môn khó không
+- học [cong nghệ phần mềm](monhocktpm) có nhiều môn khó không
+- học [công nghệ phần mềm](monhocktpm) có nhiều môn khó không
+- học [cong nghe phan mem](monhocktpm) có nhiều môn khó không
+- học [SE](monhocktpm) có nhiều môn khó không
+- học [kt phần mềm](monhocktpm) có nhiều môn khó không
+- học [kt phan mem](monhocktpm) có nhiều môn khó không
+- học [kỹ thuật phân mem](monhocktpm) có nhiều môn khó không
+- học [phan mem](monhocktpm) có nhiều môn khó không
+- học [phần mềm](monhocktpm) có nhiều môn khó không
+- học [kt pm](monhocktpm) có nhiều môn khó không
 - [cntt](monhoccntt) học cái gì
-- học cái gì trong ngành [công nghệ thông tin](monhoccntt:cntt)
+- [cnttt](monhoccntt) học cái gì
+- [công nghệ thông tin](monhoccntt) học cái gì
+- [cong nghe thong tin](monhoccntt) học cái gì
+- [công nghệ thong tin](monhoccntt) học cái gì
+- [cong nghe thông tin](monhoccntt) học cái gì
+- [IT](monhoccntt) học cái gì
+- [công nghệ thông tin](monhoccntt) học cái gì
+- [cong nghệ thông tin](monhoccntt) học cái gì
+- [công nghệ thông tinn](monhoccntt) học cái gì
+- [cn thong tin](monhoccntt) học cái gì
+- [cn tt](monhoccntt) học cái gì
+- [cn thông tin](monhoccntt) học cái gì
+- [cogn nghệ thông tin](monhoccntt) học cái gì
+- [công nghệ tt](monhoccntt) học cái gì
+- [cong6 nghệ thong tin](monhoccntt) học cái gì
+- [công nghệ thong tin](monhoccntt) học cái gì
 - học cái gì trong ngành [cntt](monhoccntt)
-- môn học trọng tâm trong [công nghệ thông tin](monhoccntt:cntt) là gì
+- học cái gì trong ngành [cnttt](monhoccntt)
+- học cái gì trong ngành [công nghệ thông tin](monhoccntt)
+- học cái gì trong ngành [cong nghe thong tin](monhoccntt)
+- học cái gì trong ngành [công nghệ thong tin](monhoccntt)
+- học cái gì trong ngành [cong nghe thông tin](monhoccntt)
+- học cái gì trong ngành [IT](monhoccntt)
+- học cái gì trong ngành [công nghệ thông tin](monhoccntt)
+- học cái gì trong ngành [cong nghệ thông tin](monhoccntt)
+- học cái gì trong ngành [công nghệ thông tinn](monhoccntt)
+- học cái gì trong ngành [cn thong tin](monhoccntt)
+- học cái gì trong ngành [cn tt](monhoccntt)
+- học cái gì trong ngành [cn thông tin](monhoccntt)
+- học cái gì trong ngành [cogn nghệ thông tin](monhoccntt)
+- học cái gì trong ngành [công nghệ tt](monhoccntt)
+- học cái gì trong ngành [cong6 nghệ thong tin](monhoccntt)
+- học cái gì trong ngành [công nghệ thong tin](monhoccntt)
 - môn học trọng tâm trong [cntt](monhoccntt) là gì
--[công nghệ thông tin](monhoccntt:cntt) d ạy cái gì
-- [cntt](monhoccntt) d ạy cái gì
-- [công nghệ thông tin](monhoccntt:cntt) học như thế nào
+- môn học trọng tâm trong [cnttt](monhoccntt) là gì
+- môn học trọng tâm trong [công nghệ thông tin](monhoccntt) là gì
+- môn học trọng tâm trong [cong nghe thong tin](monhoccntt) là gì
+- môn học trọng tâm trong [công nghệ thong tin](monhoccntt) là gì
+- môn học trọng tâm trong [cong nghe thông tin](monhoccntt) là gì
+- môn học trọng tâm trong [IT](monhoccntt) là gì
+- môn học trọng tâm trong [công nghệ thông tin](monhoccntt) là gì
+- môn học trọng tâm trong [cong nghệ thông tin](monhoccntt) là gì
+- môn học trọng tâm trong [công nghệ thông tinn](monhoccntt) là gì
+- môn học trọng tâm trong [cn thong tin](monhoccntt) là gì
+- môn học trọng tâm trong [cn tt](monhoccntt) là gì
+- môn học trọng tâm trong [cn thông tin](monhoccntt) là gì
+- môn học trọng tâm trong [cogn nghệ thông tin](monhoccntt) là gì
+- môn học trọng tâm trong [công nghệ tt](monhoccntt) là gì
+- môn học trọng tâm trong [cong6 nghệ thong tin](monhoccntt) là gì
+- môn học trọng tâm trong [công nghệ thong tin](monhoccntt) là gì
+- [cntt](monhoccntt) dạy cái gì
+- [cnttt](monhoccntt) dạy cái gì
+- [công nghệ thông tin](monhoccntt) dạy cái gì
+- [cong nghe thong tin](monhoccntt) dạy cái gì
+- [công nghệ thong tin](monhoccntt) dạy cái gì
+- [cong nghe thông tin](monhoccntt) dạy cái gì
+- [IT](monhoccntt) dạy cái gì
+- [công nghệ thông tin](monhoccntt) dạy cái gì
+- [cong nghệ thông tin](monhoccntt) dạy cái gì
+- [công nghệ thông tinn](monhoccntt) dạy cái gì
+- [cn thong tin](monhoccntt) dạy cái gì
+- [cn tt](monhoccntt) dạy cái gì
+- [cn thông tin](monhoccntt) dạy cái gì
+- [cogn nghệ thông tin](monhoccntt) dạy cái gì
+- [công nghệ tt](monhoccntt) dạy cái gì
+- [cong6 nghệ thong tin](monhoccntt) dạy cái gì
+- [công nghệ thong tin](monhoccntt) dạy cái gì
 - [cntt](monhoccntt) học như thế nào
-- học [công nghệ thông tin](monhoccntt:cntt) cần chú trọng vào những môn nào
+- [cnttt](monhoccntt) học như thế nào
+- [công nghệ thông tin](monhoccntt) học như thế nào
+- [cong nghe thong tin](monhoccntt) học như thế nào
+- [công nghệ thong tin](monhoccntt) học như thế nào
+- [cong nghe thông tin](monhoccntt) học như thế nào
+- [IT](monhoccntt) học như thế nào
+- [công nghệ thông tin](monhoccntt) học như thế nào
+- [cong nghệ thông tin](monhoccntt) học như thế nào
+- [công nghệ thông tinn](monhoccntt) học như thế nào
+- [cn thong tin](monhoccntt) học như thế nào
+- [cn tt](monhoccntt) học như thế nào
+- [cn thông tin](monhoccntt) học như thế nào
+- [cogn nghệ thông tin](monhoccntt) học như thế nào
+- [công nghệ tt](monhoccntt) học như thế nào
+- [cong6 nghệ thong tin](monhoccntt) học như thế nào
+- [công nghệ thong tin](monhoccntt) học như thế nào
 - học [cntt](monhoccntt) cần chú trọng vào những môn nào
-- học [công nghệ thông tin](monhoccntt:cntt) có nhiều môn khó không
+- học [cnttt](monhoccntt) cần chú trọng vào những môn nào
+- học [công nghệ thông tin](monhoccntt) cần chú trọng vào những môn nào
+- học [cong nghe thong tin](monhoccntt) cần chú trọng vào những môn nào
+- học [công nghệ thong tin](monhoccntt) cần chú trọng vào những môn nào
+- học [cong nghe thông tin](monhoccntt) cần chú trọng vào những môn nào
+- học [IT](monhoccntt) cần chú trọng vào những môn nào
+- học [công nghệ thông tin](monhoccntt) cần chú trọng vào những môn nào
+- học [cong nghệ thông tin](monhoccntt) cần chú trọng vào những môn nào
+- học [công nghệ thông tinn](monhoccntt) cần chú trọng vào những môn nào
+- học [cn thong tin](monhoccntt) cần chú trọng vào những môn nào
+- học [cn tt](monhoccntt) cần chú trọng vào những môn nào
+- học [cn thông tin](monhoccntt) cần chú trọng vào những môn nào
+- học [cogn nghệ thông tin](monhoccntt) cần chú trọng vào những môn nào
+- học [công nghệ tt](monhoccntt) cần chú trọng vào những môn nào
+- học [cong6 nghệ thong tin](monhoccntt) cần chú trọng vào những môn nào
+- học [công nghệ thong tin](monhoccntt) cần chú trọng vào những môn nào
 - học [cntt](monhoccntt) có nhiều môn khó không
-- [hệ thống thông tin](monhochttt:httt) học cái gì
+- học [cnttt](monhoccntt) có nhiều môn khó không
+- học [công nghệ thông tin](monhoccntt) có nhiều môn khó không
+- học [cong nghe thong tin](monhoccntt) có nhiều môn khó không
+- học [công nghệ thong tin](monhoccntt) có nhiều môn khó không
+- học [cong nghe thông tin](monhoccntt) có nhiều môn khó không
+- học [IT](monhoccntt) có nhiều môn khó không
+- học [công nghệ thông tin](monhoccntt) có nhiều môn khó không
+- học [cong nghệ thông tin](monhoccntt) có nhiều môn khó không
+- học [công nghệ thông tinn](monhoccntt) có nhiều môn khó không
+- học [cn thong tin](monhoccntt) có nhiều môn khó không
+- học [cn tt](monhoccntt) có nhiều môn khó không
+- học [cn thông tin](monhoccntt) có nhiều môn khó không
+- học [cogn nghệ thông tin](monhoccntt) có nhiều môn khó không
+- học [công nghệ tt](monhoccntt) có nhiều môn khó không
+- học [cong6 nghệ thong tin](monhoccntt) có nhiều môn khó không
+- học [công nghệ thong tin](monhoccntt) có nhiều môn khó không
 - [httt](monhochttt) học cái gì
-- học cái gì trong ngành [hệ thống thông tin](monhochttt:httt)
+- [hhttt](monhochttt) học cái gì
+- [IS](monhochttt) học cái gì
+- [hệ thống thông tin](monhochttt) học cái gì
+- [he thong thong tin](monhochttt) học cái gì
+- [hệ thông thông tin](monhochttt) học cái gì
+- [hê thong thông tin](monhochttt) học cái gì
+- [hệ thống thông tin](monhochttt) học cái gì
+- [hệ thống thông tín](monhochttt) học cái gì
+- [he thống thông tinn](monhochttt) học cái gì
+- [ht thông tin](monhochttt) học cái gì
+- [hệ thống tt](monhochttt) học cái gì
+- [he thống tt](monhochttt) học cái gì
+- [ht thông tin](monhochttt) học cái gì
+- [ht thong6 tin](monhochttt) học cái gì
 - học cái gì trong ngành [httt](monhochttt)
-- môn học trọng tâm trong [hệ thống thông tin](monhochttt:httt) là gì
+- học cái gì trong ngành [hhttt](monhochttt)
+- học cái gì trong ngành [IS](monhochttt)
+- học cái gì trong ngành [hệ thống thông tin](monhochttt)
+- học cái gì trong ngành [he thong thong tin](monhochttt)
+- học cái gì trong ngành [hệ thông thông tin](monhochttt)
+- học cái gì trong ngành [hê thong thông tin](monhochttt)
+- học cái gì trong ngành [hệ thống thông tin](monhochttt)
+- học cái gì trong ngành [hệ thống thông tín](monhochttt)
+- học cái gì trong ngành [he thống thông tinn](monhochttt)
+- học cái gì trong ngành [ht thông tin](monhochttt)
+- học cái gì trong ngành [hệ thống tt](monhochttt)
+- học cái gì trong ngành [he thống tt](monhochttt)
+- học cái gì trong ngành [ht thông tin](monhochttt)
+- học cái gì trong ngành [ht thong6 tin](monhochttt)
 - môn học trọng tâm trong [httt](monhochttt) là gì
-- [hệ thống thông tin](monhochttt:httt) d ạy cái gì
-- [httt](monhochttt) d ạy cái gì
-- [hệ thống thông tin](monhochttt:httt) học như thế nào
+- môn học trọng tâm trong [hhttt](monhochttt) là gì
+- môn học trọng tâm trong [IS](monhochttt) là gì
+- môn học trọng tâm trong [hệ thống thông tin](monhochttt) là gì
+- môn học trọng tâm trong [he thong thong tin](monhochttt) là gì
+- môn học trọng tâm trong [hệ thông thông tin](monhochttt) là gì
+- môn học trọng tâm trong [hê thong thông tin](monhochttt) là gì
+- môn học trọng tâm trong [hệ thống thông tin](monhochttt) là gì
+- môn học trọng tâm trong [hệ thống thông tín](monhochttt) là gì
+- môn học trọng tâm trong [he thống thông tinn](monhochttt) là gì
+- môn học trọng tâm trong [ht thông tin](monhochttt) là gì
+- môn học trọng tâm trong [hệ thống tt](monhochttt) là gì
+- môn học trọng tâm trong [he thống tt](monhochttt) là gì
+- môn học trọng tâm trong [ht thông tin](monhochttt) là gì
+- môn học trọng tâm trong [ht thong6 tin](monhochttt) là gì
+- [httt](monhochttt) dạy cái gì
+- [hhttt](monhochttt) dạy cái gì
+- [IS](monhochttt) dạy cái gì
+- [hệ thống thông tin](monhochttt) dạy cái gì
+- [he thong thong tin](monhochttt) dạy cái gì
+- [hệ thông thông tin](monhochttt) dạy cái gì
+- [hê thong thông tin](monhochttt) dạy cái gì
+- [hệ thống thông tin](monhochttt) dạy cái gì
+- [hệ thống thông tín](monhochttt) dạy cái gì
+- [he thống thông tinn](monhochttt) dạy cái gì
+- [ht thông tin](monhochttt) dạy cái gì
+- [hệ thống tt](monhochttt) dạy cái gì
+- [he thống tt](monhochttt) dạy cái gì
+- [ht thông tin](monhochttt) dạy cái gì
+- [ht thong6 tin](monhochttt) dạy cái gì
 - [httt](monhochttt) học như thế nào
-- học [hệ thống thông tin](monhochttt:httt) cần chú trọng vào những môn nào
+- [hhttt](monhochttt) học như thế nào
+- [IS](monhochttt) học như thế nào
+- [hệ thống thông tin](monhochttt) học như thế nào
+- [he thong thong tin](monhochttt) học như thế nào
+- [hệ thông thông tin](monhochttt) học như thế nào
+- [hê thong thông tin](monhochttt) học như thế nào
+- [hệ thống thông tin](monhochttt) học như thế nào
+- [hệ thống thông tín](monhochttt) học như thế nào
+- [he thống thông tinn](monhochttt) học như thế nào
+- [ht thông tin](monhochttt) học như thế nào
+- [hệ thống tt](monhochttt) học như thế nào
+- [he thống tt](monhochttt) học như thế nào
+- [ht thông tin](monhochttt) học như thế nào
+- [ht thong6 tin](monhochttt) học như thế nào
 - học [httt](monhochttt) cần chú trọng vào những môn nào
-- học [hệ thống thông tin](monhochttt:httt) có nhiều môn khó không
+- học [hhttt](monhochttt) cần chú trọng vào những môn nào
+- học [IS](monhochttt) cần chú trọng vào những môn nào
+- học [hệ thống thông tin](monhochttt) cần chú trọng vào những môn nào
+- học [he thong thong tin](monhochttt) cần chú trọng vào những môn nào
+- học [hệ thông thông tin](monhochttt) cần chú trọng vào những môn nào
+- học [hê thong thông tin](monhochttt) cần chú trọng vào những môn nào
+- học [hệ thống thông tin](monhochttt) cần chú trọng vào những môn nào
+- học [hệ thống thông tín](monhochttt) cần chú trọng vào những môn nào
+- học [he thống thông tinn](monhochttt) cần chú trọng vào những môn nào
+- học [ht thông tin](monhochttt) cần chú trọng vào những môn nào
+- học [hệ thống tt](monhochttt) cần chú trọng vào những môn nào
+- học [he thống tt](monhochttt) cần chú trọng vào những môn nào
+- học [ht thông tin](monhochttt) cần chú trọng vào những môn nào
+- học [ht thong6 tin](monhochttt) cần chú trọng vào những môn nào
 - học [httt](monhochttt) có nhiều môn khó không
-- [khoa học dữ liệu](monhockhdl:khdl) học cái gì
+- học [hhttt](monhochttt) có nhiều môn khó không
+- học [IS](monhochttt) có nhiều môn khó không
+- học [hệ thống thông tin](monhochttt) có nhiều môn khó không
+- học [he thong thong tin](monhochttt) có nhiều môn khó không
+- học [hệ thông thông tin](monhochttt) có nhiều môn khó không
+- học [hê thong thông tin](monhochttt) có nhiều môn khó không
+- học [hệ thống thông tin](monhochttt) có nhiều môn khó không
+- học [hệ thống thông tín](monhochttt) có nhiều môn khó không
+- học [he thống thông tinn](monhochttt) có nhiều môn khó không
+- học [ht thông tin](monhochttt) có nhiều môn khó không
+- học [hệ thống tt](monhochttt) có nhiều môn khó không
+- học [he thống tt](monhochttt) có nhiều môn khó không
+- học [ht thông tin](monhochttt) có nhiều môn khó không
+- học [ht thong6 tin](monhochttt) có nhiều môn khó không
 - [khdl](monhockhdl) học cái gì
-- học cái gì trong ngành [khoa học dữ liệu](monhockhdl:khdl)
+- [khdk](monhockhdl) học cái gì
+- [khoa học dữ liệu](monhockhdl) học cái gì
+- [khoa hoc du lieu](monhockhdl) học cái gì
+- [khoa học du lieu](monhockhdl) học cái gì
+- [khoa hoc du liệu](monhockhdl) học cái gì
+- [khao học dữ leiu](monhockhdl) học cái gì
+- [khao học du lieu](monhockhdl) học cái gì
+- [khao học dữ leiu](monhockhdl) học cái gì
+- [khoa học du lieuu](monhockhdl) học cái gì
+- [kh dl](monhockhdl) học cái gì
+- [kh dữ liệu](monhockhdl) học cái gì
+- [khoa hoc dữ liệu](monhockhdl) học cái gì
+- [khoa học dl](monhockhdl) học cái gì
 - học cái gì trong ngành [khdl](monhockhdl)
-- môn học trọng tâm trong [khoa học dữ liệu](monhockhdl:khdl) là gì
+- học cái gì trong ngành [khdk](monhockhdl)
+- học cái gì trong ngành [khoa học dữ liệu](monhockhdl)
+- học cái gì trong ngành [khoa hoc du lieu](monhockhdl)
+- học cái gì trong ngành [khoa học du lieu](monhockhdl)
+- học cái gì trong ngành [khoa hoc du liệu](monhockhdl)
+- học cái gì trong ngành [khao học dữ leiu](monhockhdl)
+- học cái gì trong ngành [khao học du lieu](monhockhdl)
+- học cái gì trong ngành [khao học dữ leiu](monhockhdl)
+- học cái gì trong ngành [khoa học du lieuu](monhockhdl)
+- học cái gì trong ngành [kh dl](monhockhdl)
+- học cái gì trong ngành [kh dữ liệu](monhockhdl)
+- học cái gì trong ngành [khoa hoc dữ liệu](monhockhdl)
+- học cái gì trong ngành [khoa học dl](monhockhdl)
 - môn học trọng tâm trong [khdl](monhockhdl) là gì
-- [khoa học dữ liệu](monhockhdl:khdl) d ạy cái gì
-- [khdl](monhockhdl) d ạy cái gì
-- [khoa học dữ liệu](monhockhdl:khdl) học như thế nào
+- môn học trọng tâm trong [khdk](monhockhdl) là gì
+- môn học trọng tâm trong [khoa học dữ liệu](monhockhdl) là gì
+- môn học trọng tâm trong [khoa hoc du lieu](monhockhdl) là gì
+- môn học trọng tâm trong [khoa học du lieu](monhockhdl) là gì
+- môn học trọng tâm trong [khoa hoc du liệu](monhockhdl) là gì
+- môn học trọng tâm trong [khao học dữ leiu](monhockhdl) là gì
+- môn học trọng tâm trong [khao học du lieu](monhockhdl) là gì
+- môn học trọng tâm trong [khao học dữ leiu](monhockhdl) là gì
+- môn học trọng tâm trong [khoa học du lieuu](monhockhdl) là gì
+- môn học trọng tâm trong [kh dl](monhockhdl) là gì
+- môn học trọng tâm trong [kh dữ liệu](monhockhdl) là gì
+- môn học trọng tâm trong [khoa hoc dữ liệu](monhockhdl) là gì
+- môn học trọng tâm trong [khoa học dl](monhockhdl) là gì
+- [khdl](monhockhdl) dạy cái gì
+- [khdk](monhockhdl) dạy cái gì
+- [khoa học dữ liệu](monhockhdl) dạy cái gì
+- [khoa hoc du lieu](monhockhdl) dạy cái gì
+- [khoa học du lieu](monhockhdl) dạy cái gì
+- [khoa hoc du liệu](monhockhdl) dạy cái gì
+- [khao học dữ leiu](monhockhdl) dạy cái gì
+- [khao học du lieu](monhockhdl) dạy cái gì
+- [khao học dữ leiu](monhockhdl) dạy cái gì
+- [khoa học du lieuu](monhockhdl) dạy cái gì
+- [kh dl](monhockhdl) dạy cái gì
+- [kh dữ liệu](monhockhdl) dạy cái gì
+- [khoa hoc dữ liệu](monhockhdl) dạy cái gì
+- [khoa học dl](monhockhdl) dạy cái gì
 - [khdl](monhockhdl) học như thế nào
-- học [khoa học dữ liệu](monhockhdl:khdl) cần chú trọng vào những môn nào
+- [khdk](monhockhdl) học như thế nào
+- [khoa học dữ liệu](monhockhdl) học như thế nào
+- [khoa hoc du lieu](monhockhdl) học như thế nào
+- [khoa học du lieu](monhockhdl) học như thế nào
+- [khoa hoc du liệu](monhockhdl) học như thế nào
+- [khao học dữ leiu](monhockhdl) học như thế nào
+- [khao học du lieu](monhockhdl) học như thế nào
+- [khao học dữ leiu](monhockhdl) học như thế nào
+- [khoa học du lieuu](monhockhdl) học như thế nào
+- [kh dl](monhockhdl) học như thế nào
+- [kh dữ liệu](monhockhdl) học như thế nào
+- [khoa hoc dữ liệu](monhockhdl) học như thế nào
+- [khoa học dl](monhockhdl) học như thế nào
 - học [khdl](monhockhdl) cần chú trọng vào những môn nào
-- học [khoa học dữ liệu](monhockhdl:khdl) có nhiều môn khó không
+- học [khdk](monhockhdl) cần chú trọng vào những môn nào
+- học [khoa học dữ liệu](monhockhdl) cần chú trọng vào những môn nào
+- học [khoa hoc du lieu](monhockhdl) cần chú trọng vào những môn nào
+- học [khoa học du lieu](monhockhdl) cần chú trọng vào những môn nào
+- học [khoa hoc du liệu](monhockhdl) cần chú trọng vào những môn nào
+- học [khao học dữ leiu](monhockhdl) cần chú trọng vào những môn nào
+- học [khao học du lieu](monhockhdl) cần chú trọng vào những môn nào
+- học [khao học dữ leiu](monhockhdl) cần chú trọng vào những môn nào
+- học [khoa học du lieuu](monhockhdl) cần chú trọng vào những môn nào
+- học [kh dl](monhockhdl) cần chú trọng vào những môn nào
+- học [kh dữ liệu](monhockhdl) cần chú trọng vào những môn nào
+- học [khoa hoc dữ liệu](monhockhdl) cần chú trọng vào những môn nào
+- học [khoa học dl](monhockhdl) cần chú trọng vào những môn nào
 - học [khdl](monhockhdl)  có nhiều môn khó không
-
+- học [khdk](monhockhdl)  có nhiều môn khó không
+- học [khoa học dữ liệu](monhockhdl)  có nhiều môn khó không
+- học [khoa hoc du lieu](monhockhdl)  có nhiều môn khó không
+- học [khoa học du lieu](monhockhdl)  có nhiều môn khó không
+- học [khoa hoc du liệu](monhockhdl)  có nhiều môn khó không
+- học [khao học dữ leiu](monhockhdl)  có nhiều môn khó không
+- học [khao học du lieu](monhockhdl)  có nhiều môn khó không
+- học [khao học dữ leiu](monhockhdl)  có nhiều môn khó không
+- học [khoa học du lieuu](monhockhdl)  có nhiều môn khó không
+- học [kh dl](monhockhdl)  có nhiều môn khó không
+- học [kh dữ liệu](monhockhdl)  có nhiều môn khó không
+- học [khoa hoc dữ liệu](monhockhdl)  có nhiều môn khó không
+- học [khoa học dl](monhockhdl)  có nhiều môn khó không
 ## intent: kienthuccancokhiratruong
-- sinh viên [công nghệ thông tin](kienthuccancokhiratruongcntt:cntt) khi ra trường thì cần những kiến thức cơ bản nào
 - sinh viên [cntt](kienthuccancokhiratruongcntt:cntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sinh viên [cnttt](kienthuccancokhiratruongcntt:cntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sinh viên [công nghệ thông tin](kienthuccancokhiratruongcntt:cntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sinh viên [cong nghe thong tin](kienthuccancokhiratruongcntt:cntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sinh viên [công nghệ thong tin](kienthuccancokhiratruongcntt:cntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sinh viên [cong nghe thông tin](kienthuccancokhiratruongcntt:cntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sinh viên [IT](kienthuccancokhiratruongcntt:cntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sinh viên [công nghệ thông tin](kienthuccancokhiratruongcntt:cntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sinh viên [cong nghệ thông tin](kienthuccancokhiratruongcntt:cntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sinh viên [công nghệ thông tinn](kienthuccancokhiratruongcntt:cntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sinh viên [cn thong tin](kienthuccancokhiratruongcntt:cntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sinh viên [cn tt](kienthuccancokhiratruongcntt:cntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sinh viên [cn thông tin](kienthuccancokhiratruongcntt:cntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sinh viên [cogn nghệ thông tin](kienthuccancokhiratruongcntt:cntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sinh viên [công nghệ tt](kienthuccancokhiratruongcntt:cntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sinh viên [cong6 nghệ thong tin](kienthuccancokhiratruongcntt:cntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sinh viên [công nghệ thong tin](kienthuccancokhiratruongcntt:cntt) khi ra trường thì cần những kiến thức cơ bản nào
 - sv [cntt](kienthuccancokhiratruongcntt) khi ra trường thì cần những kiến thức cơ bản nào
-- sv [công nghệ thông tin](kienthuccancokhiratruongcntt:cntt) khi ra trường thì cần những kiến thức cơ bản nào
-- kiến thức cơ bản khi ra trường đối với ngành [khoa học máy tính](kienthuccancokhiratruongkhmt:khmt)
+- sv [cnttt](kienthuccancokhiratruongcntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sv [công nghệ thông tin](kienthuccancokhiratruongcntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sv [cong nghe thong tin](kienthuccancokhiratruongcntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sv [công nghệ thong tin](kienthuccancokhiratruongcntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sv [cong nghe thông tin](kienthuccancokhiratruongcntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sv [IT](kienthuccancokhiratruongcntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sv [công nghệ thông tin](kienthuccancokhiratruongcntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sv [cong nghệ thông tin](kienthuccancokhiratruongcntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sv [công nghệ thông tinn](kienthuccancokhiratruongcntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sv [cn thong tin](kienthuccancokhiratruongcntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sv [cn tt](kienthuccancokhiratruongcntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sv [cn thông tin](kienthuccancokhiratruongcntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sv [cogn nghệ thông tin](kienthuccancokhiratruongcntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sv [công nghệ tt](kienthuccancokhiratruongcntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sv [cong6 nghệ thong tin](kienthuccancokhiratruongcntt) khi ra trường thì cần những kiến thức cơ bản nào
+- sv [công nghệ thong tin](kienthuccancokhiratruongcntt) khi ra trường thì cần những kiến thức cơ bản nào
 - kiến thức cơ bản khi ra trường đối với ngành [khmt](kienthuccancokhiratruongkhmt)
-- ngành [khoa học máy tính](kienthuccancokhiratruongkhmt:khmt) ra trường thì cần những kiến thức cơ bản nào
+- kiến thức cơ bản khi ra trường đối với ngành [khtm](kienthuccancokhiratruongkhmt)
+- kiến thức cơ bản khi ra trường đối với ngành [khoa học máy tính](kienthuccancokhiratruongkhmt)
+- kiến thức cơ bản khi ra trường đối với ngành [khoa hoc may tinh](kienthuccancokhiratruongkhmt)
+- kiến thức cơ bản khi ra trường đối với ngành [cong nghe may tinh](kienthuccancokhiratruongkhmt)
+- kiến thức cơ bản khi ra trường đối với ngành [khao hoc may tinh](kienthuccancokhiratruongkhmt)
+- kiến thức cơ bản khi ra trường đối với ngành [khao học may tinh](kienthuccancokhiratruongkhmt)
+- kiến thức cơ bản khi ra trường đối với ngành [công nghệ máy tính](kienthuccancokhiratruongkhmt)
+- kiến thức cơ bản khi ra trường đối với ngành [khao học máy tinh](kienthuccancokhiratruongkhmt)
+- kiến thức cơ bản khi ra trường đối với ngành [khoa học may tinh](kienthuccancokhiratruongkhmt)
+- kiến thức cơ bản khi ra trường đối với ngành [CS](kienthuccancokhiratruongkhmt)
+- kiến thức cơ bản khi ra trường đối với ngành [kh máy tinh](kienthuccancokhiratruongkhmt)
+- kiến thức cơ bản khi ra trường đối với ngành [kh may tính](kienthuccancokhiratruongkhmt)
+- kiến thức cơ bản khi ra trường đối với ngành [kh máy tính](kienthuccancokhiratruongkhmt)
+- kiến thức cơ bản khi ra trường đối với ngành [kh máy tình](kienthuccancokhiratruongkhmt)
 - ngành [khmt](kienthuccancokhiratruongkhmt) ra trường thì cần những kiến thức cơ bản nào
-- kiến thức cơ bản khi ra trường đối với ngành [kỹ thuật phầm mềm](kienthuccancokhiratruongktpm:ktpm) 
+- ngành [khtm](kienthuccancokhiratruongkhmt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [khoa học máy tính](kienthuccancokhiratruongkhmt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [khoa hoc may tinh](kienthuccancokhiratruongkhmt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [cong nghe may tinh](kienthuccancokhiratruongkhmt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [khao hoc may tinh](kienthuccancokhiratruongkhmt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [khao học may tinh](kienthuccancokhiratruongkhmt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [công nghệ máy tính](kienthuccancokhiratruongkhmt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [khao học máy tinh](kienthuccancokhiratruongkhmt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [khoa học may tinh](kienthuccancokhiratruongkhmt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [CS](kienthuccancokhiratruongkhmt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [kh máy tinh](kienthuccancokhiratruongkhmt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [kh may tính](kienthuccancokhiratruongkhmt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [kh máy tính](kienthuccancokhiratruongkhmt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [kh máy tình](kienthuccancokhiratruongkhmt) ra trường thì cần những kiến thức cơ bản nào
 - kiến thức cơ bản khi ra trường đối với ngành [ktpm](kienthuccancokhiratruongktpm)
-- ngành [kỹ thuật phầm mềm](kienthuccancokhiratruongktpm:ktpm)  ra trường thì cần những kiến thức cơ bản nào
+- kiến thức cơ bản khi ra trường đối với ngành [ktpmm](kienthuccancokhiratruongktpm)
+- kiến thức cơ bản khi ra trường đối với ngành [kỹ thuật phần mềm](kienthuccancokhiratruongktpm)
+- kiến thức cơ bản khi ra trường đối với ngành [ky thuat phan mem](kienthuccancokhiratruongktpm)
+- kiến thức cơ bản khi ra trường đối với ngành [ki thuật phần mềm](kienthuccancokhiratruongktpm)
+- kiến thức cơ bản khi ra trường đối với ngành [kỹ thuat phần mềm](kienthuccancokhiratruongktpm)
+- kiến thức cơ bản khi ra trường đối với ngành [kỹ thuật phần mềm](kienthuccancokhiratruongktpm)
+- kiến thức cơ bản khi ra trường đối với ngành [cong nghệ phần mềm](kienthuccancokhiratruongktpm)
+- kiến thức cơ bản khi ra trường đối với ngành [công nghệ phần mềm](kienthuccancokhiratruongktpm)
+- kiến thức cơ bản khi ra trường đối với ngành [cong nghe phan mem](kienthuccancokhiratruongktpm)
+- kiến thức cơ bản khi ra trường đối với ngành [SE](kienthuccancokhiratruongktpm)
+- kiến thức cơ bản khi ra trường đối với ngành [kt phần mềm](kienthuccancokhiratruongktpm)
+- kiến thức cơ bản khi ra trường đối với ngành [kt phan mem](kienthuccancokhiratruongktpm)
+- kiến thức cơ bản khi ra trường đối với ngành [kỹ thuật phân mem](kienthuccancokhiratruongktpm)
+- kiến thức cơ bản khi ra trường đối với ngành [phan mem](kienthuccancokhiratruongktpm)
+- kiến thức cơ bản khi ra trường đối với ngành [phần mềm](kienthuccancokhiratruongktpm)
+- kiến thức cơ bản khi ra trường đối với ngành [kt pm](kienthuccancokhiratruongktpm)
 - ngành [ktpm](kienthuccancokhiratruongktpm) ra trường thì cần những kiến thức cơ bản nào
-- kiến thức cơ bản khi ra trường đối với ngành [công nghệ thông tin](kienthuccancokhiratruongcntt:cntt)
+- ngành [ktpmm](kienthuccancokhiratruongktpm) ra trường thì cần những kiến thức cơ bản nào
+- ngành [kỹ thuật phần mềm](kienthuccancokhiratruongktpm) ra trường thì cần những kiến thức cơ bản nào
+- ngành [ky thuat phan mem](kienthuccancokhiratruongktpm) ra trường thì cần những kiến thức cơ bản nào
+- ngành [ki thuật phần mềm](kienthuccancokhiratruongktpm) ra trường thì cần những kiến thức cơ bản nào
+- ngành [kỹ thuat phần mềm](kienthuccancokhiratruongktpm) ra trường thì cần những kiến thức cơ bản nào
+- ngành [kỹ thuật phần mềm](kienthuccancokhiratruongktpm) ra trường thì cần những kiến thức cơ bản nào
+- ngành [cong nghệ phần mềm](kienthuccancokhiratruongktpm) ra trường thì cần những kiến thức cơ bản nào
+- ngành [công nghệ phần mềm](kienthuccancokhiratruongktpm) ra trường thì cần những kiến thức cơ bản nào
+- ngành [cong nghe phan mem](kienthuccancokhiratruongktpm) ra trường thì cần những kiến thức cơ bản nào
+- ngành [SE](kienthuccancokhiratruongktpm) ra trường thì cần những kiến thức cơ bản nào
+- ngành [kt phần mềm](kienthuccancokhiratruongktpm) ra trường thì cần những kiến thức cơ bản nào
+- ngành [kt phan mem](kienthuccancokhiratruongktpm) ra trường thì cần những kiến thức cơ bản nào
+- ngành [kỹ thuật phân mem](kienthuccancokhiratruongktpm) ra trường thì cần những kiến thức cơ bản nào
+- ngành [phan mem](kienthuccancokhiratruongktpm) ra trường thì cần những kiến thức cơ bản nào
+- ngành [phần mềm](kienthuccancokhiratruongktpm) ra trường thì cần những kiến thức cơ bản nào
+- ngành [kt pm](kienthuccancokhiratruongktpm) ra trường thì cần những kiến thức cơ bản nào
 - kiến thức cơ bản khi ra trường đối với ngành [cntt](kienthuccancokhiratruongcntt)
-- ngành [công nghệ thông tin](kienthuccancokhiratruongcntt:cntt) ra trường thì cần những kiến thức cơ bản nào
+- kiến thức cơ bản khi ra trường đối với ngành [cnttt](kienthuccancokhiratruongcntt)
+- kiến thức cơ bản khi ra trường đối với ngành [công nghệ thông tin](kienthuccancokhiratruongcntt)
+- kiến thức cơ bản khi ra trường đối với ngành [cong nghe thong tin](kienthuccancokhiratruongcntt)
+- kiến thức cơ bản khi ra trường đối với ngành [công nghệ thong tin](kienthuccancokhiratruongcntt)
+- kiến thức cơ bản khi ra trường đối với ngành [cong nghe thông tin](kienthuccancokhiratruongcntt)
+- kiến thức cơ bản khi ra trường đối với ngành [IT](kienthuccancokhiratruongcntt)
+- kiến thức cơ bản khi ra trường đối với ngành [công nghệ thông tin](kienthuccancokhiratruongcntt)
+- kiến thức cơ bản khi ra trường đối với ngành [cong nghệ thông tin](kienthuccancokhiratruongcntt)
+- kiến thức cơ bản khi ra trường đối với ngành [công nghệ thông tinn](kienthuccancokhiratruongcntt)
+- kiến thức cơ bản khi ra trường đối với ngành [cn thong tin](kienthuccancokhiratruongcntt)
+- kiến thức cơ bản khi ra trường đối với ngành [cn tt](kienthuccancokhiratruongcntt)
+- kiến thức cơ bản khi ra trường đối với ngành [cn thông tin](kienthuccancokhiratruongcntt)
+- kiến thức cơ bản khi ra trường đối với ngành [cogn nghệ thông tin](kienthuccancokhiratruongcntt)
+- kiến thức cơ bản khi ra trường đối với ngành [công nghệ tt](kienthuccancokhiratruongcntt)
+- kiến thức cơ bản khi ra trường đối với ngành [cong6 nghệ thong tin](kienthuccancokhiratruongcntt)
+- kiến thức cơ bản khi ra trường đối với ngành [công nghệ thong tin](kienthuccancokhiratruongcntt)
 - ngành [cntt](kienthuccancokhiratruongcntt) ra trường thì cần những kiến thức cơ bản nào
-- kiến thức cơ bản khi ra trường đối với ngành [hệ thống thông tin](kienthuccancokhiratruonghttt:httt)
+- ngành [cnttt](kienthuccancokhiratruongcntt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [công nghệ thông tin](kienthuccancokhiratruongcntt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [cong nghe thong tin](kienthuccancokhiratruongcntt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [công nghệ thong tin](kienthuccancokhiratruongcntt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [cong nghe thông tin](kienthuccancokhiratruongcntt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [IT](kienthuccancokhiratruongcntt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [công nghệ thông tin](kienthuccancokhiratruongcntt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [cong nghệ thông tin](kienthuccancokhiratruongcntt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [công nghệ thông tinn](kienthuccancokhiratruongcntt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [cn thong tin](kienthuccancokhiratruongcntt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [cn tt](kienthuccancokhiratruongcntt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [cn thông tin](kienthuccancokhiratruongcntt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [cogn nghệ thông tin](kienthuccancokhiratruongcntt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [công nghệ tt](kienthuccancokhiratruongcntt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [cong6 nghệ thong tin](kienthuccancokhiratruongcntt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [công nghệ thong tin](kienthuccancokhiratruongcntt) ra trường thì cần những kiến thức cơ bản nào
 - kiến thức cơ bản khi ra trường đối với ngành [httt](kienthuccancokhiratruonghttt)
-- ngành [hệ thống thông tin](kienthuccancokhiratruonghttt:httt) ra trường thì cần những kiến thức cơ bản nào
+- kiến thức cơ bản khi ra trường đối với ngành [hhttt](kienthuccancokhiratruonghttt)
+- kiến thức cơ bản khi ra trường đối với ngành [IS](kienthuccancokhiratruonghttt)
+- kiến thức cơ bản khi ra trường đối với ngành [hệ thống thông tin](kienthuccancokhiratruonghttt)
+- kiến thức cơ bản khi ra trường đối với ngành [he thong thong tin](kienthuccancokhiratruonghttt)
+- kiến thức cơ bản khi ra trường đối với ngành [hệ thông thông tin](kienthuccancokhiratruonghttt)
+- kiến thức cơ bản khi ra trường đối với ngành [hê thong thông tin](kienthuccancokhiratruonghttt)
+- kiến thức cơ bản khi ra trường đối với ngành [hệ thống thông tin](kienthuccancokhiratruonghttt)
+- kiến thức cơ bản khi ra trường đối với ngành [hệ thống thông tín](kienthuccancokhiratruonghttt)
+- kiến thức cơ bản khi ra trường đối với ngành [he thống thông tinn](kienthuccancokhiratruonghttt)
+- kiến thức cơ bản khi ra trường đối với ngành [ht thông tin](kienthuccancokhiratruonghttt)
+- kiến thức cơ bản khi ra trường đối với ngành [hệ thống tt](kienthuccancokhiratruonghttt)
+- kiến thức cơ bản khi ra trường đối với ngành [he thống tt](kienthuccancokhiratruonghttt)
+- kiến thức cơ bản khi ra trường đối với ngành [ht thông tin](kienthuccancokhiratruonghttt)
+- kiến thức cơ bản khi ra trường đối với ngành [ht thong6 tin](kienthuccancokhiratruonghttt)
 - ngành [httt](kienthuccancokhiratruonghttt) ra trường thì cần những kiến thức cơ bản nào
-- kiến thức cơ bản khi ra trường đối với ngành [khoa học dữ liệu](kienthuccancokhiratruongkhdl:khdl)
+- ngành [hhttt](kienthuccancokhiratruonghttt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [IS](kienthuccancokhiratruonghttt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [hệ thống thông tin](kienthuccancokhiratruonghttt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [he thong thong tin](kienthuccancokhiratruonghttt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [hệ thông thông tin](kienthuccancokhiratruonghttt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [hê thong thông tin](kienthuccancokhiratruonghttt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [hệ thống thông tin](kienthuccancokhiratruonghttt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [hệ thống thông tín](kienthuccancokhiratruonghttt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [he thống thông tinn](kienthuccancokhiratruonghttt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [ht thông tin](kienthuccancokhiratruonghttt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [hệ thống tt](kienthuccancokhiratruonghttt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [he thống tt](kienthuccancokhiratruonghttt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [ht thông tin](kienthuccancokhiratruonghttt) ra trường thì cần những kiến thức cơ bản nào
+- ngành [ht thong6 tin](kienthuccancokhiratruonghttt) ra trường thì cần những kiến thức cơ bản nào
 - kiến thức cơ bản khi ra trường đối với ngành [khdl](kienthuccancokhiratruongkhdl)
-- ngành [khoa học dữ liệu](kienthuccancokhiratruongkhdl:khdl) ra trường thì cần những kiến thức cơ bản nào
+- kiến thức cơ bản khi ra trường đối với ngành [khdk](kienthuccancokhiratruongkhdl)
+- kiến thức cơ bản khi ra trường đối với ngành [khoa học dữ liệu](kienthuccancokhiratruongkhdl)
+- kiến thức cơ bản khi ra trường đối với ngành [khoa hoc du lieu](kienthuccancokhiratruongkhdl)
+- kiến thức cơ bản khi ra trường đối với ngành [khoa học du lieu](kienthuccancokhiratruongkhdl)
+- kiến thức cơ bản khi ra trường đối với ngành [khoa hoc du liệu](kienthuccancokhiratruongkhdl)
+- kiến thức cơ bản khi ra trường đối với ngành [khao học dữ leiu](kienthuccancokhiratruongkhdl)
+- kiến thức cơ bản khi ra trường đối với ngành [khao học du lieu](kienthuccancokhiratruongkhdl)
+- kiến thức cơ bản khi ra trường đối với ngành [khao học dữ leiu](kienthuccancokhiratruongkhdl)
+- kiến thức cơ bản khi ra trường đối với ngành [khoa học du lieuu](kienthuccancokhiratruongkhdl)
+- kiến thức cơ bản khi ra trường đối với ngành [kh dl](kienthuccancokhiratruongkhdl)
+- kiến thức cơ bản khi ra trường đối với ngành [kh dữ liệu](kienthuccancokhiratruongkhdl)
+- kiến thức cơ bản khi ra trường đối với ngành [khoa hoc dữ liệu](kienthuccancokhiratruongkhdl)
+- kiến thức cơ bản khi ra trường đối với ngành [khoa học dl](kienthuccancokhiratruongkhdl)
 - ngành [khdl](kienthuccancokhiratruongkhdl) ra trường thì cần những kiến thức cơ bản nào
-
+- ngành [khdk](kienthuccancokhiratruongkhdl) ra trường thì cần những kiến thức cơ bản nào
+- ngành [khoa học dữ liệu](kienthuccancokhiratruongkhdl) ra trường thì cần những kiến thức cơ bản nào
+- ngành [khoa hoc du lieu](kienthuccancokhiratruongkhdl) ra trường thì cần những kiến thức cơ bản nào
+- ngành [khoa học du lieu](kienthuccancokhiratruongkhdl) ra trường thì cần những kiến thức cơ bản nào
+- ngành [khoa hoc du liệu](kienthuccancokhiratruongkhdl) ra trường thì cần những kiến thức cơ bản nào
+- ngành [khao học dữ leiu](kienthuccancokhiratruongkhdl) ra trường thì cần những kiến thức cơ bản nào
+- ngành [khao học du lieu](kienthuccancokhiratruongkhdl) ra trường thì cần những kiến thức cơ bản nào
+- ngành [khao học dữ leiu](kienthuccancokhiratruongkhdl) ra trường thì cần những kiến thức cơ bản nào
+- ngành [khoa học du lieuu](kienthuccancokhiratruongkhdl) ra trường thì cần những kiến thức cơ bản nào
+- ngành [kh dl](kienthuccancokhiratruongkhdl) ra trường thì cần những kiến thức cơ bản nào
+- ngành [kh dữ liệu](kienthuccancokhiratruongkhdl) ra trường thì cần những kiến thức cơ bản nào
+- ngành [khoa hoc dữ liệu](kienthuccancokhiratruongkhdl) ra trường thì cần những kiến thức cơ bản nào
+- ngành [khoa học dl](kienthuccancokhiratruongkhdl) ra trường thì cần những kiến thức cơ bản nào
 ## intent: luong
-- Lương của ngành [khmt](luongkhmt) khi ra trường là bao nhiêu 
-- Mới ra trường thì lương ngành [khoa học máy tính](luongkhmt:khmt) là bao nhiêu
+- Lương của ngành [khmt](luongkhmt) khi ra trường là bao nhiêu
+- Lương của ngành [khtm](luongkhmt) khi ra trường là bao nhiêu
+- Lương của ngành [khoa học máy tính](luongkhmt) khi ra trường là bao nhiêu
+- Lương của ngành [khoa hoc may tinh](luongkhmt) khi ra trường là bao nhiêu
+- Lương của ngành [cong nghe may tinh](luongkhmt) khi ra trường là bao nhiêu
+- Lương của ngành [khao hoc may tinh](luongkhmt) khi ra trường là bao nhiêu
+- Lương của ngành [khao học may tinh](luongkhmt) khi ra trường là bao nhiêu
+- Lương của ngành [công nghệ máy tính](luongkhmt) khi ra trường là bao nhiêu
+- Lương của ngành [khao học máy tinh](luongkhmt) khi ra trường là bao nhiêu
+- Lương của ngành [khoa học may tinh](luongkhmt) khi ra trường là bao nhiêu
+- Lương của ngành [CS](luongkhmt) khi ra trường là bao nhiêu
+- Lương của ngành [kh máy tinh](luongkhmt) khi ra trường là bao nhiêu
+- Lương của ngành [kh may tính](luongkhmt) khi ra trường là bao nhiêu
+- Lương của ngành [kh máy tính](luongkhmt) khi ra trường là bao nhiêu
+- Lương của ngành [kh máy tình](luongkhmt) khi ra trường là bao nhiêu
 - Lương của ngành [khmt](luongkhmt)
-- Sinh viên ra trường  ngành [khoa học máy tính](luongkhmt:khmt) thì lương là bao nhiêu
+- Lương của ngành [khtm](luongkhmt)
+- Lương của ngành [khoa học máy tính](luongkhmt)
+- Lương của ngành [khoa hoc may tinh](luongkhmt)
+- Lương của ngành [cong nghe may tinh](luongkhmt)
+- Lương của ngành [khao hoc may tinh](luongkhmt)
+- Lương của ngành [khao học may tinh](luongkhmt)
+- Lương của ngành [công nghệ máy tính](luongkhmt)
+- Lương của ngành [khao học máy tinh](luongkhmt)
+- Lương của ngành [khoa học may tinh](luongkhmt)
+- Lương của ngành [CS](luongkhmt)
+- Lương của ngành [kh máy tinh](luongkhmt)
+- Lương của ngành [kh may tính](luongkhmt)
+- Lương của ngành [kh máy tính](luongkhmt)
+- Lương của ngành [kh máy tình](luongkhmt)
 -  học [khmt](luongkhmt) lương là bao nhiêu
-- ngành [khoa học máy tính](luongkhmt:khmt) khi ra trường thì lương là bao nhiêu
+-  học [khtm](luongkhmt) lương là bao nhiêu
+-  học [khoa học máy tính](luongkhmt) lương là bao nhiêu
+-  học [khoa hoc may tinh](luongkhmt) lương là bao nhiêu
+-  học [cong nghe may tinh](luongkhmt) lương là bao nhiêu
+-  học [khao hoc may tinh](luongkhmt) lương là bao nhiêu
+-  học [khao học may tinh](luongkhmt) lương là bao nhiêu
+-  học [công nghệ máy tính](luongkhmt) lương là bao nhiêu
+-  học [khao học máy tinh](luongkhmt) lương là bao nhiêu
+-  học [khoa học may tinh](luongkhmt) lương là bao nhiêu
+-  học [CS](luongkhmt) lương là bao nhiêu
+-  học [kh máy tinh](luongkhmt) lương là bao nhiêu
+-  học [kh may tính](luongkhmt) lương là bao nhiêu
+-  học [kh máy tính](luongkhmt) lương là bao nhiêu
+-  học [kh máy tình](luongkhmt) lương là bao nhiêu
 - Lương của ngành [ktpm](luongktpm) khi ra trường là bao nhiêu
-- Mới ra trường thì lương ngành [kỹ thuật phần mềm](luongktpm:ktpm) là bao nhiêu
+- Lương của ngành [ktpmm](luongktpm) khi ra trường là bao nhiêu
+- Lương của ngành [kỹ thuật phần mềm](luongktpm) khi ra trường là bao nhiêu
+- Lương của ngành [ky thuat phan mem](luongktpm) khi ra trường là bao nhiêu
+- Lương của ngành [ki thuật phần mềm](luongktpm) khi ra trường là bao nhiêu
+- Lương của ngành [kỹ thuat phần mềm](luongktpm) khi ra trường là bao nhiêu
+- Lương của ngành [kỹ thuật phần mềm](luongktpm) khi ra trường là bao nhiêu
+- Lương của ngành [cong nghệ phần mềm](luongktpm) khi ra trường là bao nhiêu
+- Lương của ngành [công nghệ phần mềm](luongktpm) khi ra trường là bao nhiêu
+- Lương của ngành [cong nghe phan mem](luongktpm) khi ra trường là bao nhiêu
+- Lương của ngành [SE](luongktpm) khi ra trường là bao nhiêu
+- Lương của ngành [kt phần mềm](luongktpm) khi ra trường là bao nhiêu
+- Lương của ngành [kt phan mem](luongktpm) khi ra trường là bao nhiêu
+- Lương của ngành [kỹ thuật phân mem](luongktpm) khi ra trường là bao nhiêu
+- Lương của ngành [phan mem](luongktpm) khi ra trường là bao nhiêu
+- Lương của ngành [phần mềm](luongktpm) khi ra trường là bao nhiêu
+- Lương của ngành [kt pm](luongktpm) khi ra trường là bao nhiêu
 - Lương của ngành [ktpm](luongktpm)
-- Sinh viên ra trường ngành [kỹ thuật phầm mềm](luongktpm:ktpm) thì lương là bao nhiêu
-- ngành [kỹ thuật phầm mềm](luongktpm:ktpm) khi ra trường thì lương là bao nhiêu
+- Lương của ngành [ktpmm](luongktpm)
+- Lương của ngành [kỹ thuật phần mềm](luongktpm)
+- Lương của ngành [ky thuat phan mem](luongktpm)
+- Lương của ngành [ki thuật phần mềm](luongktpm)
+- Lương của ngành [kỹ thuat phần mềm](luongktpm)
+- Lương của ngành [kỹ thuật phần mềm](luongktpm)
+- Lương của ngành [cong nghệ phần mềm](luongktpm)
+- Lương của ngành [công nghệ phần mềm](luongktpm)
+- Lương của ngành [cong nghe phan mem](luongktpm)
+- Lương của ngành [SE](luongktpm)
+- Lương của ngành [kt phần mềm](luongktpm)
+- Lương của ngành [kt phan mem](luongktpm)
+- Lương của ngành [kỹ thuật phân mem](luongktpm)
+- Lương của ngành [phan mem](luongktpm)
+- Lương của ngành [phần mềm](luongktpm)
+- Lương của ngành [kt pm](luongktpm)
 - học [ktpm](luongktpm) lương là bao nhiêu
-- Lương của ngành [cntt](luongcntt) khi ra trường là bao nhiêu 
-- Mới ra trường thì lương ngành [công nghệ thông tin](luongcntt:cntt) là bao nhiêu
+- học [ktpmm](luongktpm) lương là bao nhiêu
+- học [kỹ thuật phần mềm](luongktpm) lương là bao nhiêu
+- học [ky thuat phan mem](luongktpm) lương là bao nhiêu
+- học [ki thuật phần mềm](luongktpm) lương là bao nhiêu
+- học [kỹ thuat phần mềm](luongktpm) lương là bao nhiêu
+- học [kỹ thuật phần mềm](luongktpm) lương là bao nhiêu
+- học [cong nghệ phần mềm](luongktpm) lương là bao nhiêu
+- học [công nghệ phần mềm](luongktpm) lương là bao nhiêu
+- học [cong nghe phan mem](luongktpm) lương là bao nhiêu
+- học [SE](luongktpm) lương là bao nhiêu
+- học [kt phần mềm](luongktpm) lương là bao nhiêu
+- học [kt phan mem](luongktpm) lương là bao nhiêu
+- học [kỹ thuật phân mem](luongktpm) lương là bao nhiêu
+- học [phan mem](luongktpm) lương là bao nhiêu
+- học [phần mềm](luongktpm) lương là bao nhiêu
+- học [kt pm](luongktpm) lương là bao nhiêu
+- Lương của ngành [cntt](luongcntt) khi ra trường là bao nhiêu
+- Lương của ngành [cnttt](luongcntt) khi ra trường là bao nhiêu
+- Lương của ngành [công nghệ thông tin](luongcntt) khi ra trường là bao nhiêu
+- Lương của ngành [cong nghe thong tin](luongcntt) khi ra trường là bao nhiêu
+- Lương của ngành [công nghệ thong tin](luongcntt) khi ra trường là bao nhiêu
+- Lương của ngành [cong nghe thông tin](luongcntt) khi ra trường là bao nhiêu
+- Lương của ngành [IT](luongcntt) khi ra trường là bao nhiêu
+- Lương của ngành [công nghệ thông tin](luongcntt) khi ra trường là bao nhiêu
+- Lương của ngành [cong nghệ thông tin](luongcntt) khi ra trường là bao nhiêu
+- Lương của ngành [công nghệ thông tinn](luongcntt) khi ra trường là bao nhiêu
+- Lương của ngành [cn thong tin](luongcntt) khi ra trường là bao nhiêu
+- Lương của ngành [cn tt](luongcntt) khi ra trường là bao nhiêu
+- Lương của ngành [cn thông tin](luongcntt) khi ra trường là bao nhiêu
+- Lương của ngành [cogn nghệ thông tin](luongcntt) khi ra trường là bao nhiêu
+- Lương của ngành [công nghệ tt](luongcntt) khi ra trường là bao nhiêu
+- Lương của ngành [cong6 nghệ thong tin](luongcntt) khi ra trường là bao nhiêu
+- Lương của ngành [công nghệ thong tin](luongcntt) khi ra trường là bao nhiêu
 - Lương của ngành [cntt](luongcntt)
-- Sinh viên ra trường ngành [công nghệ thông tin](luongcntt:cntt) thì lương là bao nhiêu
-- ngành [công nghệ thông tin](luongcntt:cntt) khi ra trường thì lương là bao nhiêu
+- Lương của ngành [cnttt](luongcntt)
+- Lương của ngành [công nghệ thông tin](luongcntt)
+- Lương của ngành [cong nghe thong tin](luongcntt)
+- Lương của ngành [công nghệ thong tin](luongcntt)
+- Lương của ngành [cong nghe thông tin](luongcntt)
+- Lương của ngành [IT](luongcntt)
+- Lương của ngành [công nghệ thông tin](luongcntt)
+- Lương của ngành [cong nghệ thông tin](luongcntt)
+- Lương của ngành [công nghệ thông tinn](luongcntt)
+- Lương của ngành [cn thong tin](luongcntt)
+- Lương của ngành [cn tt](luongcntt)
+- Lương của ngành [cn thông tin](luongcntt)
+- Lương của ngành [cogn nghệ thông tin](luongcntt)
+- Lương của ngành [công nghệ tt](luongcntt)
+- Lương của ngành [cong6 nghệ thong tin](luongcntt)
+- Lương của ngành [công nghệ thong tin](luongcntt)
 - học [cntt](luongcntt) lương là bao nhiêu
-- Lương của ngành [httt](luonghttt) khi ra trường là bao nhiêu 
-- Mới ra trường thì lương ngành [hệ thống thông tin](luonghttt:httt) là bao nhiêu
+- học [cnttt](luongcntt) lương là bao nhiêu
+- học [công nghệ thông tin](luongcntt) lương là bao nhiêu
+- học [cong nghe thong tin](luongcntt) lương là bao nhiêu
+- học [công nghệ thong tin](luongcntt) lương là bao nhiêu
+- học [cong nghe thông tin](luongcntt) lương là bao nhiêu
+- học [IT](luongcntt) lương là bao nhiêu
+- học [công nghệ thông tin](luongcntt) lương là bao nhiêu
+- học [cong nghệ thông tin](luongcntt) lương là bao nhiêu
+- học [công nghệ thông tinn](luongcntt) lương là bao nhiêu
+- học [cn thong tin](luongcntt) lương là bao nhiêu
+- học [cn tt](luongcntt) lương là bao nhiêu
+- học [cn thông tin](luongcntt) lương là bao nhiêu
+- học [cogn nghệ thông tin](luongcntt) lương là bao nhiêu
+- học [công nghệ tt](luongcntt) lương là bao nhiêu
+- học [cong6 nghệ thong tin](luongcntt) lương là bao nhiêu
+- học [công nghệ thong tin](luongcntt) lương là bao nhiêu
+- Lương của ngành [httt](luonghttt) khi ra trường là bao nhiêu
+- Lương của ngành [hhttt](luonghttt) khi ra trường là bao nhiêu
+- Lương của ngành [IS](luonghttt) khi ra trường là bao nhiêu
+- Lương của ngành [hệ thống thông tin](luonghttt) khi ra trường là bao nhiêu
+- Lương của ngành [he thong thong tin](luonghttt) khi ra trường là bao nhiêu
+- Lương của ngành [hệ thông thông tin](luonghttt) khi ra trường là bao nhiêu
+- Lương của ngành [hê thong thông tin](luonghttt) khi ra trường là bao nhiêu
+- Lương của ngành [hệ thống thông tin](luonghttt) khi ra trường là bao nhiêu
+- Lương của ngành [hệ thống thông tín](luonghttt) khi ra trường là bao nhiêu
+- Lương của ngành [he thống thông tinn](luonghttt) khi ra trường là bao nhiêu
+- Lương của ngành [ht thông tin](luonghttt) khi ra trường là bao nhiêu
+- Lương của ngành [hệ thống tt](luonghttt) khi ra trường là bao nhiêu
+- Lương của ngành [he thống tt](luonghttt) khi ra trường là bao nhiêu
+- Lương của ngành [ht thông tin](luonghttt) khi ra trường là bao nhiêu
+- Lương của ngành [ht thong6 tin](luonghttt) khi ra trường là bao nhiêu
 - Lương của ngành [httt](luonghttt)
-- Sinh viên ra trường ngành [hệ thống thông tin](luonghttt:httt) thì lương là bao nhiêu
-- ngành [hệ thống thông tin](luonghttt:httt) khi ra trường thì lương là bao nhiêu
+- Lương của ngành [hhttt](luonghttt)
+- Lương của ngành [IS](luonghttt)
+- Lương của ngành [hệ thống thông tin](luonghttt)
+- Lương của ngành [he thong thong tin](luonghttt)
+- Lương của ngành [hệ thông thông tin](luonghttt)
+- Lương của ngành [hê thong thông tin](luonghttt)
+- Lương của ngành [hệ thống thông tin](luonghttt)
+- Lương của ngành [hệ thống thông tín](luonghttt)
+- Lương của ngành [he thống thông tinn](luonghttt)
+- Lương của ngành [ht thông tin](luonghttt)
+- Lương của ngành [hệ thống tt](luonghttt)
+- Lương của ngành [he thống tt](luonghttt)
+- Lương của ngành [ht thông tin](luonghttt)
+- Lương của ngành [ht thong6 tin](luonghttt)
 - học [httt](luonghttt) lương là bao nhiêu
-- Lương của ngành [khdl](luongkhdl) khi ra trường là bao nhiêu 
-- Mới ra trường thì lương ngành [khoa học dữ liệu](luongkhdl:khdl) là bao nhiêu
+- học [hhttt](luonghttt) lương là bao nhiêu
+- học [IS](luonghttt) lương là bao nhiêu
+- học [hệ thống thông tin](luonghttt) lương là bao nhiêu
+- học [he thong thong tin](luonghttt) lương là bao nhiêu
+- học [hệ thông thông tin](luonghttt) lương là bao nhiêu
+- học [hê thong thông tin](luonghttt) lương là bao nhiêu
+- học [hệ thống thông tin](luonghttt) lương là bao nhiêu
+- học [hệ thống thông tín](luonghttt) lương là bao nhiêu
+- học [he thống thông tinn](luonghttt) lương là bao nhiêu
+- học [ht thông tin](luonghttt) lương là bao nhiêu
+- học [hệ thống tt](luonghttt) lương là bao nhiêu
+- học [he thống tt](luonghttt) lương là bao nhiêu
+- học [ht thông tin](luonghttt) lương là bao nhiêu
+- học [ht thong6 tin](luonghttt) lương là bao nhiêu
+- Lương của ngành [khdl](luongkhdl) khi ra trường là bao nhiêu
+- Lương của ngành [khdk](luongkhdl) khi ra trường là bao nhiêu
+- Lương của ngành [khoa học dữ liệu](luongkhdl) khi ra trường là bao nhiêu
+- Lương của ngành [khoa hoc du lieu](luongkhdl) khi ra trường là bao nhiêu
+- Lương của ngành [khoa học du lieu](luongkhdl) khi ra trường là bao nhiêu
+- Lương của ngành [khoa hoc du liệu](luongkhdl) khi ra trường là bao nhiêu
+- Lương của ngành [khao học dữ leiu](luongkhdl) khi ra trường là bao nhiêu
+- Lương của ngành [khao học du lieu](luongkhdl) khi ra trường là bao nhiêu
+- Lương của ngành [khao học dữ leiu](luongkhdl) khi ra trường là bao nhiêu
+- Lương của ngành [khoa học du lieuu](luongkhdl) khi ra trường là bao nhiêu
+- Lương của ngành [kh dl](luongkhdl) khi ra trường là bao nhiêu
+- Lương của ngành [kh dữ liệu](luongkhdl) khi ra trường là bao nhiêu
+- Lương của ngành [khoa hoc dữ liệu](luongkhdl) khi ra trường là bao nhiêu
+- Lương của ngành [khoa học dl](luongkhdl) khi ra trường là bao nhiêu
 - Lương của ngành [khdl](luongkhdl)
-- Sinh viên ra trường ngành [khoa học dữ liệu](luongkhdl:khdl) thì lương là bao nhiêu
-- ngành [khoa học dữ liệu](luongkhdl:khdl) khi ra trường thì lương là bao nhiêu
+- Lương của ngành [khdk](luongkhdl)
+- Lương của ngành [khoa học dữ liệu](luongkhdl)
+- Lương của ngành [khoa hoc du lieu](luongkhdl)
+- Lương của ngành [khoa học du lieu](luongkhdl)
+- Lương của ngành [khoa hoc du liệu](luongkhdl)
+- Lương của ngành [khao học dữ leiu](luongkhdl)
+- Lương của ngành [khao học du lieu](luongkhdl)
+- Lương của ngành [khao học dữ leiu](luongkhdl)
+- Lương của ngành [khoa học du lieuu](luongkhdl)
+- Lương của ngành [kh dl](luongkhdl)
+- Lương của ngành [kh dữ liệu](luongkhdl)
+- Lương của ngành [khoa hoc dữ liệu](luongkhdl)
+- Lương của ngành [khoa học dl](luongkhdl)
 - học [khdl](luongkhdl) lương là bao nhiêu
-
+- học [khdk](luongkhdl) lương là bao nhiêu
+- học [khoa học dữ liệu](luongkhdl) lương là bao nhiêu
+- học [khoa hoc du lieu](luongkhdl) lương là bao nhiêu
+- học [khoa học du lieu](luongkhdl) lương là bao nhiêu
+- học [khoa hoc du liệu](luongkhdl) lương là bao nhiêu
+- học [khao học dữ leiu](luongkhdl) lương là bao nhiêu
+- học [khao học du lieu](luongkhdl) lương là bao nhiêu
+- học [khao học dữ leiu](luongkhdl) lương là bao nhiêu
+- học [khoa học du lieuu](luongkhdl) lương là bao nhiêu
+- học [kh dl](luongkhdl) lương là bao nhiêu
+- học [kh dữ liệu](luongkhdl) lương là bao nhiêu
+- học [khoa hoc dữ liệu](luongkhdl) lương là bao nhiêu
+- học [khoa học dl](luongkhdl) lương là bao nhiêu
 ## intent: vieclam
 - cơ hội việc làm như thế nào của [khmt](vieclamkhmt)
-- cơ hội việc làm như thế nào của [khoa học máy tính](vieclamkhmt:khmt)
+- cơ hội việc làm như thế nào của [khtm](vieclamkhmt)
+- cơ hội việc làm như thế nào của [khoa học máy tính](vieclamkhmt)
+- cơ hội việc làm như thế nào của [khoa hoc may tinh](vieclamkhmt)
+- cơ hội việc làm như thế nào của [cong nghe may tinh](vieclamkhmt)
+- cơ hội việc làm như thế nào của [khao hoc may tinh](vieclamkhmt)
+- cơ hội việc làm như thế nào của [khao học may tinh](vieclamkhmt)
+- cơ hội việc làm như thế nào của [công nghệ máy tính](vieclamkhmt)
+- cơ hội việc làm như thế nào của [khao học máy tinh](vieclamkhmt)
+- cơ hội việc làm như thế nào của [khoa học may tinh](vieclamkhmt)
+- cơ hội việc làm như thế nào của [CS](vieclamkhmt)
+- cơ hội việc làm như thế nào của [kh máy tinh](vieclamkhmt)
+- cơ hội việc làm như thế nào của [kh may tính](vieclamkhmt)
+- cơ hội việc làm như thế nào của [kh máy tính](vieclamkhmt)
+- cơ hội việc làm như thế nào của [kh máy tình](vieclamkhmt)
 - [khmt](vieclamkhmt) ra trường việc làm có ổn định không
-- [khoa học máy tính](vieclamkhmt:khmt) ra trường việc làm có ổn định không
+- [khtm](vieclamkhmt) ra trường việc làm có ổn định không
+- [khoa học máy tính](vieclamkhmt) ra trường việc làm có ổn định không
+- [khoa hoc may tinh](vieclamkhmt) ra trường việc làm có ổn định không
+- [cong nghe may tinh](vieclamkhmt) ra trường việc làm có ổn định không
+- [khao hoc may tinh](vieclamkhmt) ra trường việc làm có ổn định không
+- [khao học may tinh](vieclamkhmt) ra trường việc làm có ổn định không
+- [công nghệ máy tính](vieclamkhmt) ra trường việc làm có ổn định không
+- [khao học máy tinh](vieclamkhmt) ra trường việc làm có ổn định không
+- [khoa học may tinh](vieclamkhmt) ra trường việc làm có ổn định không
+- [CS](vieclamkhmt) ra trường việc làm có ổn định không
+- [kh máy tinh](vieclamkhmt) ra trường việc làm có ổn định không
+- [kh may tính](vieclamkhmt) ra trường việc làm có ổn định không
+- [kh máy tính](vieclamkhmt) ra trường việc làm có ổn định không
+- [kh máy tình](vieclamkhmt) ra trường việc làm có ổn định không
 - làm gì khi học [khmt](vieclamkhmt)
-- làm gì khi học [khoa học máy tính](vieclamkhmt:khmt)
-- việc làm như thế nào khi học xong [khoa học máy tính](vieclamkhmt:khmt)
+- làm gì khi học [khtm](vieclamkhmt)
+- làm gì khi học [khoa học máy tính](vieclamkhmt)
+- làm gì khi học [khoa hoc may tinh](vieclamkhmt)
+- làm gì khi học [cong nghe may tinh](vieclamkhmt)
+- làm gì khi học [khao hoc may tinh](vieclamkhmt)
+- làm gì khi học [khao học may tinh](vieclamkhmt)
+- làm gì khi học [công nghệ máy tính](vieclamkhmt)
+- làm gì khi học [khao học máy tinh](vieclamkhmt)
+- làm gì khi học [khoa học may tinh](vieclamkhmt)
+- làm gì khi học [CS](vieclamkhmt)
+- làm gì khi học [kh máy tinh](vieclamkhmt)
+- làm gì khi học [kh may tính](vieclamkhmt)
+- làm gì khi học [kh máy tính](vieclamkhmt)
+- làm gì khi học [kh máy tình](vieclamkhmt)
 - việc làm như thế nào khi học xong [khmt](vieclamkhmt)
+- việc làm như thế nào khi học xong [khtm](vieclamkhmt)
+- việc làm như thế nào khi học xong [khoa học máy tính](vieclamkhmt)
+- việc làm như thế nào khi học xong [khoa hoc may tinh](vieclamkhmt)
+- việc làm như thế nào khi học xong [cong nghe may tinh](vieclamkhmt)
+- việc làm như thế nào khi học xong [khao hoc may tinh](vieclamkhmt)
+- việc làm như thế nào khi học xong [khao học may tinh](vieclamkhmt)
+- việc làm như thế nào khi học xong [công nghệ máy tính](vieclamkhmt)
+- việc làm như thế nào khi học xong [khao học máy tinh](vieclamkhmt)
+- việc làm như thế nào khi học xong [khoa học may tinh](vieclamkhmt)
+- việc làm như thế nào khi học xong [CS](vieclamkhmt)
+- việc làm như thế nào khi học xong [kh máy tinh](vieclamkhmt)
+- việc làm như thế nào khi học xong [kh may tính](vieclamkhmt)
+- việc làm như thế nào khi học xong [kh máy tính](vieclamkhmt)
+- việc làm như thế nào khi học xong [kh máy tình](vieclamkhmt)
 - công việc thường có của ngành [khmt](vieclamkhmt)
-- công việc thường có của ngành [khoa học máy tính](vieclamkhmt:khmt)
+- công việc thường có của ngành [khtm](vieclamkhmt)
+- công việc thường có của ngành [khoa học máy tính](vieclamkhmt)
+- công việc thường có của ngành [khoa hoc may tinh](vieclamkhmt)
+- công việc thường có của ngành [cong nghe may tinh](vieclamkhmt)
+- công việc thường có của ngành [khao hoc may tinh](vieclamkhmt)
+- công việc thường có của ngành [khao học may tinh](vieclamkhmt)
+- công việc thường có của ngành [công nghệ máy tính](vieclamkhmt)
+- công việc thường có của ngành [khao học máy tinh](vieclamkhmt)
+- công việc thường có của ngành [khoa học may tinh](vieclamkhmt)
+- công việc thường có của ngành [CS](vieclamkhmt)
+- công việc thường có của ngành [kh máy tinh](vieclamkhmt)
+- công việc thường có của ngành [kh may tính](vieclamkhmt)
+- công việc thường có của ngành [kh máy tính](vieclamkhmt)
+- công việc thường có của ngành [kh máy tình](vieclamkhmt)
 - học [khmt](vieclamkhmt) ra trường có dễ kiếm việc làm không
-- học [khoa học máy tính](vieclamkhmt:khmt) ra trường làm công việc gì
+- học [khtm](vieclamkhmt) ra trường có dễ kiếm việc làm không
+- học [khoa học máy tính](vieclamkhmt) ra trường có dễ kiếm việc làm không
+- học [khoa hoc may tinh](vieclamkhmt) ra trường có dễ kiếm việc làm không
+- học [cong nghe may tinh](vieclamkhmt) ra trường có dễ kiếm việc làm không
+- học [khao hoc may tinh](vieclamkhmt) ra trường có dễ kiếm việc làm không
+- học [khao học may tinh](vieclamkhmt) ra trường có dễ kiếm việc làm không
+- học [công nghệ máy tính](vieclamkhmt) ra trường có dễ kiếm việc làm không
+- học [khao học máy tinh](vieclamkhmt) ra trường có dễ kiếm việc làm không
+- học [khoa học may tinh](vieclamkhmt) ra trường có dễ kiếm việc làm không
+- học [CS](vieclamkhmt) ra trường có dễ kiếm việc làm không
+- học [kh máy tinh](vieclamkhmt) ra trường có dễ kiếm việc làm không
+- học [kh may tính](vieclamkhmt) ra trường có dễ kiếm việc làm không
+- học [kh máy tính](vieclamkhmt) ra trường có dễ kiếm việc làm không
+- học [kh máy tình](vieclamkhmt) ra trường có dễ kiếm việc làm không
 - cơ hội việc làm như thế nào của [ktpm](vieclamktpm)
-- cơ hội việc làm như thế nào của [kỹ thuật phầm mềm](vieclamktpm:ktpm)
+- cơ hội việc làm như thế nào của [ktpmm](vieclamktpm)
+- cơ hội việc làm như thế nào của [kỹ thuật phần mềm](vieclamktpm)
+- cơ hội việc làm như thế nào của [ky thuat phan mem](vieclamktpm)
+- cơ hội việc làm như thế nào của [ki thuật phần mềm](vieclamktpm)
+- cơ hội việc làm như thế nào của [kỹ thuat phần mềm](vieclamktpm)
+- cơ hội việc làm như thế nào của [kỹ thuật phần mềm](vieclamktpm)
+- cơ hội việc làm như thế nào của [cong nghệ phần mềm](vieclamktpm)
+- cơ hội việc làm như thế nào của [công nghệ phần mềm](vieclamktpm)
+- cơ hội việc làm như thế nào của [cong nghe phan mem](vieclamktpm)
+- cơ hội việc làm như thế nào của [SE](vieclamktpm)
+- cơ hội việc làm như thế nào của [kt phần mềm](vieclamktpm)
+- cơ hội việc làm như thế nào của [kt phan mem](vieclamktpm)
+- cơ hội việc làm như thế nào của [kỹ thuật phân mem](vieclamktpm)
+- cơ hội việc làm như thế nào của [phan mem](vieclamktpm)
+- cơ hội việc làm như thế nào của [phần mềm](vieclamktpm)
+- cơ hội việc làm như thế nào của [kt pm](vieclamktpm)
 - [ktpm](vieclamktpm) ra trường việc làm có ổn định không
-- [kỹ thuật phầm mềm](vieclamktpm:ktpm) ra trường việc làm có ổn định không
+- [ktpmm](vieclamktpm) ra trường việc làm có ổn định không
+- [kỹ thuật phần mềm](vieclamktpm) ra trường việc làm có ổn định không
+- [ky thuat phan mem](vieclamktpm) ra trường việc làm có ổn định không
+- [ki thuật phần mềm](vieclamktpm) ra trường việc làm có ổn định không
+- [kỹ thuat phần mềm](vieclamktpm) ra trường việc làm có ổn định không
+- [kỹ thuật phần mềm](vieclamktpm) ra trường việc làm có ổn định không
+- [cong nghệ phần mềm](vieclamktpm) ra trường việc làm có ổn định không
+- [công nghệ phần mềm](vieclamktpm) ra trường việc làm có ổn định không
+- [cong nghe phan mem](vieclamktpm) ra trường việc làm có ổn định không
+- [SE](vieclamktpm) ra trường việc làm có ổn định không
+- [kt phần mềm](vieclamktpm) ra trường việc làm có ổn định không
+- [kt phan mem](vieclamktpm) ra trường việc làm có ổn định không
+- [kỹ thuật phân mem](vieclamktpm) ra trường việc làm có ổn định không
+- [phan mem](vieclamktpm) ra trường việc làm có ổn định không
+- [phần mềm](vieclamktpm) ra trường việc làm có ổn định không
+- [kt pm](vieclamktpm) ra trường việc làm có ổn định không
 - làm gì khi học [ktpm](vieclamktpm)
-- làm gì khi học [kỹ thuật phầm mềm](vieclamktpm:ktpm)
+- làm gì khi học [ktpmm](vieclamktpm)
+- làm gì khi học [kỹ thuật phần mềm](vieclamktpm)
+- làm gì khi học [ky thuat phan mem](vieclamktpm)
+- làm gì khi học [ki thuật phần mềm](vieclamktpm)
+- làm gì khi học [kỹ thuat phần mềm](vieclamktpm)
+- làm gì khi học [kỹ thuật phần mềm](vieclamktpm)
+- làm gì khi học [cong nghệ phần mềm](vieclamktpm)
+- làm gì khi học [công nghệ phần mềm](vieclamktpm)
+- làm gì khi học [cong nghe phan mem](vieclamktpm)
+- làm gì khi học [SE](vieclamktpm)
+- làm gì khi học [kt phần mềm](vieclamktpm)
+- làm gì khi học [kt phan mem](vieclamktpm)
+- làm gì khi học [kỹ thuật phân mem](vieclamktpm)
+- làm gì khi học [phan mem](vieclamktpm)
+- làm gì khi học [phần mềm](vieclamktpm)
+- làm gì khi học [kt pm](vieclamktpm)
 - việc làm như thế nào khi học xong [ktpm](vieclamktpm)
-- việc làm như thế nào khi học xong [kỹ thuật phần mềm](vieclamktpm:ktpm)
+- việc làm như thế nào khi học xong [ktpmm](vieclamktpm)
+- việc làm như thế nào khi học xong [kỹ thuật phần mềm](vieclamktpm)
+- việc làm như thế nào khi học xong [ky thuat phan mem](vieclamktpm)
+- việc làm như thế nào khi học xong [ki thuật phần mềm](vieclamktpm)
+- việc làm như thế nào khi học xong [kỹ thuat phần mềm](vieclamktpm)
+- việc làm như thế nào khi học xong [kỹ thuật phần mềm](vieclamktpm)
+- việc làm như thế nào khi học xong [cong nghệ phần mềm](vieclamktpm)
+- việc làm như thế nào khi học xong [công nghệ phần mềm](vieclamktpm)
+- việc làm như thế nào khi học xong [cong nghe phan mem](vieclamktpm)
+- việc làm như thế nào khi học xong [SE](vieclamktpm)
+- việc làm như thế nào khi học xong [kt phần mềm](vieclamktpm)
+- việc làm như thế nào khi học xong [kt phan mem](vieclamktpm)
+- việc làm như thế nào khi học xong [kỹ thuật phân mem](vieclamktpm)
+- việc làm như thế nào khi học xong [phan mem](vieclamktpm)
+- việc làm như thế nào khi học xong [phần mềm](vieclamktpm)
+- việc làm như thế nào khi học xong [kt pm](vieclamktpm)
 - công việc thường có của ngành [ktpm](vieclamktpm)
-- công việc thường có của ngành [kỹ thuật phầm mềm](vieclamktpm:ktpm)
+- công việc thường có của ngành [ktpmm](vieclamktpm)
+- công việc thường có của ngành [kỹ thuật phần mềm](vieclamktpm)
+- công việc thường có của ngành [ky thuat phan mem](vieclamktpm)
+- công việc thường có của ngành [ki thuật phần mềm](vieclamktpm)
+- công việc thường có của ngành [kỹ thuat phần mềm](vieclamktpm)
+- công việc thường có của ngành [kỹ thuật phần mềm](vieclamktpm)
+- công việc thường có của ngành [cong nghệ phần mềm](vieclamktpm)
+- công việc thường có của ngành [công nghệ phần mềm](vieclamktpm)
+- công việc thường có của ngành [cong nghe phan mem](vieclamktpm)
+- công việc thường có của ngành [SE](vieclamktpm)
+- công việc thường có của ngành [kt phần mềm](vieclamktpm)
+- công việc thường có của ngành [kt phan mem](vieclamktpm)
+- công việc thường có của ngành [kỹ thuật phân mem](vieclamktpm)
+- công việc thường có của ngành [phan mem](vieclamktpm)
+- công việc thường có của ngành [phần mềm](vieclamktpm)
+- công việc thường có của ngành [kt pm](vieclamktpm)
 - học [ktpm](vieclamktpm) ra trường có dễ kiếm việc làm không
-- học [kỹ thuật phầm mềm](vieclamktpm:ktpm) ra trường làm công việc gì
+- học [ktpmm](vieclamktpm) ra trường có dễ kiếm việc làm không
+- học [kỹ thuật phần mềm](vieclamktpm) ra trường có dễ kiếm việc làm không
+- học [ky thuat phan mem](vieclamktpm) ra trường có dễ kiếm việc làm không
+- học [ki thuật phần mềm](vieclamktpm) ra trường có dễ kiếm việc làm không
+- học [kỹ thuat phần mềm](vieclamktpm) ra trường có dễ kiếm việc làm không
+- học [kỹ thuật phần mềm](vieclamktpm) ra trường có dễ kiếm việc làm không
+- học [cong nghệ phần mềm](vieclamktpm) ra trường có dễ kiếm việc làm không
+- học [công nghệ phần mềm](vieclamktpm) ra trường có dễ kiếm việc làm không
+- học [cong nghe phan mem](vieclamktpm) ra trường có dễ kiếm việc làm không
+- học [SE](vieclamktpm) ra trường có dễ kiếm việc làm không
+- học [kt phần mềm](vieclamktpm) ra trường có dễ kiếm việc làm không
+- học [kt phan mem](vieclamktpm) ra trường có dễ kiếm việc làm không
+- học [kỹ thuật phân mem](vieclamktpm) ra trường có dễ kiếm việc làm không
+- học [phan mem](vieclamktpm) ra trường có dễ kiếm việc làm không
+- học [phần mềm](vieclamktpm) ra trường có dễ kiếm việc làm không
+- học [kt pm](vieclamktpm) ra trường có dễ kiếm việc làm không
 - cơ hội việc làm như thế nào của [cntt](vieclamcntt)
-- cơ hội việc làm như thế nào của [công nghệ thông tin](vieclamcntt:cntt)
+- cơ hội việc làm như thế nào của [cnttt](vieclamcntt)
+- cơ hội việc làm như thế nào của [công nghệ thông tin](vieclamcntt)
+- cơ hội việc làm như thế nào của [cong nghe thong tin](vieclamcntt)
+- cơ hội việc làm như thế nào của [công nghệ thong tin](vieclamcntt)
+- cơ hội việc làm như thế nào của [cong nghe thông tin](vieclamcntt)
+- cơ hội việc làm như thế nào của [IT](vieclamcntt)
+- cơ hội việc làm như thế nào của [công nghệ thông tin](vieclamcntt)
+- cơ hội việc làm như thế nào của [cong nghệ thông tin](vieclamcntt)
+- cơ hội việc làm như thế nào của [công nghệ thông tinn](vieclamcntt)
+- cơ hội việc làm như thế nào của [cn thong tin](vieclamcntt)
+- cơ hội việc làm như thế nào của [cn tt](vieclamcntt)
+- cơ hội việc làm như thế nào của [cn thông tin](vieclamcntt)
+- cơ hội việc làm như thế nào của [cogn nghệ thông tin](vieclamcntt)
+- cơ hội việc làm như thế nào của [công nghệ tt](vieclamcntt)
+- cơ hội việc làm như thế nào của [cong6 nghệ thong tin](vieclamcntt)
+- cơ hội việc làm như thế nào của [công nghệ thong tin](vieclamcntt)
 - [cntt](vieclamcntt) ra trường việc làm có ổn định không
-- [công nghệ thông tin](vieclamcntt:cntt) ra trường việc làm có ổn định không
+- [cnttt](vieclamcntt) ra trường việc làm có ổn định không
+- [công nghệ thông tin](vieclamcntt) ra trường việc làm có ổn định không
+- [cong nghe thong tin](vieclamcntt) ra trường việc làm có ổn định không
+- [công nghệ thong tin](vieclamcntt) ra trường việc làm có ổn định không
+- [cong nghe thông tin](vieclamcntt) ra trường việc làm có ổn định không
+- [IT](vieclamcntt) ra trường việc làm có ổn định không
+- [công nghệ thông tin](vieclamcntt) ra trường việc làm có ổn định không
+- [cong nghệ thông tin](vieclamcntt) ra trường việc làm có ổn định không
+- [công nghệ thông tinn](vieclamcntt) ra trường việc làm có ổn định không
+- [cn thong tin](vieclamcntt) ra trường việc làm có ổn định không
+- [cn tt](vieclamcntt) ra trường việc làm có ổn định không
+- [cn thông tin](vieclamcntt) ra trường việc làm có ổn định không
+- [cogn nghệ thông tin](vieclamcntt) ra trường việc làm có ổn định không
+- [công nghệ tt](vieclamcntt) ra trường việc làm có ổn định không
+- [cong6 nghệ thong tin](vieclamcntt) ra trường việc làm có ổn định không
+- [công nghệ thong tin](vieclamcntt) ra trường việc làm có ổn định không
 - làm gì khi học [cntt](vieclamcntt)
-- làm gì khi học [công nghệ thông tin](vieclamcntt:cntt)
+- làm gì khi học [cnttt](vieclamcntt)
+- làm gì khi học [công nghệ thông tin](vieclamcntt)
+- làm gì khi học [cong nghe thong tin](vieclamcntt)
+- làm gì khi học [công nghệ thong tin](vieclamcntt)
+- làm gì khi học [cong nghe thông tin](vieclamcntt)
+- làm gì khi học [IT](vieclamcntt)
+- làm gì khi học [công nghệ thông tin](vieclamcntt)
+- làm gì khi học [cong nghệ thông tin](vieclamcntt)
+- làm gì khi học [công nghệ thông tinn](vieclamcntt)
+- làm gì khi học [cn thong tin](vieclamcntt)
+- làm gì khi học [cn tt](vieclamcntt)
+- làm gì khi học [cn thông tin](vieclamcntt)
+- làm gì khi học [cogn nghệ thông tin](vieclamcntt)
+- làm gì khi học [công nghệ tt](vieclamcntt)
+- làm gì khi học [cong6 nghệ thong tin](vieclamcntt)
+- làm gì khi học [công nghệ thong tin](vieclamcntt)
 - việc làm như thế nào khi học xong [cntt](vieclamcntt)
-- việc làm như thế nào khi học xong [công nghệ thông tin](vieclamcntt:cntt)
+- việc làm như thế nào khi học xong [cnttt](vieclamcntt)
+- việc làm như thế nào khi học xong [công nghệ thông tin](vieclamcntt)
+- việc làm như thế nào khi học xong [cong nghe thong tin](vieclamcntt)
+- việc làm như thế nào khi học xong [công nghệ thong tin](vieclamcntt)
+- việc làm như thế nào khi học xong [cong nghe thông tin](vieclamcntt)
+- việc làm như thế nào khi học xong [IT](vieclamcntt)
+- việc làm như thế nào khi học xong [công nghệ thông tin](vieclamcntt)
+- việc làm như thế nào khi học xong [cong nghệ thông tin](vieclamcntt)
+- việc làm như thế nào khi học xong [công nghệ thông tinn](vieclamcntt)
+- việc làm như thế nào khi học xong [cn thong tin](vieclamcntt)
+- việc làm như thế nào khi học xong [cn tt](vieclamcntt)
+- việc làm như thế nào khi học xong [cn thông tin](vieclamcntt)
+- việc làm như thế nào khi học xong [cogn nghệ thông tin](vieclamcntt)
+- việc làm như thế nào khi học xong [công nghệ tt](vieclamcntt)
+- việc làm như thế nào khi học xong [cong6 nghệ thong tin](vieclamcntt)
+- việc làm như thế nào khi học xong [công nghệ thong tin](vieclamcntt)
 - công việc thường có của ngành [cntt](vieclamcntt)
-- công việc thường có của ngành [công nghệ thông tin](vieclamcntt:cntt)
+- công việc thường có của ngành [cnttt](vieclamcntt)
+- công việc thường có của ngành [công nghệ thông tin](vieclamcntt)
+- công việc thường có của ngành [cong nghe thong tin](vieclamcntt)
+- công việc thường có của ngành [công nghệ thong tin](vieclamcntt)
+- công việc thường có của ngành [cong nghe thông tin](vieclamcntt)
+- công việc thường có của ngành [IT](vieclamcntt)
+- công việc thường có của ngành [công nghệ thông tin](vieclamcntt)
+- công việc thường có của ngành [cong nghệ thông tin](vieclamcntt)
+- công việc thường có của ngành [công nghệ thông tinn](vieclamcntt)
+- công việc thường có của ngành [cn thong tin](vieclamcntt)
+- công việc thường có của ngành [cn tt](vieclamcntt)
+- công việc thường có của ngành [cn thông tin](vieclamcntt)
+- công việc thường có của ngành [cogn nghệ thông tin](vieclamcntt)
+- công việc thường có của ngành [công nghệ tt](vieclamcntt)
+- công việc thường có của ngành [cong6 nghệ thong tin](vieclamcntt)
+- công việc thường có của ngành [công nghệ thong tin](vieclamcntt)
 - học [cntt](vieclamcntt) ra trường có dễ kiếm việc làm không
-- học [công nghệ thông tin](vieclamcntt:cntt) ra trường làm công việc gì
+- học [cnttt](vieclamcntt) ra trường có dễ kiếm việc làm không
+- học [công nghệ thông tin](vieclamcntt) ra trường có dễ kiếm việc làm không
+- học [cong nghe thong tin](vieclamcntt) ra trường có dễ kiếm việc làm không
+- học [công nghệ thong tin](vieclamcntt) ra trường có dễ kiếm việc làm không
+- học [cong nghe thông tin](vieclamcntt) ra trường có dễ kiếm việc làm không
+- học [IT](vieclamcntt) ra trường có dễ kiếm việc làm không
+- học [công nghệ thông tin](vieclamcntt) ra trường có dễ kiếm việc làm không
+- học [cong nghệ thông tin](vieclamcntt) ra trường có dễ kiếm việc làm không
+- học [công nghệ thông tinn](vieclamcntt) ra trường có dễ kiếm việc làm không
+- học [cn thong tin](vieclamcntt) ra trường có dễ kiếm việc làm không
+- học [cn tt](vieclamcntt) ra trường có dễ kiếm việc làm không
+- học [cn thông tin](vieclamcntt) ra trường có dễ kiếm việc làm không
+- học [cogn nghệ thông tin](vieclamcntt) ra trường có dễ kiếm việc làm không
+- học [công nghệ tt](vieclamcntt) ra trường có dễ kiếm việc làm không
+- học [cong6 nghệ thong tin](vieclamcntt) ra trường có dễ kiếm việc làm không
+- học [công nghệ thong tin](vieclamcntt) ra trường có dễ kiếm việc làm không
 - cơ hội việc làm như thế nào của [httt](vieclamhttt)
-- cơ hội việc làm như thế nào của [hệ thống thông tin](vieclamhttt:httt)
+- cơ hội việc làm như thế nào của [hhttt](vieclamhttt)
+- cơ hội việc làm như thế nào của [IS](vieclamhttt)
+- cơ hội việc làm như thế nào của [hệ thống thông tin](vieclamhttt)
+- cơ hội việc làm như thế nào của [he thong thong tin](vieclamhttt)
+- cơ hội việc làm như thế nào của [hệ thông thông tin](vieclamhttt)
+- cơ hội việc làm như thế nào của [hê thong thông tin](vieclamhttt)
+- cơ hội việc làm như thế nào của [hệ thống thông tin](vieclamhttt)
+- cơ hội việc làm như thế nào của [hệ thống thông tín](vieclamhttt)
+- cơ hội việc làm như thế nào của [he thống thông tinn](vieclamhttt)
+- cơ hội việc làm như thế nào của [ht thông tin](vieclamhttt)
+- cơ hội việc làm như thế nào của [hệ thống tt](vieclamhttt)
+- cơ hội việc làm như thế nào của [he thống tt](vieclamhttt)
+- cơ hội việc làm như thế nào của [ht thông tin](vieclamhttt)
+- cơ hội việc làm như thế nào của [ht thong6 tin](vieclamhttt)
 - [httt](vieclamhttt) ra trường việc làm có ổn định không
-- [hệ thống thông tin](vieclamhttt:httt) ra trường việc làm có ổn định không
+- [hhttt](vieclamhttt) ra trường việc làm có ổn định không
+- [IS](vieclamhttt) ra trường việc làm có ổn định không
+- [hệ thống thông tin](vieclamhttt) ra trường việc làm có ổn định không
+- [he thong thong tin](vieclamhttt) ra trường việc làm có ổn định không
+- [hệ thông thông tin](vieclamhttt) ra trường việc làm có ổn định không
+- [hê thong thông tin](vieclamhttt) ra trường việc làm có ổn định không
+- [hệ thống thông tin](vieclamhttt) ra trường việc làm có ổn định không
+- [hệ thống thông tín](vieclamhttt) ra trường việc làm có ổn định không
+- [he thống thông tinn](vieclamhttt) ra trường việc làm có ổn định không
+- [ht thông tin](vieclamhttt) ra trường việc làm có ổn định không
+- [hệ thống tt](vieclamhttt) ra trường việc làm có ổn định không
+- [he thống tt](vieclamhttt) ra trường việc làm có ổn định không
+- [ht thông tin](vieclamhttt) ra trường việc làm có ổn định không
+- [ht thong6 tin](vieclamhttt) ra trường việc làm có ổn định không
 - làm gì khi học [httt](vieclamhttt)
-- làm gì khi học [hệ thống thông tin](vieclamhttt:httt)
+- làm gì khi học [hhttt](vieclamhttt)
+- làm gì khi học [IS](vieclamhttt)
+- làm gì khi học [hệ thống thông tin](vieclamhttt)
+- làm gì khi học [he thong thong tin](vieclamhttt)
+- làm gì khi học [hệ thông thông tin](vieclamhttt)
+- làm gì khi học [hê thong thông tin](vieclamhttt)
+- làm gì khi học [hệ thống thông tin](vieclamhttt)
+- làm gì khi học [hệ thống thông tín](vieclamhttt)
+- làm gì khi học [he thống thông tinn](vieclamhttt)
+- làm gì khi học [ht thông tin](vieclamhttt)
+- làm gì khi học [hệ thống tt](vieclamhttt)
+- làm gì khi học [he thống tt](vieclamhttt)
+- làm gì khi học [ht thông tin](vieclamhttt)
+- làm gì khi học [ht thong6 tin](vieclamhttt)
 - việc làm như thế nào khi học xong [httt](vieclamhttt)
-- việc làm như thế nào khi học xong [hệ thống thông tin](vieclamhttt:httt)
+- việc làm như thế nào khi học xong [hhttt](vieclamhttt)
+- việc làm như thế nào khi học xong [IS](vieclamhttt)
+- việc làm như thế nào khi học xong [hệ thống thông tin](vieclamhttt)
+- việc làm như thế nào khi học xong [he thong thong tin](vieclamhttt)
+- việc làm như thế nào khi học xong [hệ thông thông tin](vieclamhttt)
+- việc làm như thế nào khi học xong [hê thong thông tin](vieclamhttt)
+- việc làm như thế nào khi học xong [hệ thống thông tin](vieclamhttt)
+- việc làm như thế nào khi học xong [hệ thống thông tín](vieclamhttt)
+- việc làm như thế nào khi học xong [he thống thông tinn](vieclamhttt)
+- việc làm như thế nào khi học xong [ht thông tin](vieclamhttt)
+- việc làm như thế nào khi học xong [hệ thống tt](vieclamhttt)
+- việc làm như thế nào khi học xong [he thống tt](vieclamhttt)
+- việc làm như thế nào khi học xong [ht thông tin](vieclamhttt)
+- việc làm như thế nào khi học xong [ht thong6 tin](vieclamhttt)
 - công việc thường có của ngành [httt](vieclamhttt)
-- công việc thường có của ngành [hệ thống thông tin](vieclamhttt:httt)
+- công việc thường có của ngành [hhttt](vieclamhttt)
+- công việc thường có của ngành [IS](vieclamhttt)
+- công việc thường có của ngành [hệ thống thông tin](vieclamhttt)
+- công việc thường có của ngành [he thong thong tin](vieclamhttt)
+- công việc thường có của ngành [hệ thông thông tin](vieclamhttt)
+- công việc thường có của ngành [hê thong thông tin](vieclamhttt)
+- công việc thường có của ngành [hệ thống thông tin](vieclamhttt)
+- công việc thường có của ngành [hệ thống thông tín](vieclamhttt)
+- công việc thường có của ngành [he thống thông tinn](vieclamhttt)
+- công việc thường có của ngành [ht thông tin](vieclamhttt)
+- công việc thường có của ngành [hệ thống tt](vieclamhttt)
+- công việc thường có của ngành [he thống tt](vieclamhttt)
+- công việc thường có của ngành [ht thông tin](vieclamhttt)
+- công việc thường có của ngành [ht thong6 tin](vieclamhttt)
 - học [httt](vieclamhttt) ra trường có dễ kiếm việc làm không
-- học [hệ thống thông tin](vieclamhttt:httt) ra trường làm công việc gì
+- học [hhttt](vieclamhttt) ra trường có dễ kiếm việc làm không
+- học [IS](vieclamhttt) ra trường có dễ kiếm việc làm không
+- học [hệ thống thông tin](vieclamhttt) ra trường có dễ kiếm việc làm không
+- học [he thong thong tin](vieclamhttt) ra trường có dễ kiếm việc làm không
+- học [hệ thông thông tin](vieclamhttt) ra trường có dễ kiếm việc làm không
+- học [hê thong thông tin](vieclamhttt) ra trường có dễ kiếm việc làm không
+- học [hệ thống thông tin](vieclamhttt) ra trường có dễ kiếm việc làm không
+- học [hệ thống thông tín](vieclamhttt) ra trường có dễ kiếm việc làm không
+- học [he thống thông tinn](vieclamhttt) ra trường có dễ kiếm việc làm không
+- học [ht thông tin](vieclamhttt) ra trường có dễ kiếm việc làm không
+- học [hệ thống tt](vieclamhttt) ra trường có dễ kiếm việc làm không
+- học [he thống tt](vieclamhttt) ra trường có dễ kiếm việc làm không
+- học [ht thông tin](vieclamhttt) ra trường có dễ kiếm việc làm không
+- học [ht thong6 tin](vieclamhttt) ra trường có dễ kiếm việc làm không
 - cơ hội việc làm như thế nào của [khdl](vieclamkhdl)
-- cơ hội việc làm như thế nào của [khoa học dữ liệu](vieclamkhdl:khdl)
+- cơ hội việc làm như thế nào của [khdk](vieclamkhdl)
+- cơ hội việc làm như thế nào của [khoa học dữ liệu](vieclamkhdl)
+- cơ hội việc làm như thế nào của [khoa hoc du lieu](vieclamkhdl)
+- cơ hội việc làm như thế nào của [khoa học du lieu](vieclamkhdl)
+- cơ hội việc làm như thế nào của [khoa hoc du liệu](vieclamkhdl)
+- cơ hội việc làm như thế nào của [khao học dữ leiu](vieclamkhdl)
+- cơ hội việc làm như thế nào của [khao học du lieu](vieclamkhdl)
+- cơ hội việc làm như thế nào của [khao học dữ leiu](vieclamkhdl)
+- cơ hội việc làm như thế nào của [khoa học du lieuu](vieclamkhdl)
+- cơ hội việc làm như thế nào của [kh dl](vieclamkhdl)
+- cơ hội việc làm như thế nào của [kh dữ liệu](vieclamkhdl)
+- cơ hội việc làm như thế nào của [khoa hoc dữ liệu](vieclamkhdl)
+- cơ hội việc làm như thế nào của [khoa học dl](vieclamkhdl)
 - [khdl](vieclamkhdl) ra trường việc làm có ổn định không
-- [khoa học dữ liệu](vieclamkhdl:khdl) ra trường việc làm có ổn định không
+- [khdk](vieclamkhdl) ra trường việc làm có ổn định không
+- [khoa học dữ liệu](vieclamkhdl) ra trường việc làm có ổn định không
+- [khoa hoc du lieu](vieclamkhdl) ra trường việc làm có ổn định không
+- [khoa học du lieu](vieclamkhdl) ra trường việc làm có ổn định không
+- [khoa hoc du liệu](vieclamkhdl) ra trường việc làm có ổn định không
+- [khao học dữ leiu](vieclamkhdl) ra trường việc làm có ổn định không
+- [khao học du lieu](vieclamkhdl) ra trường việc làm có ổn định không
+- [khao học dữ leiu](vieclamkhdl) ra trường việc làm có ổn định không
+- [khoa học du lieuu](vieclamkhdl) ra trường việc làm có ổn định không
+- [kh dl](vieclamkhdl) ra trường việc làm có ổn định không
+- [kh dữ liệu](vieclamkhdl) ra trường việc làm có ổn định không
+- [khoa hoc dữ liệu](vieclamkhdl) ra trường việc làm có ổn định không
+- [khoa học dl](vieclamkhdl) ra trường việc làm có ổn định không
 - làm gì khi học [khdl](vieclamkhdl)
-- làm gì khi học [khoa học dữ liệu](vieclamkhdl:khdl)
+- làm gì khi học [khdk](vieclamkhdl)
+- làm gì khi học [khoa học dữ liệu](vieclamkhdl)
+- làm gì khi học [khoa hoc du lieu](vieclamkhdl)
+- làm gì khi học [khoa học du lieu](vieclamkhdl)
+- làm gì khi học [khoa hoc du liệu](vieclamkhdl)
+- làm gì khi học [khao học dữ leiu](vieclamkhdl)
+- làm gì khi học [khao học du lieu](vieclamkhdl)
+- làm gì khi học [khao học dữ leiu](vieclamkhdl)
+- làm gì khi học [khoa học du lieuu](vieclamkhdl)
+- làm gì khi học [kh dl](vieclamkhdl)
+- làm gì khi học [kh dữ liệu](vieclamkhdl)
+- làm gì khi học [khoa hoc dữ liệu](vieclamkhdl)
+- làm gì khi học [khoa học dl](vieclamkhdl)
 - việc làm như thế nào khi học xong [khdl](vieclamkhdl)
-- việc làm như thế nào khi học xong [khoa học dữ liệu](vieclamkhdl:khdl)
+- việc làm như thế nào khi học xong [khdk](vieclamkhdl)
+- việc làm như thế nào khi học xong [khoa học dữ liệu](vieclamkhdl)
+- việc làm như thế nào khi học xong [khoa hoc du lieu](vieclamkhdl)
+- việc làm như thế nào khi học xong [khoa học du lieu](vieclamkhdl)
+- việc làm như thế nào khi học xong [khoa hoc du liệu](vieclamkhdl)
+- việc làm như thế nào khi học xong [khao học dữ leiu](vieclamkhdl)
+- việc làm như thế nào khi học xong [khao học du lieu](vieclamkhdl)
+- việc làm như thế nào khi học xong [khao học dữ leiu](vieclamkhdl)
+- việc làm như thế nào khi học xong [khoa học du lieuu](vieclamkhdl)
+- việc làm như thế nào khi học xong [kh dl](vieclamkhdl)
+- việc làm như thế nào khi học xong [kh dữ liệu](vieclamkhdl)
+- việc làm như thế nào khi học xong [khoa hoc dữ liệu](vieclamkhdl)
+- việc làm như thế nào khi học xong [khoa học dl](vieclamkhdl)
 - công việc thường có của ngành [khdl](vieclamkhdl)
-- công việc thường có của ngành [khoa học dữ liệu](vieclamkhdl:khdl)
+- công việc thường có của ngành [khdk](vieclamkhdl)
+- công việc thường có của ngành [khoa học dữ liệu](vieclamkhdl)
+- công việc thường có của ngành [khoa hoc du lieu](vieclamkhdl)
+- công việc thường có của ngành [khoa học du lieu](vieclamkhdl)
+- công việc thường có của ngành [khoa hoc du liệu](vieclamkhdl)
+- công việc thường có của ngành [khao học dữ leiu](vieclamkhdl)
+- công việc thường có của ngành [khao học du lieu](vieclamkhdl)
+- công việc thường có của ngành [khao học dữ leiu](vieclamkhdl)
+- công việc thường có của ngành [khoa học du lieuu](vieclamkhdl)
+- công việc thường có của ngành [kh dl](vieclamkhdl)
+- công việc thường có của ngành [kh dữ liệu](vieclamkhdl)
+- công việc thường có của ngành [khoa hoc dữ liệu](vieclamkhdl)
+- công việc thường có của ngành [khoa học dl](vieclamkhdl)
 - học [khdl](vieclamkhdl) ra trường có dễ kiếm việc làm không
-- học [khoa học dữ liệu](vieclamkhdl:khdl) ra trường làm công việc gì
-
+- học [khdk](vieclamkhdl) ra trường có dễ kiếm việc làm không
+- học [khoa học dữ liệu](vieclamkhdl) ra trường có dễ kiếm việc làm không
+- học [khoa hoc du lieu](vieclamkhdl) ra trường có dễ kiếm việc làm không
+- học [khoa học du lieu](vieclamkhdl) ra trường có dễ kiếm việc làm không
+- học [khoa hoc du liệu](vieclamkhdl) ra trường có dễ kiếm việc làm không
+- học [khao học dữ leiu](vieclamkhdl) ra trường có dễ kiếm việc làm không
+- học [khao học du lieu](vieclamkhdl) ra trường có dễ kiếm việc làm không
+- học [khao học dữ leiu](vieclamkhdl) ra trường có dễ kiếm việc làm không
+- học [khoa học du lieuu](vieclamkhdl) ra trường có dễ kiếm việc làm không
+- học [kh dl](vieclamkhdl) ra trường có dễ kiếm việc làm không
+- học [kh dữ liệu](vieclamkhdl) ra trường có dễ kiếm việc làm không
+- học [khoa hoc dữ liệu](vieclamkhdl) ra trường có dễ kiếm việc làm không
+- học [khoa học dl](vieclamkhdl) ra trường có dễ kiếm việc làm không
 ## intent: ngonngu
 - học [khmt](ngonngukhmt) thì cần biết ngôn ngữ nào
+- học [khtm](ngonngukhmt) thì cần biết ngôn ngữ nào
+- học [khoa học máy tính](ngonngukhmt) thì cần biết ngôn ngữ nào
+- học [khoa hoc may tinh](ngonngukhmt) thì cần biết ngôn ngữ nào
+- học [cong nghe may tinh](ngonngukhmt) thì cần biết ngôn ngữ nào
+- học [khao hoc may tinh](ngonngukhmt) thì cần biết ngôn ngữ nào
+- học [khao học may tinh](ngonngukhmt) thì cần biết ngôn ngữ nào
+- học [công nghệ máy tính](ngonngukhmt) thì cần biết ngôn ngữ nào
+- học [khao học máy tinh](ngonngukhmt) thì cần biết ngôn ngữ nào
+- học [khoa học may tinh](ngonngukhmt) thì cần biết ngôn ngữ nào
+- học [CS](ngonngukhmt) thì cần biết ngôn ngữ nào
+- học [kh máy tinh](ngonngukhmt) thì cần biết ngôn ngữ nào
+- học [kh may tính](ngonngukhmt) thì cần biết ngôn ngữ nào
+- học [kh máy tính](ngonngukhmt) thì cần biết ngôn ngữ nào
+- học [kh máy tình](ngonngukhmt) thì cần biết ngôn ngữ nào
+- học [khmt](ngonngukhmt:khmt) thì cần biết ngôn ngữ nào
+- học [khtm](ngonngukhmt:khmt) thì cần biết ngôn ngữ nào
 - học [khoa học máy tính](ngonngukhmt:khmt) thì cần biết ngôn ngữ nào
+- học [khoa hoc may tinh](ngonngukhmt:khmt) thì cần biết ngôn ngữ nào
+- học [cong nghe may tinh](ngonngukhmt:khmt) thì cần biết ngôn ngữ nào
+- học [khao hoc may tinh](ngonngukhmt:khmt) thì cần biết ngôn ngữ nào
+- học [khao học may tinh](ngonngukhmt:khmt) thì cần biết ngôn ngữ nào
+- học [công nghệ máy tính](ngonngukhmt:khmt) thì cần biết ngôn ngữ nào
+- học [khao học máy tinh](ngonngukhmt:khmt) thì cần biết ngôn ngữ nào
+- học [khoa học may tinh](ngonngukhmt:khmt) thì cần biết ngôn ngữ nào
+- học [CS](ngonngukhmt:khmt) thì cần biết ngôn ngữ nào
+- học [kh máy tinh](ngonngukhmt:khmt) thì cần biết ngôn ngữ nào
+- học [kh may tính](ngonngukhmt:khmt) thì cần biết ngôn ngữ nào
+- học [kh máy tính](ngonngukhmt:khmt) thì cần biết ngôn ngữ nào
+- học [kh máy tình](ngonngukhmt:khmt) thì cần biết ngôn ngữ nào
 - [khmt](ngonngukhmt) thì cần biết ngôn ngữ nào
-- [khoa học máy tính](ngonngukhmt:khmt) thì cần biết ngôn ngữ nào
+- [khtm](ngonngukhmt) thì cần biết ngôn ngữ nào
+- [khoa học máy tính](ngonngukhmt) thì cần biết ngôn ngữ nào
+- [khoa hoc may tinh](ngonngukhmt) thì cần biết ngôn ngữ nào
+- [cong nghe may tinh](ngonngukhmt) thì cần biết ngôn ngữ nào
+- [khao hoc may tinh](ngonngukhmt) thì cần biết ngôn ngữ nào
+- [khao học may tinh](ngonngukhmt) thì cần biết ngôn ngữ nào
+- [công nghệ máy tính](ngonngukhmt) thì cần biết ngôn ngữ nào
+- [khao học máy tinh](ngonngukhmt) thì cần biết ngôn ngữ nào
+- [khoa học may tinh](ngonngukhmt) thì cần biết ngôn ngữ nào
+- [CS](ngonngukhmt) thì cần biết ngôn ngữ nào
+- [kh máy tinh](ngonngukhmt) thì cần biết ngôn ngữ nào
+- [kh may tính](ngonngukhmt) thì cần biết ngôn ngữ nào
+- [kh máy tính](ngonngukhmt) thì cần biết ngôn ngữ nào
+- [kh máy tình](ngonngukhmt) thì cần biết ngôn ngữ nào
 - ngôn ngữ nào cần khi học [khmt](ngonngukhmt)
-- ngôn ngữ nào cần khi học [khoa học máy tính](ngonngukhmt:khmt)
+- ngôn ngữ nào cần khi học [khtm](ngonngukhmt)
+- ngôn ngữ nào cần khi học [khoa học máy tính](ngonngukhmt)
+- ngôn ngữ nào cần khi học [khoa hoc may tinh](ngonngukhmt)
+- ngôn ngữ nào cần khi học [cong nghe may tinh](ngonngukhmt)
+- ngôn ngữ nào cần khi học [khao hoc may tinh](ngonngukhmt)
+- ngôn ngữ nào cần khi học [khao học may tinh](ngonngukhmt)
+- ngôn ngữ nào cần khi học [công nghệ máy tính](ngonngukhmt)
+- ngôn ngữ nào cần khi học [khao học máy tinh](ngonngukhmt)
+- ngôn ngữ nào cần khi học [khoa học may tinh](ngonngukhmt)
+- ngôn ngữ nào cần khi học [CS](ngonngukhmt)
+- ngôn ngữ nào cần khi học [kh máy tinh](ngonngukhmt)
+- ngôn ngữ nào cần khi học [kh may tính](ngonngukhmt)
+- ngôn ngữ nào cần khi học [kh máy tính](ngonngukhmt)
+- ngôn ngữ nào cần khi học [kh máy tình](ngonngukhmt)
 - ngôn ngữ nào hot nhất khi học [khmt](ngonngukhmt)
-- ngôn ngữ nào hot nhất khi học [khoa học máy tính](ngonngukhmt:khmt)
-- ngôn ngữ nào sẽ được d ạy khi học [khmt](ngonngukhmt)
-- ngôn ngữ nào sẽ được d ạy khi học [khoa học máy tính](ngonngukhmt:khmt)
+- ngôn ngữ nào hot nhất khi học [khtm](ngonngukhmt)
+- ngôn ngữ nào hot nhất khi học [khoa học máy tính](ngonngukhmt)
+- ngôn ngữ nào hot nhất khi học [khoa hoc may tinh](ngonngukhmt)
+- ngôn ngữ nào hot nhất khi học [cong nghe may tinh](ngonngukhmt)
+- ngôn ngữ nào hot nhất khi học [khao hoc may tinh](ngonngukhmt)
+- ngôn ngữ nào hot nhất khi học [khao học may tinh](ngonngukhmt)
+- ngôn ngữ nào hot nhất khi học [công nghệ máy tính](ngonngukhmt)
+- ngôn ngữ nào hot nhất khi học [khao học máy tinh](ngonngukhmt)
+- ngôn ngữ nào hot nhất khi học [khoa học may tinh](ngonngukhmt)
+- ngôn ngữ nào hot nhất khi học [CS](ngonngukhmt)
+- ngôn ngữ nào hot nhất khi học [kh máy tinh](ngonngukhmt)
+- ngôn ngữ nào hot nhất khi học [kh may tính](ngonngukhmt)
+- ngôn ngữ nào hot nhất khi học [kh máy tính](ngonngukhmt)
+- ngôn ngữ nào hot nhất khi học [kh máy tình](ngonngukhmt)
+- ngôn ngữ nào sẽ được dạy khi học [khmt](ngonngukhmt)
+- ngôn ngữ nào sẽ được dạy khi học [khtm](ngonngukhmt)
+- ngôn ngữ nào sẽ được dạy khi học [khoa học máy tính](ngonngukhmt)
+- ngôn ngữ nào sẽ được dạy khi học [khoa hoc may tinh](ngonngukhmt)
+- ngôn ngữ nào sẽ được dạy khi học [cong nghe may tinh](ngonngukhmt)
+- ngôn ngữ nào sẽ được dạy khi học [khao hoc may tinh](ngonngukhmt)
+- ngôn ngữ nào sẽ được dạy khi học [khao học may tinh](ngonngukhmt)
+- ngôn ngữ nào sẽ được dạy khi học [công nghệ máy tính](ngonngukhmt)
+- ngôn ngữ nào sẽ được dạy khi học [khao học máy tinh](ngonngukhmt)
+- ngôn ngữ nào sẽ được dạy khi học [khoa học may tinh](ngonngukhmt)
+- ngôn ngữ nào sẽ được dạy khi học [CS](ngonngukhmt)
+- ngôn ngữ nào sẽ được dạy khi học [kh máy tinh](ngonngukhmt)
+- ngôn ngữ nào sẽ được dạy khi học [kh may tính](ngonngukhmt)
+- ngôn ngữ nào sẽ được dạy khi học [kh máy tính](ngonngukhmt)
+- ngôn ngữ nào sẽ được dạy khi học [kh máy tình](ngonngukhmt)
 - học [ktpm](ngonnguktpm) thì cần biết ngôn ngữ nào
-- học [kỹ thuật phần mềm](ngonnguktpm:ktpm) thì cần biết ngôn ngữ nào
+- học [ktpmm](ngonnguktpm) thì cần biết ngôn ngữ nào
+- học [kỹ thuật phần mềm](ngonnguktpm) thì cần biết ngôn ngữ nào
+- học [ky thuat phan mem](ngonnguktpm) thì cần biết ngôn ngữ nào
+- học [ki thuật phần mềm](ngonnguktpm) thì cần biết ngôn ngữ nào
+- học [kỹ thuat phần mềm](ngonnguktpm) thì cần biết ngôn ngữ nào
+- học [kỹ thuật phần mềm](ngonnguktpm) thì cần biết ngôn ngữ nào
+- học [cong nghệ phần mềm](ngonnguktpm) thì cần biết ngôn ngữ nào
+- học [công nghệ phần mềm](ngonnguktpm) thì cần biết ngôn ngữ nào
+- học [cong nghe phan mem](ngonnguktpm) thì cần biết ngôn ngữ nào
+- học [SE](ngonnguktpm) thì cần biết ngôn ngữ nào
+- học [kt phần mềm](ngonnguktpm) thì cần biết ngôn ngữ nào
+- học [kt phan mem](ngonnguktpm) thì cần biết ngôn ngữ nào
+- học [kỹ thuật phân mem](ngonnguktpm) thì cần biết ngôn ngữ nào
+- học [phan mem](ngonnguktpm) thì cần biết ngôn ngữ nào
+- học [phần mềm](ngonnguktpm) thì cần biết ngôn ngữ nào
+- học [kt pm](ngonnguktpm) thì cần biết ngôn ngữ nào
 - [ktpm](ngonnguktpm) thì cần biết ngôn ngữ nào
-- [kỹ thuật phần mềm](ngonnguktpm:ktpm) thì cần biết ngôn ngữ nào
+- [ktpmm](ngonnguktpm) thì cần biết ngôn ngữ nào
+- [kỹ thuật phần mềm](ngonnguktpm) thì cần biết ngôn ngữ nào
+- [ky thuat phan mem](ngonnguktpm) thì cần biết ngôn ngữ nào
+- [ki thuật phần mềm](ngonnguktpm) thì cần biết ngôn ngữ nào
+- [kỹ thuat phần mềm](ngonnguktpm) thì cần biết ngôn ngữ nào
+- [kỹ thuật phần mềm](ngonnguktpm) thì cần biết ngôn ngữ nào
+- [cong nghệ phần mềm](ngonnguktpm) thì cần biết ngôn ngữ nào
+- [công nghệ phần mềm](ngonnguktpm) thì cần biết ngôn ngữ nào
+- [cong nghe phan mem](ngonnguktpm) thì cần biết ngôn ngữ nào
+- [SE](ngonnguktpm) thì cần biết ngôn ngữ nào
+- [kt phần mềm](ngonnguktpm) thì cần biết ngôn ngữ nào
+- [kt phan mem](ngonnguktpm) thì cần biết ngôn ngữ nào
+- [kỹ thuật phân mem](ngonnguktpm) thì cần biết ngôn ngữ nào
+- [phan mem](ngonnguktpm) thì cần biết ngôn ngữ nào
+- [phần mềm](ngonnguktpm) thì cần biết ngôn ngữ nào
+- [kt pm](ngonnguktpm) thì cần biết ngôn ngữ nào
 - ngôn ngữ nào cần khi học [ktpm](ngonnguktpm)
-- ngôn ngữ nào cần khi học [kỹ thuật phần mềm](ngonnguktpm:ktpm)
+- ngôn ngữ nào cần khi học [ktpmm](ngonnguktpm)
+- ngôn ngữ nào cần khi học [kỹ thuật phần mềm](ngonnguktpm)
+- ngôn ngữ nào cần khi học [ky thuat phan mem](ngonnguktpm)
+- ngôn ngữ nào cần khi học [ki thuật phần mềm](ngonnguktpm)
+- ngôn ngữ nào cần khi học [kỹ thuat phần mềm](ngonnguktpm)
+- ngôn ngữ nào cần khi học [kỹ thuật phần mềm](ngonnguktpm)
+- ngôn ngữ nào cần khi học [cong nghệ phần mềm](ngonnguktpm)
+- ngôn ngữ nào cần khi học [công nghệ phần mềm](ngonnguktpm)
+- ngôn ngữ nào cần khi học [cong nghe phan mem](ngonnguktpm)
+- ngôn ngữ nào cần khi học [SE](ngonnguktpm)
+- ngôn ngữ nào cần khi học [kt phần mềm](ngonnguktpm)
+- ngôn ngữ nào cần khi học [kt phan mem](ngonnguktpm)
+- ngôn ngữ nào cần khi học [kỹ thuật phân mem](ngonnguktpm)
+- ngôn ngữ nào cần khi học [phan mem](ngonnguktpm)
+- ngôn ngữ nào cần khi học [phần mềm](ngonnguktpm)
+- ngôn ngữ nào cần khi học [kt pm](ngonnguktpm)
 - ngôn ngữ nào hot nhất khi học [ktpm](ngonnguktpm)
-- ngôn ngữ nào hot nhất khi học [kỹ thuật phần mềm](ngonnguktpm:ktpm)
-- ngôn ngữ nào sẽ được d ạy khi học [ktpm](ngonnguktpm)
-- ngôn ngữ nào sẽ được d ạy khi học [kỹ thuật phần mềm](ngonnguktpm:ktpm)
+- ngôn ngữ nào hot nhất khi học [ktpmm](ngonnguktpm)
+- ngôn ngữ nào hot nhất khi học [kỹ thuật phần mềm](ngonnguktpm)
+- ngôn ngữ nào hot nhất khi học [ky thuat phan mem](ngonnguktpm)
+- ngôn ngữ nào hot nhất khi học [ki thuật phần mềm](ngonnguktpm)
+- ngôn ngữ nào hot nhất khi học [kỹ thuat phần mềm](ngonnguktpm)
+- ngôn ngữ nào hot nhất khi học [kỹ thuật phần mềm](ngonnguktpm)
+- ngôn ngữ nào hot nhất khi học [cong nghệ phần mềm](ngonnguktpm)
+- ngôn ngữ nào hot nhất khi học [công nghệ phần mềm](ngonnguktpm)
+- ngôn ngữ nào hot nhất khi học [cong nghe phan mem](ngonnguktpm)
+- ngôn ngữ nào hot nhất khi học [SE](ngonnguktpm)
+- ngôn ngữ nào hot nhất khi học [kt phần mềm](ngonnguktpm)
+- ngôn ngữ nào hot nhất khi học [kt phan mem](ngonnguktpm)
+- ngôn ngữ nào hot nhất khi học [kỹ thuật phân mem](ngonnguktpm)
+- ngôn ngữ nào hot nhất khi học [phan mem](ngonnguktpm)
+- ngôn ngữ nào hot nhất khi học [phần mềm](ngonnguktpm)
+- ngôn ngữ nào hot nhất khi học [kt pm](ngonnguktpm)
+- ngôn ngữ nào sẽ được dạy khi học [ktpm](ngonnguktpm)
+- ngôn ngữ nào sẽ được dạy khi học [ktpmm](ngonnguktpm)
+- ngôn ngữ nào sẽ được dạy khi học [kỹ thuật phần mềm](ngonnguktpm)
+- ngôn ngữ nào sẽ được dạy khi học [ky thuat phan mem](ngonnguktpm)
+- ngôn ngữ nào sẽ được dạy khi học [ki thuật phần mềm](ngonnguktpm)
+- ngôn ngữ nào sẽ được dạy khi học [kỹ thuat phần mềm](ngonnguktpm)
+- ngôn ngữ nào sẽ được dạy khi học [kỹ thuật phần mềm](ngonnguktpm)
+- ngôn ngữ nào sẽ được dạy khi học [cong nghệ phần mềm](ngonnguktpm)
+- ngôn ngữ nào sẽ được dạy khi học [công nghệ phần mềm](ngonnguktpm)
+- ngôn ngữ nào sẽ được dạy khi học [cong nghe phan mem](ngonnguktpm)
+- ngôn ngữ nào sẽ được dạy khi học [SE](ngonnguktpm)
+- ngôn ngữ nào sẽ được dạy khi học [kt phần mềm](ngonnguktpm)
+- ngôn ngữ nào sẽ được dạy khi học [kt phan mem](ngonnguktpm)
+- ngôn ngữ nào sẽ được dạy khi học [kỹ thuật phân mem](ngonnguktpm)
+- ngôn ngữ nào sẽ được dạy khi học [phan mem](ngonnguktpm)
+- ngôn ngữ nào sẽ được dạy khi học [phần mềm](ngonnguktpm)
+- ngôn ngữ nào sẽ được dạy khi học [kt pm](ngonnguktpm)
 - học [cntt](ngonngucntt) thì cần biết ngôn ngữ nào
-- học [công nghệ thông tin](ngonngucntt:cntt) thì cần biết ngôn ngữ nào
+- học [cnttt](ngonngucntt) thì cần biết ngôn ngữ nào
+- học [công nghệ thông tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- học [cong nghe thong tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- học [công nghệ thong tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- học [cong nghe thông tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- học [IT](ngonngucntt) thì cần biết ngôn ngữ nào
+- học [công nghệ thông tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- học [cong nghệ thông tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- học [công nghệ thông tinn](ngonngucntt) thì cần biết ngôn ngữ nào
+- học [cn thong tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- học [cn tt](ngonngucntt) thì cần biết ngôn ngữ nào
+- học [cn thông tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- học [cogn nghệ thông tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- học [công nghệ tt](ngonngucntt) thì cần biết ngôn ngữ nào
+- học [cong6 nghệ thong tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- học [công nghệ thong tin](ngonngucntt) thì cần biết ngôn ngữ nào
 - [cntt](ngonngucntt) thì cần biết ngôn ngữ nào
-- [công nghệ thông tin](ngonngucntt:cntt) thì cần biết ngôn ngữ nào
+- [cnttt](ngonngucntt) thì cần biết ngôn ngữ nào
+- [công nghệ thông tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- [cong nghe thong tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- [công nghệ thong tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- [cong nghe thông tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- [IT](ngonngucntt) thì cần biết ngôn ngữ nào
+- [công nghệ thông tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- [cong nghệ thông tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- [công nghệ thông tinn](ngonngucntt) thì cần biết ngôn ngữ nào
+- [cn thong tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- [cn tt](ngonngucntt) thì cần biết ngôn ngữ nào
+- [cn thông tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- [cogn nghệ thông tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- [công nghệ tt](ngonngucntt) thì cần biết ngôn ngữ nào
+- [cong6 nghệ thong tin](ngonngucntt) thì cần biết ngôn ngữ nào
+- [công nghệ thong tin](ngonngucntt) thì cần biết ngôn ngữ nào
 - ngôn ngữ nào cần khi học [cntt](ngonngucntt)
-- ngôn ngữ nào cần khi học [công nghệ thông tin](ngonngucntt:cntt)
+- ngôn ngữ nào cần khi học [cnttt](ngonngucntt)
+- ngôn ngữ nào cần khi học [công nghệ thông tin](ngonngucntt)
+- ngôn ngữ nào cần khi học [cong nghe thong tin](ngonngucntt)
+- ngôn ngữ nào cần khi học [công nghệ thong tin](ngonngucntt)
+- ngôn ngữ nào cần khi học [cong nghe thông tin](ngonngucntt)
+- ngôn ngữ nào cần khi học [IT](ngonngucntt)
+- ngôn ngữ nào cần khi học [công nghệ thông tin](ngonngucntt)
+- ngôn ngữ nào cần khi học [cong nghệ thông tin](ngonngucntt)
+- ngôn ngữ nào cần khi học [công nghệ thông tinn](ngonngucntt)
+- ngôn ngữ nào cần khi học [cn thong tin](ngonngucntt)
+- ngôn ngữ nào cần khi học [cn tt](ngonngucntt)
+- ngôn ngữ nào cần khi học [cn thông tin](ngonngucntt)
+- ngôn ngữ nào cần khi học [cogn nghệ thông tin](ngonngucntt)
+- ngôn ngữ nào cần khi học [công nghệ tt](ngonngucntt)
+- ngôn ngữ nào cần khi học [cong6 nghệ thong tin](ngonngucntt)
+- ngôn ngữ nào cần khi học [công nghệ thong tin](ngonngucntt)
 - ngôn ngữ nào hot nhất khi học [cntt](ngonngucntt)
-- ngôn ngữ nào hot nhất khi học [công nghệ thông tin](ngonngucntt:cntt)
-- ngôn ngữ nào sẽ được d ạy khi học [cntt](ngonngucntt)
-- ngôn ngữ nào sẽ được d ạy khi học [công nghệ thông tin](ngonngucntt:cntt)
+- ngôn ngữ nào hot nhất khi học [cnttt](ngonngucntt)
+- ngôn ngữ nào hot nhất khi học [công nghệ thông tin](ngonngucntt)
+- ngôn ngữ nào hot nhất khi học [cong nghe thong tin](ngonngucntt)
+- ngôn ngữ nào hot nhất khi học [công nghệ thong tin](ngonngucntt)
+- ngôn ngữ nào hot nhất khi học [cong nghe thông tin](ngonngucntt)
+- ngôn ngữ nào hot nhất khi học [IT](ngonngucntt)
+- ngôn ngữ nào hot nhất khi học [công nghệ thông tin](ngonngucntt)
+- ngôn ngữ nào hot nhất khi học [cong nghệ thông tin](ngonngucntt)
+- ngôn ngữ nào hot nhất khi học [công nghệ thông tinn](ngonngucntt)
+- ngôn ngữ nào hot nhất khi học [cn thong tin](ngonngucntt)
+- ngôn ngữ nào hot nhất khi học [cn tt](ngonngucntt)
+- ngôn ngữ nào hot nhất khi học [cn thông tin](ngonngucntt)
+- ngôn ngữ nào hot nhất khi học [cogn nghệ thông tin](ngonngucntt)
+- ngôn ngữ nào hot nhất khi học [công nghệ tt](ngonngucntt)
+- ngôn ngữ nào hot nhất khi học [cong6 nghệ thong tin](ngonngucntt)
+- ngôn ngữ nào hot nhất khi học [công nghệ thong tin](ngonngucntt)
+- ngôn ngữ nào sẽ được dạy khi học [cntt](ngonngucntt)
+- ngôn ngữ nào sẽ được dạy khi học [cnttt](ngonngucntt)
+- ngôn ngữ nào sẽ được dạy khi học [công nghệ thông tin](ngonngucntt)
+- ngôn ngữ nào sẽ được dạy khi học [cong nghe thong tin](ngonngucntt)
+- ngôn ngữ nào sẽ được dạy khi học [công nghệ thong tin](ngonngucntt)
+- ngôn ngữ nào sẽ được dạy khi học [cong nghe thông tin](ngonngucntt)
+- ngôn ngữ nào sẽ được dạy khi học [IT](ngonngucntt)
+- ngôn ngữ nào sẽ được dạy khi học [công nghệ thông tin](ngonngucntt)
+- ngôn ngữ nào sẽ được dạy khi học [cong nghệ thông tin](ngonngucntt)
+- ngôn ngữ nào sẽ được dạy khi học [công nghệ thông tinn](ngonngucntt)
+- ngôn ngữ nào sẽ được dạy khi học [cn thong tin](ngonngucntt)
+- ngôn ngữ nào sẽ được dạy khi học [cn tt](ngonngucntt)
+- ngôn ngữ nào sẽ được dạy khi học [cn thông tin](ngonngucntt)
+- ngôn ngữ nào sẽ được dạy khi học [cogn nghệ thông tin](ngonngucntt)
+- ngôn ngữ nào sẽ được dạy khi học [công nghệ tt](ngonngucntt)
+- ngôn ngữ nào sẽ được dạy khi học [cong6 nghệ thong tin](ngonngucntt)
+- ngôn ngữ nào sẽ được dạy khi học [công nghệ thong tin](ngonngucntt)
 - học [khdl](ngonngukhdl) thì cần biết ngôn ngữ nào
-- học [khoa học dữ liệu](ngonngukhdl:khdl) thì cần biết ngôn ngữ nào
+- học [khdk](ngonngukhdl) thì cần biết ngôn ngữ nào
+- học [khoa học dữ liệu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- học [khoa hoc du lieu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- học [khoa học du lieu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- học [khoa hoc du liệu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- học [khao học dữ leiu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- học [khao học du lieu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- học [khao học dữ leiu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- học [khoa học du lieuu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- học [kh dl](ngonngukhdl) thì cần biết ngôn ngữ nào
+- học [kh dữ liệu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- học [khoa hoc dữ liệu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- học [khoa học dl](ngonngukhdl) thì cần biết ngôn ngữ nào
 - [khdl](ngonngukhdl) thì cần biết ngôn ngữ nào
-- [khoa học dữ liệu](ngonngukhdl:khdl) thì cần biết ngôn ngữ nào
+- [khdk](ngonngukhdl) thì cần biết ngôn ngữ nào
+- [khoa học dữ liệu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- [khoa hoc du lieu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- [khoa học du lieu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- [khoa hoc du liệu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- [khao học dữ leiu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- [khao học du lieu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- [khao học dữ leiu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- [khoa học du lieuu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- [kh dl](ngonngukhdl) thì cần biết ngôn ngữ nào
+- [kh dữ liệu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- [khoa hoc dữ liệu](ngonngukhdl) thì cần biết ngôn ngữ nào
+- [khoa học dl](ngonngukhdl) thì cần biết ngôn ngữ nào
 - ngôn ngữ nào cần khi học [khdl](ngonngukhdl)
-- ngôn ngữ nào cần khi học [khoa học dữ liệu](ngonngukhdl:khdl)
+- ngôn ngữ nào cần khi học [khdk](ngonngukhdl)
+- ngôn ngữ nào cần khi học [khoa học dữ liệu](ngonngukhdl)
+- ngôn ngữ nào cần khi học [khoa hoc du lieu](ngonngukhdl)
+- ngôn ngữ nào cần khi học [khoa học du lieu](ngonngukhdl)
+- ngôn ngữ nào cần khi học [khoa hoc du liệu](ngonngukhdl)
+- ngôn ngữ nào cần khi học [khao học dữ leiu](ngonngukhdl)
+- ngôn ngữ nào cần khi học [khao học du lieu](ngonngukhdl)
+- ngôn ngữ nào cần khi học [khao học dữ leiu](ngonngukhdl)
+- ngôn ngữ nào cần khi học [khoa học du lieuu](ngonngukhdl)
+- ngôn ngữ nào cần khi học [kh dl](ngonngukhdl)
+- ngôn ngữ nào cần khi học [kh dữ liệu](ngonngukhdl)
+- ngôn ngữ nào cần khi học [khoa hoc dữ liệu](ngonngukhdl)
+- ngôn ngữ nào cần khi học [khoa học dl](ngonngukhdl)
 - ngôn ngữ nào hot nhất khi học [khdl](ngonngukhdl)
-- ngôn ngữ nào hot nhất khi học [khoa học dữ liệu](ngonngukhdl:khdl)
-- ngôn ngữ nào sẽ được d ạy khi học [khdl](ngonngukhdl)
-- ngôn ngữ nào sẽ được d ạy khi học [khoa học dữ liệu](ngonngukhdl:khdl)
+- ngôn ngữ nào hot nhất khi học [khdk](ngonngukhdl)
+- ngôn ngữ nào hot nhất khi học [khoa học dữ liệu](ngonngukhdl)
+- ngôn ngữ nào hot nhất khi học [khoa hoc du lieu](ngonngukhdl)
+- ngôn ngữ nào hot nhất khi học [khoa học du lieu](ngonngukhdl)
+- ngôn ngữ nào hot nhất khi học [khoa hoc du liệu](ngonngukhdl)
+- ngôn ngữ nào hot nhất khi học [khao học dữ leiu](ngonngukhdl)
+- ngôn ngữ nào hot nhất khi học [khao học du lieu](ngonngukhdl)
+- ngôn ngữ nào hot nhất khi học [khao học dữ leiu](ngonngukhdl)
+- ngôn ngữ nào hot nhất khi học [khoa học du lieuu](ngonngukhdl)
+- ngôn ngữ nào hot nhất khi học [kh dl](ngonngukhdl)
+- ngôn ngữ nào hot nhất khi học [kh dữ liệu](ngonngukhdl)
+- ngôn ngữ nào hot nhất khi học [khoa hoc dữ liệu](ngonngukhdl)
+- ngôn ngữ nào hot nhất khi học [khoa học dl](ngonngukhdl)
+- ngôn ngữ nào sẽ được dạy khi học [khdl](ngonngukhdl)
+- ngôn ngữ nào sẽ được dạy khi học [khdk](ngonngukhdl)
+- ngôn ngữ nào sẽ được dạy khi học [khoa học dữ liệu](ngonngukhdl)
+- ngôn ngữ nào sẽ được dạy khi học [khoa hoc du lieu](ngonngukhdl)
+- ngôn ngữ nào sẽ được dạy khi học [khoa học du lieu](ngonngukhdl)
+- ngôn ngữ nào sẽ được dạy khi học [khoa hoc du liệu](ngonngukhdl)
+- ngôn ngữ nào sẽ được dạy khi học [khao học dữ leiu](ngonngukhdl)
+- ngôn ngữ nào sẽ được dạy khi học [khao học du lieu](ngonngukhdl)
+- ngôn ngữ nào sẽ được dạy khi học [khao học dữ leiu](ngonngukhdl)
+- ngôn ngữ nào sẽ được dạy khi học [khoa học du lieuu](ngonngukhdl)
+- ngôn ngữ nào sẽ được dạy khi học [kh dl](ngonngukhdl)
+- ngôn ngữ nào sẽ được dạy khi học [kh dữ liệu](ngonngukhdl)
+- ngôn ngữ nào sẽ được dạy khi học [khoa hoc dữ liệu](ngonngukhdl)
+- ngôn ngữ nào sẽ được dạy khi học [khoa học dl](ngonngukhdl)
 - học [httt](ngonnguhttt) thì cần biết ngôn ngữ nào
-- học [hệ thống thông tin](ngonnguhttt:httt) thì cần biết ngôn ngữ nào
+- học [hhttt](ngonnguhttt) thì cần biết ngôn ngữ nào
+- học [IS](ngonnguhttt) thì cần biết ngôn ngữ nào
+- học [hệ thống thông tin](ngonnguhttt) thì cần biết ngôn ngữ nào
+- học [he thong thong tin](ngonnguhttt) thì cần biết ngôn ngữ nào
+- học [hệ thông thông tin](ngonnguhttt) thì cần biết ngôn ngữ nào
+- học [hê thong thông tin](ngonnguhttt) thì cần biết ngôn ngữ nào
+- học [hệ thống thông tin](ngonnguhttt) thì cần biết ngôn ngữ nào
+- học [hệ thống thông tín](ngonnguhttt) thì cần biết ngôn ngữ nào
+- học [he thống thông tinn](ngonnguhttt) thì cần biết ngôn ngữ nào
+- học [ht thông tin](ngonnguhttt) thì cần biết ngôn ngữ nào
+- học [hệ thống tt](ngonnguhttt) thì cần biết ngôn ngữ nào
+- học [he thống tt](ngonnguhttt) thì cần biết ngôn ngữ nào
+- học [ht thông tin](ngonnguhttt) thì cần biết ngôn ngữ nào
+- học [ht thong6 tin](ngonnguhttt) thì cần biết ngôn ngữ nào
 - [httt](ngonnguhttt) thì cần biết ngôn ngữ nào
-- [hệ thống thông tin](ngonnguhttt:httt) thì cần biết ngôn ngữ nào
+- [hhttt](ngonnguhttt) thì cần biết ngôn ngữ nào
+- [IS](ngonnguhttt) thì cần biết ngôn ngữ nào
+- [hệ thống thông tin](ngonnguhttt) thì cần biết ngôn ngữ nào
+- [he thong thong tin](ngonnguhttt) thì cần biết ngôn ngữ nào
+- [hệ thông thông tin](ngonnguhttt) thì cần biết ngôn ngữ nào
+- [hê thong thông tin](ngonnguhttt) thì cần biết ngôn ngữ nào
+- [hệ thống thông tin](ngonnguhttt) thì cần biết ngôn ngữ nào
+- [hệ thống thông tín](ngonnguhttt) thì cần biết ngôn ngữ nào
+- [he thống thông tinn](ngonnguhttt) thì cần biết ngôn ngữ nào
+- [ht thông tin](ngonnguhttt) thì cần biết ngôn ngữ nào
+- [hệ thống tt](ngonnguhttt) thì cần biết ngôn ngữ nào
+- [he thống tt](ngonnguhttt) thì cần biết ngôn ngữ nào
+- [ht thông tin](ngonnguhttt) thì cần biết ngôn ngữ nào
+- [ht thong6 tin](ngonnguhttt) thì cần biết ngôn ngữ nào
 - ngôn ngữ nào cần khi học [httt](ngonnguhttt)
-- ngôn ngữ nào cần khi học [hệ thống thông tin](ngonnguhttt:httt)
+- ngôn ngữ nào cần khi học [hhttt](ngonnguhttt)
+- ngôn ngữ nào cần khi học [IS](ngonnguhttt)
+- ngôn ngữ nào cần khi học [hệ thống thông tin](ngonnguhttt)
+- ngôn ngữ nào cần khi học [he thong thong tin](ngonnguhttt)
+- ngôn ngữ nào cần khi học [hệ thông thông tin](ngonnguhttt)
+- ngôn ngữ nào cần khi học [hê thong thông tin](ngonnguhttt)
+- ngôn ngữ nào cần khi học [hệ thống thông tin](ngonnguhttt)
+- ngôn ngữ nào cần khi học [hệ thống thông tín](ngonnguhttt)
+- ngôn ngữ nào cần khi học [he thống thông tinn](ngonnguhttt)
+- ngôn ngữ nào cần khi học [ht thông tin](ngonnguhttt)
+- ngôn ngữ nào cần khi học [hệ thống tt](ngonnguhttt)
+- ngôn ngữ nào cần khi học [he thống tt](ngonnguhttt)
+- ngôn ngữ nào cần khi học [ht thông tin](ngonnguhttt)
+- ngôn ngữ nào cần khi học [ht thong6 tin](ngonnguhttt)
 - ngôn ngữ nào hot nhất khi học [httt](ngonnguhttt)
-- ngôn ngữ nào hot nhất khi học [hệ thống thông tin](ngonnguhttt:httt)
-- ngôn ngữ nào sẽ được d ạy khi học [httt](ngonnguhttt)
-- ngôn ngữ nào sẽ được d ạy khi học [hệ thống thông tin](ngonnguhttt:httt)
-
+- ngôn ngữ nào hot nhất khi học [hhttt](ngonnguhttt)
+- ngôn ngữ nào hot nhất khi học [IS](ngonnguhttt)
+- ngôn ngữ nào hot nhất khi học [hệ thống thông tin](ngonnguhttt)
+- ngôn ngữ nào hot nhất khi học [he thong thong tin](ngonnguhttt)
+- ngôn ngữ nào hot nhất khi học [hệ thông thông tin](ngonnguhttt)
+- ngôn ngữ nào hot nhất khi học [hê thong thông tin](ngonnguhttt)
+- ngôn ngữ nào hot nhất khi học [hệ thống thông tin](ngonnguhttt)
+- ngôn ngữ nào hot nhất khi học [hệ thống thông tín](ngonnguhttt)
+- ngôn ngữ nào hot nhất khi học [he thống thông tinn](ngonnguhttt)
+- ngôn ngữ nào hot nhất khi học [ht thông tin](ngonnguhttt)
+- ngôn ngữ nào hot nhất khi học [hệ thống tt](ngonnguhttt)
+- ngôn ngữ nào hot nhất khi học [he thống tt](ngonnguhttt)
+- ngôn ngữ nào hot nhất khi học [ht thông tin](ngonnguhttt)
+- ngôn ngữ nào hot nhất khi học [ht thong6 tin](ngonnguhttt)
+- ngôn ngữ nào sẽ được dạy khi học [httt](ngonnguhttt)
+- ngôn ngữ nào sẽ được dạy khi học [hhttt](ngonnguhttt)
+- ngôn ngữ nào sẽ được dạy khi học [IS](ngonnguhttt)
+- ngôn ngữ nào sẽ được dạy khi học [hệ thống thông tin](ngonnguhttt)
+- ngôn ngữ nào sẽ được dạy khi học [he thong thong tin](ngonnguhttt)
+- ngôn ngữ nào sẽ được dạy khi học [hệ thông thông tin](ngonnguhttt)
+- ngôn ngữ nào sẽ được dạy khi học [hê thong thông tin](ngonnguhttt)
+- ngôn ngữ nào sẽ được dạy khi học [hệ thống thông tin](ngonnguhttt)
+- ngôn ngữ nào sẽ được dạy khi học [hệ thống thông tín](ngonnguhttt)
+- ngôn ngữ nào sẽ được dạy khi học [he thống thông tinn](ngonnguhttt)
+- ngôn ngữ nào sẽ được dạy khi học [ht thông tin](ngonnguhttt)
+- ngôn ngữ nào sẽ được dạy khi học [hệ thống tt](ngonnguhttt)
+- ngôn ngữ nào sẽ được dạy khi học [he thống tt](ngonnguhttt)
+- ngôn ngữ nào sẽ được dạy khi học [ht thông tin](ngonnguhttt)
+- ngôn ngữ nào sẽ được dạy khi học [ht thong6 tin](ngonnguhttt)
 ## intent: laptrinh
 - học [khmt](laptrinhkhmt) làm thế nào nâng cao trình độ lập trình
-- học [khoa học máy tính](laptrinhkhmt:khmt) làm thế nào nâng cao trình độ lập trình
-- mới học lập trình thì học cái gì đầu tiên khi học [khoa học máy tính](laptrinhkhmt:khmt)
+- học [khtm](laptrinhkhmt) làm thế nào nâng cao trình độ lập trình
+- học [khoa học máy tính](laptrinhkhmt) làm thế nào nâng cao trình độ lập trình
+- học [khoa hoc may tinh](laptrinhkhmt) làm thế nào nâng cao trình độ lập trình
+- học [cong nghe may tinh](laptrinhkhmt) làm thế nào nâng cao trình độ lập trình
+- học [khao hoc may tinh](laptrinhkhmt) làm thế nào nâng cao trình độ lập trình
+- học [khao học may tinh](laptrinhkhmt) làm thế nào nâng cao trình độ lập trình
+- học [công nghệ máy tính](laptrinhkhmt) làm thế nào nâng cao trình độ lập trình
+- học [khao học máy tinh](laptrinhkhmt) làm thế nào nâng cao trình độ lập trình
+- học [khoa học may tinh](laptrinhkhmt) làm thế nào nâng cao trình độ lập trình
+- học [CS](laptrinhkhmt) làm thế nào nâng cao trình độ lập trình
+- học [kh máy tinh](laptrinhkhmt) làm thế nào nâng cao trình độ lập trình
+- học [kh may tính](laptrinhkhmt) làm thế nào nâng cao trình độ lập trình
+- học [kh máy tính](laptrinhkhmt) làm thế nào nâng cao trình độ lập trình
+- học [kh máy tình](laptrinhkhmt) làm thế nào nâng cao trình độ lập trình
 - học lập trình có khó không khi học [khmt](laptrinhkhmt)
-- học lập trình có khó không khi học [khoa học máy tính](laptrinhkhmt:khmt)
-- yếu lập trình thì phải cải thiện như thế nào khi học [khoa học máy tính](laptrinhkhmt:khmt)
+- học lập trình có khó không khi học [khtm](laptrinhkhmt)
+- học lập trình có khó không khi học [khoa học máy tính](laptrinhkhmt)
+- học lập trình có khó không khi học [khoa hoc may tinh](laptrinhkhmt)
+- học lập trình có khó không khi học [cong nghe may tinh](laptrinhkhmt)
+- học lập trình có khó không khi học [khao hoc may tinh](laptrinhkhmt)
+- học lập trình có khó không khi học [khao học may tinh](laptrinhkhmt)
+- học lập trình có khó không khi học [công nghệ máy tính](laptrinhkhmt)
+- học lập trình có khó không khi học [khao học máy tinh](laptrinhkhmt)
+- học lập trình có khó không khi học [khoa học may tinh](laptrinhkhmt)
+- học lập trình có khó không khi học [CS](laptrinhkhmt)
+- học lập trình có khó không khi học [kh máy tinh](laptrinhkhmt)
+- học lập trình có khó không khi học [kh may tính](laptrinhkhmt)
+- học lập trình có khó không khi học [kh máy tính](laptrinhkhmt)
+- học lập trình có khó không khi học [kh máy tình](laptrinhkhmt)
 - chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khmt](laptrinhkhmt)
-- học [khoa học máy tính](laptrinhkhmt:khmt) thì lập trình có cần giỏi tiếng anh hay toán không
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khtm](laptrinhkhmt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khoa học máy tính](laptrinhkhmt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khoa hoc may tinh](laptrinhkhmt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [cong nghe may tinh](laptrinhkhmt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khao hoc may tinh](laptrinhkhmt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khao học may tinh](laptrinhkhmt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [công nghệ máy tính](laptrinhkhmt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khao học máy tinh](laptrinhkhmt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khoa học may tinh](laptrinhkhmt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [CS](laptrinhkhmt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [kh máy tinh](laptrinhkhmt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [kh may tính](laptrinhkhmt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [kh máy tính](laptrinhkhmt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [kh máy tình](laptrinhkhmt)
 - học [khmt](laptrinhkhmt) thì lập trình có cần giỏi tiếng anh hay toán không
-- học [ktpm](laptrinhktpm) làm thế nào nâng cao trình độ lập trình 
-- học [kỹ thuật phần mềm](laptrinhktpm:ktpm) làm thế nào nâng cao trình độ lập trình 
-- mới học lập trình thì học cái gì đầu tiên khi học [kỹ thuật phần mềm](laptrinhktpm:ktpm)
+- học [khtm](laptrinhkhmt) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [khoa học máy tính](laptrinhkhmt) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [khoa hoc may tinh](laptrinhkhmt) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [cong nghe may tinh](laptrinhkhmt) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [khao hoc may tinh](laptrinhkhmt) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [khao học may tinh](laptrinhkhmt) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [công nghệ máy tính](laptrinhkhmt) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [khao học máy tinh](laptrinhkhmt) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [khoa học may tinh](laptrinhkhmt) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [CS](laptrinhkhmt) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [kh máy tinh](laptrinhkhmt) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [kh may tính](laptrinhkhmt) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [kh máy tính](laptrinhkhmt) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [kh máy tình](laptrinhkhmt) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [ktpm](laptrinhktpm) làm thế nào nâng cao trình độ lập trình
+- học [ktpmm](laptrinhktpm) làm thế nào nâng cao trình độ lập trình
+- học [kỹ thuật phần mềm](laptrinhktpm) làm thế nào nâng cao trình độ lập trình
+- học [ky thuat phan mem](laptrinhktpm) làm thế nào nâng cao trình độ lập trình
+- học [ki thuật phần mềm](laptrinhktpm) làm thế nào nâng cao trình độ lập trình
+- học [kỹ thuat phần mềm](laptrinhktpm) làm thế nào nâng cao trình độ lập trình
+- học [kỹ thuật phần mềm](laptrinhktpm) làm thế nào nâng cao trình độ lập trình
+- học [cong nghệ phần mềm](laptrinhktpm) làm thế nào nâng cao trình độ lập trình
+- học [công nghệ phần mềm](laptrinhktpm) làm thế nào nâng cao trình độ lập trình
+- học [cong nghe phan mem](laptrinhktpm) làm thế nào nâng cao trình độ lập trình
+- học [SE](laptrinhktpm) làm thế nào nâng cao trình độ lập trình
+- học [kt phần mềm](laptrinhktpm) làm thế nào nâng cao trình độ lập trình
+- học [kt phan mem](laptrinhktpm) làm thế nào nâng cao trình độ lập trình
+- học [kỹ thuật phân mem](laptrinhktpm) làm thế nào nâng cao trình độ lập trình
+- học [phan mem](laptrinhktpm) làm thế nào nâng cao trình độ lập trình
+- học [phần mềm](laptrinhktpm) làm thế nào nâng cao trình độ lập trình
+- học [kt pm](laptrinhktpm) làm thế nào nâng cao trình độ lập trình
 - học lập trình có khó không khi học [ktpm](laptrinhktpm)
-- học lập trình có khó không khi học [kỹ thuật phần mềm](laptrinhktpm:ktpm)
-- yếu lập trình thì phải cải thiện như thế nào khi học [kỹ thuật phần mềm](laptrinhktpm:ktpm)
+- học lập trình có khó không khi học [ktpmm](laptrinhktpm)
+- học lập trình có khó không khi học [kỹ thuật phần mềm](laptrinhktpm)
+- học lập trình có khó không khi học [ky thuat phan mem](laptrinhktpm)
+- học lập trình có khó không khi học [ki thuật phần mềm](laptrinhktpm)
+- học lập trình có khó không khi học [kỹ thuat phần mềm](laptrinhktpm)
+- học lập trình có khó không khi học [kỹ thuật phần mềm](laptrinhktpm)
+- học lập trình có khó không khi học [cong nghệ phần mềm](laptrinhktpm)
+- học lập trình có khó không khi học [công nghệ phần mềm](laptrinhktpm)
+- học lập trình có khó không khi học [cong nghe phan mem](laptrinhktpm)
+- học lập trình có khó không khi học [SE](laptrinhktpm)
+- học lập trình có khó không khi học [kt phần mềm](laptrinhktpm)
+- học lập trình có khó không khi học [kt phan mem](laptrinhktpm)
+- học lập trình có khó không khi học [kỹ thuật phân mem](laptrinhktpm)
+- học lập trình có khó không khi học [phan mem](laptrinhktpm)
+- học lập trình có khó không khi học [phần mềm](laptrinhktpm)
+- học lập trình có khó không khi học [kt pm](laptrinhktpm)
 - chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [ktpm](laptrinhktpm)
-- học [kỹ thuật phần mềm](laptrinhktpm:ktpm) thì lập trình có cần giỏi tiếng anh hay toán không
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [ktpmm](laptrinhktpm)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [kỹ thuật phần mềm](laptrinhktpm)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [ky thuat phan mem](laptrinhktpm)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [ki thuật phần mềm](laptrinhktpm)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [kỹ thuat phần mềm](laptrinhktpm)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [kỹ thuật phần mềm](laptrinhktpm)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [cong nghệ phần mềm](laptrinhktpm)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [công nghệ phần mềm](laptrinhktpm)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [cong nghe phan mem](laptrinhktpm)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [SE](laptrinhktpm)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [kt phần mềm](laptrinhktpm)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [kt phan mem](laptrinhktpm)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [kỹ thuật phân mem](laptrinhktpm)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [phan mem](laptrinhktpm)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [phần mềm](laptrinhktpm)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [kt pm](laptrinhktpm)
 - học [ktpm](laptrinhktpm) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [ktpmm](laptrinhktpm) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [kỹ thuật phần mềm](laptrinhktpm) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [ky thuat phan mem](laptrinhktpm) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [ki thuật phần mềm](laptrinhktpm) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [kỹ thuat phần mềm](laptrinhktpm) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [kỹ thuật phần mềm](laptrinhktpm) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [cong nghệ phần mềm](laptrinhktpm) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [công nghệ phần mềm](laptrinhktpm) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [cong nghe phan mem](laptrinhktpm) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [SE](laptrinhktpm) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [kt phần mềm](laptrinhktpm) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [kt phan mem](laptrinhktpm) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [kỹ thuật phân mem](laptrinhktpm) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [phan mem](laptrinhktpm) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [phần mềm](laptrinhktpm) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [kt pm](laptrinhktpm) thì lập trình có cần giỏi tiếng anh hay toán không
 - học [cntt](laptrinhcntt) làm thế nào nâng cao trình độ lập trình
-- mới học lập trình thì học cái gì đầu tiên khi học [công nghệ thông tin](laptrinhcntt:cntt)
+- học [cnttt](laptrinhcntt) làm thế nào nâng cao trình độ lập trình
+- học [công nghệ thông tin](laptrinhcntt) làm thế nào nâng cao trình độ lập trình
+- học [cong nghe thong tin](laptrinhcntt) làm thế nào nâng cao trình độ lập trình
+- học [công nghệ thong tin](laptrinhcntt) làm thế nào nâng cao trình độ lập trình
+- học [cong nghe thông tin](laptrinhcntt) làm thế nào nâng cao trình độ lập trình
+- học [IT](laptrinhcntt) làm thế nào nâng cao trình độ lập trình
+- học [công nghệ thông tin](laptrinhcntt) làm thế nào nâng cao trình độ lập trình
+- học [cong nghệ thông tin](laptrinhcntt) làm thế nào nâng cao trình độ lập trình
+- học [công nghệ thông tinn](laptrinhcntt) làm thế nào nâng cao trình độ lập trình
+- học [cn thong tin](laptrinhcntt) làm thế nào nâng cao trình độ lập trình
+- học [cn tt](laptrinhcntt) làm thế nào nâng cao trình độ lập trình
+- học [cn thông tin](laptrinhcntt) làm thế nào nâng cao trình độ lập trình
+- học [cogn nghệ thông tin](laptrinhcntt) làm thế nào nâng cao trình độ lập trình
+- học [công nghệ tt](laptrinhcntt) làm thế nào nâng cao trình độ lập trình
+- học [cong6 nghệ thong tin](laptrinhcntt) làm thế nào nâng cao trình độ lập trình
+- học [công nghệ thong tin](laptrinhcntt) làm thế nào nâng cao trình độ lập trình
 - mới học lập trình thì học cái gì đầu tiên khi học [cntt](laptrinhcntt)
+- mới học lập trình thì học cái gì đầu tiên khi học [cnttt](laptrinhcntt)
+- mới học lập trình thì học cái gì đầu tiên khi học [công nghệ thông tin](laptrinhcntt)
+- mới học lập trình thì học cái gì đầu tiên khi học [cong nghe thong tin](laptrinhcntt)
+- mới học lập trình thì học cái gì đầu tiên khi học [công nghệ thong tin](laptrinhcntt)
+- mới học lập trình thì học cái gì đầu tiên khi học [cong nghe thông tin](laptrinhcntt)
+- mới học lập trình thì học cái gì đầu tiên khi học [IT](laptrinhcntt)
+- mới học lập trình thì học cái gì đầu tiên khi học [công nghệ thông tin](laptrinhcntt)
+- mới học lập trình thì học cái gì đầu tiên khi học [cong nghệ thông tin](laptrinhcntt)
+- mới học lập trình thì học cái gì đầu tiên khi học [công nghệ thông tinn](laptrinhcntt)
+- mới học lập trình thì học cái gì đầu tiên khi học [cn thong tin](laptrinhcntt)
+- mới học lập trình thì học cái gì đầu tiên khi học [cn tt](laptrinhcntt)
+- mới học lập trình thì học cái gì đầu tiên khi học [cn thông tin](laptrinhcntt)
+- mới học lập trình thì học cái gì đầu tiên khi học [cogn nghệ thông tin](laptrinhcntt)
+- mới học lập trình thì học cái gì đầu tiên khi học [công nghệ tt](laptrinhcntt)
+- mới học lập trình thì học cái gì đầu tiên khi học [cong6 nghệ thong tin](laptrinhcntt)
+- mới học lập trình thì học cái gì đầu tiên khi học [công nghệ thong tin](laptrinhcntt)
 - học lập trình có khó không khi học [cntt](laptrinhcntt)
-- học lập trình có khó không khi học [công nghệ thông tin](laptrinhcntt:cntt)
-- yếu lập trình thì phải cải thiện như thế nào khi học [công nghệ thông tin](laptrinhcntt:cntt)
+- học lập trình có khó không khi học [cnttt](laptrinhcntt)
+- học lập trình có khó không khi học [công nghệ thông tin](laptrinhcntt)
+- học lập trình có khó không khi học [cong nghe thong tin](laptrinhcntt)
+- học lập trình có khó không khi học [công nghệ thong tin](laptrinhcntt)
+- học lập trình có khó không khi học [cong nghe thông tin](laptrinhcntt)
+- học lập trình có khó không khi học [IT](laptrinhcntt)
+- học lập trình có khó không khi học [công nghệ thông tin](laptrinhcntt)
+- học lập trình có khó không khi học [cong nghệ thông tin](laptrinhcntt)
+- học lập trình có khó không khi học [công nghệ thông tinn](laptrinhcntt)
+- học lập trình có khó không khi học [cn thong tin](laptrinhcntt)
+- học lập trình có khó không khi học [cn tt](laptrinhcntt)
+- học lập trình có khó không khi học [cn thông tin](laptrinhcntt)
+- học lập trình có khó không khi học [cogn nghệ thông tin](laptrinhcntt)
+- học lập trình có khó không khi học [công nghệ tt](laptrinhcntt)
+- học lập trình có khó không khi học [cong6 nghệ thong tin](laptrinhcntt)
+- học lập trình có khó không khi học [công nghệ thong tin](laptrinhcntt)
 - chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [cntt](laptrinhcntt)
-- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [công nghệ thông tin](laptrinhcntt:cntt)
-- học [công nghệ thông tin](laptrinhcntt:cntt) thì lập trình có cần giỏi tiếng anh hay toán không
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [cnttt](laptrinhcntt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [công nghệ thông tin](laptrinhcntt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [cong nghe thong tin](laptrinhcntt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [công nghệ thong tin](laptrinhcntt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [cong nghe thông tin](laptrinhcntt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [IT](laptrinhcntt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [công nghệ thông tin](laptrinhcntt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [cong nghệ thông tin](laptrinhcntt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [công nghệ thông tinn](laptrinhcntt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [cn thong tin](laptrinhcntt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [cn tt](laptrinhcntt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [cn thông tin](laptrinhcntt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [cogn nghệ thông tin](laptrinhcntt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [công nghệ tt](laptrinhcntt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [cong6 nghệ thong tin](laptrinhcntt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [công nghệ thong tin](laptrinhcntt)
 - học [httt](laptrinhhttt) làm thế nào nâng cao trình độ lập trình
-- học [hệ thống thông tin](laptrinhhttt:httt) làm thế nào nâng cao trình độ lập trình
-- mới học lập trình thì học cái gì đầu tiên khi học [hệ thống thông tin](laptrinhhttt:httt)
+- học [hhttt](laptrinhhttt) làm thế nào nâng cao trình độ lập trình
+- học [IS](laptrinhhttt) làm thế nào nâng cao trình độ lập trình
+- học [hệ thống thông tin](laptrinhhttt) làm thế nào nâng cao trình độ lập trình
+- học [he thong thong tin](laptrinhhttt) làm thế nào nâng cao trình độ lập trình
+- học [hệ thông thông tin](laptrinhhttt) làm thế nào nâng cao trình độ lập trình
+- học [hê thong thông tin](laptrinhhttt) làm thế nào nâng cao trình độ lập trình
+- học [hệ thống thông tin](laptrinhhttt) làm thế nào nâng cao trình độ lập trình
+- học [hệ thống thông tín](laptrinhhttt) làm thế nào nâng cao trình độ lập trình
+- học [he thống thông tinn](laptrinhhttt) làm thế nào nâng cao trình độ lập trình
+- học [ht thông tin](laptrinhhttt) làm thế nào nâng cao trình độ lập trình
+- học [hệ thống tt](laptrinhhttt) làm thế nào nâng cao trình độ lập trình
+- học [he thống tt](laptrinhhttt) làm thế nào nâng cao trình độ lập trình
+- học [ht thông tin](laptrinhhttt) làm thế nào nâng cao trình độ lập trình
+- học [ht thong6 tin](laptrinhhttt) làm thế nào nâng cao trình độ lập trình
 - học lập trình có khó không khi học [httt](laptrinhhttt)
-- học lập trình có khó không khi học [hệ thống thông tin](laptrinhhttt:httt)
-- yếu lập trình thì phải cải thiện như thế nào khi học [hệ thống thông tin](laptrinhhttt:httt)
+- học lập trình có khó không khi học [hhttt](laptrinhhttt)
+- học lập trình có khó không khi học [IS](laptrinhhttt)
+- học lập trình có khó không khi học [hệ thống thông tin](laptrinhhttt)
+- học lập trình có khó không khi học [he thong thong tin](laptrinhhttt)
+- học lập trình có khó không khi học [hệ thông thông tin](laptrinhhttt)
+- học lập trình có khó không khi học [hê thong thông tin](laptrinhhttt)
+- học lập trình có khó không khi học [hệ thống thông tin](laptrinhhttt)
+- học lập trình có khó không khi học [hệ thống thông tín](laptrinhhttt)
+- học lập trình có khó không khi học [he thống thông tinn](laptrinhhttt)
+- học lập trình có khó không khi học [ht thông tin](laptrinhhttt)
+- học lập trình có khó không khi học [hệ thống tt](laptrinhhttt)
+- học lập trình có khó không khi học [he thống tt](laptrinhhttt)
+- học lập trình có khó không khi học [ht thông tin](laptrinhhttt)
+- học lập trình có khó không khi học [ht thong6 tin](laptrinhhttt)
 - yếu lập trình thì phải cải thiện như thế nào khi học [httt](laptrinhhttt)
+- yếu lập trình thì phải cải thiện như thế nào khi học [hhttt](laptrinhhttt)
+- yếu lập trình thì phải cải thiện như thế nào khi học [IS](laptrinhhttt)
+- yếu lập trình thì phải cải thiện như thế nào khi học [hệ thống thông tin](laptrinhhttt)
+- yếu lập trình thì phải cải thiện như thế nào khi học [he thong thong tin](laptrinhhttt)
+- yếu lập trình thì phải cải thiện như thế nào khi học [hệ thông thông tin](laptrinhhttt)
+- yếu lập trình thì phải cải thiện như thế nào khi học [hê thong thông tin](laptrinhhttt)
+- yếu lập trình thì phải cải thiện như thế nào khi học [hệ thống thông tin](laptrinhhttt)
+- yếu lập trình thì phải cải thiện như thế nào khi học [hệ thống thông tín](laptrinhhttt)
+- yếu lập trình thì phải cải thiện như thế nào khi học [he thống thông tinn](laptrinhhttt)
+- yếu lập trình thì phải cải thiện như thế nào khi học [ht thông tin](laptrinhhttt)
+- yếu lập trình thì phải cải thiện như thế nào khi học [hệ thống tt](laptrinhhttt)
+- yếu lập trình thì phải cải thiện như thế nào khi học [he thống tt](laptrinhhttt)
+- yếu lập trình thì phải cải thiện như thế nào khi học [ht thông tin](laptrinhhttt)
+- yếu lập trình thì phải cải thiện như thế nào khi học [ht thong6 tin](laptrinhhttt)
 - chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [httt](laptrinhhttt)
-- học [hệ thống thông tin](laptrinhhttt:httt) thì lập trình có cần giỏi tiếng anh hay toán không
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [hhttt](laptrinhhttt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [IS](laptrinhhttt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [hệ thống thông tin](laptrinhhttt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [he thong thong tin](laptrinhhttt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [hệ thông thông tin](laptrinhhttt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [hê thong thông tin](laptrinhhttt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [hệ thống thông tin](laptrinhhttt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [hệ thống thông tín](laptrinhhttt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [he thống thông tinn](laptrinhhttt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [ht thông tin](laptrinhhttt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [hệ thống tt](laptrinhhttt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [he thống tt](laptrinhhttt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [ht thông tin](laptrinhhttt)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [ht thong6 tin](laptrinhhttt)
 - học [khdl](laptrinhkhdl) làm thế nào nâng cao trình độ lập trình
-- học [khoa học dữ liệu](laptrinhkhdl:khdl) làm thế nào nâng cao trình độ lập trình
-- mới học lập trình thì học cái gì đầu tiên khi học [khoa học dữ liệu](laptrinhkhdl:khdl)
+- học [khdk](laptrinhkhdl) làm thế nào nâng cao trình độ lập trình
+- học [khoa học dữ liệu](laptrinhkhdl) làm thế nào nâng cao trình độ lập trình
+- học [khoa hoc du lieu](laptrinhkhdl) làm thế nào nâng cao trình độ lập trình
+- học [khoa học du lieu](laptrinhkhdl) làm thế nào nâng cao trình độ lập trình
+- học [khoa hoc du liệu](laptrinhkhdl) làm thế nào nâng cao trình độ lập trình
+- học [khao học dữ leiu](laptrinhkhdl) làm thế nào nâng cao trình độ lập trình
+- học [khao học du lieu](laptrinhkhdl) làm thế nào nâng cao trình độ lập trình
+- học [khao học dữ leiu](laptrinhkhdl) làm thế nào nâng cao trình độ lập trình
+- học [khoa học du lieuu](laptrinhkhdl) làm thế nào nâng cao trình độ lập trình
+- học [kh dl](laptrinhkhdl) làm thế nào nâng cao trình độ lập trình
+- học [kh dữ liệu](laptrinhkhdl) làm thế nào nâng cao trình độ lập trình
+- học [khoa hoc dữ liệu](laptrinhkhdl) làm thế nào nâng cao trình độ lập trình
+- học [khoa học dl](laptrinhkhdl) làm thế nào nâng cao trình độ lập trình
 - mới học lập trình thì học cái gì đầu tiên khi học [khdl](laptrinhkhdl)
+- mới học lập trình thì học cái gì đầu tiên khi học [khdk](laptrinhkhdl)
+- mới học lập trình thì học cái gì đầu tiên khi học [khoa học dữ liệu](laptrinhkhdl)
+- mới học lập trình thì học cái gì đầu tiên khi học [khoa hoc du lieu](laptrinhkhdl)
+- mới học lập trình thì học cái gì đầu tiên khi học [khoa học du lieu](laptrinhkhdl)
+- mới học lập trình thì học cái gì đầu tiên khi học [khoa hoc du liệu](laptrinhkhdl)
+- mới học lập trình thì học cái gì đầu tiên khi học [khao học dữ leiu](laptrinhkhdl)
+- mới học lập trình thì học cái gì đầu tiên khi học [khao học du lieu](laptrinhkhdl)
+- mới học lập trình thì học cái gì đầu tiên khi học [khao học dữ leiu](laptrinhkhdl)
+- mới học lập trình thì học cái gì đầu tiên khi học [khoa học du lieuu](laptrinhkhdl)
+- mới học lập trình thì học cái gì đầu tiên khi học [kh dl](laptrinhkhdl)
+- mới học lập trình thì học cái gì đầu tiên khi học [kh dữ liệu](laptrinhkhdl)
+- mới học lập trình thì học cái gì đầu tiên khi học [khoa hoc dữ liệu](laptrinhkhdl)
+- mới học lập trình thì học cái gì đầu tiên khi học [khoa học dl](laptrinhkhdl)
 - học lập trình có khó khôngkhi học [khdl](laptrinhkhdl)
-- yếu lập trình thì phải cải thiện như thế nào khi học [khoa học dữ liệu](laptrinhkhdl:khdl)
+- học lập trình có khó khôngkhi học [khdk](laptrinhkhdl)
+- học lập trình có khó khôngkhi học [khoa học dữ liệu](laptrinhkhdl)
+- học lập trình có khó khôngkhi học [khoa hoc du lieu](laptrinhkhdl)
+- học lập trình có khó khôngkhi học [khoa học du lieu](laptrinhkhdl)
+- học lập trình có khó khôngkhi học [khoa hoc du liệu](laptrinhkhdl)
+- học lập trình có khó khôngkhi học [khao học dữ leiu](laptrinhkhdl)
+- học lập trình có khó khôngkhi học [khao học du lieu](laptrinhkhdl)
+- học lập trình có khó khôngkhi học [khao học dữ leiu](laptrinhkhdl)
+- học lập trình có khó khôngkhi học [khoa học du lieuu](laptrinhkhdl)
+- học lập trình có khó khôngkhi học [kh dl](laptrinhkhdl)
+- học lập trình có khó khôngkhi học [kh dữ liệu](laptrinhkhdl)
+- học lập trình có khó khôngkhi học [khoa hoc dữ liệu](laptrinhkhdl)
+- học lập trình có khó khôngkhi học [khoa học dl](laptrinhkhdl)
 - chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khdl](laptrinhkhdl)
-- học [khoa học dữ liệu](laptrinhkhdl:khdl) thì lập trình có cần giỏi tiếng anh hay toán không
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khdk](laptrinhkhdl)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khoa học dữ liệu](laptrinhkhdl)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khoa hoc du lieu](laptrinhkhdl)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khoa học du lieu](laptrinhkhdl)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khoa hoc du liệu](laptrinhkhdl)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khao học dữ leiu](laptrinhkhdl)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khao học du lieu](laptrinhkhdl)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khao học dữ leiu](laptrinhkhdl)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khoa học du lieuu](laptrinhkhdl)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [kh dl](laptrinhkhdl)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [kh dữ liệu](laptrinhkhdl)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khoa hoc dữ liệu](laptrinhkhdl)
+- chưa biết gì thì học lập trình cần bao nhiêu thời gian khi học [khoa học dl](laptrinhkhdl)
 - học [khdl](laptrinhkhdl) thì lập trình có cần giỏi tiếng anh hay toán không
-
+- học [khdk](laptrinhkhdl) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [khoa học dữ liệu](laptrinhkhdl) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [khoa hoc du lieu](laptrinhkhdl) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [khoa học du lieu](laptrinhkhdl) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [khoa hoc du liệu](laptrinhkhdl) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [khao học dữ leiu](laptrinhkhdl) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [khao học du lieu](laptrinhkhdl) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [khao học dữ leiu](laptrinhkhdl) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [khoa học du lieuu](laptrinhkhdl) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [kh dl](laptrinhkhdl) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [kh dữ liệu](laptrinhkhdl) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [khoa hoc dữ liệu](laptrinhkhdl) thì lập trình có cần giỏi tiếng anh hay toán không
+- học [khoa học dl](laptrinhkhdl) thì lập trình có cần giỏi tiếng anh hay toán không
