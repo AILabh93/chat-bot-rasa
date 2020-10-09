@@ -16,8 +16,8 @@ $('.usrInput').on('keyup keypress', function (e) {
 	}
 });
 
-
 //------------------------------------- Set user response------------------------------------
+
 function setUserResponse(val) {
 	var UserResponse = '<img class="userAvatar" src=' + "./static/img/userAvatar.jpg" + '><p class="userMsg">' + val + ' </p><div class="clearfix"></div>';
 	$(UserResponse).appendTo('.chats').show('slow');
@@ -33,20 +33,37 @@ function scrollToBottomOfResults() {
 }
 
 function send(message) {
-	//console.log("User Message:", message)
 	$.ajax({
 		url: 'http://localhost:5005/webhooks/rest/webhook',
 		type: 'POST',
 		contentType: 'application/json',
 		data: JSON.stringify({
-			"message": message,
-			"sender": "Me"
+			"message": message
 		}),
 		success: function (data, textStatus) {
 			if(data != null){
-					setBotResponse(data);
+				setBotResponse(data);
 			}
-			//console.log("Rasa Response: ", data, "\n Status:", textStatus)
+			firebase.auth().onAuthStateChanged(user =>{
+				if(user)
+				  {
+					db.collection('noidungtrochuyen').add({
+						nd_user: message,
+						ten_user: user['email'],
+						bot_chat: data[0]['text'],
+						timestamp: firebase.firestore.FieldValue.serverTimestamp()
+					}).then( ()=>{
+						console.log(user);
+					}).catch(err =>{
+						console.log(err);
+					});
+				
+				  }
+				else{
+					user=null;
+				}
+			});
+			// console.log(data);
 		},
 		error: function (errorMessage) {
 			setBotResponse("");
@@ -61,7 +78,7 @@ function setBotResponse(val) {
 	setTimeout(function () {
 		if (val.length < 1) {
 			//if there is no response from Rasa
-			msg = 'I couldn\'t get that. Let\' try something else!';
+			msg = 'Xin lỗi mình không hiểu ý của bạn';
 
 			var BotResponse = '<img class="botAvatar" src="./static/img/botAvatar.png"><p class="botMsg">' + msg + '</p><div class="clearfix"></div>';
 			$(BotResponse).appendTo('.chats').hide().fadeIn(1000);
@@ -95,17 +112,39 @@ function setBotResponse(val) {
 	}, 500);
 }
 
+function setBotRes(text){
+	var BotResponse = '<img class="botAvatar" src="./static/img/botAvatar.png"><p class="botMsg">' + text + '</p><div class="clearfix"></div>';
+	$(BotResponse).appendTo('.chats');
+}
 
 // ------------------------------------------ Toggle chatbot -----------------------------------------------
 $('#profile_div').click(function () {
 	$('.profile_div').toggle();
 	$('.widget').toggle();
+	firebase.auth().onAuthStateChanged(user =>{
+		if(user)
+		  {
+			db.collection("noidungtrochuyen").orderBy('timestamp').get().then(function(querySnapshot) {
+				querySnapshot.forEach(function(doc) {
+					if(user.email==doc.data()['ten_user'])
+					{
+						setUserResponse(doc.data()['nd_user']);
+						setBotRes(doc.data()['bot_chat']);
+					}
+				});
+			});
+		  }
+		else{
+			user=null;
+		}
+	});
 	scrollToBottomOfResults();
 });
 
 $('#close').click(function () {
 	$('.profile_div').toggle();
 	$('.widget').toggle();
+	window.location.reload(false); 
 });
 
 
@@ -129,7 +168,6 @@ function addSuggestion(textToAdd) {
 $(document).on("click", ".menu .menuChips", function () {
 	var text = this.innerText;
 	var payload= this.getAttribute('data-payload');
-	console.log("button payload: ",this.getAttribute('data-payload'))
 	setUserResponse(text);
 	send(payload);
 	$('.suggestions').remove(); //delete the suggestions 

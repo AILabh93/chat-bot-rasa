@@ -60,6 +60,18 @@ def createButton():
         "payload": "cntt"
     })
 
+    temp_button_lst.append({
+        "type": "postback",
+        "title": "Hệ thống thông tin",
+        "payload": "httt"
+    })
+
+    temp_button_lst.append({
+        "type": "postback",
+        "title": "Khoa học dữ liệu",
+        "payload": "khdl"
+    })
+
     return temp_button_lst
 
 
@@ -68,21 +80,7 @@ class action_but(Action):
         return 'action_but'
     def run(self,dispatcher, tracker, domain):
         but=createButton()
-
-        but1={
-        "type": "postback",
-        "title": "Hệ thống thông tin",
-        "payload": "httt"
-        }
-        
-        but2={
-        "type": "postback",
-        "title": "Khoa học dữ liệu",
-        "payload": "khdl"
-        }
         dispatcher.utter_message(text="Bạn cần tư vấn gì", buttons=but)
-        dispatcher.utter_message(text="Nữa nè :)", buttons=[but1, but2])
-
         return []
 
 class action_unknown(Action):
@@ -93,19 +91,7 @@ class action_unknown(Action):
         dispatcher.utter_message(text='Xin lỗi mình chưa hiểu ý bạn')
         but =  createButton()
         
-        but1={
-        "type": "postback",
-        "title": "Hệ thống thông tin",
-        "payload": "httt"
-        }
-        
-        but2={
-        "type": "postback",
-        "title": "Khoa học dữ liệu",
-        "payload": "khdl"
-        }
         dispatcher.utter_message(text="Bạn có thể chọn các chuyên ngành sau", buttons=but)
-        dispatcher.utter_message(text="Nữa nè <3", buttons=[but1, but2])
                 
         return []
 
@@ -114,7 +100,6 @@ class action_tuvan(Action):
         return "action_tuvan"
     
     def run(self, dispatcher, tracker, domain):
-        print(listcn[-1])
         mon_hoc=tracker.latest_message['entities'][0]['value']
         listcn.append(mon_hoc)
         dispatcher.utter_message(template='utter_tuvan_'+mon_hoc)
