@@ -350,7 +350,3 @@
   - action_luong
 * bye
   - utter_bye
-
-
-
-

@@ -30,6 +30,36 @@ intents:
  - dinhhuongsai
  - ungdung
  - tuvankhac
+ - trituenhantao
+ - cnttkhacdientu
+ - thoigiandkhpdot1
+ - thoigiandkhpdot1
+ - thoigianhuyhpdot1
+ - thoigianhuyhpdot2
+ - nu
+ - diemso
+ - chatluonggiaovien
+ - baitaplon
+ - cuocthi
+ - yeucau_tienganh
+ - tinhcach
+ - thuctap
+ - hocphi
+ - chatluongcao
+ - daitra
+ - lotrinhhoc
+ - dungcuhoctap
+ - xuhuong
+ - cachhoc
+ - phongvan
+ - kienthuc
+ - yeucau
+ - thuchanh
+ - daotao
+ - kynang
+ - doantotnghiep
+ - thuctapdoanhnghiep
+ - tinchi
  - insult: {triggers: utter_respond_insult}
 
 

@@ -1,5 +1,4 @@
 body {
-  background: #fff;
   padding: 0px;
   margin: 0px;
   font-family: 'Nunito', sans-serif;
@@ -23,7 +22,7 @@ input, button {
   display: block;
   border: 1px solid #ccc;
   border-radius: 5px;
-  background: #fff;
+  /* background: #fff; */
   padding: 15px;
   outline: none;
   width: 100%;
@@ -55,4 +54,18 @@ input, button {
   color: #5d8ffc;
   border: 1px solid #5d8ffc;
   cursor: pointer;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) and (min-width: 200px){
+  #user_div,#login_div{
+    width: 100%;
+  }
+  
+  #profile_div img{
+    width: 250%;
+    position: relative;
+    right: 60px;
+    bottom: 30px;
+  }
 }

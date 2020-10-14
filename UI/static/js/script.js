@@ -144,7 +144,7 @@ $('#profile_div').click(function () {
 $('#close').click(function () {
 	$('.profile_div').toggle();
 	$('.widget').toggle();
-	window.location.reload(false); 
+	$('.chat').empty();
 });
 
 
