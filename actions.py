@@ -302,40 +302,6 @@ class action_thoigianhuyhpdot1(Action):
         return []
 
 
-class action_daitra(Action):
-    def name(self):
-        return "action_daitra"
-
-    def run(self, dispatcher, tracker, domain):
-        dispatcher.utter_message(template='utter_daitra')
-        return []
-
-
-class action_cuocthi(Action):
-    def name(self):
-        return "action_cuocthi"
-
-    def run(self, dispatcher, tracker, domain):
-        dispatcher.utter_message(template='utter_cuocthi')
-        return []
-
-
-class action_trituenhantao(Action):
-    def name(self):
-        return "action_trituenhantao"
-
-    def run(self, dispatcher, tracker, domain):
-        dispatcher.utter_message(template='utter_trituenhantao')
-        return []
-
-
-class action_cnttkhacdientu(Action):
-    def name(self):
-        return "action_cnttkhacdientu"
-
-    def run(self, dispatcher, tracker, domain):
-        dispatcher.utter_message(template='utter_cnttkhacdientu')
-        return []
 
 
 class action_thoigianhuyhpdot2(Action):
@@ -618,4 +584,16 @@ class action_tinchi(Action):
             mon_hoc = tracker.latest_message['entities'][0]['value']
             listcn.append(mon_hoc)
         dispatcher.utter_message(template='utter_'+mon_hoc+'_tinchi')
+        return []
+
+class action_thuctapdoanhnghiep(Action):
+    def name(self):
+        return "action_thuctapdoanhnghiep"
+
+    def run(self, dispatcher, tracker, domain):
+        mon_hoc = listcn[-1]
+        if len(tracker.latest_message['entities']) > 0:
+            mon_hoc = tracker.latest_message['entities'][0]['value']
+            listcn.append(mon_hoc)
+        dispatcher.utter_message(template='utter_'+mon_hoc+'_thuctapdoanhnghiep')
         return []

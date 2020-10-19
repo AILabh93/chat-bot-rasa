@@ -32,12 +32,12 @@ intents:
  - tuvankhac
 
 #  data mới 
- - cuocthi
  - daitra
  - trituenhantao
  - cnttkhacdientu
 
 # code từ đây 
+ - cuocthi
  - thoigiandkhpdot1
  - thoigiandkhpdot1
  - thoigianhuyhpdot1
@@ -736,7 +736,38 @@ actions:
  - action_unknown
  - action_but
 
- 
+# data mới
+ - action_thoigiandkhpdot1
+ - action_thoigiandkhpdot2
+ - action_thoigianhuyhpdot1
+ - action_thoigianhuyhpdot2
+ - action_nu
+ - action_diemso
+ - action_chatluonggiaovien
+ - action_baitaplon
+ - action_yeucau_tienganh
+ - action_tinhcach
+ - action_thuctap
+ - action_hocphi
+ - action_chatluongcao
+ - action_lotrinhhoc
+ - action_dungcuhoctap
+ - action_xuhuong
+ - action_cachhoc
+ - action_phongvan
+ - action_kienthuc
+ - action_yeucau
+ - action_thuchanh
+ - action_daotao
+ - action_kynang
+ - action_doantotnghiep
+ - action_tinchi
+ - action_thuctapdoanhnghiep
+ - utter_daitra
+ - utter_cnttkhacdientu
+ - utter_trituenhantao
+ - utter_cuocthi
+
 
 session_config:
   session_expiration_time: 60
