@@ -30,8 +30,14 @@ intents:
  - dinhhuongsai
  - ungdung
  - tuvankhac
+
+#  data mới 
+ - cuocthi
+ - daitra
  - trituenhantao
  - cnttkhacdientu
+
+# code từ đây 
  - thoigiandkhpdot1
  - thoigiandkhpdot1
  - thoigianhuyhpdot1
@@ -40,13 +46,11 @@ intents:
  - diemso
  - chatluonggiaovien
  - baitaplon
- - cuocthi
  - yeucau_tienganh
  - tinhcach
  - thuctap
  - hocphi
  - chatluongcao
- - daitra
  - lotrinhhoc
  - dungcuhoctap
  - xuhuong
@@ -275,6 +279,244 @@ Làm việc ở bộ phận công nghệ thông tin hoặc cần ứng dụng c�
   - text: "Khoa học dữ liệu kết hợp với trí tuệ nhân tạo sẽ giúp quá trình thông minh hóa cá hệ thống sản xuất, thiết kệ xây dựng các hệ thống khai thác, xử lý dữ liệu..cũng như phát triển những hệ thống trí tuệ nhân tạo.Còn đối với mạng máy tính với hacker thì chuyên ngành khoa học dữ liệu nó không đi sâu vào mà chỉ tìm hiểu sơ qua."
  utter_khdl_ngongnu:
   - text: "Những ngôn ngữ phổ biến cho ngành khoa học dữ liệu đó là Python, R,SQL,Scala, Julia, SAS. Những ngôn ngữ này giúp bạn có chỗ đứng nhất định trong lĩnh vục khoa học dữ liệu."
+ utter_khmt_nu:
+  - text: "Hiện tại, tỉ lệ sinh viên nữ của khoa Công nghệ thông tin đang dần được cân bằng. Một lớp học 70 sinh viên thì đã có hơn 20 sinh viên nữ rồi nha. Riêng đối với chuyên ngành Khoa học máy tính thì tỉ lệ nữ là có khoảng 1/6 sinh viên nữ trong một lớp nhé."
+ utter_ktpm_nu:
+  - text: "Tỉ lệ sinh viên nữ của khoa Công nghệ thông tin đang dần được cân bằng. Một lớp học 70 sinh viên thì đã có hơn 20 sinh viên nữ rồi nha. Riêng đối với chuyên ngành Kỹ thuật phần mềm thì tỉ lệ nữ là có khoảng 1/5 sinh viên nữ trong một lớp nhé."
+ 
+#  Viết code
+  utter_cntt_nu:
+  - text: "Ngày nay, tỉ lệ sinh viên nữ của khoa Công nghệ thông tin đang dần được cân bằng. Một lớp học 70 sinh viên thì đã có hơn 20 sinh viên nữ rồi nha. Riêng đối với chuyên ngành Công nghệ thông tin thì tỉ lệ nữ là có khoảng 1/5 sinh viên nữ trong một lớp nhé."
+ utter_httt_nu:
+  - text: "Theo như mình được biết, tỉ lệ sinh viên nữ của khoa Công nghệ thông tin đang dần được cân bằng. Một lớp học 70 sinh viên thì đã có hơn 20 sinh viên nữ rồi nha. Riêng đối với chuyên ngành Hệ thống thông tin thì tỉ lệ nữ đông hơn các chuyên ngành khác, là có khoảng 6/7 sinh viên nữ trong một lớp nhé."
+ utter_khdl_nu:
+  - text: "Được biết, tỉ lệ sinh viên nữ của khoa Công nghệ thông tin đang dần được cân bằng. Một lớp học 70 sinh viên thì đã có hơn 20 sinh viên nữ rồi nha. Riêng đối với chuyên ngành Khoa học dữ liệu thì tỉ lệ nữ là có khoảng 2/5 sinh viên nữ trong một lớp nhé."
+ utter_khmt_diemso:
+  - text: "Điểm số một sinh viên khoa học máy tính phụ thuộc vào nhiều yếu tố như năng lực, sự chăm chỉ, khả năng linh hoạt ham học hỏi của sinh viên. Ngoài ra còn phụ thuộc vào giảng viên (giảng viên khó hay dễ) và may mắn."
+ utter_ktpm_diemso:
+  - text: "Có nhiều yếu tố ảnh hưởng đến điểm số của một sinh viên ngành kỹ thuật phần mềm như năng lực, sự chăm chỉ, khả năng linh hoạt ham học hỏi của sinh viên. Ngoài ra còn phụ thuộc vào giảng viên (giảng viên khó hay dễ) và may mắn."
+ utter_cntt_diemso:
+  - text: "Điểm số là phản ánh một phần nào đó kết quả rèn luyện học tập của sinh viên ngành công nghệ thông tin. Điểm số phụ thuộc vào nhiều yếu tố như năng lực, sự chăm chỉ, khả năng linh hoạt ham học hỏi của sinh viên. Ngoài ra còn phụ thuộc vào giảng viên (giảng viên khó hay dễ) và may mắn."
+ utter_httt_diemso:
+  - text: "Hệ thống thông tin điểm số phụ thuộc vào nhiều yếu tố như năng lực, sự chăm chỉ, khả năng linh hoạt ham học hỏi của sinh viên. Ngoài ra còn phụ thuộc vào giảng viên (giảng viên khó hay dễ) và may mắn."
+ utter_khdl_diemso:
+  - text: "Khoa học dữ liệu điểm số phụ thuộc vào nhiều yếu tố như năng lực, sự chăm chỉ, khả năng linh hoạt ham học hỏi của sinh viên. Ngoài ra còn phụ thuộc vào giảng viên (giảng viên khó hay dễ) và may mắn."
+ utter_khmt_chatluonggiaovien:
+  - text: "Đội ngũ giảng viên ngành khoa học máy tính hiện có 17 giảng viên, phần lớn đội ngũ giảng viên được đào tạo và trải nghiệm ở các trường đại học có uy tín trong và ngoài nước. Hiện tại trong khóa có 5 Tiến Sĩ và 12 Thạc Sĩ."
+ utter_ktpm_chatluonggiaovien:
+  - text: "Đội ngũ giảng viên ngành kỹ thuật phần mềm hiện có 12 giảng viên, phần lớn đội ngũ giảng viên được đào tạo và trải nghiệm ở các trường đại học có uy tín trong và ngoài nước. Hiện tại trong khóa có 1 Tiến Sĩ và 11 Thạc Sĩ."
+ utter_cntt_chatluonggiaovien:
+  - text: "Đội ngũ giảng viên ngành công nghệ thông tin hiện có 12 giảng viên, phần lớn đội ngũ giảng viên được đào tạo và trải nghiệm ở các trường đại học có uy tín trong và ngoài nước. Hiện tại trong khóa có 2 Tiến Sĩ, 9 Thạc Sĩ và 1 Kỹ sư."
+ utter_httt_chatluonggiaovien:
+  - text: "Đội ngũ giảng viên ngành hệ thống thông tin hiện có 16 giảng viên, phần lớn đội ngũ giảng viên được đào tạo và trải nghiệm ở các trường đại học có uy tín trong và ngoài nước. Hiện tại trong khóa có 4 Tiến Sĩ và 12 Thạc Sĩ."
+ utter_khdl_chatluonggiaovien:
+  - text: "Đội ngũ giảng viên ngành khoa học dữ liệu hiện có 7 giảng viên, phần lớn đội ngũ giảng viên được đào tạo và trải nghiệm ở các trường đại học có uy tín trong và ngoài nước. Hiện tại trong khóa có 6 Tiến Sĩ và 1 Thạc Sĩ."
+ utter_khmt_baitaplon:
+  - text: "Khi học các môn chuyên ngành của ngành khoa học máy tính thì thường phải làm các bài tập lớn để sinh viên áp dụng những kiến thức đã học. Các bài tập lớn này được đánh giá là khá khó nhưng bạn vẫn có thể hoàn thành tốt khi nắm vũng kiến thức lý thuyết có kỹ năng code và tham khảo thêm tài liệu."
+ utter_ktpm_baitaplon:
+  - text: "Khi học các môn chuyên ngành của ngành kỹ thuật phần mềm thì thường yêu cầu sinh viên phải làm bài tập lớn để lấy điểm thực hành. Các bài tập lớn này được đánh giá là khá khó nhưng bạn vẫn có thể hoàn thành tốt khi nắm vũng kiến thức lý thuyết, có kỹ năng code và tham khảo thêm tài liệu."
+ utter_cntt_baitaplon:
+  - text: "Các môn có phần thực hành của ngành công nghệ thông tin thì thường yêu cầu sinh viên phải làm bài tập lớn để lấy điểm thực hành. Các bài tập này được đánh giá là không khó, nếu bạn nắm vững kiến thức lý thuyết và kỹ năng code cơ bản thì sẽ có thể hoàn thành tốt."
+ utter_httt_baitaplon:
+  - text: "Các môn có phần thực hành của ngành hệ thống thông tin thì thường yêu cầu sinh viên phải làm bài tập lớn để lấy điểm thực hành. Các bài tập này được đánh giá là không khó chỉ cần bạn nắm vững kiến thức lý thuyết và vận dụng vào."
+ utter_khdl_baitaplon:
+  - text: "Khi học các môn chuyên ngành của ngành khoa học dữ liệu thì thường phải làm các bài tập lớn để sinh viên áp dụng những kiến thức đã học. Các bài tập lớn này được đánh giá là khá khó nhưng bạn vẫn có thể hoàn thành tốt khi nắm vũng kiến thức lý thuyết, có kỹ năng code và tham khảo thêm tài liệu."
+ utter_khmt_yeucau_tienganh:
+  - text: "Sinh viên ngành khoa học máy tính giỏi tiếng anh sẽ mang đến cho các sinh viên nhiều cơ hội để phát triển hơn. Và sách tài liệu tốt đều được viết hoàn toàn bằng tiếng anh, các công cụ hỗ trợ lập trình hoàn toàn bằng tiếng anh, là công cụ hỗ trợ làm việc on-site ở nước ngoài, nên rất quan trọng."
+ utter_ktpm_yeucau_tienganh:
+  - text: "Ngành kỹ thuật phần mềm là một trong những lĩnh vực thay đổi “chóng mặt” để áp ứng nhu cầu của con người. Là dân SE nếu không nâng cao tiếng anh chuyên ngành công nghệ thông tin, chỉ chờ các tài liệu đã được dịch thuật thì sẽ trở nên vô cùng lạc hậu. Vô hình chung đã tự đào thải bản thân mình trong công việc, vì đây là ngành có tính cạnh tranh gay gắt và mức độ đào thải nhân lực được đánh cao nhất hiện nay. Nên rất quan trọng."
+ utter_cntt_yeucau_tienganh:
+  - text: "Sinh viên ngành công nghệ thông tin giỏi tiếng anh sẽ mang đến cho các sinh viên nhiều cơ hội để phát triển hơn. Và sách tài liệu tốt đều được viết hoàn toàn bằng tiếng Anh, các công cụ hỗ trợ lập trình hoàn toàn bằng tiếng Anh, là công cụ hỗ trợ làm việc on-site ở nước ngoài. Nên rất quan trọng."
+ utter_httt_yeucau_tienganh:
+  - text: "Sinh viên ngành hệ thống máy tính giỏi tiếng anh có thể tạo dựng mối quan hệ với đối tác nước ngoài, tự tìm đến các dự án công nghệ đa quốc gia. Tự tin thực hiện những dự án đó và thu nhập nghìn đô cứ thế chảy đầy túi bạn. Nên rất quan trọng."
+ utter_khdl_yeucau_tienganh:
+  - text: "Ngành khoa học dữ liệu là ngành nghề trên toàn thế giới, thậm chí ngành lập trình ở các nước phương Tây còn tân tiến hơn, chuyên nghiệp hơn và điều đó bắt buộc bạn phải làm việc trên nền tảng các công cụ làm việc chính hay hỗ trợ đều toàn là tiếng anh, rất ít trường hợp trong số đó có hỗ trợ tiếng việt. Nên rất quan trọng."
+ utter_khmt_tinhcach:
+  - text: "Sinh viên ngành khoa học máy tính là những người rất tỉ mỉ, kiên nhẫn, có tư duy logic, có khả năng tự học cao, ham học hỏi, tìm hiểu, bản lĩnh, linh hoạt trong công việc, thông minh, sáng tạo."
+ utter_ktpm_tinhcach:
+  - text: "Là sinh viên ngành kỹ thuật phần mềm thì thường tính cách mỗi người rất tỉ mỉ, kiên nhẫn, có tư duy logic, có khả năng tự học cao, ham học hỏi, tìm hiểu, có thể làm việc một mình trong khoảng thời gian dài."
+ utter_cntt_tinhcach:
+  - text: "Ngành công nghệ thông tin sinh viên là những người rất tỉ mỉ, kiên nhẫn, có tư duy logic, có khả năng tự học cao, ham học hỏi, tìm hiểu."
+ utter_httt_tinhcach:
+  - text: "Học hệ thống thông tin sinh viên là những người rất tỉ mỉ, kiên nhẫn, có tư duy logic, có khả năng tự học cao, ham học hỏi, tìm hiểu, bản lĩnh, linh hoạt trong công việc, sáng tạo."
+ utter_khdl_tinhcach:
+  - text: "Sinh viên ngành khoa học dữ liệu là những người rất tỉ mỉ, kiên nhẫn, có tư duy logic, có khả năng tự học cao, ham học hỏi, tìm hiểu, sáng tạo."
+ utter_khmt_thuctap:
+  - text: "Đối với ngành khoa học máy tính thì sinh viên có thể đi thực tập từ năm 4, cũng có thể sớm hơn so với tiến trình học tập nếu bạn học đủ 100 tín chỉ. Có thể thực tập ở các công ty như Viện nghiên cứu và phát triển Viettel, GOOGLE, FSoft-Công ty cổ phần viễn thông FPT,..."
+ utter_ktpm_thuctap:
+  - text: "Ngành kỹ thuật phần mềm sinh viên có thể đi thực tập từ năm 4, cũng có thể sớm hơn so với tiến trình học tập nếu bạn học đủ 100 tín chỉ. Có thể thực tập ở các công ty như Viện nghiên cứu và phát triển Viettel, thegioididong, FSoft-Công ty cổ phần viễn thông FPT,..."
+ utter_cntt_thuctap:
+  - text: "Học ngành công nghệ thông tin sinh viên có thể đi thực tập từ năm 4, cũng có thể sớm hơn so với tiến trình học tập nếu bạn học đủ 100 tín chỉ. Có thể thực tập ở các công ty như Viện nghiên cứu và phát triển Viettel, Công ty TNHH Solazu, thegioididong, FSoft-Công ty cổ phần viễn thông FPT, HikViSion..."
+ utter_httt_thuctap:
+  - text: "Khi học hệ thống thông tin sinh viên có thể đi thực tập từ năm 4, cũng có thể sớm hơn so với tiến trình học tập nếu bạn học đủ 100 tín chỉ. Có thể thực tập ở các công ty như Viện nghiên cứu và phát triển Viettel, Công ty TNHH Solazu, thegioididong, FSoft-Công ty cổ phần viễn thông FPT,..."
+ utter_khdl_thuctap:
+  - text: "Theo học khoa học dữ liệu sinh viên có thể đi thực tập từ năm 4, cũng có thể sớm hơn so với tiến trình học tập nếu bạn học đủ 100 tín chỉ. Có thể thực tập ở các công ty như Viện nghiên cứu và phát triển Viettel, FSoft-Công ty cổ phần viễn thông FPT,..."
+ utter_khmt_hocphi:
+  - text: "Học phí của ngành khoa học máy tính không chênh lệch nhiều so với các ngành trong khối ngành công nghệ, sinh viên ngành khoa học máy tính của IUH sẽ phải học 146 tín chỉ, tính từ năm 2019 học phí của trường IUH dối với ngành khoa học máy tính là 550000đ/1 tín chỉ" đối với hệ đại trà và 900000đ/1 tín chỉ đối với hệ chất lượng cao và học phí sẽ tăng 20% mỗi năm, thêm vào đó nhà trường cũng có các các chính sách miễn, giảm học phí đối với các sinh viên thuộc diện miễn giảm học phí theo qui định của Bộ giáo dục và Đào tạo."
+ utter_ktpm_hocphi:
+  - text: "Học phí của ngành kỹ thuật phần mềm không chênh lệch nhiều so với các ngành trong khối ngành công nghệ, sinh viên kỹ thuật phần mềm của IUH sẽ phải học 146 tín chỉ, tính từ năm 2019 học phí của trường IUH dối với ngành kỹ thuật phần mềm là 550000đ/1 tín chỉ" đối với hệ đại trà và 900000đ/1 tín chỉ đối với hệ chất lượng cao và học phí sẽ tăng 20% mỗi năm, thêm vào đó nhà trường cũng có các các chính sách miễn, giảm học phí đối với các sinh viên thuộc diện miễn giảm học phí theo qui định của Bộ giáo dục và Đào tạo."
+ utter_cntt_hocphi:
+  - text: "Học phí của ngành công nghệ thông tin không chênh lệch nhiều so với các ngành trong khối ngành công nghệ, sinh viên ngành công nghệ thông tin của IUH sẽ phải học 146 tín chỉ, tính từ năm 2019 học phí của trường IUH dối với ngành công nghệ thông tin là 550000đ/1 tín chỉ" đối với hệ đại trà và 900000đ/1 tín chỉ đối với hệ chất lượng cao và học phí sẽ tăng 20% mỗi năm, thêm vào đó nhà trường cũng có các các chính sách miễn, giảm học phí đối với các sinh viên thuộc diện miễn giảm học phí theo qui định của Bộ giáo dục và Đào tạo."
+ utter_httt_hocphi:
+  - text: "Học phí của ngành hệ thống thông tin không chênh lệch nhiều so với các ngành trong khối ngành công nghệ, sinh viên ngành hệ thống thông tin của IUH sẽ phải học 146 tín chỉ, tính từ năm 2019 học phí của trường IUH dối với ngành hệ thống thông tin là 550000đ/1 tín chỉ" đối với hệ đại trà và 900000đ/1 tín chỉ đối với hệ chất lượng cao và học phí sẽ tăng 20% mỗi năm, thêm vào đó nhà trường cũng có các các chính sách miễn, giảm học phí đối với các sinh viên thuộc diện miễn giảm học phí theo qui định của Bộ giáo dục và Đào tạo."
+ utter_khdl_hocphi:
+  - text: "Học phí của ngành khoa học dữ liệu không chênh lệch nhiều so với các ngành trong khối ngành công nghệ, sinh viên ngành khoa học dữ liệu của IUH sẽ phải học 146 tín chỉ, tính từ năm 2019 học phí của trường IUH dối với ngành khoa học dữ liệu là 550000đ/1 tín chỉ" đối với hệ đại trà và 900000đ/1 tín chỉ đối với hệ chất lượng cao và học phí sẽ tăng 20% mỗi năm, thêm vào đó nhà trường cũng có các các chính sách miễn, giảm học phí đối với các sinh viên thuộc diện miễn giảm học phí theo qui định của Bộ giáo dục và Đào tạo."
+ utter_khmt_chatluongcao:
+  - text: "Ngành khoa học máy tính có hệ chất lượng cao, khi học chất lượng cao thì có môi trường học tập tiếp xúc tiếng anh nhiều hơn và hiệu quả hơn hệ đại trà."
+ utter_ktpm_chatluongcao:
+  - text: "Ngành kỹ thuật phần mềm có hệ chất lượng cao, học chất lượng cao điểm xét vào nó sẽ thấp hơn khi xét vào hệ đại trà, các môn thi xét vào thì cũng giống như xét vào hệ đại trà."
+ utter_cntt_chatluongcao:
+  - text: "Ngành công nghệ thông tin có hệ chất lượng cao, theo học hệ chất lượng cao thì học phí cao hơn khi mà mình theo học hệ đại trà, học chất lượng cao sau này ra trường tìm việc sẽ dễ hơn một chút đối với hệ đại trà."
+ utter_httt_chatluongcao:
+  - text: "Ngành hệ thống thông tin có hệ chất lượng cao, chương trình chất lượng cao hướng đến chất lượng đầu ra của sinh viên, với một với học phần thì số lượng sinh viên ít nên giảng viên và sinh viên dễ dàng theo sát quá trình học tập hơn."
+ utter_khdl_chatluongcao:
+  - text: "Ngành khoa học dữ liệu có hệ chất lượng cao, chương trình giảng dạy chất lượng hướng đến đầu ra của sinh viên, với một lớp học phần thì có lượng sinh viên ít nên giảng viên dễ dàng trao đổi và trau dồi kiến thức cho sinh viên hơn."
+ utter_khmt_lotrinhhoc:
+  - text: "Ngành khoa học máy tính học những môn lập trình cơ bản vận dụng những ngôn ngữ C, C++, rồi dần dần mới lên java cơ bản và java nâng cao. Trong ngành này thì ngôn ngữ python nó khá phổ biến, và cần chú trọng hơn các môn cơ bản để nắm chắc các kiến thức để khi học nâng cao hơn thì sẽ không bị tụt lùi và không theo nổi."
+ utter_ktpm_lotrinhhoc:
+  - text: "Ngành kỹ thuật phần mềm trong 2 năm đầu là thời gian mà nhà trường đào tạo các kiến thức nền tảng. Qua năm 3-4 là giai đoạn mà ngành có 2 định hướng nghiên cứu chuyên sâu là làm ứng dụng (mobile/web) hoặc game và môi trường ảo."
+ utter_cntt_lotrinhhoc:
+  - text: "Ngành công nghệ thông tin thời gian đầu mình sẽ học các môn cơ bản về cấu tạo, cách vận hành của máy tính, các kiến thức cơ bản. Cụ thể hơn một chút sẽ học các mảng như mạng máy tính, quản trị mạng, thiết kế web hay thiết kế đồ họa..."
+ utter_httt_lotrinhhoc:
+  - text: "Ngành hệ thống thông tin là ngành học kết hợp chặt chẽ giữa phần cứng, phần mềm và mạng truyền thông nhằm mục đích thu thập dữ liệu, là tiền đề cho việc đánh giá khả năng và hoạt động hiệu quả. Sinh viên ngành này được trang bị các kiến thức về thiết kế, phương pháp quản trị và vận hành hệ thống thông tin, ngoài ra sinh viên còn được đào tạo chuyên sâu về khả năng quản lý và kinh doanh hiệu quả nhằm mục đích đáp ứng được tất cả các yêu cầu khắt khe về công việc."
+ utter_khdl_lotrinhhoc:
+  - text: "Ngành khoa học dữ liệu sinh viên được trang bị khối kiến thức chuyên sâu và rộng về các mô hình học máy, học sâu, các thuật toán phần tích và xử lý dữ liệu lớn, các kiến thức về trí tuệ nhân tạo và ứng dụng của nó trong đời sống và các lĩnh vực khác, song song đó các bạn còn được rèn luyện những kỹ năng mềm cần thiết để phục vụ cho công việc sau này khi ra trường."
+ utter_khmt_dungcuhoctap:
+  - text: "Khoa học máy tính Laptop là dụng cụ không thể thiếu, mẫu laptop từ 14inch-15inch phù hợp cho di chuyển, thời lượng pin nên lớn hơn 3-4 tiếng. Bộ xử lý Intel Core i7, RAM 16GB giúp làm việc thoải mái hơn, máy nên có 2 khe cắm RAM giúp nâng cấp dễ dàng và tiết kiệm hơn, SSD giúp laptop làm việc mượt mà hơn. Nếu có thể hảy trang bị card đồ họa rời. Một số  hãng laptop và mẫu phù hợp với sinh viên: APPLE (Macbook Air_ code và thiết kế), Dell (Dell Latitude và Dell Precision), HP (HP Elitebook, HP Zbook)."
+ utter_ktpm_dungcuhoctap:
+  - text: "Kỹ thuật phần mềm lập trình khá nhiều laptop là dụng cụ không thể thiếu, mẫu laptop từ 14inch-15inch phù hợp cho di chuyển, thời lượng pin nên lớn hơn 3-4 tiếng. Bộ xử lý Intel Core i7, RAM 16GB giúp làm việc thoải mái hơn, máy nên có 2 khe cắm RAM giúp nâng cấp dễ dàng và tiết kiệm hơn, SSD giúp laptop làm việc mượt mà hơn. Nếu có thể hảy trang bị card đồ họa rời. Một số  hãng laptop và mẫu phù hợp với sinh viên: APPLE (Macbook Air_ code và thiết kế), Dell (Dell Latitude và Dell Precision), HP (HP Elitebook, HP Zbook). Ngoài ra nên trang bị bàn phím để thuạn tiện cho việc gõ code."
+ utter_cntt_dungcuhoctap:
+  - text: "Công nghệ thông tin Laptop là dụng cụ không thể thiếu, mẫu laptop từ 14inch-15inch phù hợp cho di chuyển, thời lượng pin nên lớn hơn 3-4 tiếng. Bộ xử lý Intel Core i7, RAM 16GB giúp làm việc thoải mái hơn, máy nên có 2 khe cắm RAM giúp nâng cấp dễ dàng và tiết kiệm hơn, SSD giúp laptop làm việc mượt mà hơn. Nếu có thể hãy trang bị card đồ họa rời. Một số  hãng laptop và mẫu phù hợp với sinh viên: APPLE (Macbook Air_ code và thiết kế), Dell (Dell Latitude và Dell Precision), HP (HP Elitebook, HP Zbook). Bàn phím rời và chuột cũng như usb giúp phục vụ việc học hiệu quả hơn."
+ utter_httt_dungcuhoctap:
+  - text: "Hệ thống thông tin Laptop là dụng cụ không thể thiếu, mẫu laptop từ 14inch-15inch phù hợp cho di chuyển, thời lượng pin nên lớn hơn 3-4 tiếng. Bộ xử lý Intel Core i7, RAM 16GB giúp làm việc thoải mái hơn, máy nên có 2 khe cắm RAM giúp nâng cấp dễ dàng và tiết kiệm hơn, SSD giúp laptop làm việc mượt mà hơn. Nếu có thể hãy trang bị card đồ họa rời. Một số  hãng laptop và mẫu phù hợp với sinh viên: APPLE (Macbook Air_ code và thiết kế), Dell (Dell Latitude và Dell Precision), HP (HP Elitebook, HP Zbook)."
+ utter_khdl_dungcuhoctap:
+  - text: "Ngành khoa học dữ liệu tương tác với dữ liệu nhiều Laptop là dụng cụ không thể thiếu, mẫu laptop từ 14inch-15inch phù hợp cho di chuyển, thời lượng pin nên lớn hơn 3-4 tiếng. Bộ xử lý Intel Core i7, RAM 16GB giúp làm việc thoải mái hơn, máy nên có 2 khe cắm RAM giúp nâng cấp dễ dàng và tiết kiệm hơn, SSD giúp laptop làm việc mượt mà hơn. Nếu có thể hảy trang bị card đồ họa rời. Một số  hãng laptop và mẫu phù hợp với sinh viên: APPLE (Macbook Air_ code và thiết kế), Dell (Dell Latitude và Dell Precision), HP (HP Elitebook, HP Zbook), nên trang bị thêm một số thiết bị ngoại vi như bàn phím, chuột cảm ứng hay usb... phục vụ cho việc thao tác, sao chép với dữ liệu tốt hơn."
+ utter_khmt_xuhuong:
+  - text: "Theo khảo xác và đánh giá của Adecco Việt Nam, xu hướng tuyển dụng của ngành khoa học máy tính trong những năm tới sẽ tập trung vào các lĩnh vực như Big Data, AI, Fitech, Machine learning, kỹ sư khoa học dữ liệu và dữ liệu lớn."
+ utter_ktpm_xuhuong:
+  - text: "Hiện nay theo thống kê, xu hướng tuyển dụng của ngành kỹ thuật phần mềm trong những năm tới sẽ tập trung vào các lĩnh vực như lập trình mobile, app di dộng, game, Big Data, Fitech."
+ utter_cntt_xuhuong:
+  - text: "Theo thống kê, xu hướng tuyển dụng của ngành công nghệ thông tin trong những năm tới sẽ tập trung vào các lĩnh vực như kỹ thuật viên máy tính, an ninh mạng, Fitech."
+ utter_httt_xuhuong:
+  - text: "Theo khảo xác, xu hướng tuyển dụng của ngành hệ thống thông tin trong những năm tới sẽ tập trung vào các lĩnh vực như Big Data, Project Manager (PM), Business Analyst (BA), Technical Consultant, lập trình viên, Tester."
+ utter_khdl_xuhuong:
+  - text: "Theo thống kê hiện nay, xu hướng tuyển dụng của ngành khoa học dữ liệu trong những năm tới sẽ tập trung vào các lĩnh vực như Big Data, AI, Fitech, Machine learning, kỹ sư khoa học dữ liệu và dữ liệu lớn."
+ utter_khmt_cachhoc:
+  - text: "Đối với ngành khoa học máy tính thì chúng ta cần tập trung tư duy cao về các thuật toán. Không phải sưu tầm nhiều tài liệu mà mình sẽ học tốt, tại mình không cố gắng thì khả năng của mình cũng sẽ là con số 0."
+ utter_ktpm_cachhoc:
+  - text: "Học ngành kỹ thuật phần mềm thì chúng ta nên cố gắng code từng ngày để nâng cao trìn độ của bản thân vì sau này đối với ngành này thì hầu như chỉ code là nhiều. Và cùng với việc code từng ngày thì chúng ta cũng nên trau dồi học tiếng anh cho thật tốt."
+ utter_cntt_cachhoc:
+  - text: "Khi theo học công nghệ thông tin, thì chúng ta phải thật kiên trì dù gặp khó khăn của riêng bản thân, hay không đủ trình độ. Thì bạn cũng nên cố gắng hết mình mà vươn lên."
+ utter_httt_cachhoc:
+  - text: "Ngành hệ thống thông tin cần nắm vững các cơ bản đến chuyên ngành; một số môn quan trọng như tài chính doanh nghiệp, cơ sở dữ liệu,....Môn cực kì quan trọng đó là môn phân tích và thiết kế hệ thống thông tin. Nói chung là khi mình theo học ngành này thì tập trung hơn vào các môn đó nó sẽ giúp ích cho việc sau này đi làm."
+ utter_khdl_cachhoc:
+  - text: "Khoa học dữ liệu là quá trình tạo ra và quản trị dữ liệu, phân tích dữ liệu và chuyển kết quả phân tích thành giá trị của hành động. Sinh viên nên tập trung học những kiến thức nền tảng rồi nâng cao để trang bị cho mình một khối kiến thức vững chắc về ngành khoa học dữ liệu để có thể rút ra được kinh nghiệm cho tương lai."
+ utter_khmt_phongvan:
+  - text: "Để đi phỏng vấn tốt ngành khoa học máy tính thì bạn cần nên chuẩn bị một CV tốt như CV bằng tiếng anh, ghi cụ thể ngắn gọn các kỹ năng, kinh nghiệm, dự án, đồ án tốt nghiệp mà bạn đã làm được. Đưa ra các mục tiêu nghề nghiệp ngắn ngọn, dễ hiểu mà bạn muốn đạt được. Chuẩn bị các kiến thức liên quan đến vị trí mà bạn muốn ứng tuyển, hiểu rõ về công ty của bạn ứng tuyển và có các kiến thức, kỹ năng như python, sql, thị giác máy tính, xử lý ngôn ngữ tự nhiên, máy học... đặc biệt là tiếng anh(vì đó là một lợi thế)."
+ utter_ktpm_phongvan:
+  - text: "Để đi phỏng vấn tốt ngành kỹ thuật phần mềm thì bạn cần nên chuẩn bị một CV tốt như CV bằng tiếng anh, ghi cụ thể ngắn gọn các kỹ năng, kinh nghiệm, dự án, đồ án tốt nghiệp mà bạn đã làm được. Đưa ra các mục tiêu nghề nghiệp ngắn ngọn, dễ hiểu mà bạn muốn đạt được. Chuẩn bị các kiến thức liên quan đến vị trí mà bạn muốn ứng tuyển, hiểu rõ về công ty của bạn ứng tuyển và có các kiến thức, kỹ năng như java, web, javaScript, php, sql, unity, hệ thống nhúng... đặc biệt là tiếng anh(vì đó là một lợi thế)."
+ utter_cntt_phongvan:
+  - text: "Để đi phỏng vấn tốt ngành công nghệ thông tin thì bạn cần nên chuẩn bị một CV tốt như CV bằng tiếng anh, ghi cụ thể ngắn gọn các kỹ năng, kinh nghiệm, dự án, đồ án tốt nghiệp mà bạn đã làm đượcc. Đưa ra các mục tiêu nghề nghiệp ngắn ngọn, dễ hiểu mà bạn muốn đạt được. Chuẩn bị các kiến thức liên quan đến vị trí mà bạn muốn ứng tuyển, hiểu rõ về công ty của bạn ứng tuyển và có các kiến thức, kỹ năng như hiểu về máy tính, mạng không dây, an ninh bảo mật...  đặc biệt là tiếng anh(vì đó là một lợi thế)."
+ utter_httt_phongvan:
+  - text: "Để đi phỏng vấn tốt ngành hệ thống thông tin thì bạn cần nên chuẩn bị một CV tốt như CV bằng tiếng anh, ghi cụ thể ngắn gọn các kỹ năng, kinh nghiệm, dự án, đồ án tốt nghiệp mà bạn đã làm được. Đưa ra các mục tiêu nghề nghiệp ngắn ngọn, dễ hiểu mà bạn muốn đạt được. Chuẩn bị các kiến thức liên quan đến vị trí mà bạn muốn ứng tuyển, hiểu rõ về công ty của bạn ứng tuyển và có các kiến thức, kỹ năng như cơ sở dữ liệu, phân tích thiết kế hệ thống, quản trị hệ thống thông tin, quản trị cơ sở dữ liệu... đặc biệt là tiếng anh(vì đó là một lợi thế)."
+ utter_khdl_phongvan:
+  - text: "Để đi phỏng vấn tốt ngành khoa học dữ liệu thì bạn cần nên chuẩn bị một CV tốt như CV bằng tiếng anh, ghi cụ thể ngắn gọn các kỹ năng, kinh nghiệm, dự án, đồ án tốt nghiệp mà bạn đã làm được. Đưa ra các mục tiêu nghề nghiệp ngắn ngọn, dễ hiểu mà bạn muốn đạt được. Chuẩn bị các kiến thức liên quan đến vị trí mà bạn muốn ứng tuyển, hiểu rõ về công ty của bạn ứng tuyển và có các kiến thức, kỹ năng như python, sql, R, SAS, trực quan hóa dữ liệu, tiền xử lý dữ liệu, dữ liệu phi cấu trúc... đặc biệt là tiếng anh(vì đó là một lợi thế)."
+ utter_khmt_kienthuc:
+  - text: "Học khoa học máy tính sinh viên sẽ được đào tạo kiến thức lý thuyết và thực hành cho việc thiết kế, xây dựng và phát triển các hệ thống phần mềm máy tính, các mô hình tính toán thông minh...Sinh viên được học các kiến thức từ căn bản đến chuyên sâu về KHMT, bao gồm: Kiến thức về lập trình, phân tích và xây dựng các hệ thống thông tin, phát triển ứng dụng trên các nền tảng hiện đại, trí tuệ nhân tạo… cùng nhiều môn học tự chọn mang tính định hướng theo các xu hướng có nhu cầu cao của các doanh nghiệp."
+ utter_ktpm_kienthuc:
+  - text: "Ngành kỹ thuật phần mềm trang bị cho sinh viên những kiến thức chuyên sâu về công nghiệp phần mềm, bao gồm: quy trình phát triển phần mềm, kỹ năng vận dụng các công cụ phần mềm vào việc hỗ trợ phát triển phần mềm, kỹ năng vận dụng các công cụ phần mềm vào hỗ trợ phát triển các phần mềm khác, các giai đoạn của quá trình sản xuất trong một dự án phần mềm như: thu thập yêu cầu, phân tích, thiết kế, lập trình, kiểm thử, vận hành và bảo trì phần mềm."
+ utter_cntt_kienthuc:
+  - text: "Khi theo học công nghệ thông tin sinh viên có khả năng lập trình, thiết kế xây dựng, bảo trì website, xây dựng các ứng dụng cho các doanh nghiệp, công ty. Ngoài ra sinh viên cũng có khả năng vận hành và nâng cấp phát triển các ứng dụng phần mềm của các công ty và doanh nghiệp, khai thác bảo trì các hệ thống cơ sở dữ liệu, bạn cũng có thể sử dụng và quản trị hệ thống mạng máy tính của doanh nghiệp."
+ utter_httt_kienthuc:
+  - text: "Đối với ngành hệ thống thông tin sinh viên sẽ được trang bị kiến thức chuyên môn vững chắc và kỹ năng mềm cần thiết. Các bạn sẽ được tiếp cận cách quản lý dự án công nghệ thông tin, lập trình web, mạng và truyền thông,.. Ngoài ra, sinh viên còn được chú trọng phát triển các kỹ năng: tư duy logic, kỹ năng làm việc nhóm, kỹ năng quản lý thời gian,...Nắm vững các phần mềm, thư viện mã nguồn mở, các kỹ năng xử lý dữ liệu, và các kỹ năng mô hình hoá dữ liệu sử dụng các thuật toán máy học, đặc biệt là các phương pháp học sâu. Sử dụng thành thạo phần mềm soạn thảo LaTeX. Sử dụng thành thạo các thư viện cũng như mã nguồn mở được sử dụng rộng rãi trong các bài toán nghiên cứu."
+ utter_khdl_kienthuc:
+  - text: "Ngành khoa học dữ liệu giúp sinh viên có kiến thức chuyên sâu về một số hướng nghiên cứu trong lĩnh vực Khoa Học Dữ Liệu, đặc biệt là máy học và khai phá dữ liệu."
+ utter_khmt_yeucau:
+  - text: "Ngành khoa học máy tính cần đam mê công nghệ, thông minh và có óc sáng tạo, tính chính xác trong công việc, ham học hỏi, trau dồi kiến thức, trình độ ngoại ngữ. Đây là ngành nghề mang tính toàn cầu vì các sản phẩm công nghệ và internet có mặt trên khắp thế giới, không cần quá giỏi toán."
+ utter_ktpm_yeucau:
+  - text: "Ngành kỹ thuật phần mềm khi lựa chọn học CNTT, bạn sẽ học những ngôn ngữ sử dụng riêng của hệ thống lập trình. Người không quyết tâm học sẽ không làm được , cần sự quyết tâm. Công nghệ nghĩa là tiến bộ là đổi mới không ngừng, cần nâng cấp bản thân. Một ngôn ngữ lập trình có thể hôm nay bạn dùng rất tốt nhưng vài năm sau lại có ngôn ngữ tốt hơn. Trong ngành, luôn luôn có người suy nghĩ làm cái gì đó tốt hơn nữa, và khi bạn luôn nghĩ đến điều đó, luôn tối ưu mọi thứ, bạn sẽ dễ thành công hơn."
+ utter_cntt_yeucau:
+  - text: "Ngành công nghệ thông tin nếu bạn là người thông minh và có óc sáng tạo, bạn sẽ dễ dàng thành công hơn trong lĩnh vực Công nghệ thông tin. Đây là nghề nghiệp đòi hỏi tư duy phân tích cao, khả năng tối ưu hóa các giải pháp nhằm tiết kiệm chi phí và đạt hiệu quả ứng dụng thực tiễn tốt nhất. Tính chính xác là yêu cầu bắt buộc của mọi khoa học, cả khoa học về công nghệ máy tính. Trong quá trình xây dựng một ứng dụng, một phần mềm, nếu xảy ra một sai sót nhỏ, toàn bộ chương trình sẽ không thể vận hành như mong muốn. Nếu là người thành thạo tiếng Anh, đáp ứng tốt nhu cầu giao tiếp xã hội và xử lý vấn đề chuyên môn thì bạn đang có trong tay một lợi thế lớn."
+ utter_httt_yeucau:
+  - text: "Ngành hệ thống máy tính có khả năng phân tích, suy luận, xâu chuỗi vấn đề công việc gắn với thiết kế, xây dựng mô hình và quản trị hệ cơ sở dữ liệu, tổ chức các hệ thống thông tin. Có kỹ năng giao tiếp và đàm phán tốt thuyết phục, đàm phán là một trong những kỹ năng quan trọng để đạt đến sự thành công. Người làm việc trong lĩnh vực hệ thống thông tin quản lý phải nhạy bén nắm bắt tâm lý, từ đó đưa ra các chiến lược phát triển hiệu quả nhất.Quản lý thông tin thông qua các phương tiện điện tử đồng nghĩa với việc bạn đang bước chân vào lĩnh vực không giới hạn phạm vi quốc gia, khu vực. Nếu là người thành thạo tiếng anh, đáp ứng tốt nhu cầu giao tiếp xã hội và xử lý vấn đề chuyên môn thì bạn đang có trong tay một lợi thế lớn."
+ utter_khdl_yeucau:
+  - text: "Khoa học dữ liệu dựa chủ yếu vào kỹ năng toán học và thống kê của một học viên chính xác bởi vì đây là những kỹ năng cần thiết để hiểu dữ liệu của bạn và ý nghĩa của nó. Các kỹ năng cũng có giá trị trong khoa học dữ liệu bởi vì bạn có thể sử dụng chúng để thực hiện dự báo tiên đoán, mô hình quyết định và thử nghiệm giả thuyết.Một nhà khoa học dữ liệu có thể cần biết về một vài ngôn ngữ lập trình để đạt được mục đích riêng biệt. Ví dụ, bạn có thể cần có kiến thức SQL để trích xuất dữ liệu từ cơ sở dữ liệu quan hệ. Các ngôn ngữ lập trình như Python và R là quan trọng để viết các kịch bản cho thao tác dữ liệu, phân tích và trực quan hóa.Một kỹ năng khác đặt ra cho thành công của một nhà khoa học dữ liệu là kỹ năng giao tiếp. Là một nhà khoa học dữ liệu là kỹ năng giao tiếp. Là một nhà khoa học dữ liệu, bạn phải có kỹ năng giao tiếp bằng miệng và viết sắc nét. Nếu một nhà khoa học dữ liệu không thể giao tiếp, tất cả kiến thức và thông tin chi tiết trên thế giới sẽ không làm gì cho tổ chức của bạn."
+ utter_khmt_thuchanh:
+  - text: "Phần lớn các môn chuyên ngành của ngành khoa học máy tính đều có thực hành để sinh viên có thể áp dụng các kiến thức lý thuyết đã học. Sinh viên sẽ được học lý thuyết song song với thực hành."
+ utter_ktpm_thuchanh:
+  - text: "Khi học ngành kỹ thuật phần mềm ở các môn chuyên ngành thì sau mỗi buỗi lý thuyết sẽ có những buổi thực hành để sinh viên thực hành những kiến thức lý thuyết đã học, vì vậy nếu muốn thực hành được tốt bạn phải nắm vững lý thuyết và làm nhiều bài tập."
+ utter_cntt_thuchanh:
+  - text: "Ngành công nghệ thông tin sinh viên cũng sẽ được thực hành khá nhiều ở các môn chuyên ngành, sinh viên sẽ được thực hành những kiến thức lý thuyết với sự hướng dẫn của giảng viên."
+ utter_httt_thuchanh:
+  - text: "Các môn ở ngành hệ thống thông tin có phần thực hành cũng không nhiều phần lớn tập trung ở các môn quan trọng. Vì vậy khi học ngành này bạn không cần lo phải thực hành quá nhiều nhưng vẫn có đầy đủ kiến thức chuyênn ngành."
+ utter_khdl_thuchanh:
+  - text: "Sinh viên ngành khoa hc dữ liệu ngoài các môn đại cương thì còn lại đa phần sẽ học lý thuyết đi đôi với thực hành. Phần thực thành cũng khá nhiều do đó để thực hành được tốt bạn cần nắm vững lý thuyết và làm nhiều bài tập."
+ utter_khmt_daotao:
+  - text: "Ngành khoa học máy tính đào tạo các nền tảng và chuyên sâu về khoa học máy tính như: cấu trúc máy tính, hệ điều hành, ngôn ngữ lập trình phần mềm và phần cứng, trí tuệ nhân tạo, bảo mật và an toàn máy tính, xử lý dữ liệu khối lượng lớn từ mạng internet và các mạng xã hội, thiết kế và phát triển các ứng dụng cho các thiết bị di động và môi trường web, hiện nay khoa học máy tính là một ngành hợp xu hướng, được đào tạo ở cả hệ đại trà và hệ chật lượng cao,có thời gian đào tạo 4 năm, ngoài ra có các chương trình đào tạo sau đại học như cao học, thạc sĩ, tiến sĩ."
+ utter_ktpm_daotao:
+  - text: "Ngành Kỹ thuật phần mềm đào tạo những kiến thức liên quan đến quy trình phát triển phần mềm một cách chuyên nghiệp nhằm tạo ra sản phẩm phần mềm đạt chất lượng cao, đáp ứng các nhu cầu nghiệp vụ cụ thể trong nền sản xuất của xã hội, hiện nay kỹ thuật phần mềm là một ngành hợp xu hướng, được đào tạo ở cả hệ đại trà và hệ chật lượng cao,có thời gian đào tạo 4 năm, ngoài ra có các chương trình đào tạo sau đại học như cao học, thạc sĩ, tiến sĩ."
+ utter_cntt_daotao:
+  - text: "Công nghệ thông tin là một ngành học được đào tạo để sử dụng máy tính và các phần mềm máy tính để phân phối và xử lý các dữ liệu thông tin, đồng thời dùng để trao đổi, lưu trữ và chuyển đổi các dữ liệu thông tin dưới nhiều hình thức khác nhau, hiện nay công nghệ thông tin là một ngành hợp xu hướng, được đào tạo ở cả hệ đại trà và hệ chật lượng cao,có thời gian đào tạo 4 năm, ngoài ra có các chương trình đào tạo sau đại học như cao học, thạc sĩ, tiến sĩ."
+ utter_httt_daotao:
+  - text: "Hệ thống thông tin là ngành đào tạo ra những cử nhân xây dựng và khai thác Hệ thống thông tin, đặc biệt tập trung vào phần mềm cho các tổ chức, doanh nghiệp và hỗ trợ ra quyết định trong công tác tổ chức, quản lý, điều hành sản xuất, đầu tư, Marketing… Phân tích, thiết kế, xây dựng, vận hành, phân luồng thông tin và tối ưu hóa các hệ thống thông tin quản lý có khả năng quản lý dự án công nghệ thông tin, lập trình web, mạng và truyền thông, hiện nay hệ thống thông tin là một ngành hợp xu hướng, được đào tạo ở cả hệ đại trà và hệ chật lượng cao,có thời gian đào tạo 4 năm, ngoài ra có các chương trình đào tạo sau đại học như cao học, thạc sĩ, tiến sĩ."
+ utter_khdl_daotao:
+  - text: "Ngành khoa học dữ liệu sinh viên sẽ được trang bị khối kiến thức nền tảng vững chắc về quản lý, xử lý và phân tích dữ liệu lớn; kiến thức chuyên ngành sâu và rộng về khoa học dữ liệu và hệ thống thông tin; các kiến thức về hội nhập, khởi nghiệp cũng như tham gia các khóa học bồi dưỡng để nắm bắt các xu hướng công nghệ mới,hiện nay khoa học dữ liệu là một ngành hợp xu hướng, được đào tạo ở cả hệ đại trà và hệ chật lượng cao,có thời gian đào tạo 4 năm, ngoài ra có các chương trình đào tạo sau đại học như cao học, thạc sĩ, tiến sĩ."
+ utter_khmt_kynang:
+  - text: "Đối với ngành Khoa học máy tính càng có nhiều kỹ năng, bạn càng dễ dàng trong học tập và cuộc sống sau này. Một số kỹ năng cần thiết như: xử lý sự cố, giao tiếp, khả năng dịch thuật ngữ chuyên ngành, làm việc nhóm, thuyết trình, kĩ năng đọc hiểu, tiếng anh, kiên nhẫn..."
+ utter_ktpm_kynang:
+  - text: "Càng có nhiều kỹ năng, sinh viên ktpm càng dễ dàng trong học tập và cuộc sống sau này. Một số kỹ năng cần thiết như: kỹ năng lập trình, xử lý sự cố, giao tiếp, khả năng dịch thuật ngữ chuyên ngành, làm việc nhóm, thuyết trình, kĩ năng đọc hiểu, tiếng anh, kiên nhẫn..."
+ utter_cntt_kynang:
+  - text: "Để học tập và phục vụ cho cuộc sống sau này mỗi sinh viên công nghệ thông tin nên trang bị nhiều kỹ năng hơn. Một số kỹ năng cần thiết như: xử lý sự cố, giao tiếp, khả năng dịch thuật ngữ chuyên ngành, làm việc nhóm, thuyết trình, kĩ năng đọc hiểu, tiếng anh, kiên nhẫn..."
+ utter_httt_kynang:
+  - text: "Càng có nhiều kỹ năng, bạn càng dễ dàng trong học tập và cuộc sống sau này. Đối với sinh viên hệ thống thông tin một số kỹ năng cần thiết như: xử lý sự cố, giao tiếp, khả năng dịch thuật ngữ chuyên ngành, làm việc nhóm, thuyết trình, kĩ năng đọc hiểu, tiếng anh, kiên nhẫn..."
+ utter_khdl_kynang:
+  - text: "Khoa học dữ liệu là một ngành mới ở nước ta, để có thể học tập và phục vụ cho công việc sau này có nhiều kỹ năng, bạn cần phải tích cực học hỏi, rèn luyện như: xử lý sự cố, giao tiếp, khả năng dịch thuật ngữ chuyên ngành, làm việc nhóm, thuyết trình, kĩ năng đọc hiểu, tiếng anh, kiên nhẫn..."
+ utter_khmt_doantotnghiep:
+  - text: "Đồ án tốt nghiệp của mỗi chuyên ngành sẽ phải liên quan đến chuyên ngành chính theo học. Độ dễ hay khó sẽ quyết định điểm mà bạn nhận. Với chuyên ngành Khoa học máy tính, đồ án bạn có thể thực hiện liên quan tới chuyên môn trí tuệ nhân tạo, ứng dụng nhận diện và xử lý ảnh, ngôn ngữ tự nhiên,... Đồ án có thể chọn đề tài thuộc chuyên ngành khác, nhưng số điểm có thể sẽ không được đánh giá cao."
+ utter_ktpm_doantotnghiep:
+  - text: "Đồ án tốt nghiệp sẽ phải liên quan đến chuyên ngành chính theo học. Độ dễ hay khó sẽ quyết định điểm mà bạn nhận. Với chuyên ngành Kỹ thuật phần mềm, đồ án bạn có thể thực hiện liên quan tới chuyên môn web, phần mềm, ứng dụng Android/IOS,... Đồ án có thể chọn đề tài thuộc chuyên ngành khác, nhưng số điểm có thể sẽ không được đánh giá cao."
+ utter_cntt_doantotnghiep:
+  - text: "Đồ án tốt nghiệp của mỗi chuyên ngành sẽ phải liên quan đến chuyên ngành chính theo học. Độ dễ hay khó sẽ quyết định điểm mà bạn nhận. Với chuyên ngành Khoa học máy tính, đồ án bạn có thể thực hiện liên quan tới chuyên môn quản lý, bảo mật network, bảo mật dữ liệu,... Đồ án có thể chọn đề tài thuộc chuyên ngành khác, nhưng số điểm có thể sẽ không được đánh giá cao."
+ utter_httt_doantotnghiep:
+  - text: "Đồ án tốt nghiệp của chuyên ngành sẽ phải liên quan đến chuyên ngành chính theo học. Độ dễ hay khó sẽ quyết định điểm mà bạn nhận. Với chuyên ngành Khoa học máy tính, đồ án bạn có thể thực hiện liên quan tới chuyên môn phân tích dữ liệu, độ hiệu quả của hệ thống quản trị cơ sở dữ liệu,... Đồ án có thể chọn đề tài thuộc chuyên ngành khác, nhưng số điểm có thể sẽ không được đánh giá cao."
+ utter_khdl_doantotnghiep:
+  - text: "Đồ án tốt nghiệp liên quan đến chuyên ngành chính theo học. Độ dễ hay khó sẽ quyết định điểm mà bạn nhận. Với chuyên ngành Khoa học máy tính, đồ án bạn có thể thực hiện liên quan tới chuyên môn phân tích, xử lý dữ liệu,... Đồ án có thể chọn đề tài thuộc chuyên ngành khác, nhưng số điểm có thể sẽ không được đánh giá cao."
+ utter_khmt_thuctapdoanhnghiep:
+  - text: "Ngành khoa học máy tính thì thường có những nơi bạn có thể thực tập như: Viện nghiên cứu và phát triển Viettel, Google, FShop-Công ty cổ phần viễn thông FPT, công ty cổ phần VNG."
+ utter_ktpm_thuctapdoanhnghiep:
+  - text: "Học ngành kỹ thuật phần mềm thì những nơi bạn có thể thực tập như: Viện nghiên cứu và phát triển Viettel, FShop-Công ty cổ phần viễn thông FPT, công ty cổ phần công nghệ SAPO, Công ty TNHH Lampart, Công Ty Global CyberSoft Việt Nam, Công ty Axon Active Vietnam."
+ utter_cntt_thuctapdoanhnghiep:
+  - text: "Khi học công nghệ thông tin những nơi bạn có thể thực tập như: Viện nghiên cứu và phát triển Viettel, công ty TNHH solazu, FShop, công nghệ truyền động và điều khiển Bosch Rexroth."
+ utter_httt_thuctapdoanhnghiep:
+  - text: "Học hệ thống thông tin thì những nơi bạn có thể thực tập như: Công ty TNHH solazu, thegioididong, FShop-Công ty cổ phần viễn thông FPT."
+ utter_khdl_thuctapdoanhnghiep:
+  - text: "Học ngành khoa học dữ liệu thì những nơi bạn có thể thực tập như: Viện nghiên cứu và phát triển Viettel, Google, FShop-Công ty cổ phần viễn thông FPT."
+ utter_khmt_tinchi:
+  - text: "Ngành khoa học máy tính có 146 tín chỉ, học kỳ 1 có 17 tín chỉ bắt buộc, học kỳ 2 có 20 tín chỉ bắt buộc và 3 tín chỉ tự chọn, học kỳ 3 có 17 tín chỉ bắt buộc và 6 tín chỉ tự chọn, học kỳ 4 có 19 tín chỉ bắt buộc và 4 tín chỉ tự chọn, học kỳ 5 có 12 tín chỉ bắt buộc và 8 tín chỉ tự chọn, học kỳ 6 có 9 tín chỉ bắt buộc và 6 tín chỉ tự chọn, học kỳ 7 có 9 tín chỉ bắt buộc và 6 tín chỉ tự chọn, học kỳ 8 có 10 tín chỉ bắt buộc."
+ utter_ktpm_tinchi:
+  - text: "Ngành kỹ thuật phần mềm có 146 tín chỉ, học kỳ 1 có 17 tín chỉ bắt buộc, học kỳ 2 có 20 tín chỉ bắt buộc và 3 tín chỉ tự chọn, Học kỳ 3 có 20 tín chỉ bắt buộc và 3 tín chỉ tự chọn, học kỳ 4 có 14 tín chỉ bắt buộc và 10 tín chỉ tự chọn, học kỳ 5 có 12 tín chỉ bắt buộc và 6 tín chỉ tự chọn, học kỳ 6 có 12 tín chỉ bắt buộc và 4 tín chỉ tự chọn, học kỳ 7 có 9 tín chỉ bắt buộc và 6 tín chỉ tự chọn, học kỳ 8 có 10 tín chỉ bắt buộc."
+ utter_cntt_tinchi:
+  - text: "Ngành công nghệ thông tin có 146 tín chỉ, học kỳ 1 có 17 tín chỉ bắt buộc, học kỳ 2 có 20 tín chỉ bắt buộc và 3 tín chỉ tự chọn, học kỳ 3 có 14 tín chỉ bắt buộc và 7 tín chỉ tự chọn, học kỳ 4 có 18 tín chỉ bắt buộc và 3 tín chỉ tự chọn, học kỳ 5 có 15 tín chỉ bắt buộc và 6 tín chỉ tự chọn, học kỳ 6 có 12 tín chỉ bắt buộc và 5 tín chỉ tự chọn, học kỳ 7 có 7 tín chỉ bắt buộc và 9 tín chỉ tự chọn, học kỳ 8 có 10 tín chỉ bắt buộc."
+ utter_httt_tinchi:
+  - text: "Ngành hệ thống thông tin có 146 tín chỉ, học kỳ 1 có 17 tín chỉ bắt buộc, học kỳ 2 có 20 tín chỉ bắt buộc và 3 tín chỉ tự chọn, học kỳ 3 có 19 tín chỉ bắt buộc và 3 tín chỉ tự chọn, học kỳ 4 có 12 tín chỉ bắt buộc và 6 tín chỉ tự chọn, học kỳ 5 có 14 tín chỉ bắt buộc và 6 tín chỉ tự chọn, học kỳ 6 có 12 tín chỉ bắt buộc và 6 tín chỉ tự chọn, học kỳ 7 có 12 tín chỉ bắt buộc và 6 tín chỉ tự chọn, học kỳ 8 có 10 tín chỉ bắt buộc."
+ utter_khdl_tinchi:
+  - text: "Ngành khoa học dữ liệu có 156 tín chỉ, học kỳ 1 có 17 tín chỉ bắt buộc, học kỳ 2 có 18 chỉ bắt buộc và 3 chỉ tự chọn, học kỳ 3 có 19 chỉ bắt buộc và 3 chỉ tự chọn, học kỳ 4 có 12 chỉ bắt buộc và 5 chỉ tự chọn, học kỳ 5 có 15 chỉ bắt buộc và 3 chỉ tự chọn, học kỳ 6 có 11 chỉ bắt buộc và 6 chỉ tự chọn, học kỳ 7 có 10 chỉ bắt buộc và 6 chỉ tự chọn, học kỳ 8 có 12 chỉ bắt buộc và 3 chỉ tự chọn, học kỳ 9 có 13 chỉ."
+ utter_cuocthi:
+  - text: "Hàng năm khoa Công Nghệ Thông Tin tổ chức đội tuyển tham gia các cuộc thi như an toàn thông tin, olympic, ACM/ICPC với mục đích là tạo điều kiện cho sinh viên đam mê và giao lưu học hỏi và còn là động lực để giúp sinh viên ôn tập, vận dụng những kiến thức đã học để giải quyết những vấn đề thực tế của cuộc sống. thời gian thi và đăng ký tham gia sẽ được thông báo trên các trang đoàn khoa hoặc fit.iuh.edu.vn."
+ utter_trituenhantao:
+  - text: "Muốn làm về lĩnh vực trí tuệ nhân tạo thì bạn nên chọn chuyên ngành Khoa học máy tính bạn nhé. Vì chuyên ngành này, có các môn học phần chuyên về trí tuệ nhân tạo để bạn có thể học hỏi những kiến thức chuyên về trí tuệ nhân tạo như môn trí tuệ nhân tạo, phân tích thiết kế giải thuật, xử lý ảnh, nhận dạng mẫu,..."
+ utter_cnttkhacdientu:
+  - text: "Điện Tử chuyên về nghiên cứu và áp dụng các vấn đề liên quan đến điện, điện tử. CNTT là ngành kỹ thuật sử dụng máy tính và phần mềm máy tính để chuyển đổi, lưu trữ, bảo vệ, xử lý, truyền tải và thu thập thông tin."
+ utter_thoigiandkhpdot1:
+  - text: "Thời gian đăng ký học phần đợt 1 được mở khi vừa bắt đầu kỳ nghỉ hè hoặc trước khi kết thúc lớp học phần cũ khoảng 2 tuần và sẽ được nhà trường thông báo trước."
+ utter_thoigiandkhpdot2:
+  - text: "Thời gian đăng ký học phần đợt 2 được mở khi kết thúc đăng ký học phần đợi 1 khoảng tầm 15 ngày cho đến 1 tháng sẽ được nhà trường thông báo trước và kết thúc kỳ đăng ký trong khoảng 10-15 ngày."
+ utter_thoigianhuyhpdot1:
+  - text: "Thời gian hủy học phần đợt 1 chia làm 2 lần. Lần 1 dành cho sinh viên đăng ký nhưng chưa đủ số lượng chấp nhận mở lớp bắt đầu từ ngày đóng học phí cho đến kết thúc kỳ đăng ký học phần. Lần 2 dành cho sinh viên đăng ký và đã đóng học phí nhưng chưa đủ số lượng yêu cầu của khóa được bắt đầu từ lúc kết thúc đợt đóng học phí."
+ utter_thoigianhuyhpdot2:
+  - text: "Thời gian hủy học phần đợt 2 chia làm 2 lần. Lần 1 dành cho lớp học phần chưa đủ số lượng chấp nhận mở lớp bắt đầu từ ngày đóng học phí cho đến kết thúc kì đăng ký học phần. Lần 2 dành cho sinh viên đã đóng học phí nhưng chưa đủ số lượng yêu cầu của lớp học phần bắt đầu từ lúc kết thúc đợt đóng học phí và kết thúc khoảng vài ngày đến 1 tuần."
+ utter_daitra:
+  - text: "Nếu được chọn hệ đại trà và hệ chất lượng cao thì bạn chọn học hệ nào? Đương nhiên là chất lượng cao rồi, nhưng ở đây bạn phải đáp ứng được học bằng tiếng anh và học phí cũng sẽ cao hơn nhiều so với hệ đại trà vì các môn chuyên ngành được giảng dạy theo giáo trình tiếng anh đang được áp dụng tại các trường quốc tế danh tiếng. Giảng viên gồm các Tiến sỹ, các Thạc sĩ đã được đào tạo tại nước ngoài, lớp học ít sinh viên (không quá 40 SV/lớp) tạo điều kiện sinh viên học tập theo phương pháp mới , phát huy tính năng động, sáng tạo của cá nhân. Sinh viên được học tập trong môi trường tốt nhất. Nhưng nếu bạn không giỏi tiếng anh lắm và không có khả năng chi trả học phí cao như vậy thì bạn vẫn có thể học hệ đại trà. Ở đây thì một lớp học sinh viên sẽ đông hơn lên đến 60-100 SV/lớp (phù hợp với tiêu trí đông thì vui luôn đó :v) tài liệu thì thường là tiếng việt. Giảng viên cũng rất nhiệt tình (tùy à nha :v). Bên cạnh đó thì việc kiếm việc làm giũa 2 hệ thì mình nghĩ là không chênh lệnh gì nhiều cả, tất cả phụ thuộc ở các bạn thôi nhé."
  utter_respond_insult:
   - text: "Câu nói của bạn không hay chút nào"
 
@@ -349,7 +591,117 @@ entities:
   - laptrinhhttt
   - laptrinhcntt
   - laptrinhkhdl
-  
+  - nuktpm
+  - nukhmt
+  - nucntt
+  - nuhttt
+  - nukhdl
+  - diemsokhmt
+  - diemsoktpm
+  - diemsohttt
+  - diemsocntt
+  - diemsokhdl
+  - chatluonggiaovienktpm
+  - chatluonggiaovienkhmt
+  - chatluonggiaoviencntt
+  - chatluonggiaovienkhdl
+  - chatluonggiaovienhttt
+  - baitaplonkhmt
+  - baitaplonktpm
+  - baitaplonhttt
+  - baitaploncntt
+  - baitaplonkhdl
+  - yeucau_tienganhktpm
+  - yeucau_tienganhkhmt
+  - yeucau_tienganhcntt
+  - yeucau_tienganhhttt
+  - yeucau_tienganhkhdl
+  - tinhcachktpm
+  - tinhcachkhmt
+  - tinhcachcntt
+  - tinhcachhttt
+  - tinhcachkhdl
+  - thuctapktpm
+  - thuctapkhmt
+  - thuctaphttt
+  - thuctapcntt
+  - thuctapkhdl
+  - hocphikhmt
+  - hocphiktpm
+  - hocphicntt
+  - hocphihttt
+  - hocphikhdl
+  - chatluongcaokhmt
+  - chatluongcaoktpm
+  - chatluongcaohttt
+  - chatluongcaocntt
+  - chatluongcaokhdl
+  - lotrinhhockhmt
+  - lotrinhhockhdl
+  - lotrinhhoccntt
+  - lotrinhhocktpm
+  - lotrinhhochttt
+  - dungcuhoctapktpm
+  - dungcuhoctapkhmt
+  - dungcuhoctaphttt
+  - dungcuhoctapcntt
+  - dungcuhoctapkhdl
+  - xuhuongktpm
+  - xuhuongkhmt
+  - xuhuongcntt
+  - xuhuonghttt
+  - xuhuongkhdl
+  - cachhocktpm
+  - cachhockhmt
+  - cachhockhdl
+  - cachhoccntt
+  - cachhochttt
+  - phongvanktpm
+  - phongvankhmt
+  - phongvancntt
+  - phongvanhttt
+  - phongvankhdl
+  - kienthuccntt
+  - kienthuchttt
+  - kienthuckhmt
+  - kienthuckhdl
+  - kienthucktpm
+  - yeucaucntt
+  - yeucauktpm
+  - yeucaukhdl
+  - yeucaukhmt
+  - yeucauhttt
+  - thuchanhcntt
+  - thuchanhkhmt
+  - thuchanhkhdl
+  - thuchanhktpm
+  - thuchanhhttt
+  - daotaocntt
+  - daotaohttt
+  - daotaokhmt
+  - daotaokhdl
+  - daotaoktpm
+  - kynangcntt
+  - kynanghttt
+  - kynangkhdl
+  - kynangkhmt
+  - kynangktpm
+  - doantotnghiepcntt
+  - doantotnghiephttt
+  - doantotnghiepkhdl
+  - doantotnghiepkhmt
+  - doantotnghiepktpm
+  - thuctapdoanhnghiepcntt
+  - thuctapdoanhnghiephttt
+  - thuctapdoanhnghiepktpm
+  - thuctapdoanhnghiepkhdl
+  - thuctapdoanhnghiepkhmt
+  - tinchikhmt
+  - tinchikhdl
+  - tinchiktpm
+  - tinchicntt
+  - tinchihttt
+
 actions:
  - utter_chaohoi
  - utter_bye
