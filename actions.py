@@ -253,3 +253,13 @@ class action_laptrinh(Action):
             listcn.append(mon_hoc)
         dispatcher.utter_message(template='utter_'+mon_hoc+'_laptrinh')
         return []
+
+
+# code 
+class action_thoigiandkhpdot1(Action):
+    def name(self):
+        return "action_thoigiandkhpdot1"
+    
+    def run(self, dispatcher, tracker, domain):
+        dispatcher.utter_message(template='utter_thoigiandkhpdot1')
+        return []
