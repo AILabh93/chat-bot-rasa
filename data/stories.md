@@ -264,6 +264,8 @@
 
 
 ## Chào - tư vấn - ung dung - linh vu - tai lieu- cam on - tạm biệt
+* chaohoi
+  - action_but
 * tuvan
   - action_tuvan
 * ungdung
@@ -279,6 +281,8 @@
 
 
 ## Chào - tư vấn - ung dung - linh vu - tai lieu- cam on - tạm biệt
+* chaohoi
+  - action_but
 * tuvan
   - action_tuvan
 * tach_nganh
@@ -293,6 +297,8 @@
   - utter_bye
 
 ## Chào - tư vấn - ung dung - linh vu - tai lieu- cam on - tạm biệt
+* chaohoi
+  - action_but
 * tuvan
   - action_tuvan
 * ngonngu
@@ -308,6 +314,8 @@
 
 
 ## Chào - tư vấn - ung dung - linh vu - tai lieu- cam on - tạm biệt
+* chaohoi
+  - action_but
 * tuvan
   - action_tuvan
 * tilesvratruong
@@ -336,6 +344,8 @@
 
 
 ## Chào - tư vấn - ung dung - linh vu - tai lieu- cam on - tạm biệt
+* chaohoi
+  - action_but
 * tuvan
   - action_tuvan
 * khoacntt_hocgi
@@ -348,5 +358,217 @@
   - action_tilesvratruong
 * luong
   - action_luong
+* bye
+  - utter_bye
+
+## Chào - tư vấn - nu - tinh cach - hoc phi - cam on - tạm biệt
+* chaohoi
+  - action_but
+* tuvan
+  - action_tuvan
+* nu
+  - action_nu
+* tinhcach
+  - action_tinhcach
+* hocphi
+  - action_hocphi
+* thank
+  - utter_thank
+* bye
+  - utter_bye
+
+## Chào - tu van - diem so - chat luong giao vien - cach hoc - tạm biệt
+* chaohoi
+  - action_but
+* tuvan
+  - action_tuvan
+* diemso
+  - action_diemso
+* chatluonggiaovien
+  - action_chatluonggiaovien
+* cachhoc
+  - action_cachhoc
+* bye
+  - utter_bye
+
+## Chào - tu van - bai tap lon - xu huong - thuc tap - tạm biệt
+* tuvan
+  - action_tuvan
+* baitaplon
+  - action_baitaplon
+* xuhuong
+  - action_xuhuong
+* thuctap
+  - action_thuctap
+* bye
+  - utter_bye
+
+## Chào - tu van - dai tra - bai tap lon - hoc phi - cam on - tạm biệt
+* chaohoi
+  - action_but
+* tuvan
+  - action_tuvan
+* daitra
+  - utter_daitra
+* baitaplon
+  - action_baitaplon
+* hocphi
+  - action_hocphi
+* thank
+  - utter_thank
+* bye
+  - utter_bye
+
+## Chào - tu van - chat luong cao - dai tra - tạm biệt
+* chaohoi
+  - action_but
+* tuvan
+  - action_tuvan
+* chatluongcao
+  - action_chatluongcao
+* daitra
+  - utter_daitra
+* bye
+  - utter_bye
+
+## Chào - tu van - thoi gian dkhp dot 1 - thoi gian huy hp dot 1 - tạm biệt
+* tuvan
+  - action_tuvan
+* thoigiandkhpdot1
+  - action_thoigiandkhpdot1
+* thoigianhuyhpdot1
+  - action_thoigianhuyhpdot1
+* bye
+  - utter_bye
+
+## Chào - tu van - thoi gian dkhp dot 2 - thoi gian huy hp dot 2 - tạm biệt
+* tuvan
+  - action_tuvan
+* thoigiandkhpdot2
+  - action_thoigiandkhpdot2
+* thoigianhuyhpdot2
+  - action_thoigianhuyhpdot2
+* bye
+  - utter_bye
+
+## Chào - tu van - chat luong giao vien - yeu cau - kien thuc - cam on - tạm biệt
+* chaohoi
+  - action_but
+* tuvan
+  - action_tuvan
+* chatluonggiaovien
+  - action_chatluonggiaovien
+* yeucau
+  - action_yeucau
+* kienthuc
+  - action_kienthuc
+* thank
+  - utter_thank
+* bye
+  - utter_bye
+
+## Chào - tu van - lo trinnh hoc - dung cu hoc tap - cach hoc - cam on - tạm biệt 
+* chaohoi
+  - action_but
+* tuvan
+  - action_tuvan
+* lotrinhhoc
+  - action_lotrinhhoc
+* dungcuhoctap
+  - action_dungcuhoctap
+* cachhoc
+  - action_cachhoc
+* thank
+  - utter_thank
+* bye
+  - utter_bye
+
+## Chào - tu van - thuc tap - phong van - thuc tap doanh nghiep - tạm biệt
+* chaohoi
+  - action_but
+* tuvan
+  - action_tuvan
+* thuctap
+  - action_thuctap
+* phongvan
+  - action_phongvan
+* thuctapdoanhnghiep
+  - action_thuctapdoanhnghiep
+* bye
+  - utter_bye
+
+## Chào - tu van - xu huong - dao tao - ky nang - cam on - tạm biệt
+* chaohoi
+  - action_but
+* tuvan
+  - action_tuvan
+* xuhuong
+  - action_xuhuong
+* daotao
+  - action_daotao
+* yeucau_tienganh
+  - action_yeucau_tienganh
+* kynang
+  - action_kynang
+* thank
+  - utter_thank
+* bye
+  - utter_bye
+
+## Chào - tu van - tin chi - do an tot nghiep - thuc tap doanh nghiep - tạm biệt
+* tuvan
+  - action_tuvan
+* tinchi
+  - action_tinchi
+* doantotnghiep
+  - action_doantotnghiep
+* thuctapdoanhnghiep
+  - action_thuctapdoanhnghiep
+* bye
+  - utter_bye
+
+## Chào - tu van - cuoc thi - tri tue nhan tao - cam on - tạm biệt
+* chaohoi
+  - action_but
+* tuvan
+  - action_tuvan
+* cuocthi
+  - utter_cuocthi
+* trituenhantao
+  - utter_trituenhantao
+* thank
+  - uuter_thank
+* bye
+  - utter_bye
+
+## Chào - tu van - dao tao - cntt khac dien tu - thuc hanh - cam on - tạm biệt
+* chaohoi
+  - action_but
+* tuvan
+  - action_tuvan
+* daotao
+  - action_daotao
+* cnttkhacdientu
+  - utter_cnttkhacdientu
+* thuchanh
+  - action_thuchanh
+* thank
+  - utter_thank
+* bye
+  - utter_bye
+
+## Chào - tu van - tin chi - cuoc thi - ky nang - cam on - tạm biệt
+* chaohoi
+  - action_but
+* tuvan
+  - action_tuvan
+* tinchi
+  - action_tinchi
+* cuocthi
+  - utter_cuocthi
+* kynang
+  - action_kynang
+* thank
+  - utter_thank
 * bye
   - utter_bye
