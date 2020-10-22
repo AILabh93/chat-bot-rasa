@@ -237,6 +237,8 @@
   - utter_bye
   
 ## Chào - tư vấn - luong - viec lam - dinh huong sai- cam on - tạm biệt
+* chaohoi
+  - action_but
 * tuvan
   - action_tuvan
 * luong 
