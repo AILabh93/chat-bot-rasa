@@ -5902,14 +5902,6 @@
 - học [khoa học dl](laptrinhkhdl:khdl) thì lập trình có cần giỏi tiếng anh hay toán không
 
 
-## intent: cuocthi
-- nghe nói năm nào khoa cũng có tổ chức các cuộc thi phải không
-- khoa có tổ chức các cuộc thi gì không
-- các cuộc thi đó trong khoa như thế nào
-- các cuộc thi đó có thực tế hay không
-- trong khoa tổ chức các cuộc thi nó có thú vị hay không
-- khoa có thường tổ chức các cuộc thi hay không
-
 ## intent: daitra
 - hệ đại trà có khác gì với hệ chất lượng cao không 
 - giữa chất lượng cao và đại trà có khác nhau không 
@@ -5942,75 +5934,59 @@
 - lĩnh vực trí tuệ nhân tạo sử dụng ngôn ngữ gì để lập trình
 - trí tuệ nhân tạo áp dụng vào được những đâu
 
-
-## intent: cnttkhacdientu
-- ad ơi, cho em hỏi, học công nghệ thông tin khác với học điện tử như thế nào ạ
-- ad ơi, cho em hỏi, học cntt khác với học điện tử như thế nào ạ
-- học cntt khác với học điện tử như thế nào ạ
-- học công nghệ thông tin khác với học điện tử như thế nào ạ
-- học công nghệ thông tin khác với học điện tử nhiều không
-- học cntt khác với học điện tử nhiều không
-- điểm khác nhau trong hai ngành học cntt và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học cntt và điện tử là gì vậy ạ
-- kiến thức của hai ngành học công nghệ thông tin với điện tử có khác nhau nhiều không ạ
-- kiến thức của hai ngành học công nghệ thông tin với điện tử có khác nhau nhiều không ạ
-
-
 ## intent: thoigiandkhpdot1
-- ad ơi, cho em hỏi thời gian [đăng ký học phần](thoigiandkhpdot1:dkhp) đợt 1 là khi nào ạ
-- ad ơi, cho em hỏi thời gian [dkhp](thoigiandkhpdot1) đợt 1 là khi nào ạ
-- cho em hỏi thời gian [đăng ký học phần](thoigiandkhpdot1:dkhp) đợt 1 là khi nào ạ
-- cho em hỏi thời gian [dkhp](thoigiandkhpdot1) đợt 1 là khi nào ạ
-- thời gian [đăng ký học phần](thoigiandkhpdot1:dkhp) đợt 1 của học kì này là khi nào
-- thời gian [dkhp](thoigiandkhpdot1) đợt 1 của học kì này là khi nào
-- bao giờ [đăng ký học phần](thoigiandkhpdot1:dkhp) đợt 1
-- bao giờ [dkhp](thoigiandkhpdot1) đợt 1
-- hết đợt [đăng ký học phần](thoigiandkhpdot1:dkhp) đợt 1 chưa ạ
-- hết đợt [dkhp](thoigiandkhpdot1) đợt 1 chưa ạ
-- bao lâu mới hết [đăng ký học phần](thoigiandkhpdot1:dkhp) đợt 1
-- bao lâu mới hết [dkhp](thoigiandkhpdot1) đợt 1
+- ad ơi, cho em hỏi thời gian đăng ký học phần đợt 1 là khi nào ạ
+- ad ơi, cho em hỏi thời gian dkhp đợt 1 là khi nào ạ
+- thời gian đăng ký học phần đợt 1 của học kì này là khi nào
+- thời gian dkhp đợt 1 của học kì này là khi nào
+- bao giờ đăng ký học phần đợt 1
+- bao giờ dkhp đợt 1
+- hết đợt đăng ký học phần đợt 1 chưa ạ
+- hết đợt dkhp đợt 1 chưa ạ
+- bao lâu mới hết đăng ký học phần đợt 1
+- bao lâu mới hết dkhp đợt 1
 
 ## intent: thoigiandkhpdot2
-- ad ơi, cho em hỏi thời gian [đăng ký học phần](thoigiandkhpdot2:dkhp) đợt 2 là khi nào ạ
-- ad ơi, cho em hỏi thời gian [dkhp](thoigiandkhpdot2) đợt 2 là khi nào ạ
-- cho em hỏi thời gian [đăng ký học phần](thoigiandkhpdot2:dkhp) đợt 2 là khi nào ạ
-- cho em hỏi thời gian [dkhp](thoigiandkhpdot2) đợt 2 là khi nào ạ
-- thời gian [đăng ký học phần](thoigiandkhpdot2:dkhp) đợt 2 của học kì này là khi nào
-- thời gian [dkhp](thoigiandkhpdot2) đợt 2 của học kì này là khi nào
-- bao giờ [đăng ký học phần](thoigiandkhpdot2:dkhp) đợt 2
-- bao giờ [dkhp](thoigiandkhpdot2) đợt 2
-- hết đợt [đăng ký học phần](thoigiandkhpdot2:dkhp) đợt 2 chưa ạ
-- hết đợt [dkhp](thoigiandkhpdot2) đợt 2 chưa ạ
-- bao lâu mới hết [đăng ký học phần](thoigiandkhpdot2:dkhp) đợt 2
-- bao lâu mới hết [dkhp](thoigiandkhpdot2) đợt 2
+- ad ơi, cho em hỏi thời gian đăng ký học phần đợt 2 là khi nào ạ
+- ad ơi, cho em hỏi thời gian dkhp đợt 2 là khi nào ạ
+- cho em hỏi thời gian đăng ký học phần đợt 2 là khi nào ạ
+- cho em hỏi thời gian dkhp đợt 2 là khi nào ạ
+- thời gian đăng ký học phần đợt 2 của học kì này là khi nào
+- thời gian dkhp đợt 2 của học kì này là khi nào
+- bao giờ đăng ký học phần đợt 2
+- bao giờ dkhp đợt 2
+- hết đợt đăng ký học phần đợt 2 chưa ạ
+- hết đợt dkhp đợt 2 chưa ạ
+- bao lâu mới hết đăng ký học phần đợt 2
+- bao lâu mới hết dkhp đợt 2
 
 ## intent: thoigianhuyhpdot1
-- ad ơi, cho em hỏi thời gian [hủy học phần](thoigianhuyhpdot1:huyhp) đợt 1 là khi nào ạ
-- ad ơi, cho em hỏi thời gian [huyhp](thoigianhuyhpdot1) đợt 1 là khi nào ạ
-- cho em hỏi thời gian [hủy học phần](thoigianhuyhpdot1:huyhp) đợt 01 là khi nào ạ
-- cho em hỏi thời gian [huyhp](thoigianhuyhpdot1) đợt 1 là khi nào ạ
-- thời gian [hủy học phần](thoigianhuyhpdot1:huyhp) đợt 1 của học kì này là khi nào
-- thời gian [huyhp](thoigianhuyhpdot1) đợt 1 của học kì này là khi nào
-- bao giờ [hủy học phần](thoigianhuyhpdot1:huyhp) đợt 1
-- bao giờ [huyhp](thoigianhuyhpdot1) đợt 1
-- hết đợt [hủy học phần](thoigianhuyhpdot1:huyhp) đợt 1 chưa ạ
-- hết đợt [huyhp](thoigianhuyhpdot1) đợt 1 chưa ạ
-- bao lâu mới hết [hủy học phần](thoigianhuyhpdot1:huyhp) đợt 1
-- bao lâu mới hết [huyhp](thoigianhuyhpdot1) đợt 1
+- ad ơi, cho em hỏi thời gian hủy học phần đợt 1 là khi nào ạ
+- ad ơi, cho em hỏi thời gian hủy hp đợt 1 là khi nào ạ
+- cho em hỏi thời gian hủy học phần đợt 01 là khi nào ạ
+- cho em hỏi thời gian hủy hp đợt 1 là khi nào ạ
+- thời gian hủy học phần đợt 1 của học kì này là khi nào
+- thời gian hủy hp đợt 1 của học kì này là khi nào
+- bao giờ hủy học phần đợt 1
+- bao giờ hủy hp đợt 1
+- hết đợt hủy học phần đợt 1 chưa ạ
+- hết đợt hủy hp đợt 1 chưa ạ
+- bao lâu mới hết hủy học phần đợt 1
+- bao lâu mới hết hủy hp đợt 1
 
 ## intent: thoigianhuyhpdot2
-- ad ơi, cho em hỏi thời gian [hủy học phần](thoigianhuyhpdot2:huyhp) đợt 1 là khi nào ạ
-- ad ơi, cho em hỏi thời gian [huyhp](thoigianhuyhpdot2) đợt 1 là khi nào ạ
-- cho em hỏi thời gian [hủy học phần](thoigianhuyhpdot2:huyhp) đợt 01 là khi nào ạ
-- cho em hỏi thời gian [huyhp](thoigianhuyhpdot2) đợt 1 là khi nào ạ
-- thời gian [hủy học phần](thoigianhuyhpdot2:huyhp) đợt 1 của học kì này là khi nào
-- thời gian [huyhp](thoigianhuyhpdot2) đợt 1 của học kì này là khi nào
-- bao giờ [hủy học phần](thoigianhuyhpdot2:huyhp) đợt 1
-- bao giờ [huyhp](thoigianhuyhpdot2) đợt 1
-- hết đợt [hủy học phần](thoigianhuyhpdot2:huyhp) đợt 1 chưa ạ
-- hết đợt [huyhp](thoigianhuyhpdot2) đợt 1 chưa ạ
-- bao lâu mới hết [hủy học phần](thoigianhuyhpdot2:huyhp) đợt 1
-- bao lâu mới hết [huyhp](thoigianhuyhpdot2) đợt 1
+- ad ơi, cho em hỏi thời gian hủy học phần đợt 2 là khi nào ạ
+- ad ơi, cho em hỏi thời gian hủy hp đợt 2 là khi nào ạ
+- cho em hỏi thời gian hủy học phần đợt 2 là khi nào ạ
+- cho em hỏi thời gian hủy hp đợt 2 là khi nào ạ
+- thời gian hủy học phần đợt 2 của học kì này là khi nào
+- thời gian hủy hp đợt 2 của học kì này là khi nào
+- bao giờ hủy học phần đợt 2
+- bao giờ hủy hp đợt 2
+- hết đợt hủy học phần đợt 2 chưa ạ
+- hết đợt hủy hp đợt 2 chưa ạ
+- bao lâu mới hết hủy học phần đợt 2
+- bao lâu mới hết hủy hp đợt 2
 ## intent: nu
 - ngành [ktpm](nuktpm) có nhiều nữ học không
 - ngành [ktpmm](nuktpm:ktpm) có nhiều nữ học không
@@ -8471,22 +8447,22 @@
 - thiếu tính kiên nhẫn có học [kỹ thuật phân mem](tinhcachktpm:ktpm) được không ?
 - thiếu tính kiên nhẫn có học [phan mem](tinhcachktpm:ktpm) được không ?
 - thiếu tính kiên nhẫn có học [kt pm](tinhcachktpm:ktpm) được không ?
-- có phải người trầm tính là học giỏi[ktpm](tinhcachktpm) ?
-- có phải người trầm tính là học giỏi[ktpmm](tinhcachktpm:ktpm) ?
-- có phải người trầm tính là học giỏi[kỹ thuật phần mềm](tinhcachktpm:ktpm) ?
-- có phải người trầm tính là học giỏi[ky thuat phan mem](tinhcachktpm:ktpm) ?
-- có phải người trầm tính là học giỏi[ki thuật phần mềm](tinhcachktpm:ktpm) ?
-- có phải người trầm tính là học giỏi[kỹ thuat phần mềm](tinhcachktpm:ktpm) ?
-- có phải người trầm tính là học giỏi[kỹ thuật phần mềm](tinhcachktpm:ktpm) ?
-- có phải người trầm tính là học giỏi[cong nghệ phần mềm](tinhcachktpm:ktpm) ?
-- có phải người trầm tính là học giỏi[công nghệ phần mềm](tinhcachktpm:ktpm) ?
-- có phải người trầm tính là học giỏi[cong nghe phan mem](tinhcachktpm:ktpm) ?
-- có phải người trầm tính là học giỏi[SE](tinhcachktpm:ktpm) ?
-- có phải người trầm tính là học giỏi[kt phần mềm](tinhcachktpm:ktpm) ?
-- có phải người trầm tính là học giỏi[kt phan mem](tinhcachktpm:ktpm) ?
-- có phải người trầm tính là học giỏi[kỹ thuật phân mem](tinhcachktpm:ktpm) ?
-- có phải người trầm tính là học giỏi[phan mem](tinhcachktpm:ktpm) ?
-- có phải người trầm tính là học giỏi[kt pm](tinhcachktpm:ktpm) ?
+- có phải người trầm tính là học giỏi [ktpm](tinhcachktpm) ?
+- có phải người trầm tính là học giỏi [ktpmm](tinhcachktpm:ktpm) ?
+- có phải người trầm tính là học giỏi [kỹ thuật phần mềm](tinhcachktpm:ktpm) ?
+- có phải người trầm tính là học giỏi [ky thuat phan mem](tinhcachktpm:ktpm) ?
+- có phải người trầm tính là học giỏi [ki thuật phần mềm](tinhcachktpm:ktpm) ?
+- có phải người trầm tính là học giỏi [kỹ thuat phần mềm](tinhcachktpm:ktpm) ?
+- có phải người trầm tính là học giỏi [kỹ thuật phần mềm](tinhcachktpm:ktpm) ?
+- có phải người trầm tính là học giỏi [cong nghệ phần mềm](tinhcachktpm:ktpm) ?
+- có phải người trầm tính là học giỏi [công nghệ phần mềm](tinhcachktpm:ktpm) ?
+- có phải người trầm tính là học giỏi [cong nghe phan mem](tinhcachktpm:ktpm) ?
+- có phải người trầm tính là học giỏi [SE](tinhcachktpm:ktpm) ?
+- có phải người trầm tính là học giỏi [kt phần mềm](tinhcachktpm:ktpm) ?
+- có phải người trầm tính là học giỏi [kt phan mem](tinhcachktpm:ktpm) ?
+- có phải người trầm tính là học giỏi [kỹ thuật phân mem](tinhcachktpm:ktpm) ?
+- có phải người trầm tính là học giỏi [phan mem](tinhcachktpm:ktpm) ?
+- có phải người trầm tính là học giỏi [kt pm](tinhcachktpm:ktpm) ?
 - tính cách năng động có học được [ktpm](tinhcachktpm)?
 - tính cách năng động có học được [ktpmm](tinhcachktpm:ktpm)?
 - tính cách năng động có học được [kỹ thuật phần mềm](tinhcachktpm:ktpm)?
@@ -8579,21 +8555,21 @@
 - thiếu tính kiên nhẫn có học [kh may tính](tinhcachkhmt:khmt) được không ?
 - thiếu tính kiên nhẫn có học [kh máy tính](tinhcachkhmt:khmt) được không ?
 - thiếu tính kiên nhẫn có học [kh máy tình](tinhcachkhmt:khmt) được không ?
-- có phải người trầm tính là học giỏi[khmt](tinhcachkhmt) ?
-- có phải người trầm tính là học giỏi[khtm](tinhcachkhmt:khmt) ?
-- có phải người trầm tính là học giỏi[khoa học máy tính](tinhcachkhmt:khmt) ?
-- có phải người trầm tính là học giỏi[khoa hoc may tinh](tinhcachkhmt:khmt) ?
-- có phải người trầm tính là học giỏi[cong nghe may tinh](tinhcachkhmt:khmt) ?
-- có phải người trầm tính là học giỏi[khao hoc may tinh](tinhcachkhmt:khmt) ?
-- có phải người trầm tính là học giỏi[khao học may tinh](tinhcachkhmt:khmt) ?
-- có phải người trầm tính là học giỏi[công nghệ máy tính](tinhcachkhmt:khmt) ?
-- có phải người trầm tính là học giỏi[khao học máy tinh](tinhcachkhmt:khmt) ?
-- có phải người trầm tính là học giỏi[khoa học may tinh](tinhcachkhmt:khmt) ?
-- có phải người trầm tính là học giỏi[CS](tinhcachkhmt:khmt) ?
-- có phải người trầm tính là học giỏi[kh máy tinh](tinhcachkhmt:khmt) ?
-- có phải người trầm tính là học giỏi[kh may tính](tinhcachkhmt:khmt) ?
-- có phải người trầm tính là học giỏi[kh máy tính](tinhcachkhmt:khmt) ?
-- có phải người trầm tính là học giỏi[kh máy tình](tinhcachkhmt:khmt) ?
+- có phải người trầm tính là học giỏi [khmt](tinhcachkhmt) ?
+- có phải người trầm tính là học giỏi [khtm](tinhcachkhmt:khmt) ?
+- có phải người trầm tính là học giỏi [khoa học máy tính](tinhcachkhmt:khmt) ?
+- có phải người trầm tính là học giỏi [khoa hoc may tinh](tinhcachkhmt:khmt) ?
+- có phải người trầm tính là học giỏi [cong nghe may tinh](tinhcachkhmt:khmt) ?
+- có phải người trầm tính là học giỏi [khao hoc may tinh](tinhcachkhmt:khmt) ?
+- có phải người trầm tính là học giỏi [khao học may tinh](tinhcachkhmt:khmt) ?
+- có phải người trầm tính là học giỏi [công nghệ máy tính](tinhcachkhmt:khmt) ?
+- có phải người trầm tính là học giỏi [khao học máy tinh](tinhcachkhmt:khmt) ?
+- có phải người trầm tính là học giỏi [khoa học may tinh](tinhcachkhmt:khmt) ?
+- có phải người trầm tính là học giỏi [CS](tinhcachkhmt:khmt) ?
+- có phải người trầm tính là học giỏi [kh máy tinh](tinhcachkhmt:khmt) ?
+- có phải người trầm tính là học giỏi [kh may tính](tinhcachkhmt:khmt) ?
+- có phải người trầm tính là học giỏi [kh máy tính](tinhcachkhmt:khmt) ?
+- có phải người trầm tính là học giỏi [kh máy tình](tinhcachkhmt:khmt) ?
 - tính cách năng động có học được [khmt](tinhcachkhmt)?
 - tính cách năng động có học được [khtm](tinhcachkhmt:khmt)?
 - tính cách năng động có học được [khoa học máy tính](tinhcachkhmt:khmt)?
@@ -8692,23 +8668,23 @@
 - thiếu tính kiên nhẫn có học [công nghệ tt](tinhcachcntt:cntt) được không ?
 - thiếu tính kiên nhẫn có học [cong6 nghệ thong tin](tinhcachcntt:cntt) được không ?
 - thiếu tính kiên nhẫn có học [công nghệ thong tin](tinhcachcntt:cntt) được không ?
-- có phải người trầm tính là học giỏi[cntt](tinhcachcntt) ?
-- có phải người trầm tính là học giỏi[cnttt](tinhcachcntt:cntt) ?
-- có phải người trầm tính là học giỏi[công nghệ thông tin](tinhcachcntt:cntt) ?
-- có phải người trầm tính là học giỏi[cong nghe thong tin](tinhcachcntt:cntt) ?
-- có phải người trầm tính là học giỏi[công nghệ thong tin](tinhcachcntt:cntt) ?
-- có phải người trầm tính là học giỏi[cong nghe thông tin](tinhcachcntt:cntt) ?
-- có phải người trầm tính là học giỏi[IT](tinhcachcntt:cntt) ?
-- có phải người trầm tính là học giỏi[công nghệ thông tin](tinhcachcntt:cntt) ?
-- có phải người trầm tính là học giỏi[cong nghệ thông tin](tinhcachcntt:cntt) ?
-- có phải người trầm tính là học giỏi[công nghệ thông tinn](tinhcachcntt:cntt) ?
-- có phải người trầm tính là học giỏi[cn thong tin](tinhcachcntt:cntt) ?
-- có phải người trầm tính là học giỏi[cn tt](tinhcachcntt:cntt) ?
-- có phải người trầm tính là học giỏi[cn thông tin](tinhcachcntt:cntt) ?
-- có phải người trầm tính là học giỏi[cogn nghệ thông tin](tinhcachcntt:cntt) ?
-- có phải người trầm tính là học giỏi[công nghệ tt](tinhcachcntt:cntt) ?
-- có phải người trầm tính là học giỏi[cong6 nghệ thong tin](tinhcachcntt:cntt) ?
-- có phải người trầm tính là học giỏi[công nghệ thong tin](tinhcachcntt:cntt) ?
+- có phải người trầm tính là học giỏi [cntt](tinhcachcntt) ?
+- có phải người trầm tính là học giỏi [cnttt](tinhcachcntt:cntt) ?
+- có phải người trầm tính là học giỏi [công nghệ thông tin](tinhcachcntt:cntt) ?
+- có phải người trầm tính là học giỏi [cong nghe thong tin](tinhcachcntt:cntt) ?
+- có phải người trầm tính là học giỏi [công nghệ thong tin](tinhcachcntt:cntt) ?
+- có phải người trầm tính là học giỏi [cong nghe thông tin](tinhcachcntt:cntt) ?
+- có phải người trầm tính là học giỏi [IT](tinhcachcntt:cntt) ?
+- có phải người trầm tính là học giỏi [công nghệ thông tin](tinhcachcntt:cntt) ?
+- có phải người trầm tính là học giỏi [cong nghệ thông tin](tinhcachcntt:cntt) ?
+- có phải người trầm tính là học giỏi [công nghệ thông tinn](tinhcachcntt:cntt) ?
+- có phải người trầm tính là học giỏi [cn thong tin](tinhcachcntt:cntt) ?
+- có phải người trầm tính là học giỏi [cn tt](tinhcachcntt:cntt) ?
+- có phải người trầm tính là học giỏi [cn thông tin](tinhcachcntt:cntt) ?
+- có phải người trầm tính là học giỏi [cogn nghệ thông tin](tinhcachcntt:cntt) ?
+- có phải người trầm tính là học giỏi [công nghệ tt](tinhcachcntt:cntt) ?
+- có phải người trầm tính là học giỏi [cong6 nghệ thong tin](tinhcachcntt:cntt) ?
+- có phải người trầm tính là học giỏi [công nghệ thong tin](tinhcachcntt:cntt) ?
 - tính cách năng động có học được [cntt](tinhcachcntt)?
 - tính cách năng động có học được [cnttt](tinhcachcntt:cntt)?
 - tính cách năng động có học được [công nghệ thông tin](tinhcachcntt:cntt)?
@@ -8803,21 +8779,21 @@
 - thiếu tính kiên nhẫn có học [he thống tt](tinhcachhttt:httt) được không ?
 - thiếu tính kiên nhẫn có học [ht thông tin](tinhcachhttt:httt) được không ?
 - thiếu tính kiên nhẫn có học [ht thong6 tin](tinhcachhttt:httt) được không ?
-- có phải người trầm tính là học giỏi[httt](tinhcachhttt) ?
-- có phải người trầm tính là học giỏi[hhttt](tinhcachhttt:httt) ?
-- có phải người trầm tính là học giỏi[IS](tinhcachhttt:httt) ?
-- có phải người trầm tính là học giỏi[hệ thống thông tin](tinhcachhttt:httt) ?
-- có phải người trầm tính là học giỏi[he thong thong tin](tinhcachhttt:httt) ?
-- có phải người trầm tính là học giỏi[hệ thông thông tin](tinhcachhttt:httt) ?
-- có phải người trầm tính là học giỏi[hê thong thông tin](tinhcachhttt:httt) ?
-- có phải người trầm tính là học giỏi[hệ thống thông tin](tinhcachhttt:httt) ?
-- có phải người trầm tính là học giỏi[hệ thống thông tín](tinhcachhttt:httt) ?
-- có phải người trầm tính là học giỏi[he thống thông tinn](tinhcachhttt:httt) ?
-- có phải người trầm tính là học giỏi[ht thông tin](tinhcachhttt:httt) ?
-- có phải người trầm tính là học giỏi[hệ thống tt](tinhcachhttt:httt) ?
-- có phải người trầm tính là học giỏi[he thống tt](tinhcachhttt:httt) ?
-- có phải người trầm tính là học giỏi[ht thông tin](tinhcachhttt:httt) ?
-- có phải người trầm tính là học giỏi[ht thong6 tin](tinhcachhttt:httt) ?
+- có phải người trầm tính là học giỏi [httt](tinhcachhttt) ?
+- có phải người trầm tính là học giỏi [hhttt](tinhcachhttt:httt) ?
+- có phải người trầm tính là học giỏi [IS](tinhcachhttt:httt) ?
+- có phải người trầm tính là học giỏi [hệ thống thông tin](tinhcachhttt:httt) ?
+- có phải người trầm tính là học giỏi [he thong thong tin](tinhcachhttt:httt) ?
+- có phải người trầm tính là học giỏi [hệ thông thông tin](tinhcachhttt:httt) ?
+- có phải người trầm tính là học giỏi [hê thong thông tin](tinhcachhttt:httt) ?
+- có phải người trầm tính là học giỏi [hệ thống thông tin](tinhcachhttt:httt) ?
+- có phải người trầm tính là học giỏi [hệ thống thông tín](tinhcachhttt:httt) ?
+- có phải người trầm tính là học giỏi [he thống thông tinn](tinhcachhttt:httt) ?
+- có phải người trầm tính là học giỏi [ht thông tin](tinhcachhttt:httt) ?
+- có phải người trầm tính là học giỏi [hệ thống tt](tinhcachhttt:httt) ?
+- có phải người trầm tính là học giỏi [he thống tt](tinhcachhttt:httt) ?
+- có phải người trầm tính là học giỏi [ht thông tin](tinhcachhttt:httt) ?
+- có phải người trầm tính là học giỏi [ht thong6 tin](tinhcachhttt:httt) ?
 - tính cách năng động có học được [httt](tinhcachhttt)?
 - tính cách năng động có học được [hhttt](tinhcachhttt:httt)?
 - tính cách năng động có học được [IS](tinhcachhttt:httt)?
@@ -8904,20 +8880,20 @@
 - thiếu tính kiên nhẫn có học [kh dữ liệu](tinhcachkhdl:khdl) được không ?
 - thiếu tính kiên nhẫn có học [khoa hoc dữ liệu](tinhcachkhdl:khdl) được không ?
 - thiếu tính kiên nhẫn có học [khoa học dl](tinhcachkhdl:khdl) được không ?
-- có phải người trầm tính là học giỏi[khdl](tinhcachkhdl) ?
-- có phải người trầm tính là học giỏi[khdk](tinhcachkhdl:khdl) ?
-- có phải người trầm tính là học giỏi[khoa học dữ liệu](tinhcachkhdl:khdl) ?
-- có phải người trầm tính là học giỏi[khoa hoc du lieu](tinhcachkhdl:khdl) ?
-- có phải người trầm tính là học giỏi[khoa học du lieu](tinhcachkhdl:khdl) ?
-- có phải người trầm tính là học giỏi[khoa hoc du liệu](tinhcachkhdl:khdl) ?
-- có phải người trầm tính là học giỏi[khao học dữ leiu](tinhcachkhdl:khdl) ?
-- có phải người trầm tính là học giỏi[khao học du lieu](tinhcachkhdl:khdl) ?
-- có phải người trầm tính là học giỏi[khao học dữ leiu](tinhcachkhdl:khdl) ?
-- có phải người trầm tính là học giỏi[khoa học du lieuu](tinhcachkhdl:khdl) ?
-- có phải người trầm tính là học giỏi[kh dl](tinhcachkhdl:khdl) ?
-- có phải người trầm tính là học giỏi[kh dữ liệu](tinhcachkhdl:khdl) ?
-- có phải người trầm tính là học giỏi[khoa hoc dữ liệu](tinhcachkhdl:khdl) ?
-- có phải người trầm tính là học giỏi[khoa học dl](tinhcachkhdl:khdl) ?
+- có phải người trầm tính là học giỏi [khdl](tinhcachkhdl) ?
+- có phải người trầm tính là học giỏi [khdk](tinhcachkhdl:khdl) ?
+- có phải người trầm tính là học giỏi [khoa học dữ liệu](tinhcachkhdl:khdl) ?
+- có phải người trầm tính là học giỏi [khoa hoc du lieu](tinhcachkhdl:khdl) ?
+- có phải người trầm tính là học giỏi [khoa học du lieu](tinhcachkhdl:khdl) ?
+- có phải người trầm tính là học giỏi [khoa hoc du liệu](tinhcachkhdl:khdl) ?
+- có phải người trầm tính là học giỏi [khao học dữ leiu](tinhcachkhdl:khdl) ?
+- có phải người trầm tính là học giỏi [khao học du lieu](tinhcachkhdl:khdl) ?
+- có phải người trầm tính là học giỏi [khao học dữ leiu](tinhcachkhdl:khdl) ?
+- có phải người trầm tính là học giỏi [khoa học du lieuu](tinhcachkhdl:khdl) ?
+- có phải người trầm tính là học giỏi [kh dl](tinhcachkhdl:khdl) ?
+- có phải người trầm tính là học giỏi [kh dữ liệu](tinhcachkhdl:khdl) ?
+- có phải người trầm tính là học giỏi [khoa hoc dữ liệu](tinhcachkhdl:khdl) ?
+- có phải người trầm tính là học giỏi [khoa học dl](tinhcachkhdl:khdl) ?
 - tính cách năng động có học được [khdl](tinhcachkhdl)?
 - tính cách năng động có học được [khdk](tinhcachkhdl:khdl)?
 - tính cách năng động có học được [khoa học dữ liệu](tinhcachkhdl:khdl)?
@@ -16988,125 +16964,24 @@
 - học bao nhiêu tín chỉ khi mình theo học [khoa học dl](tinchikhdl:khdl)
 
 ## intent: cnttkhacdientu
-- ad ơi, cho em hỏi, học [công nghệ thông tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- ad ơi, cho em hỏi, học [cntt](cnttkhacdientu) khác với học điện tử như thế nào ạ
-- ad ơi, cho em hỏi, học [cnttt](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- ad ơi, cho em hỏi, học [công nghệ thông tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- ad ơi, cho em hỏi, học [cong nghe thong tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- ad ơi, cho em hỏi, học [công nghệ thong tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- ad ơi, cho em hỏi, học [cong nghe thông tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- ad ơi, cho em hỏi, học [IT](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- ad ơi, cho em hỏi, học [công nghệ thông tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- ad ơi, cho em hỏi, học [cong nghệ thông tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- ad ơi, cho em hỏi, học [công nghệ thông tinn](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- ad ơi, cho em hỏi, học [cn thong tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- ad ơi, cho em hỏi, học [cn tt](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- ad ơi, cho em hỏi, học [cn thông tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- ad ơi, cho em hỏi, học [cogn nghệ thông tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- ad ơi, cho em hỏi, học [công nghệ tt](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- ad ơi, cho em hỏi, học [cong6 nghệ thong tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- ad ơi, cho em hỏi, học [công nghệ thong tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- học [cntt](cnttkhacdientu) khác với học điện tử như thế nào ạ
-- học [cnttt](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- học [công nghệ thông tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- học [cong nghe thong tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- học [công nghệ thong tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- học [cong nghe thông tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- học [IT](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- học [công nghệ thông tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- học [cong nghệ thông tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- học [công nghệ thông tinn](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- học [cn thong tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- học [cn tt](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- học [cn thông tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- học [cogn nghệ thông tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- học [công nghệ tt](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- học [cong6 nghệ thong tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- học [công nghệ thong tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- học [công nghệ thông tin](cnttkhacdientu:cntt) khác với học điện tử như thế nào ạ
-- học [công nghệ thông tin](cnttkhacdientu:cntt) khác với học điện tử nhiều không?
-- học [cntt](cnttkhacdientu) khác với học điện tử nhiều không?
-- học [cnttt](cnttkhacdientu:cntt) khác với học điện tử nhiều không?
-- học [công nghệ thông tin](cnttkhacdientu:cntt) khác với học điện tử nhiều không?
-- học [cong nghe thong tin](cnttkhacdientu:cntt) khác với học điện tử nhiều không?
-- học [công nghệ thong tin](cnttkhacdientu:cntt) khác với học điện tử nhiều không?
-- học [cong nghe thông tin](cnttkhacdientu:cntt) khác với học điện tử nhiều không?
-- học [IT](cnttkhacdientu:cntt) khác với học điện tử nhiều không?
-- học [công nghệ thông tin](cnttkhacdientu:cntt) khác với học điện tử nhiều không?
-- học [cong nghệ thông tin](cnttkhacdientu:cntt) khác với học điện tử nhiều không?
-- học [công nghệ thông tinn](cnttkhacdientu:cntt) khác với học điện tử nhiều không?
-- học [cn thong tin](cnttkhacdientu:cntt) khác với học điện tử nhiều không?
-- học [cn tt](cnttkhacdientu:cntt) khác với học điện tử nhiều không?
-- học [cn thông tin](cnttkhacdientu:cntt) khác với học điện tử nhiều không?
-- học [cogn nghệ thông tin](cnttkhacdientu:cntt) khác với học điện tử nhiều không?
-- học [công nghệ tt](cnttkhacdientu:cntt) khác với học điện tử nhiều không?
-- học [cong6 nghệ thong tin](cnttkhacdientu:cntt) khác với học điện tử nhiều không?
-- học [công nghệ thong tin](cnttkhacdientu:cntt) khác với học điện tử nhiều không?
-- điểm khác nhau trong hai ngành học [cntt](cnttkhacdientu) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [cnttt](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [công nghệ thông tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [cong nghe thong tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [công nghệ thong tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [cong nghe thông tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [IT](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [công nghệ thông tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [cong nghệ thông tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [công nghệ thông tinn](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [cn thong tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [cn tt](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [cn thông tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [cogn nghệ thông tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [công nghệ tt](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [cong6 nghệ thong tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [công nghệ thong tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [cntt](cnttkhacdientu) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [cnttt](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [công nghệ thông tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [cong nghe thong tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [công nghệ thong tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [cong nghe thông tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [IT](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [công nghệ thông tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [cong nghệ thông tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [công nghệ thông tinn](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [cn thong tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [cn tt](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [cn thông tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [cogn nghệ thông tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [công nghệ tt](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [cong6 nghệ thong tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- điểm khác nhau trong hai ngành học [công nghệ thong tin](cnttkhacdientu:cntt) và điện tử là gì vậy ạ
-- kiến thức của hai ngành học [công nghệ thông tin](cnttkhacdientu:cntt) với điện tử có khác nhau nhiều không ạ
-- kiến thức của hai ngành học [công nghệ thông tin](cnttkhacdientu:cntt) với điện tử có khác nhau nhiều không ạ
-## intent: trituenhantao
-- em muốn học về lĩnh vực trí tuệ nhân tạo nên bắt đầu từ đâu
-- bắt đầu với AI(artificial intelligence) thì nên học những gì
-- học những gì để bắt đầu với trí tuệ nhân tạo
-- những thức cần học khi học trí tuệ nhân tạo
-- trí tuệ nhân tạo là gì
-- bắt đầu từ đâu với trí tuệ nhân tạo
-- những môn cần học khi theo trí tuệ nhân tạo
-- lĩnh vực trí tuệ nhân tạo có khó không
-- trí tuệ nhân tạo lương như thế nào
-- trí tuệ nhân tạo công việc có nhiều không
-- trí tuệ nhân tạo có thể làm được những gì
-- lĩnh vực trí tuệ nhân tạo hiện nay có hot không
-- lĩnh vực trí tuệ nhân tạo có cần giỏi toán lắm không
-- lĩnh vực trí tuệ nhân tạo có khó lắm không
-- lĩnh vực trí tuệ nhân tạo sử dụng ngôn ngữ gì để lập trình
-- trí tuệ nhân tạo áp dụng vào được những đâu
+- ad ơi, cho em hỏi, học công nghệ thông tin khác với học điện tử như thế nào ạ
+- ad ơi, cho em hỏi, học cntt khác với học điện tử như thế nào ạ
+- ad ơi, cho em hỏi, học cong nghe thong tin khác với học điện tử như thế nào ạ
+- ad ơi, cho em hỏi, học cong nghe thông tin khác với học điện tử như thế nào ạ
+- ad ơi, cho em hỏi, học công nghệ thông tin khác với học điện tử như thế nào ạ
+- ad ơi, cho em hỏi, học cn thong tin khác với học điện tử như thế nào ạ
+- ad ơi, cho em hỏi, học cn tt khác với học điện tử như thế nào ạ
+- học cntt khác với học điện tử như thế nào ạ
+- học công nghệ thông tin khác với học điện tử như thế nào ạ
+- học cong nghe thông tin khác với học điện tử như thế nào ạ
+- học cntt khác với học điện tử nhiều không?
+- học công nghệ thông tin khác với học điện tử nhiều không?
+- học cong nghe thong tin khác với học điện tử nhiều không?
+- học cn thong tin khác với học điện tử nhiều không?
+- điểm khác nhau trong hai ngành học cntt và điện tử là gì vậy ạ
+- điểm khác nhau trong hai ngành học cnttt và điện tử là gì vậy ạ
+- điểm khác nhau trong hai ngành học công nghệ thông tin và điện tử là gì vậy ạ
 
-## intent: daitra
-- hệ đại trà có khác gì với hệ chất lượng cao không ?
-- giữa chất lượng cao và đại trà có khác nhau không ?
-- hệ  đại trà có tốt hơn hệ chất lượng cao không ? 
-- ưu điểm nhược điểm của hệ đại trà là gì ?
-- nên học hệ chất lượng cao hay đại trà ?
-- hệ đại trà có khó kiếm việc làm hơn chất lượng cao không ? 
-- hệ đại trà học phí ra sao ? 
-- điểm xét tuyển đại trà có thấp hơn chất lượng cao không ? 
-- điểm thi thuyển đại trà có thấp hơn chất lượng cao không ?
-- tổ hợp môn thi thuyển ngành đại trà có khác chất lượng nhau không ?
 
 ## intent: cuocthi
 - nghe nói năm nào khoa cũng có tổ chức các cuộc thi phải không
@@ -17116,58 +16991,3 @@
 - trong khoa tổ chức các cuộc thi nó có thú vị hay không
 - khoa có thường tổ chức các cuộc thi hay không
 
-## intent: thoigiandkhpdot1
-- ad ơi, cho em hỏi thời gian [đăng ký học phần](thoigiandkhpdot1:dkhp) đợt 1 là khi nào ạ
-- ad ơi, cho em hỏi thời gian [dkhp](thoigiandkhpdot1) đợt 1 là khi nào ạ
-- cho em hỏi thời gian [đăng ký học phần](thoigiandkhpdot1:dkhp) đợt 1 là khi nào ạ
-- cho em hỏi thời gian [dkhp](thoigiandkhpdot1) đợt 1 là khi nào ạ
-- thời gian [đăng ký học phần](thoigiandkhpdot1:dkhp) đợt 1 của học kì này là khi nào
-- thời gian [dkhp](thoigiandkhpdot1) đợt 1 của học kì này là khi nào
-- bao giờ [đăng ký học phần](thoigiandkhpdot1:dkhp) đợt 1
-- bao giờ [dkhp](thoigiandkhpdot1) đợt 1
-- hết đợt [đăng ký học phần](thoigiandkhpdot1:dkhp) đợt 1 chưa ạ
-- hết đợt [dkhp](thoigiandkhpdot1) đợt 1 chưa ạ
-- bao lâu mới hết [đăng ký học phần](thoigiandkhpdot1:dkhp) đợt 1
-- bao lâu mới hết [dkhp](thoigiandkhpdot1) đợt 1
-
-## intent: thoigiandkhpdot2
-- ad ơi, cho em hỏi thời gian [đăng ký học phần](thoigiandkhpdot2:dkhp) đợt 2 là khi nào ạ
-- ad ơi, cho em hỏi thời gian [dkhp](thoigiandkhpdot2) đợt 2 là khi nào ạ
-- cho em hỏi thời gian [đăng ký học phần](thoigiandkhpdot2:dkhp) đợt 2 là khi nào ạ
-- cho em hỏi thời gian [dkhp](thoigiandkhpdot2) đợt 2 là khi nào ạ
-- thời gian [đăng ký học phần](thoigiandkhpdot2:dkhp) đợt 2 của học kì này là khi nào
-- thời gian [dkhp](thoigiandkhpdot2) đợt 2 của học kì này là khi nào
-- bao giờ [đăng ký học phần](thoigiandkhpdot2:dkhp) đợt 2
-- bao giờ [dkhp](thoigiandkhpdot2) đợt 2
-- hết đợt [đăng ký học phần](thoigiandkhpdot2:dkhp) đợt 2 chưa ạ
-- hết đợt [dkhp](thoigiandkhpdot2) đợt 2 chưa ạ
-- bao lâu mới hết [đăng ký học phần](thoigiandkhpdot2:dkhp) đợt 2
-- bao lâu mới hết [dkhp](thoigiandkhpdot2) đợt 2
-
-## intent: thoigianhuyhpdot1
-- ad ơi, cho em hỏi thời gian [hủy học phần](thoigianhuyhpdot1:huyhp) đợt 1 là khi nào ạ
-- ad ơi, cho em hỏi thời gian [huyhp](thoigianhuyhpdot1) đợt 1 là khi nào ạ
-- cho em hỏi thời gian [hủy học phần](thoigianhuyhpdot1:huyhp) đợt 01 là khi nào ạ
-- cho em hỏi thời gian [huyhp](thoigianhuyhpdot1) đợt 1 là khi nào ạ
-- thời gian [hủy học phần](thoigianhuyhpdot1:huyhp) đợt 1 của học kì này là khi nào
-- thời gian [huyhp](thoigianhuyhpdot1) đợt 1 của học kì này là khi nào
-- bao giờ [hủy học phần](thoigianhuyhpdot1:huyhp) đợt 1
-- bao giờ [huyhp](thoigianhuyhpdot1) đợt 1
-- hết đợt [hủy học phần](thoigianhuyhpdot1:huyhp) đợt 1 chưa ạ
-- hết đợt [huyhp](thoigianhuyhpdot1) đợt 1 chưa ạ
-- bao lâu mới hết [hủy học phần](thoigianhuyhpdot1:huyhp) đợt 1
-- bao lâu mới hết [huyhp](thoigianhuyhpdot1) đợt 1
-
-## intent: thoigianhuyhpdot2
-- ad ơi, cho em hỏi thời gian [hủy học phần](thoigianhuyhpdot2:huyhp) đợt 1 là khi nào ạ
-- ad ơi, cho em hỏi thời gian [huyhp](thoigianhuyhpdot2) đợt 1 là khi nào ạ
-- cho em hỏi thời gian [hủy học phần](thoigianhuyhpdot2:huyhp) đợt 01 là khi nào ạ
-- cho em hỏi thời gian [huyhp](thoigianhuyhpdot2) đợt 1 là khi nào ạ
-- thời gian [hủy học phần](thoigianhuyhpdot2:huyhp) đợt 1 của học kì này là khi nào
-- thời gian [huyhp](thoigianhuyhpdot2) đợt 1 của học kì này là khi nào
-- bao giờ [hủy học phần](thoigianhuyhpdot2:huyhp) đợt 1
-- bao giờ [huyhp](thoigianhuyhpdot2) đợt 1
-- hết đợt [hủy học phần](thoigianhuyhpdot2:huyhp) đợt 1 chưa ạ
-- hết đợt [huyhp](thoigianhuyhpdot2) đợt 1 chưa ạ
-- bao lâu mới hết [hủy học phần](thoigianhuyhpdot2:huyhp) đợt 1
-- bao lâu mới hết [huyhp](thoigianhuyhpdot2) đợt 1
