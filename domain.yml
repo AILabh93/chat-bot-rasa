@@ -33,11 +33,10 @@ intents:
  - daitra
  - trituenhantao
  - cnttkhacdientu
-
-# code từ đây 
  - cuocthi
  - thoigiandkhpdot1
  - thoigiandkhpdot1
+ - thoigiandkhpdot2
  - thoigianhuyhpdot1
  - thoigianhuyhpdot2
  - nu
@@ -348,15 +347,15 @@ Làm việc ở bộ phận công nghệ thông tin hoặc cần ứng dụng c�
  utter_khdl_thuctap:
   - text: "Theo học khoa học dữ liệu sinh viên có thể đi thực tập từ năm 4, cũng có thể sớm hơn so với tiến trình học tập nếu bạn học đủ 100 tín chỉ. Có thể thực tập ở các công ty như Viện nghiên cứu và phát triển Viettel, FSoft-Công ty cổ phần viễn thông FPT,..."
  utter_khmt_hocphi:
-  - text: "Học phí của ngành khoa học máy tính không chênh lệch nhiều so với các ngành trong khối ngành công nghệ, sinh viên ngành khoa học máy tính của IUH sẽ phải học 146 tín chỉ, tính từ năm 2019 học phí của trường IUH dối với ngành khoa học máy tính là 550000đ/1 tín chỉ" đối với hệ đại trà và 900000đ/1 tín chỉ đối với hệ chất lượng cao và học phí sẽ tăng 20% mỗi năm, thêm vào đó nhà trường cũng có các các chính sách miễn, giảm học phí đối với các sinh viên thuộc diện miễn giảm học phí theo qui định của Bộ giáo dục và Đào tạo."
+  - text: "Học phí của ngành khoa học máy tính không chênh lệch nhiều so với các ngành trong khối ngành công nghệ, sinh viên ngành khoa học máy tính của IUH sẽ phải học 146 tín chỉ, tính từ năm 2019 học phí của trường IUH dối với ngành khoa học máy tính là 550000đ/1 tín chỉ đối với hệ đại trà và 900000đ/1 tín chỉ đối với hệ chất lượng cao và học phí sẽ tăng 20% mỗi năm, thêm vào đó nhà trường cũng có các các chính sách miễn, giảm học phí đối với các sinh viên thuộc diện miễn giảm học phí theo qui định của Bộ giáo dục và Đào tạo."
  utter_ktpm_hocphi:
-  - text: "Học phí của ngành kỹ thuật phần mềm không chênh lệch nhiều so với các ngành trong khối ngành công nghệ, sinh viên kỹ thuật phần mềm của IUH sẽ phải học 146 tín chỉ, tính từ năm 2019 học phí của trường IUH dối với ngành kỹ thuật phần mềm là 550000đ/1 tín chỉ" đối với hệ đại trà và 900000đ/1 tín chỉ đối với hệ chất lượng cao và học phí sẽ tăng 20% mỗi năm, thêm vào đó nhà trường cũng có các các chính sách miễn, giảm học phí đối với các sinh viên thuộc diện miễn giảm học phí theo qui định của Bộ giáo dục và Đào tạo."
+  - text: "Học phí của ngành kỹ thuật phần mềm không chênh lệch nhiều so với các ngành trong khối ngành công nghệ, sinh viên kỹ thuật phần mềm của IUH sẽ phải học 146 tín chỉ, tính từ năm 2019 học phí của trường IUH dối với ngành kỹ thuật phần mềm là 550000đ/1 tín chỉ đối với hệ đại trà và 900000đ/1 tín chỉ đối với hệ chất lượng cao và học phí sẽ tăng 20% mỗi năm, thêm vào đó nhà trường cũng có các các chính sách miễn, giảm học phí đối với các sinh viên thuộc diện miễn giảm học phí theo qui định của Bộ giáo dục và Đào tạo."
  utter_cntt_hocphi:
-  - text: "Học phí của ngành công nghệ thông tin không chênh lệch nhiều so với các ngành trong khối ngành công nghệ, sinh viên ngành công nghệ thông tin của IUH sẽ phải học 146 tín chỉ, tính từ năm 2019 học phí của trường IUH dối với ngành công nghệ thông tin là 550000đ/1 tín chỉ" đối với hệ đại trà và 900000đ/1 tín chỉ đối với hệ chất lượng cao và học phí sẽ tăng 20% mỗi năm, thêm vào đó nhà trường cũng có các các chính sách miễn, giảm học phí đối với các sinh viên thuộc diện miễn giảm học phí theo qui định của Bộ giáo dục và Đào tạo."
+  - text: "Học phí của ngành công nghệ thông tin không chênh lệch nhiều so với các ngành trong khối ngành công nghệ, sinh viên ngành công nghệ thông tin của IUH sẽ phải học 146 tín chỉ, tính từ năm 2019 học phí của trường IUH dối với ngành công nghệ thông tin là 550000đ/1 tín chỉ đối với hệ đại trà và 900000đ/1 tín chỉ đối với hệ chất lượng cao và học phí sẽ tăng 20% mỗi năm, thêm vào đó nhà trường cũng có các các chính sách miễn, giảm học phí đối với các sinh viên thuộc diện miễn giảm học phí theo qui định của Bộ giáo dục và Đào tạo."
  utter_httt_hocphi:
-  - text: "Học phí của ngành hệ thống thông tin không chênh lệch nhiều so với các ngành trong khối ngành công nghệ, sinh viên ngành hệ thống thông tin của IUH sẽ phải học 146 tín chỉ, tính từ năm 2019 học phí của trường IUH dối với ngành hệ thống thông tin là 550000đ/1 tín chỉ" đối với hệ đại trà và 900000đ/1 tín chỉ đối với hệ chất lượng cao và học phí sẽ tăng 20% mỗi năm, thêm vào đó nhà trường cũng có các các chính sách miễn, giảm học phí đối với các sinh viên thuộc diện miễn giảm học phí theo qui định của Bộ giáo dục và Đào tạo."
+  - text: "Học phí của ngành hệ thống thông tin không chênh lệch nhiều so với các ngành trong khối ngành công nghệ, sinh viên ngành hệ thống thông tin của IUH sẽ phải học 146 tín chỉ, tính từ năm 2019 học phí của trường IUH dối với ngành hệ thống thông tin là 550000đ/1 tín chỉ đối với hệ đại trà và 900000đ/1 tín chỉ đối với hệ chất lượng cao và học phí sẽ tăng 20% mỗi năm, thêm vào đó nhà trường cũng có các các chính sách miễn, giảm học phí đối với các sinh viên thuộc diện miễn giảm học phí theo qui định của Bộ giáo dục và Đào tạo."
  utter_khdl_hocphi:
-  - text: "Học phí của ngành khoa học dữ liệu không chênh lệch nhiều so với các ngành trong khối ngành công nghệ, sinh viên ngành khoa học dữ liệu của IUH sẽ phải học 146 tín chỉ, tính từ năm 2019 học phí của trường IUH dối với ngành khoa học dữ liệu là 550000đ/1 tín chỉ" đối với hệ đại trà và 900000đ/1 tín chỉ đối với hệ chất lượng cao và học phí sẽ tăng 20% mỗi năm, thêm vào đó nhà trường cũng có các các chính sách miễn, giảm học phí đối với các sinh viên thuộc diện miễn giảm học phí theo qui định của Bộ giáo dục và Đào tạo."
+  - text: "Học phí của ngành khoa học dữ liệu không chênh lệch nhiều so với các ngành trong khối ngành công nghệ, sinh viên ngành khoa học dữ liệu của IUH sẽ phải học 146 tín chỉ, tính từ năm 2019 học phí của trường IUH dối với ngành khoa học dữ liệu là 550000đ/1 tín chỉ đối với hệ đại trà và 900000đ/1 tín chỉ đối với hệ chất lượng cao và học phí sẽ tăng 20% mỗi năm, thêm vào đó nhà trường cũng có các các chính sách miễn, giảm học phí đối với các sinh viên thuộc diện miễn giảm học phí theo qui định của Bộ giáo dục và Đào tạo."
  utter_khmt_chatluongcao:
   - text: "Ngành khoa học máy tính có hệ chất lượng cao, khi học chất lượng cao thì có môi trường học tập tiếp xúc tiếng anh nhiều hơn và hiệu quả hơn hệ đại trà."
  utter_ktpm_chatluongcao:
@@ -698,6 +697,7 @@ entities:
   - tinchicntt
   - tinchihttt
 
+
 actions:
  - utter_chaohoi
  - utter_bye
@@ -731,10 +731,8 @@ actions:
  - utter_respond_insult
  - action_unknown
  - action_but
- - action_thoigiandkhpdot1
- - action_thoigiandkhpdot2
- - action_thoigianhuyhpdot1
- - action_thoigianhuyhpdot2
+ 
+ 
  - action_nu
  - action_diemso
  - action_chatluonggiaovien
@@ -761,6 +759,10 @@ actions:
  - utter_cnttkhacdientu
  - utter_trituenhantao
  - utter_cuocthi
+ - utter_thoigiandkhpdot1
+ - utter_thoigiandkhpdot2
+ - utter_thoigianhuyhpdot1
+ - utter_thoigianhuyhpdot2
 
 
 session_config:

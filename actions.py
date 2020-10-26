@@ -275,42 +275,7 @@ class action_laptrinh(Action):
 
 
 # code
-class action_thoigiandkhpdot1(Action):
-    def name(self):
-        return "action_thoigiandkhpdot1"
 
-    def run(self, dispatcher, tracker, domain):
-        dispatcher.utter_message(template='utter_thoigiandkhpdot1')
-        return []
-
-
-class action_thoigiandkhpdot2(Action):
-    def name(self):
-        return "action_thoigiandkhpdot2"
-
-    def run(self, dispatcher, tracker, domain):
-        dispatcher.utter_message(template='utter_thoigiandkhpdot2')
-        return []
-
-
-class action_thoigianhuyhpdot1(Action):
-    def name(self):
-        return "action_thoigianhuyhpdot1"
-
-    def run(self, dispatcher, tracker, domain):
-        dispatcher.utter_message(template='utter_thoigianhuyhpdot1')
-        return []
-
-
-
-
-class action_thoigianhuyhpdot2(Action):
-    def name(self):
-        return "action_thoigianhuyhpdot2"
-
-    def run(self, dispatcher, tracker, domain):
-        dispatcher.utter_message(template='utter_thoigianhuyhpdot2')
-        return []
 
 
 class action_nu(Action):

@@ -437,7 +437,7 @@
 * tuvan
   - action_tuvan
 * thoigiandkhpdot1
-  - action_thoigiandkhpdot1
+  - utter_thoigiandkhpdot1
 * thoigianhuyhpdot1
   - action_thoigianhuyhpdot1
 * bye
@@ -447,9 +447,11 @@
 * tuvan
   - action_tuvan
 * thoigiandkhpdot2
-  - action_thoigiandkhpdot2
+  - utter_thoigiandkhpdot2
+* thoigianhuyhpdot1
+  - utter_thoigianhuyhpdot1
 * thoigianhuyhpdot2
-  - action_thoigianhuyhpdot2
+  - utter_thoigianhuyhpdot2
 * bye
   - utter_bye
 
