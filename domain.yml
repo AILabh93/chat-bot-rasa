@@ -69,7 +69,7 @@ responses:
  utter_chaohoi:
   - text: "Chào bạn đã gửi tin nhắn đến mình. bạn có điều gì muốn hỏi, mình sẽ giải đáp hết cho bạn."
  utter_thank:
-  - text: "Không có chi. ^_^"
+  - text: "Không có chi. <3"
  utter_bye:
   - text: "Tạm biệt hẹn gặp lại."
  utter_tuvan_khoacntt:
