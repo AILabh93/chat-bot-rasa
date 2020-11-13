@@ -539,7 +539,7 @@
 * trituenhantao
   - utter_trituenhantao
 * thank
-  - uuter_thank
+  - utter_thank
 * bye
   - utter_bye
 
