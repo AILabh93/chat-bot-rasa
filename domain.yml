@@ -561,7 +561,7 @@ responses:
       text: "Khoa học dữ liệu là quá trình tạo ra và quản trị dữ liệu, phân tích dữ liệu và chuyển kết quả phân tích thành giá trị của hành động. Sinh viên nên tập trung học những kiến thức nền tảng rồi nâng cao để trang bị cho mình một khối kiến thức vững chắc về ngành khoa học dữ liệu để có thể rút ra được kinh nghiệm cho tương lai."
   utter_khdl_canhtranh: 
     - 
-      text: " Tỉ lệ cạnh tranh trong ngành khoa học dữ liệu là rất thấp bởi vì là ngành tương đối mới và đang khát nguồn nhân lực chất lượng cao để đáp ứng nhu cầu của thị trường."
+      text: "Tỉ lệ cạnh tranh trong ngành khoa học dữ liệu là rất thấp bởi vì là ngành tương đối mới và đang khát nguồn nhân lực chất lượng cao để đáp ứng nhu cầu của thị trường."
   utter_khdl_chatluongcao: 
     - 
       text: "Ngành khoa học dữ liệu có hệ chất lượng cao, chương trình giảng dạy chất lượng hướng đến đầu ra của sinh viên, với một lớp học phần thì có lượng sinh viên ít nên giảng viên dễ dàng trao đổi và trau dồi kiến thức cho sinh viên hơn."
