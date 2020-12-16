@@ -18,18 +18,16 @@ import lxml
 import bs4
 import gc
 
-listcn = ['khmt']
 
+def predict_monhoc(text):
+    return 'khmt'
 
 class action_luong(Action):
     def name(self):
         return 'action_luong'
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
         dispatcher.utter_message(template='utter_'+mon_hoc+'_luong')
         if mon_hoc == 'khdl':
             dispatcher.utter_message(image=str(
@@ -99,7 +97,6 @@ class action_unknown(Action):
     def run(self, dispatcher, tracker, domain):
         dispatcher.utter_message(text='Xin lỗi mình chưa hiểu ý bạn')
         but = createButton()
-
         dispatcher.utter_message(
             text="Bạn có thể chọn các chuyên ngành sau", buttons=but)
 
@@ -111,8 +108,7 @@ class action_tuvan(Action):
         return "action_tuvan"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = tracker.latest_message['entities'][0]['value']
-        listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
         dispatcher.utter_message(template='utter_tuvan_'+mon_hoc)
         return []
 
@@ -122,11 +118,7 @@ class action_vieclam(Action):
         return "action_vieclam"
 
     def run(self, dispatcher, tracker, domain):
-        print(listcn[-1])
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
         dispatcher.utter_message(template='utter_'+mon_hoc+'_vieclam')
         return []
 
@@ -136,10 +128,7 @@ class action_tilesvratruong(Action):
         return "action_tilesvratruong"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
         dispatcher.utter_message(template='utter_'+mon_hoc+'_tilesvratruong')
         return []
 
@@ -149,10 +138,7 @@ class action_canhtranh(Action):
         return "action_canhtranh"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
         dispatcher.utter_message(template='utter_'+mon_hoc+'_canhtranh')
         return []
 
@@ -162,10 +148,7 @@ class action_tailieu(Action):
         return "action_tailieu"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
         dispatcher.utter_message(template='utter_'+mon_hoc+'_tailieu')
         return []
 
@@ -175,10 +158,7 @@ class action_dinhhuongsai(Action):
         return "action_dinhhuongsai"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
         dispatcher.utter_message(template='utter_'+mon_hoc+'_dinhhuongsai')
         return []
 
@@ -188,10 +168,7 @@ class action_ungdung(Action):
         return "action_ungdung"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
         dispatcher.utter_message(template='utter_'+mon_hoc+'_ungdung')
         return []
 
@@ -201,10 +178,8 @@ class action_linhvuc(Action):
         return "action_linhvuc"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_linhvuc')
         return []
 
@@ -214,10 +189,8 @@ class action_monhoc(Action):
         return "action_monhoc"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_khmt_'+mon_hoc)
         return []
 
@@ -227,10 +200,8 @@ class action_kienthuccancokhiratruong(Action):
         return "action_kienthuccancokhiratruong"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_khmt_'+mon_hoc)
         return []
 
@@ -240,10 +211,8 @@ class action_giangvien(Action):
         return "action_giangvien"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_giangvien')
         return []
 
@@ -253,10 +222,8 @@ class action_ngonngu(Action):
         return "action_ngonngu"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_ngonngu')
         return []
 
@@ -266,10 +233,8 @@ class action_laptrinh(Action):
         return "action_laptrinh"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_laptrinh')
         return []
 
@@ -283,10 +248,8 @@ class action_nu(Action):
         return "action_nu"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_nu')
         return []
 
@@ -296,10 +259,8 @@ class action_diemso(Action):
         return "action_diemso"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_diemso')
         return []
 
@@ -309,10 +270,8 @@ class action_chatluonggiaovien(Action):
         return "action_chatluonggiaovien"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(
             template='utter_'+mon_hoc+'_chatluonggiaovien')
         return []
@@ -323,10 +282,8 @@ class action_baitaplon(Action):
         return "action_baitaplon"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_baitaplon')
         return []
 
@@ -336,10 +293,8 @@ class action_yeucau_tienganh(Action):
         return "action_yeucau_tienganh"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_yeucau_tienganh')
         return []
 
@@ -349,10 +304,8 @@ class action_tinhcach(Action):
         return "action_tinhcach"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_tinhcach')
         return []
 
@@ -362,10 +315,8 @@ class action_thuctap(Action):
         return "action_thuctap"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_thuctap')
         return []
 
@@ -375,10 +326,8 @@ class action_hocphi(Action):
         return "action_hocphi"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_hocphi')
         return []
 
@@ -388,10 +337,8 @@ class action_chatluongcao(Action):
         return "action_chatluongcao"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_chatluongcao')
         return []
 
@@ -401,10 +348,8 @@ class action_lotrinhhoc(Action):
         return "action_lotrinhhoc"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_lotrinhhoc')
         return []
 
@@ -414,10 +359,8 @@ class action_dungcuhoctap(Action):
         return "action_dungcuhoctap"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_dungcuhoctap')
         return []
 
@@ -427,10 +370,8 @@ class action_xuhuong(Action):
         return "action_xuhuong"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_xuhuong')
         return []
 
@@ -440,10 +381,8 @@ class action_cachhoc(Action):
         return "action_cachhoc"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_cachhoc')
         return []
 
@@ -453,10 +392,8 @@ class action_phongvan(Action):
         return "action_phongvan"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_phongvan')
         return []
 
@@ -466,10 +403,8 @@ class action_kienthuc(Action):
         return "action_kienthuc"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_kienthuc')
         return []
 
@@ -479,10 +414,8 @@ class action_yeucau(Action):
         return "action_yeucau"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_yeucau')
         return []
 
@@ -492,10 +425,8 @@ class action_thuchanh(Action):
         return "action_thuchanh"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_thuchanh')
         return []
 
@@ -505,10 +436,8 @@ class action_daotao(Action):
         return "action_daotao"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_daotao')
         return []
 
@@ -518,10 +447,8 @@ class action_kynang(Action):
         return "action_kynang"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
+
         dispatcher.utter_message(template='utter_'+mon_hoc+'_kynang')
         return []
 
@@ -531,10 +458,7 @@ class action_doantotnghiep(Action):
         return "action_doantotnghiep"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
         dispatcher.utter_message(template='utter_'+mon_hoc+'_doantotnghiep')
         return []
 
@@ -544,10 +468,7 @@ class action_tinchi(Action):
         return "action_tinchi"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
         dispatcher.utter_message(template='utter_'+mon_hoc+'_tinchi')
         return []
 
@@ -556,9 +477,6 @@ class action_thuctapdoanhnghiep(Action):
         return "action_thuctapdoanhnghiep"
 
     def run(self, dispatcher, tracker, domain):
-        mon_hoc = listcn[-1]
-        if len(tracker.latest_message['entities']) > 0:
-            mon_hoc = tracker.latest_message['entities'][0]['value']
-            listcn.append(mon_hoc)
+        mon_hoc = predict_monhoc(tracker.latest_message['text'])
         dispatcher.utter_message(template='utter_'+mon_hoc+'_thuctapdoanhnghiep')
         return []
